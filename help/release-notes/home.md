@@ -9,19 +9,19 @@ seo-description: null
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
+## Enhancements and fixes in PTAI 20.8.1
+
+The release focused on maintenance updates.
+
+For more information about the current released version of Dynamic Ad Insertion, see [PTAI release notes](ptai-20x-release-notes.md).
+
 ## Fixes in TVSDK 3.12 Android
 
 The release focused on updating Primetime Reference application’s gradle version to version 5.6.4.
 
 Check out for more information about the current released version for [Android](../release-notes/tvsdk-3x-android.md).
 
-## Enhancements and Fixes in PTAI 20.7.1
-
-The release focused on SCTE35 enhancement, addition of more information in X-ADBE-AI-X1 HTTP response headers, improved metrics aggregation, and "Session Stats" panel.
-
-For more information about the current released version of Dynamic Ad Insertion, see [PTAI release notes](ptai-20x-release-notes.md).
-
-## Enhancements and Fixes in TVSDK 3.12 iOS Release Notes
+## Enhancements and fixes in TVSDK 3.12 iOS Release Notes
 
 The release focused on resolving top customer issues.
 

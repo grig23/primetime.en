@@ -1,13 +1,23 @@
 ---
-title:  PTAI 20.7.1 release notes
-description: PTAI 20.7.1 release notes describe what is new or changed, the resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
+title:  PTAI 20.8.1 release notes
+description: PTAI 20.8.1 release notes describe what is new or changed, the resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
 ---
 
-# Primetime Dynamic Ad Insertion 20.7.1 Release Notes
+# Primetime Dynamic Ad Insertion 20.8.1 Release Notes
 
-Dynamic Ad Insertion 20.7.1 release notes describe what is new or changed, issues resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
+Dynamic Ad Insertion 20.8.1 release notes describe what is new or changed, issues resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
 
-## What's new in PTAI 20.7.1
+## What's new in PTAI 20.8.1
+
+**When:** Tuesday, August 4, 2020 from 3:00 AM to 6:00 AM Eastern Time
+
+**Enhancements and fixes**
+
+Maintenance updates.
+
+### Enhancements and fixes in previous release versions
+
+#### Version 20.7.1
 
 **When:** Thursday, July 9, 2020 from 03:00 AM to 05:00 AM Eastern Time
 
@@ -19,9 +29,7 @@ Dynamic Ad Insertion 20.7.1 release notes describe what is new or changed, issue
 
 * Enhanced metrics aggregation.
 
-* Enhanced SSAI Console Dashboard for Session Stats panel.
-
-### Enhancements and fixes in previous release versions
+* Enhanced SSAI Console Dashboard for Session Stats panel
 
 #### Version 20.6.2
 
