@@ -10,7 +10,7 @@ Specifies the AIR/iOS applications that can play content. Specify the AIR/iOS ap
 
 Example use case: Use this rule to limit playback to a particular AIR/iOS application, or to control which version can access the content. 
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >If you are using Adobe Flash Builder to build protected applications, make sure that you do not deploy the application in ‘Debug' mode. When deploying an application in ‘Debug' mode, the Flash Builder will append “.debug” to the AIR application ID. This will cause the allow list functionality in Adobe Access to behave unexpectedly.
 

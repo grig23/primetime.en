@@ -8,7 +8,7 @@ uuid: dbd9ce92-c829-4cad-9ac4-c57bd4f70345
 
 This packaging option specifies whether all frames, or only a subset of frames, should be encrypted. There are three levels of encryption: low, medium and high.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Partial encryption applies to the video track in F4V/MP4 files only.
 

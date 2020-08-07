@@ -12,7 +12,7 @@ If you want to embed a license, you need to obtain an instance of `com.adobe.fla
 
 See `com.adobe.flashaccess.samples.licenseembedder.EmbedLicense` in the Reference Implementation Command Line Tools [!DNL Samples] directory for sample code that demonstrates embedded licenses.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >An Adobe Primetime DRM 2.0 client ignores any licenses that are embedded in the content and then attempts to obtain a license from the license server that is specified in the metadata. However, if the metadata indicates that no license server is available, a Primetime DRM 2.0 client needs to be upgraded before you can view the content.
 

@@ -10,7 +10,7 @@ To update an existing policy, choose the filename from the drop down list and cl
 
 When done, click **[!UICONTROL Save]**. The policy file in the [!DNL Resource] Directory will be replaced with the updated version.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Even if the policy name is changed, the name of the file in the [!DNL Resource] Directory will not be modified.
 

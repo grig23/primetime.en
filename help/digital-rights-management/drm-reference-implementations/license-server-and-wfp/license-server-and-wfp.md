@@ -25,7 +25,7 @@ After you install Tomcat and MySQL, contact Adobe for your set of required DRM c
 
 ## Build the license server {#build-the-license-server}
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Building the license server is only necessary if you intend to modify the source code. For evaluation purposes, you can simply use the WAR files as shipped.
 

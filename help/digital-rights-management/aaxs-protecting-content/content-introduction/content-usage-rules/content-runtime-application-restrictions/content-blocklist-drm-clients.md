@@ -25,7 +25,7 @@ A DRM client version may be identified by the attributes specified in the follow
 |  OEM Vendor  | OEM Vendor string  | Exact Match  | OEM Vendor identification string for the device using the porting kit.  |
 |  Model  | Model string. For example, "iOS_Mobile", "Android_Mobile", "Chrome", "ChromeOS_ARM", "WindowsOnARM", "AVE"  | Exact Match  | Device model identification string for the device using the porting kit.  |
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >When specifying an entry in the block list, values may be set for one or more of the attributes mentioned in the previous table. Any attribute that is not specified is treated as a wildcard. If the DRM client matches all the values specified in a block list entry, protected content may not be accessed by that client.
 

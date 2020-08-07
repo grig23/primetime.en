@@ -10,13 +10,13 @@ The Primetime DRM SDK supports different ways to store credentials, including us
 
 You must closely guard private keys to ensure the security of your content and License Server. PKCS12 is a standard archive file format for storing credentials that have been encrypted with a password. (You can also encrypt and sign the PKCS12 file itself.) The file extension [!DNL .pfx] is commonly used for files that support this format. 
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Adobe recommends that you use an HSM for maximum security. 
 >
 >See the *Adobe Primetime DRM Secure Deployment Guidelines* guide.
 
->[!NOTE] {importance="high"}
+>[!NOTE]
 >
 >As of Java 1.7, 64-bit Sun Java for Windows no longer supports the PKCS11 interfaces that Primetime DRM requires for communicatation with HSM devices. If you plan to use an HSM, you need to use a 32-bit version of Java, or use a JDK that supports the full PKCS11 interfaces.
 

@@ -12,7 +12,7 @@ The base class used to handle single request/response interaction is `com.adobe.
 
 If the request is successful, set the response data; otherwise invoke `RequestMessageBase.setErrorData()` on failure. Always end the implementation by invoking the `close()` method (it is recommended that `close()` be called in the `finally` block of a `try` statement). See the `MessageHandlerBase` API reference documentation for an example of how to invoke the handler.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >HTTP status code 200 (OK) should be sent in response to all requests processed by the handler. If the handler could not be created due to a server error, the server may respond with another status code, such as 500 (Internal Server Error).
 

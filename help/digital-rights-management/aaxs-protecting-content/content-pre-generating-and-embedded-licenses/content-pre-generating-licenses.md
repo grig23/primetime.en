@@ -12,7 +12,7 @@ When generating a Leaf license, the content metadata must be specified using `in
 
 When generating a Root license, the content metadata may be specified as described above. Alternatively, a Root license can be generated using a policy ( `setSelectedPolicy()`) and license server URL ( `setLicenseServerURL()`) instead of the metadata.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >A License Server URL is required even if there is no Adobe Access License Server from which the clients can request a license. In this case, the License Server URL should specify a URL identifying the license issuer.
 

@@ -14,7 +14,7 @@ When a file is encrypted, its contents cannot be parsed without the appropriate 
 
 It is possible for a given piece of content to have multiple policies. This could be useful, for example, if you would like to license content under different business models without having to package the content multiple times. For example, you could allow anonymous access for a short period of time, and after that allow the customer to buy the content and have unlimited access. If content is packaged using multiple policies, the License Server must implement logic for selecting which policy to use to issue a license.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The architecture allows for usage policies to be specified and bound to content when the content is packaged. Before a client can play back content, the client must acquire a license for that computer. The license specifies the usage rules that are enforced and provides the key used to decrypt the content. The policy is a template for generating the license, but the license server may choose to override the usage rules when issuing the license. Note that the license may be rendered invalid by such constraints as expiration times or playback windows.
 

@@ -158,7 +158,7 @@ You can implement Apple FairPlay Streaming, which is Apple's DRM solution, in yo
 
    The `resourceLoader:shouldWaitForLoadingOfRequestedResource` method is equivalent to what is in `AVAssetResourceLoaderDelegate`.
 
-   >[!IMPORTANT] {importance="high"}
+   >[!IMPORTANT]
    >
    >In the ExpressPlay license server scenario, to play back content, change the URL scheme in your ExpressPlay FairPlay server license request URL from `skd://` to `https://` (or `https://`).
 

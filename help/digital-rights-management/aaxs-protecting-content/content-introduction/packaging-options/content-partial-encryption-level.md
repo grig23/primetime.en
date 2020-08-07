@@ -8,7 +8,7 @@ uuid: 462ca2d0-0d37-43a8-b8a0-8a25ecf73ce1
 
 Specifies whether all frames, or only a subset of frames, should be encrypted. There are three levels of encryption: low, medium and high.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >For video track in F4V/H.264 files only.
 

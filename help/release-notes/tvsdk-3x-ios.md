@@ -184,7 +184,9 @@ In the `PTSDKConfig` class, the forceHTTPS API has been added.
 
 The `PTSDKConfig` class provides methods to enforce SSL on requests made to Adobe Primetime ad decisioning, DRM, and Video Analytics servers. For more information, see the `forceHTTPS` and `isForcingHTTPS` methods on this class. If a manifest is loaded over HTTPS, TVSDK preserves the content use of HTTPS and respects this usage when loading any relative URLs from that manifest.
 
->[!NOTE] Requests to third-party domains such as Ad Tracking pixels, Content and Ad URLs, and similar requests are not modified, and it is the responsibility of the content providers and ad servers to provide URLs that are supported through HTTPS.
+>[!NOTE]
+>
+>Requests to third-party domains such as Ad Tracking pixels, Content and Ad URLs, and similar requests are not modified, and it is the responsibility of the content providers and ad servers to provide URLs that are supported through HTTPS.
 
 **Version 1.4.18**
 
@@ -218,7 +220,9 @@ Primetime iOS TVSDK now supports VPAID 2.0 Javascript creatives to enable a rich
 
 **Version 1.4.13**
 
->[!NOTE] The Nielsen module has been removed from the TVSDK build, the  TVSDK  will be updated in the near future with a new Nielsen integration module.
+>[!NOTE]
+>
+>The Nielsen module has been removed from the TVSDK build, the  TVSDK  will be updated in the near future with a new Nielsen integration module.
 
 **Ad Fallback, Daisy chaining in ad selection logic (Zendesk #3103)**
 

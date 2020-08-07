@@ -15,7 +15,7 @@ Use of an HSM is not required, but it is recommended. The reference implementati
 
 If you see your credentials in the list, the HSM is configured properly.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >As of Java 1.7, 64-bit Sun Java for Windows does not support the PKCS11 interfaces that Adobe Access DRM requires in order to communicate with HSM devices. If you plan to use an HSM, please use a 32-bit version of Java, or use a JDK that supports the full PKCS11 interfaces.
 

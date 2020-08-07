@@ -138,10 +138,11 @@ public TextFormatBuilder(
  int backgroundOpacity,
  int fillOpacity,
  String bottomInset)
- ```
+```
 
- [!TIP]
- In options that define default values (for example, DEFAULT), that value refers to what the setting was when the caption was originally specified.
+>[!TIP]
+>
+>In options that define default values (for example, DEFAULT), that value refers to what the setting was when the caption was originally specified.
 
 <table frame="all" colsep="1" rowsep="1" id="table_87205DEFEE384AF4AF83952B15E18A42"> 
  <thead> 

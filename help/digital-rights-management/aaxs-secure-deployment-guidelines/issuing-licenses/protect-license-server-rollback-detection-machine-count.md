@@ -10,7 +10,7 @@ If the business rules require that the number of machines for a user be tracked,
 
 `MachineId.matches()` performs a comparison of IDs to determine if they represent the same machine. This comparison is only practical if there is a small number of machine IDs to compare against. For example, if a user is allowed five machines within their domain, you can search the database for the machine IDs associated with the user's username and obtain a small set of data to compare against.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >This comparison is not practical for deployments allowing anonymous access. In such cases `MachineId.getUniqueID()` can be used, however, this ID will not be the same if the user accesses content from both Flash and Adobe AIR® runtimes, and will not survive if the user reformats their hard drive.
 

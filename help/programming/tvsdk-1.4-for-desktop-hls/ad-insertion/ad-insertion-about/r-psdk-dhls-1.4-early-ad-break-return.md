@@ -10,7 +10,7 @@ uuid: 984b6ed0-c929-49a3-9553-e30d1a7758ed
 
 For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
 
->[!NOTE] {othertype="Prerequisite"}
+>[!NOTE]
 >
 >You must subscribe to the splice out/in ad markers ( `#EXT-X-CUE-OUT`, `#EXT-X-CUE-IN`, and `#EXT-X-CUE`).
 

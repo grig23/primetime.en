@@ -162,4 +162,6 @@ Most warnings contain relevant metadata, for example, the URL of the resource th
  </tbody> 
 </table>
 
- >[!NOTE] adID and source (URL) can be retrieved through the PTAdAsset in the notification metadata with the `AD_ASSET` key. 
+ >[!NOTE]
+ >
+ >adID and source (URL) can be retrieved through the PTAdAsset in the notification metadata with the `AD_ASSET` key. 

@@ -39,7 +39,7 @@ TVSDK issues a `PTMediaPlayerItemDRMMetadataChanged` notification when the DRM m
 
 If the DRM-protected stream is multiple bit-rate (MBR) encoded, the DRM metadata that is used for the variant playlist should be the same as the metadata that is used in all the bit-rate streams.
 
-[!TIP] {importance="high"}
+[!TIP]
 
 When referencing DRM-protected asset URLs in your iOS app, the query string parameter `?faxs=1` must be appended to the (MBR) set-level M3U8 URL. For example:
 

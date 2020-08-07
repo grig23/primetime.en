@@ -17,7 +17,7 @@ The Adobe Access Server for Protected Streaming supports the following usage rul
 * License Caching is disabled by default. License caching can be enabled by specifying the caching end date or an amount of time caching is allowed (starting when the license is issued). 
 * Multiple Play Rights, which lets you specify different combinations of Output Protection, Application Restrictions, and DRM/Runtime Restrictions. For example, it is possible to specify different Output Protection requirements for each client platform by using the DRM Module Restriction with Output Protection.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >To support remote key delivery to iOS devices, the policy used at packaging time must have remote key delivery enabled. This setting cannot be modified through the tenant configuration on the server. ***Adobe Primetime is required to build iOS applications that can play Adobe Access-protected content.***
 

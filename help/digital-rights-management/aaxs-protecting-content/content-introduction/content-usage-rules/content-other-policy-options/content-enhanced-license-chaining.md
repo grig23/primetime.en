@@ -12,7 +12,7 @@ Adobe Access 2.0 supported license chaining in which both the leaf and root lice
 
 To enable the enhanced licence chaining, a root encryption key is assigned to the policy. The root encryption key is used to cryptographically bind the leaf license to the root license. 
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The enhanced license chaining is supported by Adobe Access clients version 3.0 and higher. If an older client requests a license for content that supports the enhanced license chaining, the license server can still issue a license to this client using license chaining supported by Adobe Access 2.0.
 

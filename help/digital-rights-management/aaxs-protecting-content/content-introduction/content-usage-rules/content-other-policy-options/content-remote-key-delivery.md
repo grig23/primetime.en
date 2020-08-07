@@ -13,7 +13,7 @@ Adobe Primetime supports two options for key delivery to iOS clients:
 
 The remote key delivery is enabled through the policy used to package content (changing this setting requires repackaging of content), When remote key delivery is enabled, an Adobe Access Key Server must be deployed to handle key requests from iOS clients, but there is no change to the workflow for clients on other platforms.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The Key delivery selection only impacts iOS clients. All other devices that consume HLS content will always use "Local" key delivery, even if "Remote" has been specified.
 

@@ -28,7 +28,7 @@ To properly prepare your credential's password:
    </i class="+ topic>
    ```
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The previous example uses a semicolon (;) as the delimiter. For platforms other than Microsoft Windows, use a colon (:) as the delimiter.
 

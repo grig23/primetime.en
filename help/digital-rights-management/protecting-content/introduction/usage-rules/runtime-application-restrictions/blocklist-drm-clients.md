@@ -25,7 +25,7 @@ A Primetime DRM client version may be identified by the attributes specified in 
 |  OEM Vendor  | OEM Vendor string that can be located in the Runtime Certificate that was issued to a customer who ported Primetime DRM to a device.  | Exact Match  | OEM Vendor identification string for the device using the porting kit.  |
 |  Model  |Model string that can be located in the Runtime Certificate that was issued to a customer who ported Primetime DRM to a device. For example, `"iOS_Mobile", "Android_Mobile", "Chrome", "ChromeOS_ARM", "WindowsOnARM", "AVE"`  | Exact Match  | Device model identification string for the device using the porting kit.  |
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >When specifying an entry in the block list, you can set values for one or more of the attributes mentioned in the previous table. Any attribute that is not specified is treated as a wildcard. If the Primetime DRM client matches all the values specified in a block list entry, protected content may not be accessed by that client.
 

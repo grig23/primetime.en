@@ -8,7 +8,7 @@ uuid: c91e5568-194e-4f20-858b-65310049901b
 
 This packaging option specifies whether script data embedded in the content is encrypted.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >This rule only applies to FLV file format. Script data is always left in the clear for files in other formats.
 

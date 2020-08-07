@@ -10,7 +10,7 @@ uuid: 314f14c0-4da4-4da6-96f9-5a5ffea22a99
 
 TVSDK supports resolving and inserting ads for VOD and live/linear streams.
 
->[!NOTE] {othertype="Prequisite"}
+>[!NOTE]
 >
 >Before you can include advertising in your video content, provide the following metadata information: 
 >

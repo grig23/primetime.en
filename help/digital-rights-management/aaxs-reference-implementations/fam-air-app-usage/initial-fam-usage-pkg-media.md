@@ -12,7 +12,7 @@ If you want to package a single FLV or F4V file, choose the **[!UICONTROL Select
 
 If you want to package all files in a folder, choose the **[!UICONTROL Select Single Folder]** option. Specify the folder containing the source files. Only files in the Input Folder matching the **[!UICONTROL Input Media File Selection]** criteria will be packaged (files in subfolders are not packaged). Choose to encrypt [!DNL .flv] files, [!DNL .f4v] files, or enter a custom regular expression (for example ".&#42;" encrypts all files in the folder). The encrypted files will be saved in the specified output folder, using the same filename as the original file.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >File paths must refer to files available to the packaging server. If you are running the Flash Access Manager on a different machine than the packaging server, you must specify a path that is accessible by the server (either located on a network drive or on the server itself).
 
