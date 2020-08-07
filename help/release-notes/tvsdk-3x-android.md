@@ -21,7 +21,6 @@ The Android reference player is included with Android TVSDK in the samples/ dire
 >
 >1. Download VideoHeartbeat.jar from [https://github.com/Adobe-Marketing-Cloud/video-heartbeat-v2/releases](https://github.com/Adobe-Marketing-Cloud/video-heartbeat-v2/releases) (VideoHeartbeat library for Android v2.0.0)
 >1. Extract VideoHeartbeat.jar into the libs/ folder.
->
 
 TVSDK for Android provides many performance improvements over previous versions. It provides a high quality viewing experience and carries all the features of version 1.4, with the exception of Multi-CDN support.
 
@@ -51,11 +50,11 @@ The release focused on fixing top customer issues as mentioned in [resolved issu
 
 * **Secure Delivery over HTTPS** - Android TVSDK 3.9 introduced the secure delivery capabilities via HTTPS to deliver content securely with unparalleled scale and performance.
 
-    To enable secure delivery over HTTPS, new API introduced in `NetworkConfiguration` class.
+  To enable secure delivery over HTTPS, new API introduced in `NetworkConfiguration` class.
 
-    `public void setForceHTTPS (boolean value)`
+  `public void setForceHTTPS (boolean value)`
 
-    `public boolean getIsForceHTTPS()`
+  `public boolean getIsForceHTTPS()`
 
 **Android TVSDK 3.8**
 
@@ -67,7 +66,7 @@ The pre-roll ad, if available, is played, and then the content plays from the li
 
 * For Widevine test content, a new API `setMediaDrmCallback` in DRMManager class is exposed to override the default implementation of MediaDrmCallback interface.
 
-    `public static void setMediaDrmCallback(MediaDrmCallback callback)`
+  `public static void setMediaDrmCallback(MediaDrmCallback callback)`
 
 * Fixed AppCrash error for not handling `MediaPlayerEvent.ITEM_UPDATED` in C++ layer (Android 64 bit).
 
@@ -137,9 +136,9 @@ The pre-roll ad, if available, is played, and then the content plays from the li
 * **Just in Time - Resolving ads closer to ad markers**
 Lazy Ad Resolving now resolves each ad break independently. Previously, ad resolution was a two-phased approach: pre-rolls were resolved prior to playback start and all mid/post roll slots combined after playback started. With this enhanced feature, each ad break is now resolved at a specific time prior to the ad cue point.
 
-> [!NOTE]
+>[!NOTE]
 >
-> Lazy Ad Resolving has now changed to be turned off by default, and explicitly needs to be enabled.
+>Lazy Ad Resolving has now changed to be turned off by default, and explicitly needs to be enabled.
 
 A new API is added to `AdvertisingMetadata::setDelayAdLoadingTolerance` to get the delayed ad loading tolerance associated with this Advertising Metadata.  
 Seeking is now allowed immediately after PREPARATION, seeking over ad breaks will result in immediate resolution before the completion of the seek.  
@@ -269,9 +268,9 @@ When TVSDK opens a connection it asks the server for a *keep-alive* connection. 
 
 * **MP4 Content Playback -** MP4 short clips do not need to be re-transcoded to play back within TVSDK.
 
-    > [!NOTE]
-    >
-    > ABR switching, trick play, ad insertion, late audio binding, and sub-segmentation are not supported for MP4 playback.
+  >[!NOTE]
+  >
+  >ABR switching, trick play, ad insertion, late audio binding, and sub-segmentation are not supported for MP4 playback.
 
 * **Trick play with adaptive bit rate (ABR) -** This feature allows TVSDK to switch between iFrame streams while in trick play mode. You can use non-iFrame profiles to do trick play at lower speeds.
 
