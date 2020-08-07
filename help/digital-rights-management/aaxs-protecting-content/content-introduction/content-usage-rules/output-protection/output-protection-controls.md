@@ -64,7 +64,7 @@ The following options/levels of enforcement are available:
  </tbody> 
 </table>
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >While these rules are consistently enforced across all platforms, currently it is only possible to securely turn on output protection on Windows platforms. On other platforms (such as Macintosh and Linux) there are no supporting operating system functions available to third party applications.
 

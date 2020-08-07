@@ -22,7 +22,9 @@ TVSDK provides out-of-the-box support for specific #EXT advertising tags. Your a
 >
 >You can subscribe to custom tags both for VOD and live/linear streams.
 
->[!LIMITATION]
+>[!NOTE]
+>
+>**Limitation**
 >
 >When HLS is played by using the `Video` tag in Safari, and not by using Flash Fallback, this feature will not be available in Safari.
 

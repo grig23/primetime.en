@@ -21,7 +21,7 @@ keytool -keystore NONE -storetype PKCS11 -providerClass sun.security.pkcs11.SunP
 
 You have configured the HSM correctly if you can view your credentials in the list.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >As of Java 1.7, 64-bit Sun Java for Windows no longer supports the PKCS#11 interfaces that Adobe Primetime DRM requires to communicate with HSM devices. If you plan to use an HSM, ensure that you use a 32-bit version of Java or use a JDK that supports the full PKCS#11 interfaces.
 

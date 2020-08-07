@@ -130,7 +130,7 @@ Your entitlement or storefront server will request a license token from the rele
     </indexterm>=<CEK> 
     &iv=<IV ID> 
     &<Any additional licensing attributes desired>"
-    ```
+   ```
 
       Sample FairPlay test token:
 

@@ -33,7 +33,7 @@ The device capabilities may be identified by the attributes specified in the fol
  </tbody> 
 </table>
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >This usage rule is supported by Adobe Access clients version 2.0.2 and higher. The behavior on older clients depends on the minimum client version supported by the license server. See, [Minimum Client Version](../../../../aaxs-protecting-content/content-setting-up-the-sdk/content-setting-up-the-dev-env.md).
 

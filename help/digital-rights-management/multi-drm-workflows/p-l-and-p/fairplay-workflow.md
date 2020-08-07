@@ -61,7 +61,7 @@ Follow these steps to enable ExpressPlay service for FairPlay content protection
    1. Key in your ASK to complete certificate generation and click **[!UICONTROL Continue]**.
    1. After you verify that you have saved your ASK, click **[!UICONTROL Generate]** to continue.
 
-      >[!NOTE] {importance="high"}
+      >[!NOTE]
       >
       >It is important that you save a copy of your ASK and store it securely. *If your ASK is compromised, you will no longer be able to protect your content with FairPlay Streaming.* Only one (1) ASK is allocated to your team. The value will not be provided again and you cannot retrieve it at a later time.
 

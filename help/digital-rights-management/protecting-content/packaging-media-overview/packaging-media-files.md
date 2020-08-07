@@ -18,7 +18,7 @@ When a file is encrypted, its contents cannot be parsed without the appropriate 
 
 A specified piece of content may have multiple DRM policies. For example, you can license content under different business models without having to package the content multiple times. Additionally, you could allow anonymous access for a short period of time and then allow the customer to buy the content to have unlimited access. If content is packaged by using multiple DRM policies, the License Server must implement logic for selecting which DRM policy must be used to issue a license.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The architecture allows for usage DRM policies to be specified and bound to content when the content is packaged. Before a client can play back content, the client must acquire a license for a specified computer. The license specifies the usage rules that are enforced and provides the key that must be used to decrypt content. The DRM policy represents a template for generating a license. However, the license server may override the usage rules when it issues a license. The license may be rendered invalid by such constraints, such as expiration times or playback windows.
 

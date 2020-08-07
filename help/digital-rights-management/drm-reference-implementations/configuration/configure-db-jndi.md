@@ -31,7 +31,7 @@ To configure the sample database by setting up the database schema and populatin
    This script is located in the `[DRM SDK DVD]\Reference Implementation\Server\Reference Implementation Server\dbscript\ dbscript\` folder.
 1. Execute the [!DNL PopulateSampleDB] script to populate the data as you did in step 2.
 
-   >[!NOTE] {class="- topic/note "}
+   >[!NOTE]
    >
    >The first time that you run the [!DNL CreateSampleDB.sql] script the following error occurs:
 

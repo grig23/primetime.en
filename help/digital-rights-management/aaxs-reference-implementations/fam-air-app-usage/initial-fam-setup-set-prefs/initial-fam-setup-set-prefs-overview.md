@@ -8,7 +8,7 @@ uuid: d1c067b1-6c2b-460e-8d00-5a5bfee0789c
 
 With the exception of the Packager Server URL, all the preferences specified below are stored in the [!DNL flashaccess-refimpl-packager.properties] file on the server. All the settings can be modified either directly in the properties file or through the AIR application. Passwords are encrypted when they are stored in the properties file on the server. Type the unencrypted password into the UI, and it will be encrypted before it is stored in the file.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >All directories and paths refer to directories on the packager server, not on the client running the AIR application.
 

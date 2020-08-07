@@ -31,7 +31,7 @@ The FairPlay license token interface provides production and test services. This
    &compressedDigitalVideoOPL=0 
    &uncompressedDigitalAudioOPL=0 
    &uncompressedDigitalVideoOPL=0
-  ```
+```
 
 * **Sample Response:**
 

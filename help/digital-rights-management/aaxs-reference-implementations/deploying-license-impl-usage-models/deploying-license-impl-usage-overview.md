@@ -19,7 +19,7 @@ To enable the usage model demo, specify the custom property `RI_UsageModelDemo=t
     java -jar AdobeMediaPackager.jar source.flv dest.flv -k RI_UsageModelDemo=true
 ```
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >If you do not activate the optional demo mode at packaging time, the license server uses the policy specified at packaging time to issue a license. If multiple policies were specified, the license server uses the first valid policy.
 

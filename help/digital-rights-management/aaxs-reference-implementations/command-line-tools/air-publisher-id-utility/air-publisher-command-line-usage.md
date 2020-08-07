@@ -25,7 +25,7 @@ java -jar AdobePublisherIDUtility.jar
 
 * `signingcert` specifies the certificate used to sign the AIR application
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >To determine the publisher ID for an iOS application, use the `-s` option and specify the certificate used to sign the iOS application. ***Adobe Primetime is required to build iOS applications that can play Access-protected content***.
 

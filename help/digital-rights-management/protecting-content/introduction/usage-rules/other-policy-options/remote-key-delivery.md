@@ -14,7 +14,7 @@ Adobe Primetime supports the following options for key delivery to iOS clients:
 
 The remote key delivery is enabled through the Primetime DRM policy that is used to package content. If you want to change this setting, you must repackage the content. If you enable remote key delivery, you must deploy a Primetime DRM Key Server that can manage key requests from iOS clients. However, there is no change to the workflow for clients on other platforms.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The Key delivery selection only impacts iOS clients. All other devices that use HLS content , such as Android and Primetime on Desktop (Flash Player), always use `Local` key delivery, even if `Remote` has been specified.
 

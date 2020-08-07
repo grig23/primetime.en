@@ -12,6 +12,6 @@ A allow list specifies the AIR, iOS, and Android applications that are allowed t
 
 Example use case: Use this rule to limit playback to a particular application, or to control the version of the application that can access content. 
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >If you use Adobe Flash Builder to build protected applications, you must make sure that you do not deploy the application in Debug mode. When you deploy an application in Debug mode, the Flash Builder appends `.debug` to the AIR application ID, which then causes the allow list functionality in Primetime DRM to behave unexpectedly.

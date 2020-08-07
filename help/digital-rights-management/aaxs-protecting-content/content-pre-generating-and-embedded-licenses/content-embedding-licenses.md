@@ -12,7 +12,7 @@ To embed a license, obtain an instance of `com.adobe.flashaccess.sdk.media.drm.c
 
 For sample code demonstrating embedded licenses, see `com.adobe.flashaccess.samples.licenseembedder.EmbedLicense` in the Reference Implementation Command Line Tools “Samples” directory.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Adobe Access 2.0 clients will ignore any licenses embedded in the content and will attempt to obtain a license from the license server specified in the metadata. However, if the metadata indicates that no license server is available, an Adobe Access 2.0 client will need to upgrade to view the content.
 

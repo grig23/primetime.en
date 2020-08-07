@@ -12,7 +12,7 @@ Primetime DRM 2.0 supports license chaining in which both the leaf and root lice
 
 If you want to enable enhanced licence chaining, then you must assign a root encryption key to a Primetime DRM policy. The root encryption key is used to cryptographically bind the leaf license to the root license. 
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Enhanced license chaining is supported by Primetime DRM clients version 3.0 or later. If an older client requests a license for content that supports the enhanced license chaining, the license server can still issue a license to this client by using the license chaining that is supported by Primetime DRM 2.0.
 

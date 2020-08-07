@@ -44,7 +44,7 @@ Thereafter follow the section: [Primetime ad server metadata](../..//tvsdk-3x-io
  */
  *
  @property (notatomic, assign) double adManifestTimeout; 
- ```
+```
 
 You can set adManifestTimeout by setting PTAdMetadata::adManifestTimeout when setting up your ad metadata.
 

@@ -8,7 +8,7 @@ uuid: d7ca8a8f-c778-41a2-b823-93fac9ab07c5
 
 The reference implementation license server includes WAR files for deploying the license server. It also includes all the license server source code and an Ant build script (Reference Implementation\Server\refimpl\build-refimpl.xml) so you can easily make changes to the code.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >This step is only needed if you want to modify the source code. For evaluation purposes, you can skip this step and use the WAR files as shipped.
 

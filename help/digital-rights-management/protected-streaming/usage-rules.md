@@ -21,7 +21,7 @@ The Primetime DRM Server for Protected Streaming supports the following usage ru
 * License Caching is disabled by default. License caching that you can enable by specifying the caching end date or an amount of time caching is allowed; it starts when the license is issued. 
 * Multiple Play Rights that let you specify different combinations of Output Protection, Application Restrictions, and DRM/Runtime Restrictions. For example, you can specify different Output Protection requirements for each client platform by using the DRM Module Restriction with Output Protection.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >If you want to support remote key delivery to iOS devices, then the DRM policy that is applied at packaging time must have remote key delivery enabled. This setting cannot be modified through the tenant configuration on the server.
 

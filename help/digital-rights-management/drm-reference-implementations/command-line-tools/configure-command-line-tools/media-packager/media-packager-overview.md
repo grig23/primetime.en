@@ -73,7 +73,7 @@ java -jar AdobePackager.jar -dm <metadatafile> [-e]
 
 * `metadatafile` is a [!DNL .metadata] file that includes DRM metadata.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >During packaging, the Media Packager can no longer generate a [!DNL .header] file by default. To generate a [!DNL .header] file, use the `-h` option during packaging.
 

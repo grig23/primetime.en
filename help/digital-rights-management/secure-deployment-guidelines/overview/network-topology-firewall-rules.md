@@ -99,7 +99,7 @@ External users can access the following URLs by using the outer firewall:
  </tbody> 
 </table>
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The internal firewall should only allow connections to the Primetime DRM license server through the reverse proxy, and only to the URLs in the table. To improve scalability, use HTTP for the connections between the reverse proxy and Primetime DRM.
 

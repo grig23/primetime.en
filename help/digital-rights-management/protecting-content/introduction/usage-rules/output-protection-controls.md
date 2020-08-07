@@ -26,7 +26,7 @@ The following options/levels of enforcement are available:
 | **No protection** — No output protection enablement is enforced for analog and digital outputs.  | YES  | YES  |
 | **No playback** — Do not allow playback to an external device for analog and digital outputs.  | YES  | YES  |
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >While these rules are consistently enforced across all platforms, you can only securely turn on output protection on Windows platforms. On other platforms, such as Macintosh and Linux, there are no supporting operating system functions available to third party applications.
 

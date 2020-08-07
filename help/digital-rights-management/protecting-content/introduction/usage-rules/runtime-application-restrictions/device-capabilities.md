@@ -35,7 +35,7 @@ The following attributes can identify the device capabilities:
  </tbody> 
 </table>
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >This usage rule is supported by Adobe Primetime DRM clients version 2.0.2 and later. The behavior on older clients depends on the minimum client version supported by the license server. 
 >

@@ -84,7 +84,7 @@ Configure your outer firewall so that it exposes only the URLs for application f
  </tbody> 
 </table>
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The internal firewall must only allow connections to be made to the Adobe Access license server through the reverse proxy, and only to the URLs listed above. To improve scalability, the connections between the reverse proxy and Adobe Access will be over HTTP.
 

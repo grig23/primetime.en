@@ -16,6 +16,6 @@ The reference implementation provides `ScrambleUtil.class`, a class that ensures
 
 The utility generates the encrypted password, which you must copy to the [!DNL flashaccess-refimpl.properties] file. 
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Passwords that have been encoded with the `ScrambleUtil.class` that has been provided with the reference implementation do not work with the Primetime DRM Server for Protected Streaming.

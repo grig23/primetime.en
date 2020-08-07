@@ -16,7 +16,7 @@ The synchronization behavior is defined using the following parameters:
 * **Hard Stop Interval** - (Optional). Disallow playback if a successful synchronization has not occurred in the specified amount of time. 
 * **Force Sync Probability** - (Optional). Probability with which the client should send a synchronize message before the next start interval.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >This usage rule is supported by Primetime DRM clients version 3.0 or later. The behavior on older clients depends on the minimum client version supported by the license server.
 

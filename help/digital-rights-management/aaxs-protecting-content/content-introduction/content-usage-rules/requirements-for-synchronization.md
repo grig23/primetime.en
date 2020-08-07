@@ -14,7 +14,7 @@ The synchronization behavior is defined using the following parameters:
 * Hard Stop Interval — (Optional). Disallow playback if a successful synchronization has not occurred in the specified amount of time. 
 * Force Sync Probability — (Optional). Probability with which the client should send a synchronize message before the next start interval.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >This usage rule is supported by Adobe Access clients version 3.0 and higher. The behavior on older clients depends on the minimum client version supported by the license server. See, [Minimum Client Version](../../../aaxs-protecting-content/content-implementing-the-license-server/content-handling-license-reqs/content-minimum-client-version.md).
 

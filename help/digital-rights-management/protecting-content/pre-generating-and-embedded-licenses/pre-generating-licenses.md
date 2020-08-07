@@ -16,7 +16,7 @@ When you generate a Leaf license, you must specify the content metadata that app
 
 When you generate a Root license, you must specify the content metadata as described above. Alternatively, you can generate a Root license by applying a DRM policy ( `setSelectedPolicy()`) and a license server URL ( `setLicenseServerURL()`) instead of metadata.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >A License Server URL is required even if there is no Adobe Primetime DRM License Server from which the clients can request a license. In this case, the License Server URL should specify a URL identifying the license issuer.
 

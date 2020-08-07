@@ -8,7 +8,7 @@ uuid: 7cf67866-5668-4ed8-a051-c00b29b7df18
 
 Specifies whether script data embedded in the content is encrypted.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >This rule only applies for FLV file format. Script data is always left in the clear for files in the F4V format.
 

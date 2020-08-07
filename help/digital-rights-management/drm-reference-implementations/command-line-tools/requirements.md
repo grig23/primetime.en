@@ -13,6 +13,6 @@ uuid: 62f6e7ef-f593-4184-b217-2d086fead733
 
   These are credentials used to encrypt and sign video files, to sign Policy Update and Revocation lists, and to pre-generate licenses.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >Because of a Java bug, any arguments that you type on the command line (such as file names, DRM policy names, or descriptions) can only use characters from your operating system's default character set.

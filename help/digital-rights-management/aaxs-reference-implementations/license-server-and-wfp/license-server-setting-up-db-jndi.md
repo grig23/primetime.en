@@ -15,7 +15,7 @@ The reference implementation license server requires a database to support the f
 
 Anonymous license acquisition does not require a database to be running.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The instructions in this section are for the Microsoft Windows platform. For other operating systems, see the documentation for your operating system or see the MySQL documentation.
 
@@ -33,7 +33,7 @@ To run the license server, you will need to install and configure MySQL 5.1.34:
 
 Next, you will need to install MySQL JDBC Driver 5.1.7. To do this, copy [!DNL mysql-connector-java-5.1.7-bin.jar] (found in the [!DNL Third Party\MySQL\Installer\5.1] folder on the DVD) to Tomcat Server lib directory: [!DNL ...\Tomcat6.0\lib].
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >MySQL JDBC Driver 5.1.7 works with Tomcat 6.0. Older versions of Tomcat are not supported.
 
@@ -49,7 +49,7 @@ Set up the sample database by setting up the database schema and populating the 
 1. Edit the script that populates sample data in the tables to include data for your testing purposes: [!DNL Reference Implementation\Server\dbscript\PopulateSampleDB.sql]. 
 1. Execute this script to populate the data as you did in Step 2.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The first time you run the [!DNL CreateSampleDB.sql] script you will receive the following error:
 

@@ -26,7 +26,7 @@ In the Reference Implementation command-tine tools, the password for the PKCS12 
 
 The packager also uses the License Server and License Server Transport certificates, and the integrity and confidentiality of this information must be protected. Only authorized entities should be permitted to use the packager. If your private keys are compromised, inform Adobe Systems Incorporated immediately so that the certificate can be revoked.
 
->[!NOTE] {class="- topic/note "}
+>[!NOTE]
 >
 >The API enables you to use the same key for multiple pieces of content. To ensure the highest level of security, you should only use this feature for multi-bit rate FMS content. Do not use the same key for multiple files that represent different content.
 
