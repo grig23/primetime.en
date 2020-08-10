@@ -49,11 +49,9 @@ Frequently asked questions about using resolution-based output protection.
 
   ```
   { 
-      "maxPixel":  
-<b>800</b>, 
+      "maxPixel": 800, 
       "pixelConstraints": [ 
-          { "pixelCount":  
-<b>532</b>, 
+          { "pixelCount": 532, 
             "digital": [{"output": "REQUIRED", "hdcp":{"major": 1,"minor": 0}}], 
             "analog": {"output": "REQUIRED"} 
           }, 
@@ -65,11 +63,9 @@ Frequently asked questions about using resolution-based output protection.
 
   ```
   { 
-      "maxPixel":  
-<b>820</b>, 
+      "maxPixel": 820, 
       "pixelConstraints": [ 
-          { "pixelCount":  
-<b>552</b>, 
+          { "pixelCount": 552, 
             "digital": [{"output": "REQUIRED", "hdcp":{"major": 1,"minor": 0}}], 
             "analog": {"output": "REQUIRED"} 
           }, 
