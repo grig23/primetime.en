@@ -14,8 +14,7 @@ Run the `ScrambleUtil.class` with Java:
 1. From the command-line, type:
 
    ```
-   java -classpath < 
-<i>[DRM SDK DVD]/SDK/adobe-flashaccess-sdk.jar</i>>;  
+   java -classpath [DRM SDK DVD]/SDK/adobe-flashaccess-sdk.jar;  
        com.adobe.flashaccess.refimpl.util.ScrambleUtil your_pfx_password
    ```
 
