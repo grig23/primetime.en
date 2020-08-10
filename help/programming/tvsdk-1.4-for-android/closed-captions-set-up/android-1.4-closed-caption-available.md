@@ -37,8 +37,7 @@ You can select a track from a list of currently available closed-caption tracks.
    for (int i = 0; i < ccTracks.size(); i++) { 
        ClosedCaptionsTrack track = ccTracks.get(i); 
        if (track.getName().equals(INITIAL_CC_TRACK)) { 
-            
-<b>mediaPlayer.getCurrentItem().selectClosedCaptionsTrack(track);</b> 
+           mediaPlayer.getCurrentItem().selectClosedCaptionsTrack(track); 
            selectedClosedCaptionsIndex = i; 
        } 
    }
