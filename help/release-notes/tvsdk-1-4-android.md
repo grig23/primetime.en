@@ -137,6 +137,7 @@ For more information, see [Ad fallback for VAST and VMAP ads](../programming/tvs
 * The interface PlaybackEventListener has a new method called onReplaceMediaPlayerItem, which you can use to listen for a new event, `ITEM_REPLACED`. This event is dispatched whenever a MediaPlayeritem instance is replaced on MediaPlayer. The client application implementing this PlaybackEventListener must implement or override this new method.
 * AdClientFactory has a new function added to  class  to register for multiple Opportunity Detectors:
 
+  ```
   public List&lt;PlacementOpportunityDetector&gt; createOpportunityDetectors(MediaPlayerItem item);
 
   For example for early ad exit feature, you need two Opportunity Detectors - one for ad insertion and another for  early  exit from  `ad`.
@@ -155,6 +156,7 @@ For more information, see [Ad fallback for VAST and VMAP ads](../programming/tvs
   }
 
   }
+  ```
 
 ## TVSDK changes for 1.4 {#tvsdk-changes}
 
@@ -162,12 +164,15 @@ For more information, see [Ad fallback for VAST and VMAP ads](../programming/tvs
 
 * AdClientFactory has a new function added to class to register for multiple Opportunity Detectors:
 
+```
 public List`<PlacementOpportunityDetector>` createOpportunityDetectors(MediaPlayerItem item);
+```
 
 For example for early ad exit feature, you need two Opportunity Detectors - one for ad insertion and another for early exit from ad.
 
 To override this new function create a single Opportunity Detector, and put into an array and return:
 
+```
 @Override
 
 public List`<PlacementOpportunityDetector>` createOpportunityDetectors(MediaPlayerItem mediaPlayerItem) {
@@ -181,6 +186,7 @@ return opportunityDetectors;
 }
 
 }
+```
 
 ## Device certification and support in 1.4 {#device-certification-and-support-in}
 

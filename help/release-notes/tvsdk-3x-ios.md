@@ -545,7 +545,7 @@ Playback issue when  # EXT-X-PLAYLIST-TYPE tag in the stream is set to Event rat
 
 Usage of Creative Id and AdSystem in CRS request based upon CRS normalization rules.
 
-* [ ZD #29462) - TremorHub ad in A&E VOD causing a crash in iOS apps
+* (ZD #29462) - TremorHub ad in A&E VOD causing a crash in iOS apps
 
 **Version 1.4.36 (1.4.36.835)**
 
@@ -1102,7 +1102,7 @@ Support for pinging empty ad break tracking URLs,  TVSDK  will now verify ad bre
 
 * (ZD #2141) Analytics implementation for TreeHouse app, added `AdobeAnalyticsPlugin.a` library to build  package .
 * Video Heartbeats Library update to 1.4.1.2
-* [PTPALY-4226] [related to ZD #2423) Performing DRM Reset can result in deletion of Application Document data.
+* (PTPALY-4226) (related to ZD #2423) Performing DRM Reset can result in deletion of Application Document data.
 
 **Version 1.4.4** (1.4.4.242)
 

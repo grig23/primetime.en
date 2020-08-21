@@ -293,7 +293,7 @@ This issue was resolved by using a zero-height viewport to fill the stage when a
 
 The SSL-related issues were fixed, and the VHL library that is used in TVSDK has been updated to the latest version.
 
-* Zendesk #22608 - Video intermittently shows a black screen (requires Flash Player 22.0.0.175 or later ]
+* Zendesk #22608 - Video intermittently shows a black screen (requires Flash Player 22.0.0.175 or later)
 
 During adaptive bitrate, with the max bitrate limit, the reloading of the video intermittently shows a black screen even though the client sees updates to position, and the client behaves as though it is playing content.
 
@@ -639,7 +639,7 @@ InvalidateProfiles in ThreadSeek when new period is detected.
 
 * Zendesk #3896 - Flash Player crash with Stream Integrity set to ON on Chrome (requires Flash Player 18.0.0.200)
 
-Fixed crash in native networking mode in pepper 
+Fixed crash in native networking mode in pepper
 
 * Zendesk #3905 - TVSDK player does not load when hosted on CDN
 
@@ -670,7 +670,7 @@ Fixed an issue on Mac Chrome where stream would start to flicker an eventually g
 
 * Zendesk #2615 - issue removing HLS view from desktop display
 
-Added clearVideo() method to MediaPlayer. Clears the displayed video frame by clearing the AVStream from the StageVideo object. Should only be called if the video is paused, and replaceCurrentResource or replaceCurrentItem must be called before play() can be called again. 
+Added clearVideo() method to MediaPlayer. Clears the displayed video frame by clearing the AVStream from the StageVideo object. Should only be called if the video is paused, and replaceCurrentResource or replaceCurrentItem must be called before play() can be called again.
 
 * Zendesk #3169 - Update reference player with Adobe Analytics integration
 
@@ -738,13 +738,15 @@ mime types for HLS format had been case sensitive, this was incorrect and has be
 * Stream integrity is slightly slower in Google Chrome because of Chrome sandbox restrictions.
 * In TVSDK 1.4, if you disable autoPlay, a DRM error might occur when the player remains idle for at least a minute. To work around this issue, when you disable autoPlay but preload assets, modify `ReferenceCore.as` by changing the contents of `onPlaybackManagerPrepared`:
 
->if (_playbackManager.autoPlay) {
->_playbackManager.play();
->} else {
->_playbackManager.play();
->_playbackManager.pause();
->}
-  
+```
+if (_playbackManager.autoPlay) {
+_playbackManager.play();
+} else {
+_playbackManager.play();
+_playbackManager.pause();
+}
+```
+
 * **Version 1.4.13** PTPLAY-8501 - When VMAP returns two direct MP4 non transcoded ads, the same fall back ad plays twice.
 
 * **Version 1.4.2** In the Flash Player version 16 release, an issue was identified with the ABR "switching down" logic, after the player gets into an empty buffering event. The issue prevents the bitrate from switching down in bad bandwidth environments once the player gets into a buffering state. To work around the issue, have your app set the `BufferControlParameters.initialBufferTime` to be the same as `BufferControlParameters.playbackBufferTime` temporarily during the buffering state (that is, on a `BufferEvent.BUFFERING_BEGIN` event) then reset it back to the set values on `BufferEvent.BUFFERING_END` event. The fix for this issue will be available in the next patch release of Flash Player verison 16.

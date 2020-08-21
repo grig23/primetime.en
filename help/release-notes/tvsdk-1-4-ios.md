@@ -947,7 +947,7 @@ Support for pinging empty ad break tracking URLs,  TVSDK  will now verify ad bre
 
 * (ZD #2141) Analytics implementation for TreeHouse app, added AdobeAnalyticsPlugin.a library to build  package .
 * Video Heartbeats Library update to 1.4.1.2
-* [PTPALY-4226] [related to ZD #2423) Performing DRM Reset can result in deletion of Application Document data.
+* (PTPALY-4226) (related to ZD #2423) Performing DRM Reset can result in deletion of Application Document data.
 
 **Version 1.4.4** (1.4.4.242)
 

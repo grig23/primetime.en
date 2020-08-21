@@ -258,7 +258,7 @@ Records of this type log a missing ad creative. The only field beyond TRACE_TRAN
 
 |Field|Type|Description|
 |--- |--- |--- |
-|ad_id|string|Fully qualified ad ID `(FQ_AD_ID: Q_AD_ID[;Q_AD_ID[;Q_AD_ID...]`] Q_AD_ID: `PROTOCOL:AD_SYSTEM:AD_ID[:CREATIVE_ID[:MEDIA_ID]`] PROTOCOL: AUDITUDE,VAST)|
+|ad_id|string|Fully qualified ad ID `(FQ_AD_ID: Q_AD_ID[;Q_AD_ID[;Q_AD_ID...]]` Q_AD_ID: `PROTOCOL:AD_SYSTEM:AD_ID[:CREATIVE_ID[:MEDIA_ID]]` PROTOCOL: AUDITUDE,VAST`)`|
 
 ### TRACE_TRANSCODING_REQUESTED records {#trace-transcoding-requested-records}
 
@@ -389,7 +389,7 @@ Records of this type enable the manifest server to log events and information no
 * Start generating targeted manifest. (HLSManifestResolver)
 * Start generating variant manifest from: *content URL*. (Variant)
 * Start stitching ads into manifest. (VODHLSResolver)
-* Trying to stitch ad at *HH:MM:SS*: AdPlacement [adManifestURL=*ad Manifest URL*, durationSeconds=*seconds*, ignore=*ignore*, redirectAd=*redirect ad*, priority=*priority*. (HLSManifestResolver)
+* Trying to stitch ad at *HH:MM:SS*: AdPlacement adManifestURL=*ad Manifest URL*, durationSeconds=*seconds*, ignore=*ignore*, redirectAd=*redirect ad*, priority=*priority*. (HLSManifestResolver)
 * Unable to get ads because of invalid pttimeline - returned the content without ads. (VOD)
 * Unable to get ads - returned the content without ads. (VOD)
 * Unable to get ad query and no content URL was given. (VOD)
