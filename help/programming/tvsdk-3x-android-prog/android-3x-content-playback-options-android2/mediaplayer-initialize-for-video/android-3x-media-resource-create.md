@@ -39,7 +39,7 @@ The MediaResource class represents the content to be loaded by the MediaPlayer i
    </tr> 
    <tr> 
       <td colname="col1"> <span class="codeph"> metadata </span> </td> 
-      <td colname="col2"> An instance of the <span class="codeph"> Metadata </span> class (a dictionary-like structure), which might contain additional information about the content that is about to be loaded, such as alternate or ad content to place inside the main content. If using advertising, set up <span class="codeph"> AuditudeSettings </span> before using this constructor (see href=Ad insertion metadata](../../android-3.5-advertising/ad-insertion/ad-insertion-metadata/android-3.5-ad-insertion-metadata.md). </td> 
+      <td colname="col2"> An instance of the <span class="codeph"> Metadata </span> class (a dictionary-like structure), which might contain additional information about the content that is about to be loaded, such as alternate or ad content to place inside the main content. If using advertising, set up <span class="codeph"> AuditudeSettings </span> before using this constructor <a href="../../android-3.5-advertising/ad-insertion/ad-insertion-metadata/android-3.5-ad-insertion-metadata.md"> Ad insertion metadata </a>. </td> 
    </tr> 
    </tbody> 
    </table>

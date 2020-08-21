@@ -11,10 +11,11 @@ This table provides detailed information about REVENUE OPTIMIZATION notification
 
 ## Enable Revenue Optimization Reporting {#enable-revenue-optimization-reporting}
 
-To enable this reporting, use PTMediaPlayer api: `[mediaPlayer
-setRevenueOptimizationReportingLevel:PTNotificationTypeInfo]`.
+To enable this reporting, use PTMediaPlayer api: `[mediaPlayersetRevenueOptimizationReportingLevel:PTNotificationTypeInfo]`.
 
-[!Note]: Most informational notifications contain relevant metadata, for example, the URL of the resource that failed to download. Some notifications contain metadata to specify whether the problem occurred in the main video content, in the alternate audio content, or in an ad.
+>[!NOTE]
+>
+>Most informational notifications contain relevant metadata, for example, the URL of the resource that failed to download. Some notifications contain metadata to specify whether the problem occurred in the main video content, in the alternate audio content, or in an ad.
 
 |Code |Name |Inner Notification |Metadata Keys |Comments |
 |---|---|--|--|--|

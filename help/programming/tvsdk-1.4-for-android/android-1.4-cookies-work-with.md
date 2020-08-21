@@ -41,7 +41,7 @@ To work with cookies:
 
    Another option is to use `cookieHeaders` in `NetworkConfiguration` to set an arbitrary cookie header string to be used for requests. By default, this cookie header is sent only with key requests. To send the cookie header with all requests, use the `NetworkConfiguration` method `setUseCookieHeadersForAllRequests`: 
 
-   ```java
+```java
    NetworkConfiguration networkConfiguration = new NetworkConfiguration(); 
     
    Metadata cookie = new MetadataNode(); 
@@ -50,13 +50,12 @@ To work with cookies:
    networkConfiguration.setUseCookieHeadersForAllRequests( true ); 
     
    // Set NetworkConfiguration as Metadata:                                                                   
-   MetadataNode resourceMetadata = new MetadataNode();  
+   MetadataNode resourceMetadata = new MetadataNode(); 
    resourceMetadata.setNode(DefaultMetadataKeys.NETWORK_CONFIGURATION.getValue(),  
                             networkConfiguration); 
     
    // Call MediaResource.createFromURL to set the metadata: 
    MediaResource resource = MediaResource.createFromURL(url, resourceMetadata); 
-    // Load the resource 
+   // Load the resource 
    mediaPlayer.replaceCurrentItem(resource);
-   ```
-
+```

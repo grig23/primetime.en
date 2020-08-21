@@ -36,19 +36,20 @@ To customize ad behaviors:
 1. Implement the `AdPolicySelector` interface and all of its methods.
 1. Assign the policy instance to be used by TVSDK through the advertising factory.
 
-  >[!NOTE]
-  >class CustomContentFactory extends ContentFactory {
-  >...
-  >@Override
-  >public AdPolicySelector retrieveAdPolicySelector>>(MediaPlayerItem mediaPlayerItem) {
-  >return new CustomAdPolicySelector(mediaPlayerItem);
-  >}
-  >...
-  >}
-  >// register the custom content factory with media player
-  >MediaPlayerItemConfig config = new MediaPlayerItemConfig();
-  >config.setAdvertisingFactory(new CustomContentFactory());
-  >// this config will should be later passed while loading >the resource
-  >mediaPlayer.replaceCurrentResource(resource, config);
-  
-  1. Implement your customizations.
+   >[!NOTE]
+   >
+   >class CustomContentFactory extends ContentFactory &lbrace;
+   >...
+   >@Override
+   >public AdPolicySelector retrieveAdPolicySelector>>(MediaPlayerItem mediaPlayerItem) &lbrace;
+   >return new CustomAdPolicySelector(mediaPlayerItem);
+   >&rbrace;
+   >...
+   >&rbrace;
+   >// register the custom content factory with media player
+   >MediaPlayerItemConfig config = new MediaPlayerItemConfig();
+   >config.setAdvertisingFactory(new CustomContentFactory());
+   >// this config will should be later passed while loading >the resource
+   >mediaPlayer.replaceCurrentResource(resource, config);
+
+1. Implement your customizations.
