@@ -3,6 +3,7 @@ cloud: experience-cloud
 product: adobe primetime
 audience: end-user
 user-guide-title: Primetime Digital Rights Management Help
+user-guide-description: Helps you learn more about various user scenarios in Digital Rights Management (DRM).
 ---
 
 # Digital Rights Management Help {#drm}

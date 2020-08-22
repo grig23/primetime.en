@@ -52,14 +52,18 @@ Here is more information about the ad types:
     * `MediaFiles`
 
     * `MediaFile`
-          [!TIP]
-          In this element, the `id`, `bitrate`, `delivery`, `width`, `height`, `scalable`, `maintainAspectRatio`, `apiFramework`, and `type` attributes are supported.
+
+      >[!TIP]
+      >
+      >In this element, the `id`, `bitrate`, `delivery`, `width`, `height`, `scalable`, `maintainAspectRatio`, `apiFramework`, and `type` attributes are supported.
 
 * **Non-Linear ads** The following elements are supported:
 
   * `Non-linear`
-      [!TIP]
-      In this element, the `id`, `width`, `height`, `apiFramework`, `expandedWidth`, `expandedHeight`, `scalable`, `maintainAspectRatio`, and `minSuggestedDuration` attributes are supported.
+
+    >[!TIP]
+    >
+    >In this element, the `id`, `width`, `height`, `apiFramework`, `expandedWidth`, `expandedHeight`, `scalable`, `maintainAspectRatio`, and `minSuggestedDuration` attributes are supported.
 
     * `StaticResource`
     * `IFrameResource`
@@ -70,8 +74,10 @@ Here is more information about the ad types:
 * **Companion ads** The following elements are supported:
 
   * `Companion`
-      [!TIP]
-      In this element, the `id`, `width`, `height`, `apiFramework`, `expandedWidth`, and `expandedHeight` attributes are supported.
+    
+    >[!TIP]
+    >
+    >In this element, the `id`, `width`, `height`, `apiFramework`, `expandedWidth`, and `expandedHeight` attributes are supported.
 
     * `StaticResource`
     * `IFrameResource`
@@ -80,7 +86,8 @@ Here is more information about the ad types:
 
 ## Extensions {#section_17401C75F419453BAE83637EEB6E1E60}
 
-[!TIP]
-Only Auditude-specific extensions are supported.
+>[!TIP]
+>
+>Only Auditude-specific extensions are supported.
 
 * `Extension`

@@ -89,13 +89,12 @@ The ability to exit from an ad break early is identified through a custom tag in
 * To share the same tag for splice-out and splice-in:
 
 1. If the application is sharing the same cue to indicate cue-out/splice-out and cue-in/splice-in, extend `PTDefaultAdOpportunityResolver` and implement the `preparePlacementOpportunity` method.     
-    
-   [!TIP]
-   
-   The following code assumes that the app has an implementation for the `isCueInOpportunity` method. 
 
-```
+   >[!TIP]
+   >
+   >The following code assumes that the app has an implementation for the `isCueInOpportunity` method. 
 
+   ```
    - (PTPlacementOpportunity *)preparePlacementOpportunity:(PTTimedMetadata *)timedMetadata 
    { 
          if ([self isCueInOpportunity:timedMetadata]) 
@@ -107,7 +106,7 @@ The ability to exit from an ad break early is identified through a custom tag in
                return [super preparePlacementOpportunity:timedMetadata]; 
          } 
    }
-```
+   ```
 
 1. Register the extended opportunity resolver on the `PTDefaultMediaPlayerClientFactory` instance.
 

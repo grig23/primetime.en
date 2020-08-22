@@ -3,6 +3,7 @@ cloud: experience-cloud
 product: adobe primetime
 audience: end-user
 user-guide-title: Primetime Migration Help
+user-guide-description: Explains the conversion and migration process to move from your existing Primetime TVSDK Suite to the next-generation suite.
 ---
 
 # Primetime Migration Help {#migration}

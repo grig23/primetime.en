@@ -41,9 +41,12 @@ When TVSDK cannot obtain an alternative segment, it triggers a `CONTENT_ERROR` e
 
 If the video engine is continuously unable to obtain segments, it limits continuous segment skips to 5, after which playback is stopped and TVSDK issues a `NATIVE_ERROR` with the code 5.
 
->[!Restrictions]
+>[!NOTE]
+>
+>**Restrictions**
 >
 >Here are some restrictions you should be aware of:
+>
 >* The adaptive bit rate (ABR) control parameters are not taken into consideration when a failover occurs. 
 >
 >  This is because the failover mechanism is designed to use any of the currently available playlists, regardless of their bit rate profile, as backup streams. 
