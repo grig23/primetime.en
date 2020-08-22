@@ -27,7 +27,7 @@ To customize ad behaviors:
 
 1. Assign the policy instance to be used by TVSDK through the advertising factory.
 
->[!ATTENTION]
+>[!IMPORTANT]
 >
 >Custom ad policies that are registered at the beginning of >playback are cleared when the MediaPlayer instance is >deallocated.Your application must register a policy >selector instance each time a new playback session is created.
 

@@ -3,6 +3,7 @@ cloud: experience-cloud
 product: adobe primetime
 audience: end-user
 user-guide-title: Primetime Dynamic Ad Insertion Help
+user-guide-description: Explains how to monetize content by inserting user-targeted dynamic ads on the server and engage audience with personalized ads.
 ---
 
 # Dynamic Ad Insertion Help {#ad-insertion}

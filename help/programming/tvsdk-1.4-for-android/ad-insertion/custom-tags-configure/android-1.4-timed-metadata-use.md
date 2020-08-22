@@ -17,8 +17,9 @@ To use these saved `TimedMetadata` objects during playback, use the saved `Array
 
    You can use these objects to complete various actions.
 
-[!IMPORTANT]
-When checking whether the current playback time matches any `TimedMetadata` objects, include `shouldTriggerSubscribedTagEvent` as a condition.
+   >[!IMPORTANT]
+   >
+   >When checking whether the current playback time matches any `TimedMetadata` objects, include `shouldTriggerSubscribedTagEvent` as a condition.
 
    The timeline might change as the result of various ad behaviors. For example, one or more ad breaks might be moved from their original positions on the timeline, but `shouldTriggerSubscribedTagEvent` ensures that the `TimeMetadata` object's start time matches the current playback time.
 

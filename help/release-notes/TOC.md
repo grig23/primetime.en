@@ -3,6 +3,7 @@ cloud: experience-cloud
 product: adobe primetime
 audience: end-user
 user-guide-title: Primetime Release Notes
+user-guide-description: Provides release-specific information, system requirements, limitations, fixed issues, and known issues.
 ---
 
 # Primetime Release Notes {#release-notes}

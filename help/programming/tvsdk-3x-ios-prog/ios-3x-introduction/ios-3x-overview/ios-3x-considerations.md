@@ -50,6 +50,6 @@ Here are recommended practices for TVSDK:
 
 For more information, see the forceHTTPS and isForcingHTTPS methods in this class.
 
-[!IMPORTANT]
-
-Requests to third-party domains such as Ad Tracking pixels, Content and Ad URLs, and similar requests are not modified. It is the responsibility of the content providers and ad servers to provide URLs that are supported through HTTPS.
+>[!IMPORTANT]
+>
+>Requests to third-party domains such as Ad Tracking pixels, Content and Ad URLs, and similar requests are not modified. It is the responsibility of the content providers and ad servers to provide URLs that are supported through HTTPS.

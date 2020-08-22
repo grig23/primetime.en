@@ -3,6 +3,7 @@ cloud: experience-cloud
 product: adobe primetime
 audience: end-user
 user-guide-title: Primetime Programming Help
+user-guide-description: Allows you to learn to develop applications and video players using Java on Android devices and Objective-C on iOS devices.
 ---
 
 # Primetime Programming Help {#programming}

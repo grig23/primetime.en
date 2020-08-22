@@ -3,6 +3,7 @@ cloud: experience-cloud
 product: primetime
 audience: end-user
 user-guide-title: Primetime Reference Implementation Help
+user-guide-description: Helps understand the TVSDK and modify the feature managers to customize your personal player.
 ---
 
 # PSDK 1.4 for Android Reference Implementation {#reference-implementation}
