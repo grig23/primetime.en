@@ -18,7 +18,7 @@ To enable this reporting, use PTMediaPlayer api: `[mediaPlayersetRevenueOptimiza
 >Most informational notifications contain relevant metadata, for example, the URL of the resource that failed to download. Some notifications contain metadata to specify whether the problem occurred in the main video content, in the alternate audio content, or in an ad.
 
 |Code |Name |Inner Notification |Metadata Keys |Comments |
-|---|---|--|--|--|
+|---|---|---|---|---|
 |401001 | REVENUE_OPTIMIZATION_REPORTING | None | Refer below table for metadata keys based on different events. | None |
 
 | Event Details |ContextMetadata |
