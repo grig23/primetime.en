@@ -45,36 +45,37 @@ To configure video tracking in your player:
 
 1. Confirm that load-time options in the `ADBMobileConfig.json` resource file are correct.
 
-       ```    
-       { 
-           "version" : "1.1", 
-           "analytics" : { 
-               "rsids" : "adobedevelopment", 
-               "server" : "10.131.129.149:3000", 
-               "charset" : "UTF-8", 
-               "ssl" : false, 
-               "offlineEnabled" : false, 
-               "lifecycleTimeout" : 5, 
-               "batchLimit" : 50, 
-               "privacyDefault" : "optedin", 
-               "poi" : [] 
-           }, 
-           "marketingCloud": { 
-               "org": "ADOBE PROVIDED VALUE"  
-           }, 
-           "target" : { 
-               "clientCode" : "", 
-               "timeout" : 5 
-           }, 
-           "audienceManager" : { 
-               "server" : "" 
-           } 
-       }
-       ```    
-    
-       This JSON-formatted configuration file is bundled as a resource with TVSDK. Your player reads these values only at load time, and the values remain constant while your application runs.
+   ```
+   { 
+       "version" : "1.1", 
+       "analytics" : { 
+           "rsids" : "adobedevelopment", 
+           "server" : "10.131.129.149:3000", 
+           "charset" : "UTF-8", 
+           "ssl" : false, 
+           "offlineEnabled" : false, 
+           "lifecycleTimeout" : 5, 
+           "batchLimit" : 50, 
+           "privacyDefault" : "optedin", 
+           "poi" : [] 
+       }, 
+       "marketingCloud": { 
+           "org": "ADOBE PROVIDED VALUE"  
+       }, 
+       "target" : { 
+           "clientCode" : "", 
+           "timeout" : 5 
+       }, 
+       "audienceManager" : { 
+           "server" : "" 
+       } 
+   }
+   ```
 
-       To configure load-time options:
+   This JSON-formatted configuration file is bundled as a resource with TVSDK. Your player reads these values only at load time, and the values remain constant while your application runs.
+
+   To configure load-time options:
+
 
     1. Confirm that the `ADBMobileConfig.json` file contains the appropriate values (provided by Adobe). 
     1. Confirm that this file is located in the `assets/` folder.
