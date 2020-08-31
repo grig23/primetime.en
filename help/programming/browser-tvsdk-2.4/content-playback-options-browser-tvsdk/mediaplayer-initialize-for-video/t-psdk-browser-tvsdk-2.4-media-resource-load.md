@@ -35,30 +35,30 @@ It also notifies your application by dispatching the `MediaPlayerStatus.ERROR` e
 
 The following simplified sample code illustrates the process of loading a media resource: 
 
->```js>
->player.addEventListener(AdobePSDK.PSDKEventType.STATUS_CHANGED,  
->                        onStatusChange); 
-> 
->onStatusChange = function (event) { 
->    var msg = ""; 
->    switch (event.status) { 
->        case AdobePSDK.MediaPlayerStatus.INITIALIZED: 
->            msg = "Player Status: INITIALIZED"; 
->            console.log(msg); 
->            player.prepareToPlay(AdobePSDK.MediaPlayer.LIVE_POINT); 
->            break; 
-> 
->        case AdobePSDK.MediaPlayerStatus.PREPARED: 
->        // The resource is successfully loaded and available 
->        // and the MediaPlayer is ready to start the playback. 
->        // Once the resource is loaded, the MediaPlayer can 
->        // provide a reference to the current "playable item" 
->           MediaPlayerItem playerItem = player.currentItem; 
->           if (playerItem != null) {  
->              // here we can look at the properties of the  
->              // loadedstream 
->           } 
->           break; 
->    } 
->}
->```>
+```js
+player.addEventListener(AdobePSDK.PSDKEventType.STATUS_CHANGED,  
+                        onStatusChange); 
+ 
+onStatusChange = function (event) { 
+    var msg = ""; 
+    switch (event.status) { 
+        case AdobePSDK.MediaPlayerStatus.INITIALIZED: 
+            msg = "Player Status: INITIALIZED"; 
+            console.log(msg); 
+            player.prepareToPlay(AdobePSDK.MediaPlayer.LIVE_POINT); 
+            break; 
+ 
+        case AdobePSDK.MediaPlayerStatus.PREPARED: 
+        // The resource is successfully loaded and available 
+        // and the MediaPlayer is ready to start the playback. 
+        // Once the resource is loaded, the MediaPlayer can 
+        // provide a reference to the current "playable item" 
+           MediaPlayerItem playerItem = player.currentItem; 
+           if (playerItem != null) {  
+              // here we can look at the properties of the  
+              // loadedstream 
+           } 
+           break; 
+    } 
+}
+```
