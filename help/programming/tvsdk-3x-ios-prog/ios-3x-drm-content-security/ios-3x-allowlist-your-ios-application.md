@@ -36,7 +36,8 @@ To use `machotools`:
 
    To use a utility such as OpenSSL, open a command window and enter the following:
 
-   ```
+   ```shell
+   
    openssl genrsa -des3 -out selfsigncert-ios.key 1024
    ```
 
@@ -45,7 +46,8 @@ To use `machotools`:
    Passwords should contain at least 12 characters, and the characters should include a mixture of uppercase and lowercase ASCII characters and numbers.
 1. To use OpenSSL to generate a strong password for you, open a command window and enter the following:
 
-   ```
+   ```shell
+   
    openssl rand -base64 8
    ```
 
@@ -53,7 +55,8 @@ To use `machotools`:
 
    To use OpenSSL to generate a CSR, open a Command Window and enter the following: 
 
-   ```
+   ```shell
+   
    openssl req -new -key selfsigncert-ios.key -out selfsigncert-ios.csr -batch
    ```
 
@@ -61,14 +64,16 @@ To use `machotools`:
 
    The following example gives a 20-year expiration: 
 
-   ```
+   ```shell
+   
    openssl x509 -req -days 7300 -in selfsigncert-ios.csr  
      -signkey selfsigncert-ios.key -out selfsigncert-ios.crt
    ```
 
 1. Convert the self-signed certificate to a PKCS#12 file:
 
-   ```
+   ```shell
+   
    openssl pkcs12 -export -out selfsigncert-ios.pfx  
      -inkey selfsigncert-ios.key -in selfsigncert-ios.crt
    ```
@@ -78,7 +83,8 @@ To use `machotools`:
 1. Update the location of the PFX file and password.
 1. Before building your application in Xcode, go to  **[!UICONTROL Build Phases]** > **[!UICONTROL Run Script]** and add the following command to your run script:
 
-   ```
+   ```shell
+
    mkdir -p "${PROJECT_DIR}/generatedRes" "${PROJECT_DIR}/machotools" sign  
      -in "${CODESIGNING_FOLDER_PATH}/${EXECUTABLE_NAME}"  
      -out "${PROJECT_DIR}/generatedRes/AAXSAppDigest.digest"  
@@ -88,15 +94,17 @@ To use `machotools`:
 
 1. Execute [!DNL machotools] to generate your app Publisher ID hash value.
 
-   ```
+   ```shell
+
    ./machotools dumpMachoSignature -in ${PROJECT_DIR}/generatedRes/AAXSAppDigest.digest
    ```
 
 1. Create a new DRM Policy or update your existing policy to include the returned Publisher ID hash value.
 1. Using the [!DNL AdobePolicyManager.jar], create a new DRM Policy (update your existing policy) to include the returned Publisher ID hash value, an optional App ID, and min and max version attributes in the included [!DNL flashaccess-tools.properties] file.
 
-   ```
-   java -jar libs/AdobePolicyManager.jar new app_whitelist.pol
+   ```shell
+
+   java -jar libs/AdobePolicyManager.jar new app_allowlist.pol
    ```
 
 1. Package the content by using the new DRM policy and confirm the playback of the allow listed content in your iOS app.
