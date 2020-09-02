@@ -13,7 +13,7 @@ Dynamic Ad Insertion 20.9.1 release notes describe what is new or changed, issue
 
 **Fixes**
 
-•	Fixed the issue for customers using HLS/CMAF, where EXT-X-MAP was sometimes missing CDN tokens or EXT-X-MAP tags sometimes incorrectly rolled out of the DVR window.
+* Fixed the issue for customers using HLS/CMAF, where EXT-X-MAP was sometimes missing CDN tokens or EXT-X-MAP tags sometimes incorrectly rolled out of the DVR window.
 
 ### Enhancements and fixes in previous release versions
 
