@@ -11,7 +11,7 @@ Dynamic Ad Insertion 20.9.1 release notes describe what is new or changed, issue
 
 **When:** Tuesday, September 1, 2020 from 3:30 AM to 7:30 AM Eastern Time
 
-**Fixes**
+**Changes**
 
 * Fixed the issue for customers using HLS/CMAF, where EXT-X-MAP was sometimes missing CDN tokens or EXT-X-MAP tags sometimes incorrectly rolled out of the DVR window.
 
@@ -158,9 +158,13 @@ Contact Adobe Support to enable the following new features via server-side confi
 
 * Maintenance upgrades.
 
-## Resolved issues
+## Resolved issues {#Resolved-issues}
 
-Where resolution is associated with a reported issue, a Zendesk reference is displayed. For example, `ZD#xxxxx`
+Where resolution is associated with a reported issue, a Zendesk reference is displayed. For example, `ZD#xxxxx`.
+
+**PTAI 20.9.1**
+
+* Fixed the issue for customers using HLS/CMAF, where EXT-X-MAP was sometimes missing CDN tokens or EXT-X-MAP tags sometimes incorrectly rolled out of the DVR window.
 
 **PTAI 20.6.1**
 
