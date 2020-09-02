@@ -9,9 +9,9 @@ seo-description: null
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-## Enhancements and fixes in PTAI 20.8.1
+## Enhancements and fixes in PTAI 20.9.1
 
-The release focused on maintenance updates.
+The release focused on fixing top customer issue, where EXT-X-MAP was missing CDN tokens or EXT-X-MAP tags incorrectly rolled out of DVR window.
 
 For more information about the current released version of Dynamic Ad Insertion, see [PTAI release notes](ptai-20x-release-notes.md).
 
