@@ -22,4 +22,4 @@ The global configuration file includes:
 * Logging — Specifies the logging level and how frequently log files are rolled. 
 * HSM password — Required only if an HSM is used to store server credentials.
 
-See comments in the example global configuration file that is located in [!DNL Primetime DRM <DVD>\Adobe Primetime DRM Server for Protected Streaming\configs] for more details. 
+See comments in the example global configuration file that is located in Primetime DRM `<DVD>`\Adobe Primetime DRM Server for Protected Streaming\configs for more details. 

@@ -37,12 +37,12 @@ These classes provide information that help you to determine how well the player
   <tr rowsep="1"> 
    <td colname="1"><a href="https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTQoSProvider.html" format="html" scope="external"> PTQoSProvider</a> </td> 
    <td colname="2">
-    <ph>
+    <pre>
       Provides essential QoS metrics for both playback and the device.
-    </ph>
-    <ph>
+    </pre>
+    <pre>
       QOS information provider class.
-    </ph> </td> 
+    </pre> </td> 
   </tr> 
  </tbody> 
 </table>

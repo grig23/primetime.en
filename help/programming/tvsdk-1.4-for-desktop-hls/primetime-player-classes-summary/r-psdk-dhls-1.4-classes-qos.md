@@ -63,12 +63,12 @@ These classes provide information that help you to determine how well the player
   <tr rowsep="1"> 
    <td colname="1"><span class="codeph"><a href="https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/qos/QOSProvider.html" format="html" scope="external"> QOSProvider</a></span> </td> 
    <td colname="2">
-    <ph>
+    <pre>
       Provides essential QoS metrics for both playback and the device.
-    </ph>
-    <ph>
+    </pre>
+    <pre>
       QOS information provider class.
-    </ph> </td> 
+    </pre> </td> 
   </tr> 
  </tbody> 
 </table>

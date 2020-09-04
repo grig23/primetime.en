@@ -124,16 +124,14 @@ Before running the License Generator, you need to specify values for the License
   </tr> 
   <tr rowsep="1" class="- topic/row "> 
    <td colname="1" class="- topic/entry "> 
-    <lines>
-     <span class="+ topic/ph pr-d/codeph codeph">licensegen.keys.asymmetric. licenseServerCredential.n</span>
-    </lines> </td> 
+    <code>licensegen.keys.asymmetric. licenseServerCredential.n</code>
+   </td> 
    <td colname="2" class="- topic/entry "> <p class="- topic/p ">Optional PKCS12 file that includes additional License Server credentials for decrypting the CEK in the metadata and DRM policy. You can configure additional credentials if content has previously been packaged with a License Server certificate other than those credential that have been specified with <span class="codeph"> licensegen.sign.certfile</span>. This property needs to refer to a <span class="filepath"> .pfx</span> file that includes a certificate and private key. <span class="codeph">n</span> must increase monotonically, starting from 1. </p> </td> 
   </tr> 
   <tr rowsep="0" class="- topic/row "> 
    <td colname="1" class="- topic/entry "> 
-    <lines>
-     <span class="+ topic/ph pr-d/codeph codeph">licensegen.keys.asymmetric. licenseServerCredential.n.password</span>
-    </lines> </td> 
+    <code>licensegen.keys.asymmetric. licenseServerCredential.n.password</code>
+   </td> 
    <td colname="2" class="- topic/entry "> <p>The password is applied to protect the file that you have specified with the<span class="+ topic/ph pr-d/codeph codeph"> licensegen.keys.asymmetric.licenseServerCredential.n</span> property. </p> </td> 
   </tr> 
  </tbody> 

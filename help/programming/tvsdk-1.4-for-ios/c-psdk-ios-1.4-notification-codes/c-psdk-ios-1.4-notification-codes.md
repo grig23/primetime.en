@@ -23,9 +23,9 @@ The TVSDK notification system produces various error, warning, and informational
   <tr rowsep="1"> 
    <td colname="1"><span class="codeph"> type</span></td> 
    <td colname="2">The notification type. Depending on the platform, this property refers to an enumerated type with possible values of 
-    <ph>
+    <pre>
       INFO, WARN, or ERROR. This is the top-level grouping for notifications.
-    </ph> </td> 
+    </pre> </td> 
   </tr> 
   <tr rowsep="1"> 
    <td colname="1"><span class="codeph"> code</span></td> 

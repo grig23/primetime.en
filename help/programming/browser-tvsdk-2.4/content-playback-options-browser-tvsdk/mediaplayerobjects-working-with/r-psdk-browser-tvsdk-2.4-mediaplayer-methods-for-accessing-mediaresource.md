@@ -49,10 +49,10 @@ The methods in the MediaPlayerItem class allow you to obtain information about t
   <tr rowsep="1"> 
    <td colname="2"> <span class="codeph"> selectedAudioTrack </span> </td> 
    <td colname="3"> 
-    <ph>
+    <pre>
       Retrieves the currently selected audio track that were selected with 
      <span class="codeph"> selectAudioTrack </span>. 
-    </ph> </td> 
+    </pre> </td> 
   </tr> 
   <tr rowsep="1"> 
    <td colname="1" morerows="1"> Timed metadata </td> 

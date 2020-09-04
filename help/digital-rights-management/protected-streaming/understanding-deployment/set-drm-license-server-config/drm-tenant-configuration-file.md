@@ -10,9 +10,9 @@ uuid: bc9ee4a1-63b6-4362-9929-3e9fe8251075
 
 The flashaccess-tenant.xml configuration file includes settings that apply to a specific tenant of the license server.
 
-Each tenant supports its own instance of this configuration file that is located in [!DNL <LicenseServer.ConfigRoot>/flashaccessserver/tenants/<tenantname>]. See the [!DNL configs/flashaccessserver/tenants/sampletenant] directory for an example tenant configuration file.
+Each tenant supports its own instance of this configuration file that is located in `<LicenseServer.ConfigRoot>/flashaccessserver/tenants/<tenantname>`. See the `configs/flashaccessserver/tenants/sampletenant` directory for an example tenant configuration file.
 
-You can specify all file paths in the tenant configuration file as absolute paths or as paths that are relative to the tenant's configuration directory ( [!DNL <LicenseServer.ConfigRoot>/flashaccessserver/tenants/<tenantname>]).
+You can specify all file paths in the tenant configuration file as absolute paths or as paths that are relative to the tenant's configuration directory (`<LicenseServer.ConfigRoot>/flashaccessserver/tenants/<tenantname>`).
 
 The tenant configuration file includes:
 
