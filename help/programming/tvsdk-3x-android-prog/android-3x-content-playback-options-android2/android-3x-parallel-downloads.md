@@ -28,11 +28,9 @@ Without parallel downloads, TVSDK issues a request for the video segment, and af
 <!-- 
 
 See comment above (DASH use case removed).
-`<note type="restriction">`
-  This feature applies only to content where the audio and video are encoded into different files (unmuxed content) and does not apply to MP4 content, which is always muxed. Most DASH content is unmuxed, and HLS content is often unmuxed, especially with alternate audio. 
-`</note>`
 
- -->
+  This feature applies only to content where the audio and video are encoded into different files (unmuxed content) and does not apply to MP4 content, which is always muxed. Most DASH content is unmuxed, and HLS content is often unmuxed, especially with alternate audio. 
+-->
 
 The HTTP connection might experience delays at the following stages:
 

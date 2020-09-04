@@ -12,7 +12,7 @@ You can verify the validity of the settings by using the utilities that have bee
 
 If you want to start Tomcat and the license server, you need to run [!DNL catalina.bat start] or [!DNL catalina.sh start] from Tomcat's [!DNL bin] directory.
 
-After the server has started, you need to verify that it has been correctly configured by opening [!DNL https://<lic<span></span>ense-server-host:port>/flashaccessserver/<tenant-name>/flashaccess/license/v1] in a browser window. If the tenant configuration has been successfully loaded, a confirmation message appears.
+After the server has started, you need to verify that it has been correctly configured by opening `https://<lic<span></span>ense-server-host:port>/flashaccessserver/<tenant-name>/flashaccess/license/v1` in a browser window. If the tenant configuration has been successfully loaded, a confirmation message appears.
 
 ## Log files {#log-files}
 
@@ -47,11 +47,11 @@ The global log file, [!DNL flashaccess-global.log], is located in *LicenseServer
 
 ### Partition log file {#section_5660137CD6AA40519E72A4315534846B}
 
-The partition log file, [!DNL flashaccess-partition.log], is located in the [!DNL <LicenseServer.LogRoot>/flashaccesserver] directory. It includes log messages that have been generated during the processing of a license request.
+The partition log file, [!DNL flashaccess-partition.log], is located in the `<LicenseServer.LogRoot>/flashaccesserver` directory. It includes log messages that have been generated during the processing of a license request.
 
 ### Tenant log file {#section_F0257CC0831647F18A746B4F02E3E910}
 
-Each tenant's tenant log file, [!DNL flashaccess-tenant.log], is located in [!DNL <LicenseServer.LogRoot>/flashaccesserver/tenants/<tenantname>]. The tenant log includes audit information that describes each license that is generated for this tenant.
+Each tenant's tenant log file, [!DNL flashaccess-tenant.log], is located in `<LicenseServer.LogRoot>/flashaccesserver/tenants/<tenantname>`. The tenant log includes audit information that describes each license that is generated for this tenant.
 
 ## Updating configuration files {#updating-configuration-files}
 
