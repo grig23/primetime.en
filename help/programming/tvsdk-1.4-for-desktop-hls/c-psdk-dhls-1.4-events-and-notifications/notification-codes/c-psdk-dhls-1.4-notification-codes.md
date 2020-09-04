@@ -32,10 +32,10 @@ The TVSDK notification system produces various error, warning, and informational
      <li id="li_11AE91D1325E4F718228E662C9C55F9A">Warning notification events, from 200000 to 299999 </li> 
      <li id="li_6D3EA03845294DC2BAD1ACF507639E51">Information notification events, from 300000 to 399999 </li> 
     </ul> <p>Each top-level range, such as errors, is divided into subranges, such as 101000 through 101999 representing playback errors. </p>
-    <ph>
+    <pre>
      The enumeration 
      <span class="codeph"> mediacore.PSDKErrorCode</span> lists the possible values.
-    </ph> </td> 
+    </pre> </td> 
   </tr> 
   <tr rowsep="1"> 
    <td colname="1"> name </td> 

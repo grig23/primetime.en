@@ -85,7 +85,7 @@ The [!DNL .pfx] files can be located anywhere, but for ease of configuration, Ad
 
 ### HSM configuration {#section_13A19E3E32934C5FA00AEF621F369877}
 
-If you choose to use an HSM to store your server credentials, you must load the private keys and certificates onto the HSM and create a *pkcs11.cfg* configuration file. This file must be located in the *KeyServer.ConfigRoot* directory. See the [!DNL <Primetime DRM Key Server>/configs] directory for an example PKCS 11 configuration file. For information on the format of [!DNL pkcs11.cfg], see the Sun PKCS11 provider documentation.
+If you choose to use an HSM to store your server credentials, you must load the private keys and certificates onto the HSM and create a *pkcs11.cfg* configuration file. This file must be located in the *KeyServer.ConfigRoot* directory. See the `<Primetime DRM Key Server>/configs` directory for an example PKCS 11 configuration file. For information on the format of [!DNL pkcs11.cfg], see the Sun PKCS11 provider documentation.
 
 To verify that your HSM and Sun PKCS11 configuration files are configured properly, you can use the following command from the directory where the [!DNL pkcs11.cfg] file is located ( [!DNL keytool] is installed with the Java JRE and JDK): 
 
@@ -129,7 +129,7 @@ The [!DNL flashaccess-keyserver-global.xml] configuration file contains settings
 * Logging - Specifies the logging level and how frequently log files are rolled. 
 * HSM password - Required only if an HSM is used to store server credentials.
 
-See the comments in the example global configuration file located in [!DNL <Primetime DRM Key Server>/configs] for more details.
+See the comments in the example global configuration file located in `<Primetime DRM Key Server>/configs` for more details.
 
 ## Tenant configuration files {#tenant-configuration-files}
 

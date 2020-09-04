@@ -19,7 +19,7 @@ player.addEventListener(AdobePSDK.PSDKEventType.CAPTIONS_UPDATED,
 ... 
 function onCaptionsUpdateEvent (event) { 
   // code to show the captions icon and any settings button. 
-<ph>
+<pre>
    For example: 
   var btnCC = document.getElementById("btn_captions"); 
    btnCC.classList.remove("invisible"); 
@@ -27,7 +27,7 @@ function onCaptionsUpdateEvent (event) {
   var btnSettings = document.getElementById("btn_settings"); 
    btnSettings.classList.remove("invisible"); 
  } 
-</ph>
+</pre>
 ```
 
 The UI Framework provides a default captions behaviors implementation, which can be modified. Closed captions behaviors can also be modified by extending default closed captions behaviors. For example: 

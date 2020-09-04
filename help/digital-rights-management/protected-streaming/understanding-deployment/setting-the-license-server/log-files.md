@@ -35,12 +35,12 @@ Log directories are structured for ease of use. The log directory has the follow
 
 ## Global log file {#section_1CFA90748142439C9F3BE380969539DA}
 
-The global log file, [!DNL flashaccess-global.log], is located in *LicenseServer.LogRoot*. The log may include log messages that the Adobe Primetime DRM Java SDK or log messages may have generated during the time that the server has been initialized.
+The global log file, `flashaccess-global.log`, is located in *LicenseServer.LogRoot*. The log may include log messages that the Adobe Primetime DRM Java SDK or log messages may have generated during the time that the server has been initialized.
 
 ## Partition log file {#section_5660137CD6AA40519E72A4315534846B}
 
-The partition log file, [!DNL flashaccess-partition.log], is located in the [!DNL <LicenseServer.LogRoot>/flashaccesserver] directory. It includes log messages that have been generated during the processing of a license request.
+The partition log file, `flashaccess-partition.log`, is located in the `<LicenseServer.LogRoot>/flashaccesserver` directory. It includes log messages that have been generated during the processing of a license request.
 
 ## Tenant log file {#section_F0257CC0831647F18A746B4F02E3E910}
 
-Each tenant's tenant log file, [!DNL flashaccess-tenant.log], is located in [!DNL <LicenseServer.LogRoot>/flashaccesserver/tenants/<tenantname>]. The tenant log includes audit information that describes each license that is generated for this tenant. 
+Each tenant's tenant log file, `flashaccess-tenant.log`, is located in `<LicenseServer.LogRoot>/flashaccesserver/tenants/<tenantname>`. The tenant log includes audit information that describes each license that is generated for this tenant. 

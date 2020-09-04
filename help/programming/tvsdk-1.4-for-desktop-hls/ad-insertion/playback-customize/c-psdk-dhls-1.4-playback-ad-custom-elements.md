@@ -23,10 +23,10 @@ The following API elements are useful for customizing playback:
   <tr> 
    <td colname="col1"><span class="codeph"> AdvertisingMetadata</span> </td> 
    <td colname="col2">Control whether an ad break should be marked as having been watched by a viewer, and if yes, when to mark it. Set and get the watched policy using 
-    <ph>
+    <pre>
      the 
      <span class="codeph"> adBreakAsWatched</span> property.
-    </ph> </td> 
+    </pre> </td> 
   </tr> 
   <tr> 
    <td colname="col1"><span class="codeph"> AdBreakPolicy</span> </td> 

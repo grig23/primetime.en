@@ -19,9 +19,9 @@ When TVSDK handles a native error, it sets some or all of the following metadata
   <tr> 
    <td colname="col1"> <span class="codeph"> NATIVE_ERROR_CODE </span> </td> 
    <td colname="col2"> 
-    <ph>
+    <pre>
       Native error code from the AVE. 
-    </ph> These codes represent the following: 
+    </pre> These codes represent the following: 
     <ul id="ul_330C626DE27B45A09E8851CC24768A07"> 
      <li id="li_0845A9BBB55545BDB49BD4F4802C0E54">DRM errors (codes 3300 to 3367). These are the same as the equivalent Flash Player error codes. </li> 
      <li id="li_98A571480C154CF0AE1DC101FF0834C4">Video playback errors (-1 to 89). </li> 

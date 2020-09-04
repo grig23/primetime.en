@@ -42,9 +42,9 @@ Each `AdBannerAsset` provides information about displaying the asset.
   </tr> 
   <tr> 
    <td colname="col1">
-    <ph>
+    <pre>
       banner data
-    </ph> </td> 
+    </pre> </td> 
    <td colname="col2"> The data of the type that is specified by <span class="codeph"> resourceType</span> for this companion banner. </td> 
   </tr> 
   <tr> 

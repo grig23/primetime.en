@@ -21,40 +21,40 @@ These classes provide information about ads that occur within a timeline.
   <tr rowsep="1"> 
    <td colname="1"><a href="https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTAd.html" format="html" scope="external"> PTAd</a> </td> 
    <td colname="2">Class that defines the Ad abstraction and holds all ad information. It is defined by a unique ID, a duration, and a MediaResourcdee. The MediaResource contains the URL where the actual ad content resides. 
-    <ph>
+    <pre>
       Represents a primary linear asset spliced into the content. It can optionally contain an array of companion assets that must be displayed along with the linear asset.
-    </ph> </td> 
+    </pre> </td> 
   </tr> 
   <tr rowsep="1"> 
    <td colname="1"> <a href="https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTAdAsset.html" format="html" scope="external"> PTAdAsset</a> </td> 
    <td colname="2">Class that represents an asset to be displayed. 
-    <ph>
+    <pre>
       Represents an asset to be displayed.
-    </ph> 
-    <ph>
+    </pre> 
+    <pre>
       Class representing an ad asset.
-    </ph> </td> 
+    </pre> </td> 
   </tr> 
   <tr rowsep="1"> 
    <td colname="1"><a href="https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTAdBannerView.html" format="html" scope="external"> PTAdBannerView</a> </td> 
    <td colname="2">
-    <ph>
+    <pre>
       Displays a banner asset. Your application must create a new instance of this utility class, set the banner asset, and add it to a view. The impression and click tracking for the banner is internally managed by this class.
-    </ph> </td> 
+    </pre> </td> 
   </tr> 
   <tr rowsep="1"> 
    <td colname="1"> <a href="https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTAdBreak.html" format="html" scope="external"> PTAdBreak</a> </td> 
    <td colname="2">Class that gives a unified view on several ads that will be played at some point during playback. 
-    <ph>
+    <pre>
       Represents a continuous sequence of ads spliced into the content.
-    </ph> </td> 
+    </pre> </td> 
   </tr> 
   <tr rowsep="1"> 
    <td colname="1"> <a href="https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTAdClick.html" format="html" scope="external"> PTAdClick</a> </td> 
    <td colname="2">Class that represents a click instance associated with an asset. This instance contains information about the click-through URL and the title that can be used to provide additional information to the user. 
-    <ph>
+    <pre>
       Represents a click instance associated with an asset. This instance contains information about the click-through URL and the title that can be used to provide additional information to the user.
-    </ph> </td> 
+    </pre> </td> 
   </tr> 
   <tr rowsep="1"> 
    <td colname="1"><a href="https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTAdPolicyInfo.html" format="html" scope="external"> PTAdPolicyInfo</a> </td> 
@@ -70,10 +70,10 @@ These classes provide information about ads that occur within a timeline.
   </tr> 
   <tr rowsep="1"> 
    <td colname="1"> 
-    <ph>
+    <pre>
      <a href="https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTContentResolver.html" format="html" scope="external"> PTContentResolver</a> class, 
      <a href="https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Protocols/PTContentResolver.html" format="html" scope="external"> PTContentResolver</a> protocol
-    </ph> </td> 
+    </pre> </td> 
    <td colname="2"> Class that handles the ad-resolving part in the Adobe Primetime ad decisioning process. </td> 
   </tr> 
   <tr rowsep="1"> 
