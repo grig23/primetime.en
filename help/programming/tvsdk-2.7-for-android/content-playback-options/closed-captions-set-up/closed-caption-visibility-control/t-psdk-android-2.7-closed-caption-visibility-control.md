@@ -14,13 +14,15 @@ You can control the visibility of closed captions. When visibility has been enab
 >
 >If closed caption text is displayed when the player enters seek mode, the text no longer displays after the seek completes. Instead, after a few seconds, TVSDK displays the next closed caption text in the video after the ending seek position. 
 >
->The visibility values for closed captions are defined in `MediaPlayer.Visibility`. >
->```java>
+>The visibility values for closed captions are defined in `MediaPlayer.Visibility`.
+>
+>```java
 >enum Visibility {  
 >    VISIBLE,  
 >    INVISIBLE 
 >}
->```>
+>```
+>
 
 1. Wait for the `MediaPlayer` to be in at least the PREPARED status.
 

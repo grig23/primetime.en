@@ -37,11 +37,11 @@ You can make the following types of changes:
     
       >[!TIP]
       >
-      >To use any of the buffering spinners, you must add the class in the buffering-overlay element. For example, to use `overlay-text`, add the following lines in the `BufferOverlay.js` file:       >
+      >To use any of the buffering spinners, you must add the class in the buffering-overlay element. For example, to use `overlay-text`, add the following lines in the `BufferOverlay.js` file:
       >
-      >```js      >
+      >```js
       >var overlay = document.getElementById("buffering-overlay"); 
       >overlay.classList.add ("spinner");
-      >```      >
+      >```
       >
 

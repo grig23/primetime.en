@@ -40,7 +40,8 @@ Ad resolving and ad loading can cause an unacceptable delay for a user waiting f
 >Factors to consider with Lazy Ad Resolving:
 >
 >* Lazy Ad Resolving is enabled by default. If you disable it, all ads are resolved before playback starts. 
->* Lazy Ad Resolving does not allow seeking or trickplay until after all the ads are resolved:>
+>* Lazy Ad Resolving does not allow seeking or trickplay until after all the ads are resolved:
+>
 >    * The player must wait for the `kEventAdResolutionComplete` event before allowing seeking or trick play.
 >    * If the user attempts to perform seek or trick play operations while ads are still being resolved, TVSDK throws the `kECLazyAdResolutionInProgress` error.
 >    * If necessary, the player should update the scrub bar, *after* receiving the `kEventAdResolutionComplete` event. 

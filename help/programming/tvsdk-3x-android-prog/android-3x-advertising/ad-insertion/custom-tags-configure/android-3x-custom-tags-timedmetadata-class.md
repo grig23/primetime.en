@@ -61,12 +61,12 @@ Remember the following:
 
   >[!TIP]
   >
-  >Complex data in custom tags in the manifest, such as strings with special characters, must be in quotes. For example:   >
+  >Complex data in custom tags in the manifest, such as strings with special characters, must be in quotes. For example:
   >
-  >```  >
+  >```
   >#EXT-CUSTOM-TAG:type=SpliceOut,ID=1,time=71819.7222,duration=30.0,url= 
   >"www.example.com:8090?parameter1=xyz&parameter2=abc"
-  >```  >
+  >```
   >
 
 * If the extraction fails because of a custom tag format, the metadata property will be empty and your application must extract the actual information. In this case, no error is thrown.

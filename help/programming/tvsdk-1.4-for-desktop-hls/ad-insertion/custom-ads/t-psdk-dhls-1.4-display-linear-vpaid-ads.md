@@ -42,13 +42,13 @@ To set up an ad container for displaying VPAID ads (version 1.0 or 2.0) within a
 
    >[!NOTE]
    >
-   >When you get a full-screen-change event and you set the new size on the ad container, pass the stage display state as follows to ensure that the player resizes correctly:    >
+   >When you get a full-screen-change event and you set the new size on the ad container, pass the stage display state as follows to ensure that the player resizes correctly:
    >
-   >```   >
+   >```
    >private function onFullScreenChange(event:FullScreenEvent):void { 
    >if (_adContainer) 
    >{ _adContainer.setSize(stage.stageWidth, stage.stageHeight, stage.displayState); } 
    >}
-   >```   >
+   >```
    >
 

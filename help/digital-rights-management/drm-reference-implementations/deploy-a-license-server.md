@@ -16,7 +16,7 @@ uuid: bee7ead1-ed13-4894-80f9-5196bf2f818f
 
    >[!NOTE]
    >
-   >If you previously deployed license server WAR files, you might need to delete the unpacked WAR directories in the [!DNL webapps] directory on the Tomcat server:        >
+   >If you previously deployed license server WAR files, you might need to delete the unpacked WAR directories in the [!DNL webapps] directory on the Tomcat server:
    >
    >* [!DNL webapps/flashaccess] 
    >* [!DNL webapps/edcws] 

@@ -28,9 +28,9 @@ You can override the default aspect ratio behavior by specifying a different *sc
    >TVSDK uses a `StageVideo` object for displaying the video, and because `StageVideo` objects are not on the display list, the `viewPort` parameter contains the absolute coordinates of the video. 
    >
    >
-   >For example:    >
+   >For example:
    >
-   >```   >
+   >```
    >public class CustomScalePolicy implements MediaPlayerViewScalePolicy { 
    >    /** 
    >     * Default constructor. 
@@ -49,7 +49,7 @@ You can override the default aspect ratio behavior by specifying a different *sc
    >        [...] 
    >    } 
    >}
-   >```   >
+   >```
    >
 
 1. Assign your implementation to the `MediaPlayerView` property.

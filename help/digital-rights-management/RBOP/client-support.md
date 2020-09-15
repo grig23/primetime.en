@@ -19,7 +19,7 @@ This section describes the features available with different versions of Flash P
 >[!NOTE]
 >
 >* All Flash and mobile platforms support Error Dispatch, however only the TVSDK clients listed above process RBOP-related errors.
->* RBOP-related [DRM Client Errors](https://help.adobe.com/en_US/primetime/drm/index.html#reference-DRM_Client_Error_Messages): >
+>* RBOP-related [DRM Client Errors](https://help.adobe.com/en_US/primetime/drm/index.html#reference-DRM_Client_Error_Messages):
 >    * **3371** - Malformed resolution based on output protection constraints in the license. 
 >    * **3372** - The content's resolution is larger than the maximum resolution that is specified in the output-protection constraint. (This can occur if somebody tried to inject content meant for another device.) 
 >    * **3373** - The content's resolution is larger than the resolution that is specified by the currently active output-protection constraint. (This means we will have to downgrade.)

@@ -18,7 +18,8 @@ To activate this optional CRS feature, contact your Adobe representative.
 
 >[!NOTE]
 >
->For CRS Version 3.0 (and earlier) customers, beginning with CRS Version 3.1 the following changes have improved both security and performance: >
+>For CRS Version 3.0 (and earlier) customers, beginning with CRS Version 3.1 the following changes have improved both security and performance:
+>
 >* CRS 3.1 continues with `https:` if the content being repackaged uses `https:`. This reduces the potential for some players to present unsecure content.
 >
 >* CRS 3.1 greatly minimizes network calls, improving video startup time.

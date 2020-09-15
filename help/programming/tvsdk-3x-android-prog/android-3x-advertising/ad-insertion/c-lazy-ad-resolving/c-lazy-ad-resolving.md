@@ -41,7 +41,8 @@ Ad resolving and ad loading may cause an unacceptable delay for a user waiting f
 
 >[!IMPORTANT]
 >
->**Factors to consider with Lazy Ad Resolving:** >
+>**Factors to consider with Lazy Ad Resolving:**
+>
 >* Lazy Ad Resolving is only supported for VOD streams only with modes SERVER_MAP and MANIFEST_CUES. 
 >* Lazy Ad Resolving is not enabled by default. If disabled, all ads are resolved on VOD streams before playback starts. 
 >* Lazy Ad Resolving is incompatible with the Instant On feature. For more information about Instant On, see Instant On. 

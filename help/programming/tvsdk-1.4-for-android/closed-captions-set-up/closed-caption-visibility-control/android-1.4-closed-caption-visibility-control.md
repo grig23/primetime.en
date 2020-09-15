@@ -16,13 +16,15 @@ You can control the visibility of closed captions. When visibility is on, the cu
 
 >[!NOTE]
 >
->The visibility values for closed captions are defined in `MediaPlayer.Visibility`. >
->```java>
+>The visibility values for closed captions are defined in `MediaPlayer.Visibility`.
+>
+>```java
 >enum Visibility { 
 >    VISIBLE,  
 >    INVISIBLE 
 >}
->```>
+>```
+>
 
 1. Wait for the MediaPlayer to have at least the PREPARED state (see [Wait for a valid state](../../../tvsdk-1.4-for-android/ui-configure/android-1.4-ui-state-prepared-wait-for.md)).
 1. To get the current visibility setting for closed captions, use the getter method in MediaPlayer, which returns a visibility value.

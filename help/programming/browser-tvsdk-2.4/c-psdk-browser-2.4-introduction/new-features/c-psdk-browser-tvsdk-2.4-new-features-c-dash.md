@@ -19,7 +19,7 @@ Browser TVSDK supports a number of DASH features that you can implement to add f
 
 >[!TIP]
 >
->In the feature matrix tables below,  ![](assets/supported15.png)>
+>In the feature matrix tables below,  ![](assets/supported15.png)
 >means that the feature is supported in the current release.
 
 The following features are supported: 

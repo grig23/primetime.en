@@ -68,12 +68,10 @@ Here is an example of how to retrieve notifications:
 
    >[!NOTE]
    >
-   >To avoid this overflow, do one of the following:    >
-   >    
-   >    
-   >    1. Decrease the time interval that drives the thread that polls for new events. 
-   >    1. Increase the size of the notification list. 
-   >    
+   >To avoid this overflow, do one of the following:
+   >
+   >1. Decrease the time interval that drives the thread that polls for new events. 
+   >1. Increase the size of the notification list. 
    >
 
 1. Serialize the latest notification event entries in JSON format and send the entries to a remote server for postprocessing. 

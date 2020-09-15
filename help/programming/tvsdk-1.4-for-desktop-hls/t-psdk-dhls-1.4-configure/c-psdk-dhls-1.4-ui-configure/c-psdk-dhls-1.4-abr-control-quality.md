@@ -76,16 +76,16 @@ This class also includes the `toABRControlParameters()` helper method. Use this 
 
    >[!NOTE]
    >
-   >For example, the following sample initializes all parameters to the defaults, then sets only the policy to conservative, and restricts the maximum bit rate to 1000000:    >
+   >For example, the following sample initializes all parameters to the defaults, then sets only the policy to conservative, and restricts the maximum bit rate to 1000000:
    >
-   >```   >
+   >```
    >var abrBuilder:ABRControlParametersBuilder =  
    >  new ABRControlParametersBuilder(); 
    >abrBuilder.policy = ABRControlParameters.CONSERVATIVE_POLICY; 
    >abrBuilder.maxBitRate = 1000000; 
    >mediaPlayer.abrControlParameters =  
    >  abrBuilder.toABRControlParameters();
-   >```   >
+   >```
    >
 
 1. Modify individual ABR parameters at run time.

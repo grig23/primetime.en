@@ -94,10 +94,7 @@ The ability to exit from an ad break early is identified through a custom tag in
        >
        >The following code assumes that the app has an implementation for the `isCueInOpportunity` method. 
        >
-       >
-       >
-       >
-       >```       >
+       >```
        >- (PTPlacementOpportunity *)preparePlacementOpportunity:(PTTimedMetadata *)timedMetadata 
        >{ 
        >    if ([self isCueInOpportunity:timedMetadata]) 
@@ -109,7 +106,7 @@ The ability to exit from an ad break early is identified through a custom tag in
        >        return [super preparePlacementOpportunity:timedMetadata]; 
        >    } 
        >}
-       >```       >
+       >```
        >
 
     1. Register the extended opportunity resolver on the `PTDefaultMediaPlayerClientFactory` instance.

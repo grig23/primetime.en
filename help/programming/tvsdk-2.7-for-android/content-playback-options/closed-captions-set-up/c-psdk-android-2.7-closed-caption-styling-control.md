@@ -52,7 +52,7 @@ You can style the closed-caption text with TVSDK methods.
 1. Optionally get the current closed-caption style settings by doing one of the following:
 
     * Get all the style settings with `MediaPlayer.getCCStyle` The return value is an instance of the `TextFormat` interface.     
-    
+
       ```java    
       /** 
       * @return the current closed captioning style.  
@@ -64,8 +64,8 @@ You can style the closed-caption text with TVSDK methods.
       ```
 
     * Get the settings one at a time through the `TextFormat` interface getter methods.     
-    
-      ```java    
+
+      ```java
       public java.lang.String getFontColor(); 
       public java.lang.String getBackgroundColor(); 
       public java.lang.String getFillColor(); // retrieve the font fill color 
@@ -82,8 +82,8 @@ You can style the closed-caption text with TVSDK methods.
 1. To change the style settings, do one of the following:
 
     * Use the setter method `MediaPlayer.setCCStyle`, passing an instance of the `TextFormat` interface:     
-    
-      ```java    
+
+      ```java
       /** 
       * Sets the closed captioning style. Used to control the closed captioning font, 
       * size, color, edge and opacity.  
@@ -100,8 +100,8 @@ You can style the closed-caption text with TVSDK methods.
     * Use the `TextFormatBuilder` class, which defines individual setter methods.
 
       The `TextFormat` interface defines an immutable object so there are only getter methods and no setters. You can set the closed-caption styling parameters only with the `TextFormatBuilder` class:     
-    
-      ```java    
+
+      ```java
       // set font type 
       public void setFont(Font font)  
       public void setBackgroundColor(String backgroundColor) 
@@ -124,7 +124,7 @@ You can style the closed-caption text with TVSDK methods.
 
       >[!IMPORTANT]
       >
-      >**Color Settings:** In Android TVSDK 2.X, an enhancement was made to color styling of closed captions. The enhancement allows for setting closed caption colors using a hex string representing RGB color values. The RGB hex color representation is the familiar 6 byte string you use in applications such as Photoshop:       >
+      >**Color Settings:** In Android TVSDK 2.X, an enhancement was made to color styling of closed captions. The enhancement allows for setting closed caption colors using a hex string representing RGB color values. The RGB hex color representation is the familiar 6 byte string you use in applications such as Photoshop:
       >
       >    * FFFFFF = Black 
       >    * 000000 = White 
@@ -135,9 +135,11 @@ You can style the closed-caption text with TVSDK methods.
       >and so on.
       >
       >In your application, whenever you pass color styling information to `TextFormatBuilder`, you still use the `Color` enumeration as before, but now you must add `getValue()` to the color to get the value as a string. For example:
+	  >
       >```
       >tfb = tfb.setBackgroundColor(TextFormat.Color.RED <b>.getValue()</b>);
       >```
+	  >
 
 Setting the closed-caption style is an asynchronous operation, so it might take up to a few seconds for the changes to appear on the screen.
 

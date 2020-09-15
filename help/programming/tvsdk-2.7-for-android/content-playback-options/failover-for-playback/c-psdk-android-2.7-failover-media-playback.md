@@ -43,7 +43,8 @@ If the video engine is continuously unable to obtain segments, it limits continu
 
 >[!NOTE]
 >
->Here are some restrictions you should be aware of: >
+>Here are some restrictions you should be aware of:
+>
 >* The adaptive bit rate (ABR) control parameters are not taken into consideration when a failover occurs. 
 >
 >  This is because the failover mechanism is designed to use any of the currently available playlists, regardless of their bit rate profile, as backup streams. 
