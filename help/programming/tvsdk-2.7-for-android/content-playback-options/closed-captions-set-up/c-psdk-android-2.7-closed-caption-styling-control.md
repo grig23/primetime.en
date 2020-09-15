@@ -135,11 +135,11 @@ You can style the closed-caption text with TVSDK methods.
       >and so on.
       >
       >In your application, whenever you pass color styling information to `TextFormatBuilder`, you still use the `Color` enumeration as before, but now you must add `getValue()` to the color to get the value as a string. For example:
-	  >
+      >
       >```
       >tfb = tfb.setBackgroundColor(TextFormat.Color.RED <b>.getValue()</b>);
       >```
-	  >
+      >
 
 Setting the closed-caption style is an asynchronous operation, so it might take up to a few seconds for the changes to appear on the screen.
 
