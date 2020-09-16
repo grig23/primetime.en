@@ -1,21 +1,36 @@
 ---
-title:  PTAI 20.9.1 release notes
-description: PTAI 20.9.1 release notes describe what is new or changed, the resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
+title:  PTAI 20.9.2 release notes
+description: PTAI 20.9.2 release notes describe what is new or changed, the resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
 ---
 
-# Primetime Dynamic Ad Insertion 20.9.1 Release Notes
+# Primetime Dynamic Ad Insertion 20.9.2 Release Notes
 
-Dynamic Ad Insertion 20.9.1 release notes describe what is new or changed, issues resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
+Dynamic Ad Insertion 20.9.2 release notes describe what is new or changed, issues resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
 
-## What's new in PTAI 20.9.1
+## What's new in PTAI 20.9.2
+
+**When:** Tuesday, September 15, 2020 from 3:30 AM to 6:30 AM Eastern Time
+
+**Enhancements**
+
+* Provided support for the inclusion of non-linear ad types using `EXT-X-MARKER` tags.
+For more information or to enable this feature, contact your technical support representative.
+
+* Provided support for limiting overall ad resolution time, if providers take too long to respond. To enable limiting, set the bootstrap API parameter `ptadtimeout` to a value in milliseconds.
+
+  >[!NOTE]
+  >
+  >This timeout applies only to ad requests, not to ad creative requests.
+
+### Enhancements and fixes in previous release versions
+
+#### Version 20.9.1
 
 **When:** Tuesday, September 1, 2020 from 3:30 AM to 7:30 AM Eastern Time
 
 **Changes**
 
 * Fixed the issue for customers using HLS/CMAF, where EXT-X-MAP was sometimes missing CDN tokens or EXT-X-MAP tags sometimes incorrectly rolled out of the DVR window.
-
-### Enhancements and fixes in previous release versions
 
 #### Version 20.8.4
 
