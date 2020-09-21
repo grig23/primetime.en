@@ -126,11 +126,11 @@ You can style the closed-caption text with TVSDK methods.
       >
       >**Color Settings:** In Android TVSDK 2.X, an enhancement was made to color styling of closed captions. The enhancement allows for setting closed caption colors using a hex string representing RGB color values. The RGB hex color representation is the familiar 6 byte string you use in applications such as Photoshop:
       >
-      >    * FFFFFF = Black 
-      >    * 000000 = White 
-      >    * FF0000 = Red 
-      >    * 00FF00 = Green 
-      >    * 0000FF = Blue 
+      >* FFFFFF = Black 
+      >* 000000 = White 
+      >* FF0000 = Red 
+      >* 00FF00 = Green 
+      >* 0000FF = Blue 
       >
       >and so on.
       >
