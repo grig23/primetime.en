@@ -10,9 +10,9 @@ uuid: 03632da3-ae20-427c-bd24-4794ab627cc8
 
 Query parameters tell the manifest server what sort of client sent the request and what that client wants the manifest server to do. Some are required and some have specific acceptable formats or values.
 
-The complete URL consists of the base URL followed by a question mark, then `parameterName=value` arguments, separated by ampersands: `Base URL?name1=value1&name2=value2& . . .&name n=value n` 
+The complete URL consists of the base URL followed by a question mark, then `parameterName=value` arguments, separated by ampersands: `Base URL?name1=value1&name2=value2& . . .&name n=value n`.
 
-## Recognized parameters {#section_072845B7FA94468C8068E9092983C9E6}
+## Recognized parameters {#recognized-parameters}
 
 The manifest server recognizes the following parameters. It processes them or passes them, along with all unrecognized parameters, to the ad server.
 
@@ -43,3 +43,5 @@ The manifest server recognizes the following parameters. It processes them or pa
 |scteTracking|Fetch  M3U8 , before  SCTE  tracking information can be fetched in JSON V2 sidecar.  <br/>This parameter indicates to the manifest server that the player fetching the  M3U8  needs  SCTE  tag information to be retrieved.|No (default:  false )|true  or  false  Note:  The SCTE-35 data is returned in the JSON sidecar with the following combination of query parameter values: <ul><li>`ptcueformat=turner | elemental | nfl | DPIScte35` </li><li>pttrackingversion=v2 </li><li>scteTracking=true</li></ul>|
 |vetargetmultiplier|The number of segments from the live point The pre-roll offset is configured using:   `(  vetargetmultiplier  *  targetduration ) +  vebufferlength`  <br/><br/>**Note**:  Live/Linear only|No (default:  3.0 )|Float|
 |vebufferLength|The number of seconds from the live point  Note:  Live/Linear only|No (default:  3.0 )|Float|
+| ptadtimeout | To limit overall ad resolution time, if providers take too long to respond. | Yes, to enable | value in millisecond |
+| ptparallelstream | Allows customers with players that request CMAF demuxed audio or video streams in parallel to ensure that ads in audio and video tracks are consistent. |  Yes, to enable the feature or omit to disable. | true |

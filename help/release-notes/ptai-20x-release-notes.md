@@ -1,13 +1,23 @@
 ---
-title:  PTAI 20.9.2 release notes
-description: PTAI 20.9.2 release notes describe what is new or changed, the resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
+title:  PTAI 20.9.3 release notes
+description: PTAI 20.9.3 release notes describe what is new or changed, the resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
 ---
 
-# Primetime Dynamic Ad Insertion 20.9.2 Release Notes
+# Primetime Dynamic Ad Insertion 20.9.3 Release Notes
 
-Dynamic Ad Insertion 20.9.2 release notes describe what is new or changed, issues resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
+Dynamic Ad Insertion 20.9.3 release notes describe what is new or changed, issues resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
 
-## What's new in PTAI 20.9.2
+## What's new in PTAI 20.9.3
+
+**When:** Wednesday, September 30, 2020 at 3:30 AM to 6:30 AM Eastern Time
+
+**Changes**
+
+* Added Bootstrap API parameter `ptparallelstream`. This allows customers with players that request CMAF demuxed audio or video streams in parallel to ensure that ads in audio and video tracks are consistent. Set the parameter value to true to enable this feature or omit to disable.
+
+### Enhancements and fixes in previous release versions
+
+#### Version 20.9.2
 
 **When:** Tuesday, September 15, 2020 from 3:30 AM to 6:30 AM Eastern Time
 
@@ -21,8 +31,6 @@ For more information or to enable this feature, contact your technical support r
   >[!NOTE]
   >
   >This timeout applies only to ad requests, not to ad creative requests.
-
-### Enhancements and fixes in previous release versions
 
 #### Version 20.9.1
 

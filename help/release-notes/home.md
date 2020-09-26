@@ -9,11 +9,9 @@ seo-description: null
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-## Enhancements and fixes in PTAI 20.9.2
+## Enhancements and fixes in PTAI 20.9.3
 
-The release focused on providing support for the inclusion of non-linear ad types using `EXT-X-MARKER` tags, and for limiting overall ad resolution time when providers take too long to respond.
-
-For more information about the current released version of Dynamic Ad Insertion, see [PTAI release notes](ptai-20x-release-notes.md).
+The release focused providing bootstrap API parameter `ptparallelstream`, to allow customers with players that request CMAF demuxed audio or video streams in parallel to ensure that ads in audio and video tracks are consistent.
 
 ## Fixes in TVSDK 3.12 Android
 
