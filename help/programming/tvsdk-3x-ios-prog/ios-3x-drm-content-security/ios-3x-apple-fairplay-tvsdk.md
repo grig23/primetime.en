@@ -150,7 +150,7 @@ You can implement Apple FairPlay Streaming, which is Apple's DRM solution, in yo
 
 1. Create your FairPlay Customer Resource Loader by implementing `PTAVAssetResourceLoaderDelegate`. For more information, see Apple FairPlay in TVSDK applications.
 
-      >[!NOTE]
+   >[!NOTE]
    >
    >Ensure that you follow the instructions in the *FairPlay Streaming Program Guide* ( *FairPlayStreaming_PG.pdf*), which is included in [FairPlay Server SDK for Developing a FPS-Aware App](https://developer.apple.com/services-account/download?path=/Developer_Tools/FairPlay_Streaming_SDK/FairPlay_Streaming_Server_SDK.zip)).
 

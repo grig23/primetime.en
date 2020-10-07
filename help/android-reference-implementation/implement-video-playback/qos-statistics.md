@@ -33,8 +33,8 @@ The `QoSManager` tracks QoS statistics by getting device information, attaching 
     <b>true</b>, config, mediaPlayer);
 
     >[!NOTE]
-   >
-   >Changing the boolean to `false` disables QoS reporting.
+    >
+    >Changing the boolean to `false` disables QoS reporting.
 
 2. Add event listeners:
 
