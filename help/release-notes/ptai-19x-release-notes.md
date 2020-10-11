@@ -1,11 +1,11 @@
 ---
 title:  PTAI 19.11.1 release notes
-description: PTAI 19.11.1 release notes describe what is new or changed, the resolved and known issues in Primetime Dynamic Ad Insertion in the year 2019.
+description: PTAI 19.11.1 release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2019.
 ---
 
-# Primetime Dynamic Ad Insertion 19.11.1 Release Notes
+# Primetime Ad Insertion 19.11.1 Release Notes
 
-Dynamic Ad Insertion 19.11.1 release notes describe what is new or changed, issues resolved and known issues in Primetime Dynamic Ad Insertion in the year 2019.
+Primetime Ad Insertion 19.11.1 release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2019.
 
 ## What's new in PTAI 19.11.1
 

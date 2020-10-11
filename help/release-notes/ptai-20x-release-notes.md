@@ -1,21 +1,29 @@
 ---
-title:  PTAI 20.9.3 release notes
-description: PTAI 20.9.3 release notes describe what is new or changed, the resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
+title:  PTAI 20.10.1 release notes
+description: PTAI 20.10.1 release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2020.
 ---
 
-# Primetime Dynamic Ad Insertion 20.9.3 Release Notes
+# Primetime Ad Insertion 20.10.1 Release Notes
 
-Dynamic Ad Insertion 20.9.3 release notes describe what is new or changed, issues resolved and known issues in Primetime Dynamic Ad Insertion in the year 2020.
+Primetime Ad Insertion 20.10.1 release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2020.
 
-## What's new in PTAI 20.9.3
+## What's new in PTAI 20.10.1
+
+**When:** Tuesday, October 13, 2020 from 03:00 AM to 07:00 AM Eastern Time
+
+**Changes**
+
+* Maintenance updates.
+
+### Enhancements and fixes in previous release versions
+
+#### Version 20.9.3
 
 **When:** Wednesday, September 30, 2020 at 3:30 AM to 6:30 AM Eastern Time
 
 **Changes**
 
 * Added Bootstrap API parameter `ptparallelstream`. This allows customers with players that request CMAF demuxed audio or video streams in parallel to ensure that ads in audio and video tracks are consistent. Set the parameter value to true to enable this feature or omit to disable.
-
-### Enhancements and fixes in previous release versions
 
 #### Version 20.9.2
 
@@ -213,6 +221,6 @@ Where resolution is associated with a reported issue, a Zendesk reference is dis
 
 ## Known issues and limitations
 
-**PTAI 20.3.3**
+**PTAI 20.10.1**
 
 No new limitation added.

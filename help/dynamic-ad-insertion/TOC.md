@@ -9,6 +9,14 @@ user-guide-description: Explains how to monetize content by inserting user-targe
 # Dynamic Ad Insertion Help {#ad-insertion}
 
 + [Dynamic Ad Insertion Overview](home.md)
++ Get started with Primetime Ad Insertion{#get-started}
+  + [Overview](get-started-ptai.md)
+  + [Prepare to use Primetime Ad Insertion](setup-ptai.md)
+  + [Integrate your ad server](integrate-ad-server.md)
+  + [Integrate your CDN](integrate-cdn.md)
+  + [Use ad insertion in live/linear streams](ad-insertion-live-linear-stream.md)
+  + [Use ad insertion for VOD](ad-insertion-vod.md)
+  + [Set up ad tracking](set-up-ad-tracking.md)
 + [Dynamic Ad Insertion Release Notes](https://docs.adobe.com/content/help/en/primetime/release-notes/ptai/ptai-19x-release-notes.html)
 + [Manifest Server Debugging Tool](manifest-server-debugging-tool.md)
 <!-- + [Server Side Ad Insertion debugging dashboard](ssai-debugging-dashboard.md)-->

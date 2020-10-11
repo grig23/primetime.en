@@ -9,9 +9,9 @@ seo-description: null
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-## Enhancements and fixes in PTAI 20.9.3
+## Enhancements and fixes in PTAI 20.10.1
 
-The release focused providing bootstrap API parameter `ptparallelstream`, to allow customers with players that request CMAF demuxed audio or video streams in parallel to ensure that ads in audio and video tracks are consistent.
+The release focused on maintenance updates.
 
 ## Fixes in TVSDK 3.12 Android
 
