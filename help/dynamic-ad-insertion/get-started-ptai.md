@@ -19,7 +19,7 @@ After the system has been properly set up, a typical workflow might look as foll
 
 1. Primetime Ad Insertion fetches the requested stream(s) from the content CDN, parses/reads any cue information, makes calls to the ad server and replaces ad breaks as necessary.
 
-1. Primetime Ad Insertion normalizes the manifest by rewriting resource URLs and detecting whether ad creatives require transcoding, see [Just-in-time ad transcoding](just-in-time-transcoding.md) and [packaging](just-in-time-repackaging.md).
+1. Primetime Ad Insertion normalizes the manifest by rewriting resource URLs and detecting whether ad creatives require transcoding. <!-- see [Just-in-time ad transcoding](just-in-time-transcoding.md) and [packaging](just-in-time-repackaging.md).-->
 
 1. Primetime Ad Insertion fetches the required ad creatives and inserts the appropriate fragments into the manifests.
 
