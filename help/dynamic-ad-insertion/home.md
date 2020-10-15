@@ -1,6 +1,6 @@
 ---
-title: Primetime Dynamic Ad Insertion
-seo-title: Adobe Primetime Dynamic Ad Insertion Help
+title: Primetime Ad Insertion
+seo-title: Adobe Primetime Ad Insertion Help
 description: null
 seo-description: null
 ---
@@ -9,9 +9,9 @@ seo-description: null
 
 Your viewers are watching TV not just on TV but on phones, tablets, laptops, and various other devices. Yet they expect a TV-quality experience. Therefore, delivering such an experience is vital even in complex situations like sporting events or when you’re using real-time programmatic ad decisioning. As the ad inventory is perishable, you cannot afford to have your technology failing even for a moment.
 
-Adobe Primetime Dynamic Ad Insertion helps you create targeted ad experiences without buffering or playback errors. You can insert ads into live, linear, or VOD content. You can also minimize complexity by taking advantage of Primetime’s existing integrations with leading ad servers. Deliver superior ad experiences with always-on viewability and support for Skippable VAST Ads. Ensure higher engagement and more revenue for you by delivering better viewing experiences for your customers across devices.
+Adobe Primetime Ad Insertion helps you create targeted ad experiences without buffering or playback errors. You can insert ads into live, linear, or VOD content. You can also minimize complexity by taking advantage of Primetime’s existing integrations with leading ad servers. Deliver superior ad experiences with always-on viewability and support for Skippable VAST Ads. Ensure higher engagement and more revenue for you by delivering better viewing experiences for your customers across devices.
 
-## Primetime Dynamic Ad Insertion Help {#ad-insertion-user-guide}
+## Primetime Ad Insertion Help {#ad-insertion-user-guide}
 
 This self help guide explains how to monetize content by inserting user-targeted dynamic ads on the server and engage audience with personalized ads. Use the navigation on the left to drill down to know how various configurations interact and how to track ad insertions.
 
@@ -19,7 +19,7 @@ This self help guide explains how to monetize content by inserting user-targeted
 
 | User Guide | Description |
 |---|---|
-| [Dynamic Ad Insertion Release Notes](../release-notes/ptai-19x-release-notes.md) | Provides release-specific information, system requirements, limitations, fixed issues, and known issues. |
+| [Primetime Ad Insertion Release Notes](../release-notes/ptai-19x-release-notes.md) | Provides release-specific information, system requirements, limitations, fixed issues, and known issues. |
 |[Overview of Manifest Server interactions](msapi-topics/ms-overview.md)| Gives an overview about the Manifest Server and how does it coordinate the various systems. |
 |[Manifest Server Debugging Tool](manifest-server-debugging-tool.md)| Gives an insight into Manifest Server debugging tool and debugging information it provides to investigate ad insertion problems. |
 |[Overview of Creative Repackaging Service](creative-repackaging-service/crs-overview.md)| Explains how CRS ensures that non-HLS ad creative play back properly in HLS streams.|
