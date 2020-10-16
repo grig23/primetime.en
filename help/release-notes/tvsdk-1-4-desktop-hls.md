@@ -728,9 +728,6 @@ mime types for HLS format had been case sensitive, this was incorrect and has be
 * Zendesk #1423 - HLS playback failure is locking up Flash Player (with no error reported) 
 * Zendesk #1674 - ClosedCaption Not showing up, correct 708 caption display when 0x03 ETX codes are missing.
 
-</p>
-</details>
-
 ## Known issues {#known-issues}
 
 * Closed Caption will not work with audio-only content because the caption system needs video to work.
