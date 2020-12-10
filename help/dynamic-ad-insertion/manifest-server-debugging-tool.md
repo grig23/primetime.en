@@ -305,7 +305,7 @@ Records of this type log requests the manifest server makes for WEBVTT captions.
 
 ### TRACE_WEBVTT_RESPONSE records {#trace-webvtt-response-records}
 
-Records ``of ``this ``type ``log ``responses ``the ``manifest ``server ``sends ``to ``clients ``in `` `answer` ``to ``requests `` `for` ``WEBVTT ``captions. Fields beyond TRACE_WEBVTT_RESPONSE ``appear in the order shown in the table, separated `by`tabs.
+Records of this type log responses the manifest server sends to clients in answer to requests for `WEBVTT` captions. Fields beyond `TRACE_WEBVTT_RESPONSE` appear in the order shown in the table, separated by tabs.
 
 |Field|Type|Description|
 |--- |--- |--- |
