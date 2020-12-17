@@ -1,21 +1,45 @@
 ---
-title:  PTAI 20.10.1 release notes
-description: PTAI 20.10.1 release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2020.
+title:  PTAI 20.12.1 release notes
+description: The PTAI release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2020.
 ---
 
-# Primetime Ad Insertion 20.10.1 Release Notes
+# Primetime Ad Insertion 20.12.1 Release Notes
 
-Primetime Ad Insertion 20.10.1 release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2020.
+Primetime Ad Insertion 20.12.1 release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2020.
 
-## What's new in PTAI 20.10.1
+## What's new in PTAI 20.12.1
+
+**When:** Tuesday, December 08, 2020 from 01:00 AM to 04:00 AM Eastern Time
+
+**Changes**
+
+* Includes hotfix to address intermittent client connectivity (5xx) issues in Primetime Ad Insertion encountered on Nov 30, 2020.
+
+### Enhancements and fixes in previous release versions
+
+#### Version 201.11.1
+
+**When:** Thursday, November 5, 2020 from 2:00 AM to 05:00 AM Eastern Time
+
+**Changes**
+
+* Maintenance updates.
+
+#### Version 201.10.2
+
+**When:** Thursday, Oct 29, 2020 from 12:01 AM to 06:00 AM Eastern Time
+
+**Changes**
+
+* Maintenance updates.
+
+#### Version 201.10.1
 
 **When:** Tuesday, October 13, 2020 from 03:00 AM to 07:00 AM Eastern Time
 
 **Changes**
 
 * Maintenance updates.
-
-### Enhancements and fixes in previous release versions
 
 #### Version 20.9.3
 

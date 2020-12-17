@@ -9,9 +9,9 @@ seo-description: null
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-## Enhancements and fixes in PTAI 20.10.1
+## Enhancements and fixes in PTAI 20.12.1
 
-The release focused on maintenance updates.
+The release includes a hotfix to to address intermittent client connectivity issues.
 
 ## Fixes in TVSDK 3.12 Android
 
