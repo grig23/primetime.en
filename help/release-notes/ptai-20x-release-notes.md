@@ -17,7 +17,7 @@ Primetime Ad Insertion 20.12.1 release notes describe what is new or changed, is
 
 ### Enhancements and fixes in previous release versions
 
-#### Version 201.11.1
+#### Version 20.11.1
 
 **When:** Thursday, November 5, 2020 from 2:00 AM to 05:00 AM Eastern Time
 
@@ -25,7 +25,7 @@ Primetime Ad Insertion 20.12.1 release notes describe what is new or changed, is
 
 * Maintenance updates.
 
-#### Version 201.10.2
+#### Version 20.10.2
 
 **When:** Thursday, Oct 29, 2020 from 12:01 AM to 06:00 AM Eastern Time
 
@@ -33,7 +33,7 @@ Primetime Ad Insertion 20.12.1 release notes describe what is new or changed, is
 
 * Maintenance updates.
 
-#### Version 201.10.1
+#### Version 20.10.1
 
 **When:** Tuesday, October 13, 2020 from 03:00 AM to 07:00 AM Eastern Time
 
