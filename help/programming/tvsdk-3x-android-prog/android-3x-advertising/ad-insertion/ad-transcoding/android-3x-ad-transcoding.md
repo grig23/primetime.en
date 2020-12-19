@@ -25,7 +25,7 @@ To activate this optional CRS feature, contact your Adobe representative.
 >* CRS 3.1 greatly minimizes network calls, improving video startup time.
 >
 
-For more information about CRS, see [Creative Packaging Service (CRS)](../../../../../dynamic-ad-insertion/creative-repackaging-service/crs-overview.md).
+For more information about CRS, see [Creative Packaging Service (CRS)](../../../../../primetime-ad-insertion/creative-repackaging-service/crs-overview.md).
 
 ## Enable CRS in TVSDK applications {#enable-crs-in-tvsdk-applications}
 

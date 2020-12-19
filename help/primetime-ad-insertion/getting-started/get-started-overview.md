@@ -26,5 +26,3 @@ After the system has been properly set up, a typical workflow might look as foll
 1. Primetime Ad Insertion delivers the final stitched manifests, including ads, to the client application for playback.
 
 1. Ad delivery and viewability can be measured via either client or server-side ad tracking, see [Setting up Ad Tracking](/help/primetime-ad-insertion/getting-started/set-up-ad-tracking.md).
-
-Primetime Ad Insertion supports most client configurations for HLS/DASH. For more information regarding specific formats or tag support, see [Supported players](/help/primetime-ad-insertion/technical-reference/supported-players.md).

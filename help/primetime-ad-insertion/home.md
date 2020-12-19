@@ -17,8 +17,6 @@ This guide shows how Primetime Ad Insertion helps publishers maximize ad revenue
 |---|---|
 | [Get Started with Primetime Ad Insertion](getting-started/get-started-overview.md) |
 | [Primetime Ad Insertion Release Notes](../release-notes/ptai-20x-release-notes.md) | Provides release-specific information, system requirements, limitations, fixed issues, and known issues. |
-|[Overview of Manifest Server interactions](/help/primetime-ad-insertion/msapi-topics/ms-overview.md)| Gives an overview about the Manifest Server and how does it coordinate the various systems. |
-|[Manifest Server Debugging Tool](performance-monitoring-debugging-reporting/debugging-tool.md)| Gives an insight into Manifest Server debugging tool and debugging information it provides to investigate ad insertion problems. |
 |[Overview of Just-in-Time Ad Transcoding](just-in-time-transcoding/jit-transcoding-overview.md)| Explains how CRS ensures that non-HLS ad creative play back properly in HLS streams.|
 
 ## Key Primetime user guides {#other-primetime-helps}

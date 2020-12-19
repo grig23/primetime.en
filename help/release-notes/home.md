@@ -34,7 +34,7 @@ Check out for more information about the current released version for [iOS](../r
 | [Reference Implementation](/help/android-reference-implementation/home.md) | Helps understand the TVSDK and modify the feature managers to customize your personal player. |
 | [Primetime API references](/help/reference/api-references.md) | Provides detailed information about TVSDK functions, data structures and other programming constructs. |
 | [Digital Rights Management](/help/digital-rights-management/home.md) | Helps you learn more about various user scenarios in Digital Rights Management (DRM) |
-| [Primetime Ad Insertion Help](/help/dynamic-ad-insertion/home.md) | Explains how to monetize content by inserting user-targeted dynamic ads on the server and engage audience with personalized ads. |
+| [Primetime Ad Insertion Help](/help/primetime-ad-insertion/home.md) | Explains how to monetize content by inserting user-targeted dynamic ads on the server and engage audience with personalized ads. |
 | [Archives](https://helpx.adobe.com/primetime/archives.html) | Download PDFs of the archived documentation. |
 
 ## Helpful resources

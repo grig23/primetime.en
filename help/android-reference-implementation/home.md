@@ -16,7 +16,7 @@ Welcome to the Reference Implementation help for Adobe Primetime. The documents 
 | [Primetime Release Notes](/help/release-notes/home.md) | Provides release-specific information, system requirements, limitations, fixed issues, and known issues. |
 | [Primetime Programming Help](/help/programming/home.md)  | Allows you to learn to develop applications and video players using Java on Android devices and Objective-C on iOS devices. |
 | [Primetime Migration & Conversion Help](/help/migration-guides/home.md) | Explains the conversion and migration process to move from your existing Primetime TVSDK Suite to the next-generation suite.   |
-| [Primetime Ad Insertion Help](/help/dynamic-ad-insertion/home.md) | Explains how to monetize content by inserting user-targeted dynamic ads on the server and engage audience with personalized ads. |
+| [Primetime Ad Insertion Help](/help/primetime-ad-insertion/home.md) | Explains how to monetize content by inserting user-targeted dynamic ads on the server and engage audience with personalized ads. |
 | [Digital Rights Management](/help/digital-rights-management/home.md) | Helps you learn more about various user scenarios in Digital Rights Management (DRM) |
 | [Primetime API references](/help/reference/api-references.md) | Provides detailed information about TVSDK functions, data structures and other programming constructs. |
 | [Archives](https://helpx.adobe.com/primetime/archives.html) | Download PDFs of the archived documentation. |
