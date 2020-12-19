@@ -16,8 +16,6 @@ When TVSDK first encounters an incompatible ad, the player ignores the ad and is
 
 To enable this optional feature, contact your Adobe representative.
 
-For more information about CRS, see [Creative Packaging Service (CRS)](../../../primetime-ad-insertion/creative-repackaging-service/crs-overview.md).
-
 ## Multiple CDN support for CRS ad delivery {#section_900FDDA5454143718F1EB4C9732C8E1C}
 
 While the default Creative Repackaging Service (CRS) scenario is to use one Content Data Network (CDN), you can deploy CRS assets on more than one CDN.
