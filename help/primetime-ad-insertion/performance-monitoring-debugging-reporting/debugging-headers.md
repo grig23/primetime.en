@@ -13,6 +13,7 @@ Example header:
 The description for the fields is as follows:
 
 | Name | Description | Example |
+|--- |--- |--- |
 | isActivePreroll | Whether an ad call for pre-roll was sent | 0 |
 | isActiveMidroll | Whether an ad call for midroll-roll was sent | 1 |
 | Request ID | Internal SSAI | 1594181097704 |
