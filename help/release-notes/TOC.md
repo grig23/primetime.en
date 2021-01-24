@@ -10,7 +10,7 @@ user-guide-description: Provides release-specific information, system requiremen
 
 + [Release Notes Overview](home.md)
 + Primetime Ad Insertion {#ptai}
-  + [PTAI 21.1.1 Release Notes](ptai-21x-release-notes.md)
+  + [PTAI 21.1.2 Release Notes](ptai-21x-release-notes.md)
   + [PTAI 20.12.1 Release Notes](ptai-20x-release-notes.md)
   + [PTAI 19.11.1 Release Notes](ptai-19x-release-notes.md)
 + TVSDK for iOS {#tvsdk-ios}
