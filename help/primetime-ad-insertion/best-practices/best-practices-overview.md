@@ -5,7 +5,7 @@ description:
 
 # Best practices {#best-practices}
 
-For optimal performance and start-up time for your video streams, please refer to the following best practices to analyze and optimize your ad and content workflows.
+For optimal performance and start-up time for your video streams, refer to the following best practices to analyze and optimize your ad and content workflows.
 
 + [Optimize video start-up times](optimize-video-startup-time.md)
 + [Analyze performance](analyze-performance.md)
