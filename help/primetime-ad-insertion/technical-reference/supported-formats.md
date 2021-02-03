@@ -3,7 +3,7 @@ title: Supported Formats
 description: 
 ---
 
-# Supported Formats {supported-formats}
+# Supported Formats {#supported-formats}
 
 Primetime Ad Insertion intercepts and supports ad insertion into the following media streams:
 
