@@ -11,7 +11,7 @@ Primetime Ad Insertion supports ad insertion into multiple VOD assets, using sta
 
 * [IAB VAST](https://www.iab.com/wp-content/uploads/2015/06/VASTv3_0.pdf)
 
-## VOD (Server-Mapped Ads) {#server-mapped-ads}
+## VOD (Ad maps) {#server-mapped-ads}
 
 Primetime Ad Insertion supports VOD insertion with ads inserted prior to the beginning of playback using ad timelines information defined in a VMAP format.  VMAP-specific ad tracking such as breakStart/breakEnd beacons will be delivered with [Ad Tracking](set-up-ad-tracking.md).
 

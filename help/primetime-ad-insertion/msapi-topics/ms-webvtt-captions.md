@@ -1,6 +1,6 @@
 ---
 description: The manifest server supports publisher-enabled WebVTT captions for all HLS video formats. When it receives requests to insert ads into WebVTT captioned content, it does so correctly.
-seo-description: The manifest server supports publisher-enabled WebVTT captions for all HLS video formats. When it receives requests to insert ads into WebVTT captioned content, it does so correctly.
+seo-description: The manifest server supports publisher-enabled WebVTT captions for all HLS/DASH video formats. When it receives requests to insert ads into WebVTT captioned content, it does so correctly.
 seo-title: Support for WebVTT captions
 title: Support for WebVTT captions
 uuid: 1dc728b0-5aeb-4c48-8f3b-54ff4b135742
@@ -8,7 +8,7 @@ uuid: 1dc728b0-5aeb-4c48-8f3b-54ff4b135742
 
 # Support for WebVTT captions {#support-for-webvtt-captions}
 
-The manifest server supports publisher-enabled WebVTT captions for all HLS video formats. When it receives requests to insert ads into WebVTT captioned content, it does so correctly.
+The manifest server supports publisher-enabled WebVTT captions for HLS/DASH video formats. When it receives requests to insert ads into WebVTT captioned content, it does so correctly.
 
 If the publisher includes WebVTT captions in the content, the manifest server sends the client a content stream with captions. WebVTT must be enabled by the publisher for the manifest server to support captions. When the client has WebVTT captions enabled, and sends a request to the manifest server, the manifest server manipulates the timeline and WebVTT track and returns content with stitched ads and captions to the client.
 

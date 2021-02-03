@@ -20,8 +20,6 @@ Primetime Ad Insertion enables the following ad server macros for all streams:
 * Avail duration
 * Current video asset
 
-For technical information regarding specific ad servers or ad macros, see [Supported ad servers and macros](/help/primetime-ad-insertion/technical-reference/supported-ad-servers-and-macros.md).
-
 If additional macros are needed, contact your Adobe Primetime Support representative.
 
 ## Advanced Features {#advanced-features}

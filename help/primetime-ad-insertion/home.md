@@ -15,11 +15,14 @@ This guide shows how Primetime Ad Insertion helps publishers maximize ad revenue
 
 | User Guide | Description |
 |---|---|
-| [Get Started with Primetime Ad Insertion](getting-started/get-started-overview.md) |
+| [Get Started with Primetime Ad Insertion](getting-started/get-started-overview.md) | Provides detailed information on how to get started with Primetime Ad Insertion |
+| [Primetime Ad Insertion Announcements](announcements/overview.md) | Provides the latest articles and announcments related to Primetime Ad Insertion |
 | [Primetime Ad Insertion Release Notes](../release-notes/ptai-20x-release-notes.md) | Provides release-specific information, system requirements, limitations, fixed issues, and known issues. |
-|[Overview of Just-in-Time Ad Transcoding](just-in-time-transcoding/jit-transcoding-overview.md)| Explains how CRS ensures that non-HLS ad creative play back properly in HLS streams.|
+|[Just-in-Time Ad Transcoding](just-in-time-transcoding/jit-transcoding-overview.md)| Explains how Just-in-Time Encoding ensures that incompative creatives play back properly in your HLS/DASH streams.|
+|[Primetime Ad Insertion Technical Reference](/help/primetime-ad-insertion/technical-reference/bootstrap-api.md)| Technical and Bootstrap API reference for Primetime Ad Insertion. |
+|[Monitoring and Debugging](/help/primetime-ad-insertion/performance-monitoring-debugging-reporting/performance-overview.md)| Gives insights into Primetime Ad Insertion monitoring and debugging tools. |
 
-## Key Primetime user guides {#other-primetime-helps}
+## Primetime User guides for client-side libraries {#other-primetime-helps}
 
 |User Guide|Description|
 |---|---|

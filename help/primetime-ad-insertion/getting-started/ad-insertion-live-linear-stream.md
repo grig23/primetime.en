@@ -15,7 +15,9 @@ Primetime Ad Insertion supports a wide range of standard and non-standard cue fo
 
 * [Adobe Digital Program Insertion Signaling Specification](https://www.adobe.com/content/dam/acom/en/devnet/primetime/PrimetimeDigitalProgramInsertionSignalingSpecification.pdf)
 
-* Binary SCTE-35
+* Binary SCTE-35 (both HLS and DASH)
+
+* Textual SCTE-35 (both HLS and DASH)
 
 Contact your Primetime support representative for additional details or other supported cue formats.
 

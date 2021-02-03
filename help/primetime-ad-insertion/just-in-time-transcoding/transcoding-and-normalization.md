@@ -9,7 +9,7 @@ Primetime Ad Insertion will attempt to ensure a consistent viewing experience ac
 
 1. Source stream codecs and bit rates, while always selecting the highest quality/bitrate creative when transcoding
 
-1. Source stream fragment sizes (HLS EXT-X-TARGETDURATION)
+1. Source stream fragment sizes (HLS/#EXT-X-TARGETDURATION)
 
 1. Preferred creative formats for transcoding
 
