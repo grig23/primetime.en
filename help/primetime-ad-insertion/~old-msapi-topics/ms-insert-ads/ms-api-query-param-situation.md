@@ -64,7 +64,7 @@ https://. . .master.m3u8?. . .&ptcueformat=DPISimple&live=false
 
 ## Ad insertion using a custom timeline for VOD {#section_F398F7659164463FA886A4CC787C7B5A}
 
-To ask the manifest server to insert ads into VOD content according to a timeline you supply, set the value of the `pttimeline` parameter to a string specifying the timeline. See [VOD timeline format](/help/primetime-ad-insertion/msapi-topics/ms-changes-vod-timeline/ms-api-timeline-format.md).
+To ask the manifest server to insert ads into VOD content according to a timeline you supply, set the value of the `pttimeline` parameter to a string specifying the timeline. See [VOD timeline format](/help/primetime-ad-insertion/~old-msapi-topics/ms-changes-vod-timeline/ms-api-timeline-format.md).
 
 Here is a sample URL that uses a custom timeline for VOD:
 

@@ -22,7 +22,7 @@ Or, if you specify a valid value other than simple, server-side tracking is invo
 **pttrackingversion**
 
 Example: `pttrackingversion=v2`
-This parameter tells the manifest server which format to use to return tracking information (see [File formats](/help/primetime-ad-insertion/msapi-topics/ms-list-file-formats/ms-api-file-formats.md)).
+This parameter tells the manifest server which format to use to return tracking information (see [File formats](/help/primetime-ad-insertion/~old-msapi-topics/ms-list-file-formats/ms-api-file-formats.md)).
 Specify it on a request to fetch the M3U8 before you request tracking information.When you don't specify it, or specify an invalid value, the manifest server uses v1.
 
 **pttrackingposition**

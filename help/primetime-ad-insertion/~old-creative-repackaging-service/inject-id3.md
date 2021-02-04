@@ -18,7 +18,7 @@ The client player reads the ID3 metadata to enable frame-accurate ad tracking.
 
 ## Workflow for CRS for ID3 Injection {#workflow-for-crs-for-id3-injection}
 
-The workflow for ID3 injection is the same as in [Detailed Workflows for JIT Repackaging.](../creative-repackaging-service/jit-repackage.md) If the manifest server receives the `ptplayer=ios-mobileweb` parameter, it tells CRS to inject ID3 packets into the transcoded ad creative before uploading it to the CDN server.
+The workflow for ID3 injection is the same as in [Detailed Workflows for JIT Repackaging.](../~old-creative-repackaging-service/jit-repackage.md) If the manifest server receives the `ptplayer=ios-mobileweb` parameter, it tells CRS to inject ID3 packets into the transcoded ad creative before uploading it to the CDN server.
 
 >[!NOTE]
 >

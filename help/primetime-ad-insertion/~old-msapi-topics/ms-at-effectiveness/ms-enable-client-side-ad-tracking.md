@@ -10,7 +10,7 @@ uuid: 0a825756-1d9a-43c5-bc22-9b366f39fdbb
 
 You can enable client-side ad tracking by adding the `pttrackingmode` and `pttrackingversion` parameters to your Bootstrap URL request.
 
- With client-side ad tracking enabled, you can also retrieve ad tracking metadata using the Tracking API URL. For more details, see [Query Parameters](/help/primetime-ad-insertion/msapi-topics/ms-at-effectiveness/notvsdk-csat-ms-interface.md).
+ With client-side ad tracking enabled, you can also retrieve ad tracking metadata using the Tracking API URL. For more details, see [Query Parameters](/help/primetime-ad-insertion/~old-msapi-topics/ms-at-effectiveness/notvsdk-csat-ms-interface.md).
 
 To perform client-side ad tracking, use the Tracking API URL.
 

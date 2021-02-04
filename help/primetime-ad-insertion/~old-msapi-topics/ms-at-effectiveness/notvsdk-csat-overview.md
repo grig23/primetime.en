@@ -17,7 +17,7 @@ The manifest server provides an API to enable custom players to request the foll
 * Ad pod progress
 * Content pod progress
 
-The manifest server API assumes that any video player using it meets the minimum requirements. See [Video Player Requirements](/help/primetime-ad-insertion/msapi-topics/ms-player-req.md) for more details.
+The manifest server API assumes that any video player using it meets the minimum requirements. See [Video Player Requirements](/help/primetime-ad-insertion/~old-msapi-topics/ms-player-req.md) for more details.
 
 ## Client-side tracking workflow {#section_cst_flow}
 
@@ -38,7 +38,7 @@ The manifest server API assumes that any video player using it meets the minimum
    u=9a2893fd893cab27da24059ff034b78d&z=173475&pttrackingmode=simple&pttrackingversion=v2&__sid__=docExample02
    ```
 
-   The URL includes the elements described in [Send a command to the Manifest Server](/help/primetime-ad-insertion/msapi-topics/ms-getting-started/ms-sending-cmd.md).
+   The URL includes the elements described in [Send a command to the Manifest Server](/help/primetime-ad-insertion/~old-msapi-topics/ms-getting-started/ms-sending-cmd.md).
 
 1. The manifest server establishes a session for that player and generates a unique session ID. It creates a new variant M3U8 playlist URL, which it returns to the player as a JSON response. The JSON has the following syntax:
 
@@ -135,7 +135,7 @@ The manifest server API assumes that any video player using it meets the minimum
    &z=173475&pttrackingmode=simple&pttrackingversion=v2&pttrackingposition=1
    ```
 
-1. The manifest server returns the playlist file populated with either a  [JSON](/help/primetime-ad-insertion/msapi-topics/ms-list-file-formats/notvsdk-csat-sidecar.md) or [VMAP](/help/primetime-ad-insertion/msapi-topics/ms-list-file-formats/notvsdk-csat-vmap.md) object containing the ad tracking data for the stream-level m3u8 file currently requested.
+1. The manifest server returns the playlist file populated with either a  [JSON](/help/primetime-ad-insertion/~old-msapi-topics/ms-list-file-formats/notvsdk-csat-sidecar.md) or [VMAP](/help/primetime-ad-insertion/~old-msapi-topics/ms-list-file-formats/notvsdk-csat-vmap.md) object containing the ad tracking data for the stream-level m3u8 file currently requested.
 
    >[!NOTE]
    >
@@ -143,7 +143,7 @@ The manifest server API assumes that any video player using it meets the minimum
 
    >[!NOTE]
    >
-   >The manifest server generates the ad tracking object based on the `pttrackingversion` value in the Bootstrap URL. If the `pttrackingversion` is omitted or has an invalid value, then the manifest server will automatically populate the ad tracking information in the `#EXT-X-MARKER` tags in each requested stream-level playlist. See [for more details](/help/primetime-ad-insertion/msapi-topics/ms-at-effectiveness/ms-api-playlists.md).
+   >The manifest server generates the ad tracking object based on the `pttrackingversion` value in the Bootstrap URL. If the `pttrackingversion` is omitted or has an invalid value, then the manifest server will automatically populate the ad tracking information in the `#EXT-X-MARKER` tags in each requested stream-level playlist. See [for more details](/help/primetime-ad-insertion/~old-msapi-topics/ms-at-effectiveness/ms-api-playlists.md).
 
 1. The player requests each ad tracking URL for each ad tracking event at the appropriate time.
 

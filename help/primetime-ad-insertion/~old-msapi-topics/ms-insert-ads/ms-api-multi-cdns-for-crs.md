@@ -20,4 +20,4 @@ You can use multiple CDNs for the following reasons:
 
 When the manifest server makes a look-up for transcoded requests, it uses a bootstrap URL that contains a number of query parameters. If you have set up a multi-CDN environment, the bootstrap URL will also need to contain the `ptcdn` parameter. The manifest server uses this parameter to identify the CDN server from which to get the transcoded version of the ad.
 
-For more details, see [Multi CDN Support](../../creative-repackaging-service/multi-cdn-supportt.md) in the CRS documentation. 
+For more details, see [Multi CDN Support](../../~old-creative-repackaging-service/multi-cdn-supportt.md) in the CRS documentation. 

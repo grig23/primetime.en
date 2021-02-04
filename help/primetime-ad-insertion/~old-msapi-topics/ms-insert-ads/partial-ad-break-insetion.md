@@ -20,7 +20,7 @@ The PABI feature instructs the manifest server ignore the pre-roll ad break and 
 
 >[!NOTE]
 >
->To enable PABI, you will need to specify the [query_params](/help/primetime-ad-insertion/msapi-topics/ms-getting-started/ms-api-query-params.md) in the bootstrap URL.
+>To enable PABI, you will need to specify the [query_params](/help/primetime-ad-insertion/~old-msapi-topics/ms-getting-started/ms-api-query-params.md) in the bootstrap URL.
 
 >[!NOTE]
 >

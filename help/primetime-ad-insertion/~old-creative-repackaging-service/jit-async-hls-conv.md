@@ -28,7 +28,7 @@ The sequence for JIT repackaging is as follows:
 
 ## Asynchronous Repackaging {#section_ACDFB43FDA4B445CB9F2A107FEB4F2F7}
 
-You can use the API described in [Repackaging API](../creative-repackaging-service/api-repackage.md) to pre-transcode a non-HLS creative to minimize loss of impressions and maximize monetization.
+You can use the API described in [Repackaging API](../~old-creative-repackaging-service/api-repackage.md) to pre-transcode a non-HLS creative to minimize loss of impressions and maximize monetization.
 
 ## HLS-to-HLS Conversion {#section_877A0E7E8FAF4C2DB086A31C24D53435}
 
