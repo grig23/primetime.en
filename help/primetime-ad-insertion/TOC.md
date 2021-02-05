@@ -2,7 +2,7 @@
 cloud: experience-cloud
 product: adobe primetime
 audience: end-user
-user-guide-title: Primetime Dynamic Ad Insertion Help
+user-guide-title: Primetime Ad Insertion Help
 ---
 
 # Primetime Ad Insertion Help {#ad-insertion}
