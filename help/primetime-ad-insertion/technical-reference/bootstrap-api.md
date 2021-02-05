@@ -5,7 +5,7 @@ description: Bootstrap API
 
 # Bootstrap API {#bootstrap-api}
 
-The Bootstrap API is typically the URL that is sent to the client/video playback APIs.  For options and parameters that can be configured, refer to the [Bootstrap API parameters](#bootstrap-api-parameters)
+The Bootstrap API is typically the URL that is sent to the client/video playback APIs.  For options and parameters that can be configured, refer to the [Bootstrap API parameters](#bootstrap-api-parameters).
 
 ## Send a command to the Manifest Server {#send-a-command-to-the-manifest-server}
 
@@ -42,7 +42,7 @@ The Bootstrap API is typically the URL that is sent to the client/video playback
    >
    >The manifest server cannot change the protocol (HTTP or HTTPS) of 3rd-party tracking beacons. You must contact the content and 3rd-party ad providers to have them configure the desired protocols.  Segments URL protocols can be changed, however, by default, use the same protocols defined in the target manifests.
 
-## Bootstrap API paraemters {#bootstrap-api-parameters}
+## Bootstrap API parameters {#bootstrap-api-parameters}
 
 Query parameters tell the manifest server what sort of client sent the request and what that client wants the manifest server to do. Some are required and some have specific acceptable formats or values.
 The complete URL consists of the base URL followed by a question mark, then `parameterName=value` arguments separated by ampersands. For example, `Base URL?name1=value1&name2=value2& . . .&name n=value n`.
