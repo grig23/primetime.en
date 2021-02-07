@@ -9,9 +9,9 @@ seo-description: null
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-## Enhancements and fixes in PTAI 21.1.2
+## Enhancements and fixes in PTAI 21.2.1
 
-The release includes upgrade of Primetime Ad Insertion backend memcache clusters.
+The release includes support for DASH output optimization: time-based node consolidation.
 
 ## Fixes in TVSDK 3.12 Android
 
