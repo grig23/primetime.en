@@ -12,8 +12,6 @@ For Digital Video Ad Serving Template (VAST) ads (or creatives) that have the fa
 
 The VAST/Digital Video Multiple Ad Playlist (VMAP) specification states that for ads where VAST fallback is enabled, empty ads automatically trigger the use of fallback ads. When a VAST ad is empty, TVSDK looks for a valid HLS media type replacement among the fallback ads. When a VAST ad in a wrapper has an invalid media type, TVSDK treats this ad as empty. You can configure whether TVSDK should do the same for ads inline in a VMAP. For more information about the VAST `fallbackOnNoAd` feature, see [Digital Video Ad Serving Template (VAST) 3.0](https://www.iab.net/guidelines/508676/digitalvideo/vsuite/vast).
 
-The Primetime ad insertion back end maintains a set of priorities to enable it to choose among different media types in the same VAST/VMAP response. You can find out more about this priority list and how to change it at [Overview of CRS](../../../../dynamic-ad-insertion/creative-repackaging-service/crs-overview.md).
-
 ## Define fallback ad behavior for VMAP inline ads {#define-fallback-ad-behavior-for-vmap-inline-ads}
 
 You can turn on fallback when a VMAP inline ad contains an invalid media type.
