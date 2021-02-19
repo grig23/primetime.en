@@ -1,21 +1,29 @@
 ---
-title:  PTAI 21.2.1 release notes
+title:  PTAI 21.2.2 release notes
 description: The PTAI release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2021.
 ---
 
-# Primetime Ad Insertion 21.2.1 Release Notes
+# Primetime Ad Insertion 21.2.2 Release Notes
 
 Primetime Ad Insertion 21.x.x release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2021.
 
-## What's new in PTAI 21.2.1
+## What's new in PTAI 21.2.2
+
+**When:** Tuesday, February 23, 2021 from 1:00 AM to 04:00 AM Eastern Time
+
+**Changes**
+
+* Added support for EXT-X-IMAGE-STREAM-INF stream insertion/synchronization in HLS streams. The feature is enabled through a server-side configuration. Contact your technical account representative to enable the feature.
+
+### Enhancements and fixes in previous release versions
+
+#### Version 21.2.1
 
 **When:** Wednesday, February 3, 2021 from 1:00 AM to 04:00 AM Eastern Time
 
 **Changes**
 
 * Added support for DASH output optimization: time-based node consolidation.
-
-### Enhancements and fixes in previous release versions
 
 #### Version 21.1.2
 
