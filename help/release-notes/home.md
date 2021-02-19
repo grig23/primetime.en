@@ -9,9 +9,9 @@ seo-description: null
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-## Enhancements and fixes in PTAI 21.2.1
+## Enhancements and fixes in PTAI 21.2.2
 
-The release includes support for DASH output optimization: time-based node consolidation.
+The release includes support for EXT-X-IMAGE-STREAM-INF stream insertion/synchronization in HLS streams. The feature is enabled through a server-side configuration. Contact your technical account representative to enable the feature..
 
 ## Fixes in TVSDK 3.12 Android
 
