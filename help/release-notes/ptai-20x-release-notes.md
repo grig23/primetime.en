@@ -15,9 +15,9 @@ Primetime Ad Insertion 20.12.1 release notes describe what is new or changed, is
 
 * Includes hotfix to address intermittent client connectivity (5xx) issues in Primetime Ad Insertion encountered on Nov 30, 2020.
 
-### Enhancements and fixes in previous release versions
+## Enhancements and fixes in previous release versions
 
-#### Version 20.11.1
+### Version 20.11.1
 
 **When:** Thursday, November 5, 2020 from 2:00 AM to 05:00 AM Eastern Time
 
@@ -25,7 +25,7 @@ Primetime Ad Insertion 20.12.1 release notes describe what is new or changed, is
 
 * Maintenance updates.
 
-#### Version 20.10.2
+### Version 20.10.2
 
 **When:** Thursday, Oct 29, 2020 from 12:01 AM to 06:00 AM Eastern Time
 
@@ -33,7 +33,7 @@ Primetime Ad Insertion 20.12.1 release notes describe what is new or changed, is
 
 * Maintenance updates.
 
-#### Version 20.10.1
+### Version 20.10.1
 
 **When:** Tuesday, October 13, 2020 from 03:00 AM to 07:00 AM Eastern Time
 
@@ -41,7 +41,7 @@ Primetime Ad Insertion 20.12.1 release notes describe what is new or changed, is
 
 * Maintenance updates.
 
-#### Version 20.9.3
+### Version 20.9.3
 
 **When:** Wednesday, September 30, 2020 at 3:30 AM to 6:30 AM Eastern Time
 
@@ -49,7 +49,7 @@ Primetime Ad Insertion 20.12.1 release notes describe what is new or changed, is
 
 * Added Bootstrap API parameter `ptparallelstream`. This allows customers with players that request CMAF demuxed audio or video streams in parallel to ensure that ads in audio and video tracks are consistent. Set the parameter value to true to enable this feature or omit to disable.
 
-#### Version 20.9.2
+### Version 20.9.2
 
 **When:** Tuesday, September 15, 2020 from 3:30 AM to 6:30 AM Eastern Time
 
@@ -64,7 +64,7 @@ For more information or to enable this feature, contact your technical support r
   >
   >This timeout applies only to ad requests, not to ad creative requests.
 
-#### Version 20.9.1
+### Version 20.9.1
 
 **When:** Tuesday, September 1, 2020 from 3:30 AM to 7:30 AM Eastern Time
 
@@ -72,7 +72,7 @@ For more information or to enable this feature, contact your technical support r
 
 * Fixed the issue for customers using HLS/CMAF, where EXT-X-MAP was sometimes missing CDN tokens or EXT-X-MAP tags sometimes incorrectly rolled out of the DVR window.
 
-#### Version 20.8.4
+### Version 20.8.4
 
 **When:** Wednesday, August 19, 2020 from 03:30 AM to 07:30 AM Eastern Time
 
@@ -80,7 +80,7 @@ For more information or to enable this feature, contact your technical support r
 
 Maintenance updates.
 
-#### Version 20.8.1
+### Version 20.8.1
 
 **When:** Tuesday, August 4, 2020 from 3:00 AM to 6:00 AM Eastern Time
 
@@ -88,7 +88,7 @@ Maintenance updates.
 
 Maintenance updates.
 
-#### Version 20.7.1
+### Version 20.7.1
 
 **When:** Thursday, July 9, 2020 from 03:00 AM to 05:00 AM Eastern Time
 
@@ -102,7 +102,7 @@ Maintenance updates.
 
 * Enhanced SSAI Console Dashboard for Session Stats panel
 
-#### Version 20.6.2
+### Version 20.6.2
 
 **When:** Thursday, June 18, 2020 from 03:00 AM to 04:00 AM Eastern Time
 
@@ -110,7 +110,7 @@ Maintenance updates.
 
 Improved stream synchronization for video clients requiring millisecond precision. Contact Adobe Support to enable millisecond precision for `#EXT-X-PROGRAM-DATE-TIME tags`.
 
-#### Version 20.6.1
+### Version 20.6.1
 
 **When:** Tuesday, June 2, 2020 from 03:00 AM to 05:00 AM Eastern Time
 
@@ -128,7 +128,7 @@ Contact Adobe Support to enable the following new features via server-side confi
 
 * Fixed an issue where EXT-X-DISCONTINUITY tags were removed from the top of the playlist when switching from ads back to content. Contact Adobe Support to enable this fix.
 
-#### Version 20.5.1
+### Version 20.5.1
 
 **When:** Tuesday, May 5, 2020 from 04:00 AM to 05:00 AM Eastern Time
 
@@ -138,7 +138,7 @@ Contact Adobe Support to enable the following new features via server-side confi
 
 * Maintenance updates.
 
-#### Version 20.3.4
+### Version 20.3.4
 
 **When:** Wednesday, April 1, 2020 from 03:00 AM to 04:00 AM Eastern Time
 
@@ -146,7 +146,7 @@ Contact Adobe Support to enable the following new features via server-side confi
 
 * Security updates.
 
-#### Version 20.3.3
+### Version 20.3.3
 
 **When:** Thursday, March 26, 2020 from 03:00 AM to 04:00 AM Eastern Time
 
@@ -156,7 +156,7 @@ Contact Adobe Support to enable the following new features via server-side confi
 
 * Fixed an issue with CMAF/demuxed audio streams, where in certain scenarios EXT-X-MEDIA-SEQUENCE numbers would increment incorrectly.
 
-#### Version 20.3.2
+### Version 20.3.2
 
 **When:** Wednesday, March 11, 2020 from 05:30 AM to 07:00 AM Eastern Time
 
@@ -164,7 +164,7 @@ Contact Adobe Support to enable the following new features via server-side confi
 
 * Maintenance updates.
 
-#### Version 20.3.1
+### Version 20.3.1
 
 **When:** Thursday, March 05, 2020 from 02:30 AM to 04:30 AM Eastern Time
 
@@ -176,14 +176,14 @@ Contact Adobe Support to enable the following new features via server-side confi
   
 * Security and maintenance fixes.
 
-#### Version 20.2.1
+### Version 20.2.1
 
 **When:** Thursday, February 13, 2020 from 04:30 AM to 05:30 AM Eastern Time
 
 * Added support for stitching ad assets that contain multiple audio-only streams based on language/codec/bitrate.
 * Minor performance enhancements and maintenance updates.
 
-#### Version 20.1.3
+### Version 20.1.3
 
 **When:** Tuesday, January 28, 2020 from 2:00 AM to 03:00 AM Eastern Time
 
@@ -197,13 +197,13 @@ Contact Adobe Support to enable the following new features via server-side confi
 
 * Purge old V1 Objects from NetStorage Groups to keep object count within safe limits of Akamai.
 
-#### Version 20.1.2 (Hotfix)
+### Version 20.1.2 (Hotfix)
 
 **When:** Monday, January 20, 2020 from 02:00 AM to 03:00 AM Eastern Time
 
 * Maintenance updates.
 
-#### Version 20.1.1
+### Version 20.1.1
 
 **When:** Wednesday, January 15, 2020 from 04:00 AM to 05:00 AM Eastern Time
 
