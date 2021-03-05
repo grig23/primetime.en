@@ -13,11 +13,13 @@ Welcome to the Adobe Primetime Release Notes. The documents listed in the left n
 
 The release includes support for EXT-X-IMAGE-STREAM-INF stream insertion/synchronization in HLS streams. The feature is enabled through a server-side configuration. Contact your technical account representative to enable the feature..
 
-## Fixes in TVSDK 3.12 Android
+## Fixes in TVSDK 3.13 Android
 
-The release focused on updating Primetime Reference application’s gradle version to version 5.6.4.
+This release provides a workaround to the issue about the Widevine DRM stream freezing or showing black frames on ABR switch on FireTV devices, which include Fire TV 3rd generation Pendant and Fire TV Cube 1st and 2nd generation devices.
 
-Check out for more information about the current released version for [Android](../release-notes/tvsdk-3x-android.md).
+To resolve the issue, set the API `MediaPlayer.flushVideoDecoderOnHeaderChange(true)` for the specified Fire TV devices before initiating playback. The default value is false.
+
+Check out the [TVSDK for Android Release Notes](../release-notes/tvsdk-3x-android.md) for more information.
 
 ## Enhancements and fixes in TVSDK 3.12 iOS Release Notes
 

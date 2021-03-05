@@ -1,17 +1,17 @@
 ---
-title: TVSDK 3.12 for Android Release Notes
-seo-title: TVSDK 3.12 for Android Release Notes
-description: TVSDK 3.12 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.12
-seo-description: TVSDK 3.12 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.12
+title: TVSDK 3.13 for Android Release Notes
+seo-title: TVSDK 3.13 for Android Release Notes
+description: TVSDK 3.13 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.13
+seo-description: TVSDK 3.13 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.13
 uuid: 685d46f5-5a02-4741-af5c-91e91babd6f7
 products: SG_PRIMETIME
 topic-tags: release-notes
 discoiquuid: 3a27379f-3cef-4ea3-bcae-21382dc1e9fd
 ---
 
-# TVSDK 3.12 for Android Release Notes {#tvsdk-for-android-release-notes}
+# TVSDK 3.13 for Android Release Notes {#tvsdk-for-android-release-notes}
 
-TVSDK 3.12 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.12.
+TVSDK 3.13 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.13.
 
 The Android reference player is included with Android TVSDK in the samples/ directory of your distribution. The accompanying README.md file explains how to build the reference player.
 
@@ -26,6 +26,14 @@ TVSDK for Android provides many performance improvements over previous versions.
 
 The comprehensive set of features supported and not supported are presented in the [Features Matrix](#feature-matrix) section of the release notes.
 
+## Android TVSDK 3.13
+
+Widevine DRM stream freezes or shows black frames on ABR switch on FireTV devices, which include Fire TV 3rd generation Pendant and Fire TV Cube 1st and 2nd generation devices.
+
+To resolve the issue, set the API `MediaPlayer.flushVideoDecoderOnHeaderChange(true)` for the specified Fire TV devices before initiating playback. The default value is false.
+
+### New features and enhancements in the previous releases
+
 ## Android TVSDK 3.12
 
 Primetime Reference application’s gradle version is now updated to version 5.6.4. 
@@ -33,8 +41,6 @@ Primetime Reference application’s gradle version is now updated to version 5.6
 To setup and run Reference app using Android Studio follow the instructions from ReadMe file available with TVSDK zip at `TVSDK_Android_x.x.x.x/samples/PrimetimeReference/src/README.md`.
 
 Top customer issues fixed in the current release are mentioned in [resolved issues](#resolved-issues) section.
-
-### New features and enhancements in the previous releases
 
 **Android TVSDK 3.11**
 
