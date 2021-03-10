@@ -4,7 +4,7 @@ description: TVSDK 2.5 offers multiple benefits over version 1.4 in terms of per
 contentOwner: vishgupt
 products: SG_PRIMETIME
 topic-tags: migration
-discoiq---
+---
 
 # TVSDK 1.4 to 2.5 for Android (Java) {#tvsdk-to-for-android-java}
 

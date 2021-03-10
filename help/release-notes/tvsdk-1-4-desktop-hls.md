@@ -4,7 +4,7 @@ description: TVSDK for Desktop HLS Release Notes describe what is new or changed
 contentOwner: asgupta
 products: SG_PRIMETIME
 topic-tags: release-notes
-discoiq---
+---
 
 # TVSDK 1.4 for Desktop HLS Release Notes {#tvsdk-for-desktop-hls-release-notes}
 

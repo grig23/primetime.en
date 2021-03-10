@@ -4,7 +4,7 @@ description: Browser TVSDK 2.4 Release Notes describe the new,  supported and un
 contentOwner: dekalra
 topic-tags: release-notes
 products: SG_PRIMETIME
-discoiq---
+---
 
 # Browser TVSDK 2.4 Release Notes {#browser-tvsdk-release-notes}
 

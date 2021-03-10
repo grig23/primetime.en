@@ -4,7 +4,7 @@ description: TVSDK 2.1 for PlayStation 4 Release Notes describe the supported fe
 contentOwner: dekalra
 topic-tags: release-notes
 products: SG_PRIMETIME
-discoiq---
+---
 
 # TVSDK 2.1 PlayStation 4 Release Notes {#tvsdk-playstation-release-notes}
 

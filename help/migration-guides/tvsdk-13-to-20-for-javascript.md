@@ -4,7 +4,7 @@ description: Many method signatures and API element names have changed for 2.0. 
 contentOwner: asgupta
 products: SG_PRIMETIME
 topic-tags: migration
-discoiq---
+---
 
 # TVSDK Conversion - 1.3 to 2.0 For JavaScript {#tvsdk-conversion-to-for-javascript}
 

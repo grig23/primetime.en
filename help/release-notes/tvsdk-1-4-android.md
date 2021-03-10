@@ -4,7 +4,7 @@ description: TVSDK 1.4 for Android Release Notes describe what is new or changed
 contentOwner: asgupta
 products: SG_PRIMETIME
 topic-tags: release-notes
-discoiq---
+---
 
 # TVSDK 1.4 for Android Release Notes {#tvsdk-for-android-release-notes}
 
