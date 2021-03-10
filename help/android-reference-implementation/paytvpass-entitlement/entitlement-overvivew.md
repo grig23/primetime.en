@@ -1,9 +1,6 @@
 ---
 description: The Entitlement Manager is the feature manager that supports the Primetime authentication implementation.
-seo-description: The Entitlement Manager is the feature manager that supports the Primetime authentication implementation.
-seo-title: Entitlement Manager Overview
 title: Entitlement Manager Overview
-uuid: b33dfae3-a132-4215-9992-80cbf4c87a61
 ---
 
 # Entitlement Manager Overview {#entitlement-manager-overview}

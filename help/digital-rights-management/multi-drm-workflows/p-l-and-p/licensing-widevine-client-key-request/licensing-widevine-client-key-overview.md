@@ -1,9 +1,6 @@
 ---
 description: To play the DASH content resulting from content packaging, the TVSDK client will need to obtain the content decryption key that was passed during the packaging process in the key acquisition workflow. The client content decryption key is typically delivered to the client by a Widevine/PlayReady license server in response to one or more HTTP/HTTPS posts from the client.
-seo-description: To play the DASH content resulting from content packaging, the TVSDK client will need to obtain the content decryption key that was passed during the packaging process in the key acquisition workflow. The client content decryption key is typically delivered to the client by a Widevine/PlayReady license server in response to one or more HTTP/HTTPS posts from the client.
-seo-title: Client Key Request workflow overview
 title: Client Key Request workflow overview
-uuid: 2f01f0ae-adbf-42fa-a908-4b5b9410a26d
 ---
 
 # Client Key Request workflow {#client-key-request-workflow-overview}

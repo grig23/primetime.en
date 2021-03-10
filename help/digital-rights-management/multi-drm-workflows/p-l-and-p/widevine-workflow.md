@@ -1,9 +1,6 @@
 ---
 description: This Multi-DRM workflow takes you through setup, packaging, licensing, and playback of DASH content encrypted with Widevine and PlayReady.
-seo-description: This Multi-DRM workflow takes you through setup, packaging, licensing, and playback of DASH content encrypted with Widevine and PlayReady.
-seo-title: Multi-DRM Workflow for Widevine and PlayReady
 title: Multi-DRM Workflow for Widevine and PlayReady
-uuid: 295a7024-353c-4ff5-a46a-927020834322
 ---
 
 # Multi-DRM Workflow for Widevine and PlayReady {#multi-drm-workflow-for-widevine-and-playready}

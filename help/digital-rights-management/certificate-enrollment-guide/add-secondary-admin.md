@@ -1,7 +1,7 @@
 ---
-seo-title: Create a Secondary Administrator
 title: Create a Secondary Administrator
-uuid: 2a360226-2fcb-432f-bdeb-3fa9ef0019ee
+description: Create a Secondary Administrator
+copied-description: yes
 ---
 
 # Create a Secondary Administrator{#create-a-secondary-administrator}

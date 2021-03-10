@@ -1,7 +1,7 @@
 ---
-seo-title: Enable background audio
 title: Enable background audio
-uuid: 1e7319f5-ee16-47bd-bfd5-d3dcfe69bf4b
+description: Enable background audio
+copied-description: yes
 ---
 
 # Enable background audio {#enable-background-audio}

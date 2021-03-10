@@ -1,7 +1,7 @@
 ---
-seo-title: License chaining
 title: License chaining
-uuid: dcc12663-ef9e-4c73-b837-66fcec39358b
+description: License chaining
+copied-description: yes
 ---
 
 # License chaining{#license-chaining}

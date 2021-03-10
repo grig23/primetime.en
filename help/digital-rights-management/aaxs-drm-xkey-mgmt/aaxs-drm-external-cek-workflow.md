@@ -1,9 +1,6 @@
 ---
-seo-title: AAXS DRM External CEK Workflow
 title: AAXS DRM External CEK Workflow
 description: This workflow is a departure from most existing DRM systems, as it does not require the use of any central repository or Content Key Management System (CKMS)
-seo-description: This workflow is a departure from most existing DRM systems, as it does not require the use of any central repository or Content Key Management System (CKMS)
-uuid: b313594b-0feb-4f27-bf02-f04b955e2140
 ---
 
 # AAXS DRM External CEK Workflow{#aaxs-drm-external-cek-workflow}

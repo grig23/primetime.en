@@ -1,9 +1,6 @@
 ---
 description: You can invoke custom authorization logic during license acquisition to decide if a license should be issued to the requesting client.
-seo-description: You can invoke custom authorization logic during license acquisition to decide if a license should be issued to the requesting client.
-seo-title: Custom authorization extensions
 title: Custom authorization extensions
-uuid: 588b05e5-3402-4586-bbd4-58b7e9a58ee4
 ---
 
 # Custom authorization extensions{#custom-authorization-extensions}

@@ -1,9 +1,6 @@
 ---
 description: You can set up a user interface control to adjust the volume for the video.
-seo-description: You can set up a user interface control to adjust the volume for the video.
-seo-title: Provide volume control
 title: Provide volume control
-uuid: c87fe656-0329-4c9c-b65b-43be48c77062
 ---
 
 # Provide volume control {#provide-volume-control}

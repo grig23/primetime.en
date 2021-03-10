@@ -1,7 +1,7 @@
 ---
-seo-title: Ensure compatibility with Flash Media Rights Management Server 1.x
 title: Ensure compatibility with Flash Media Rights Management Server 1.x
-uuid: 0160ca02-ebe6-4090-bf32-1d1a46088844
+description: Ensure compatibility with Flash Media Rights Management Server 1.x
+copied-description: yes
 ---
 
 # Ensure compatibility with Flash Media Rights Management Server 1.x{#ensure-compatibility-with-flash-media-rights-management-server-x}

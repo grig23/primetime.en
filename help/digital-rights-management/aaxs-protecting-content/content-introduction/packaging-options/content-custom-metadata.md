@@ -1,7 +1,7 @@
 ---
-seo-title: Custom metadata
 title: Custom metadata
-uuid: 9433fd74-730d-4306-8ff3-a6857745a039
+description: Custom metadata
+copied-description: yes
 ---
 
 # Custom metadata {#custom-metadata}

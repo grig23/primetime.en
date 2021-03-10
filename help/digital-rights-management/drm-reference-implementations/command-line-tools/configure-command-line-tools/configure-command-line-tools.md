@@ -1,7 +1,7 @@
 ---
-seo-title: Configure and run the command-line tools
 title: Configure and run the command-line tools
-uuid: b65f8621-54fa-4927-b2f4-d2fd60350fc1
+description: Configure and run the command-line tools
+copied-description: yes
 ---
 
 # Configure and run the command-line tools {#configure-and-run-the-command-line-tools}

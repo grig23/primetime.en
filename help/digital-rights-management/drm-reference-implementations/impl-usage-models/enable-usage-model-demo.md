@@ -1,7 +1,7 @@
 ---
-seo-title: Enable the usage model demo
 title: Enable the usage model demo
-uuid: 43930ebb-e936-4f48-990d-7ad19992e326
+description: Enable the usage model demo
+copied-description: yes
 ---
 
 # Enable the usage model demo{#enable-the-usage-model-demo}

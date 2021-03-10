@@ -1,9 +1,6 @@
 ---
 description: To continue issuing licenses for content that has been packaged with Flash Media Rights Management Server (FMRMS) 1.0 or 1.5, you must migrate license and DRM policy data from the LiveCycle ES server to the customer's new server that is based on the Adobe Primetime DRM SDK.
-seo-description: To continue issuing licenses for content that has been packaged with Flash Media Rights Management Server (FMRMS) 1.0 or 1.5, you must migrate license and DRM policy data from the LiveCycle ES server to the customer's new server that is based on the Adobe Primetime DRM SDK.
-seo-title: Migrate from FMRMS 1.0 or 1.5 to Adobe Primetime DRM 2.0 or later
 title: Migrate from FMRMS 1.0 or 1.5 to Adobe Primetime DRM 2.0 or later
-uuid: 49ecbbd2-d83b-4bf2-841e-c3f9e5d5e141
 ---
 
 # Migrate from FMRMS 1.0 or 1.5 to Adobe Primetime DRM 2.0 or later{#migrate-from-fmrms-or-to-adobe-primetime-drm-or-later}

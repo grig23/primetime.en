@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Policy Manager Command-line usage
 title: Policy Manager Command-line usage
-uuid: 9b17bc9a-0b1b-405f-a62b-0310c43c9255
+description: Policy Manager Command-line usage
+copied-description: yes
 ---
 
 # Policy Manager Command-line usage {#policy-manager-command-line-usage}

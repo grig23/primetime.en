@@ -1,7 +1,7 @@
 ---
-seo-title: Building the license server
 title: Building the license server
-uuid: d7ca8a8f-c778-41a2-b823-93fac9ab07c5
+description: Building the license server
+copied-description: yes
 ---
 
 # Building the license server {#building-the-license-server}

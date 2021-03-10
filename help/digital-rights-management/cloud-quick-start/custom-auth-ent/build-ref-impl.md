@@ -1,7 +1,7 @@
 ---
-seo-title: Build the BEES reference implementation
 title: Build the BEES reference implementation
-uuid: c9358188-e626-4f99-a02c-4928b06d6ae2
+description: Build the BEES reference implementation
+copied-description: yes
 ---
 
 # Build the BEES reference implementation {#build-the-bees-reference-implementation}

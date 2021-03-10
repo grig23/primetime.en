@@ -1,9 +1,6 @@
 ---
 description: When your playback includes advertising, TVSDK dispatches events/notifications in generally expected sequences. Your player can implement actions based on events in the expected sequence.
-seo-description: When your playback includes advertising, TVSDK dispatches events/notifications in generally expected sequences. Your player can implement actions based on events in the expected sequence.
-seo-title: Order of advertising events
 title: Order of advertising events
-uuid: 34a6a606-2f2e-42de-88fd-c91202cafddf
 ---
 
 # Order of advertising events{#order-of-advertising-events}

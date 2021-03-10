@@ -1,7 +1,7 @@
 ---
-seo-title: Update existing DRM content to use Cloud DRM (Optional)
 title: Update existing DRM content to use Cloud DRM (Optional)
-uuid: cfabeb06-210f-45af-b8a6-8e0b03a76103
+description: Update existing DRM content to use Cloud DRM (Optional)
+copied-description: yes
 ---
 
 # Update existing DRM content to use Cloud DRM (Optional) {#update-existing-drm-content-to-use-cloud-drm-optional}

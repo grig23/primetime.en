@@ -1,9 +1,6 @@
 ---
 description: Quality of service (QoS) provides a detailed view into how the video engine is performing. TVSDK provides detailed statistics about playback, buffering, and devices.
-seo-description: Quality of service (QoS) provides a detailed view into how the video engine is performing. TVSDK provides detailed statistics about playback, buffering, and devices.
-seo-title: Quality of service statistics
 title: Quality of service statistics
-uuid: 8e990461-065b-4efa-b77c-b2b832f86f7d
 ---
 
 # Quality of service statistics {#quality-of-service-statistics}

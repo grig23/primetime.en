@@ -1,9 +1,6 @@
 ---
 description: This section provides a conceptual overview of the configuration, options, and meanings associated with output protection.
-seo-description: This section provides a conceptual overview of the configuration, options, and meanings associated with output protection.
-seo-title: RBOP Concepts
 title: RBOP Concepts
-uuid: fc19c3c9-39a1-4b62-b763-101e5454a01f
 ---
 
 # RBOP Concepts {#rbop-concepts}

@@ -1,9 +1,6 @@
 ---
 description: TVSDK dispatches quality of service (QoS) events to notify your application about events that could influence the computation of QoS statistics, such as buffering or seeking.
-seo-description: TVSDK dispatches quality of service (QoS) events to notify your application about events that could influence the computation of QoS statistics, such as buffering or seeking.
-seo-title: QoS events
 title: QoS events
-uuid: fd657cf0-c6d4-4e9a-b212-7d09d483cae9
 ---
 
 # QoS events{#qos-events}

@@ -1,9 +1,6 @@
 ---
 description: MediaPlayerNotification provides information that is related to the player's status.
-seo-description: MediaPlayerNotification provides information that is related to the player's status.
-seo-title: Notification content
 title: Notification content
-uuid: c2321a49-1b60-4e44-b8e2-a023b764d779
 ---
 
 # Notification content{#notification-content}

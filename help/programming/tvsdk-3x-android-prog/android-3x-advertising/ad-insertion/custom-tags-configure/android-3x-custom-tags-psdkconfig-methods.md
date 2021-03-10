@@ -1,9 +1,6 @@
 ---
 description: You can globally configure custom tag names in TVSDK with the MediaPlayerItemConfig class.
-seo-description: You can globally configure custom tag names in TVSDK with the MediaPlayerItemConfig class.
-seo-title: Config class methods for tags
 title: Config class methods for tags
-uuid: b75aebac-4b94-4c42-bed4-3c17ad989cd1
 ---
 
 # Config class methods for tags {#config-class-methods-for-tags}

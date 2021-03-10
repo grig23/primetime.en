@@ -1,7 +1,7 @@
 ---
-seo-title: Implementing the usage models overview
 title: Implementing the usage models overview
-uuid: 1041bb84-9996-4284-b2a0-d6fc6d4b73d9
+description: Implementing the usage models overview
+copied-description: yes
 ---
 
 # Implementing the usage models overview {#implementing-the-usage-models-overview}

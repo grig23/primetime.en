@@ -1,9 +1,6 @@
 ---
 description: When the media player switches its current profile to a new profile, you can retrieve information about the switch, including when it switched, width and height information, or why a different bit rate was used.
-seo-description: When the media player switches its current profile to a new profile, you can retrieve information about the switch, including when it switched, width and height information, or why a different bit rate was used.
-seo-title: Get information about profile switch
 title: Get information about profile switch
-uuid: 0ff1aeac-882a-4209-b19f-1aa3141404d9
 ---
 
 # Get information about profile switch{#get-information-about-profile-switch}

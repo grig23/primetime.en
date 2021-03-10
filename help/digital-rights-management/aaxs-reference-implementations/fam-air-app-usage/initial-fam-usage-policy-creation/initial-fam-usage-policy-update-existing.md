@@ -1,7 +1,7 @@
 ---
-seo-title: Update an existing policy
 title: Update an existing policy
-uuid: 081e5dab-e735-4ae9-bcfd-15dd9819bef3
+description: Update an existing policy
+copied-description: yes
 ---
 
 # Update an existing policy {#update-an-existing-policy}

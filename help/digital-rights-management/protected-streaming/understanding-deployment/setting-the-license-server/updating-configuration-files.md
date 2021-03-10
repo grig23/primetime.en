@@ -1,9 +1,6 @@
 ---
 description: As soon as the license server reads one of the license server configuration files (global or tenant configuration), the configuration information is cached in memory. Therefore the files do not have to be read from disk for every license request. However, the server also allows most values in the configuration files to be modified without requiring a server restart for the changes to take effect.
-seo-description: As soon as the license server reads one of the license server configuration files (global or tenant configuration), the configuration information is cached in memory. Therefore the files do not have to be read from disk for every license request. However, the server also allows most values in the configuration files to be modified without requiring a server restart for the changes to take effect.
-seo-title: Updating configuration files
 title: Updating configuration files
-uuid: 34b3247c-3458-49de-b1b0-dc0ebbf61c88
 ---
 
 # Updating configuration files{#updating-configuration-files}

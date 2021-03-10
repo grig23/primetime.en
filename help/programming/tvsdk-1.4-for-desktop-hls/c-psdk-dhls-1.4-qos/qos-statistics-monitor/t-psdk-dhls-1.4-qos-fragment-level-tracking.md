@@ -1,9 +1,6 @@
 ---
 description: You can read quality of service (QoS) information about downloaded resources, such as fragments and tracks, from the LoadInformation class.
-seo-description: You can read quality of service (QoS) information about downloaded resources, such as fragments and tracks, from the LoadInformation class.
-seo-title: Track at the fragment level using load information
 title: Track at the fragment level using load information
-uuid: 41fb2b90-3531-4cc5-bf9b-01ccae04d2fd
 ---
 
 # Track at the fragment level using load information{#track-at-the-fragment-level-using-load-information}

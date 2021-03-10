@@ -1,7 +1,7 @@
 ---
-seo-title: Revocation List Manager overview
 title: Revocation List Manager overview
-uuid: 241ee4fa-1781-497f-ac39-eb018141d300
+description: Revocation List Manager overview
+copied-description: yes
 ---
 
 # Revocation List Manager overview {#revocation-list-manager-overview}

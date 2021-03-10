@@ -1,9 +1,6 @@
 ---
 description: HLS streams that are delivered through a Content Delivery Network (CDN) can sometimes use authentication tokens on the manifest and segment requests for verification. These tokens can be provided as URL parameters or as cookie headers.
-seo-description: HLS streams that are delivered through a Content Delivery Network (CDN) can sometimes use authentication tokens on the manifest and segment requests for verification. These tokens can be provided as URL parameters or as cookie headers.
-seo-title: Tokenized segment streams
 title: Tokenized segment streams
-uuid: b17bb5bc-2029-4113-ac44-b1d30aa08ca6
 ---
 
 # Tokenized segment streams{#tokenized-segment-streams}

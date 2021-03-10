@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Ad resolvers
 title: Ad resolvers
-uuid: 705df232-4adc-4f3a-b4aa-dafbd2b8fe4c
+description: Ad resolvers
+copied-description: yes
 ---
 
 # Ad resolvers {#ad-resolvers}

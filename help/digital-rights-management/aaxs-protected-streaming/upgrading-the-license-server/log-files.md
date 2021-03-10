@@ -1,7 +1,7 @@
 ---
-seo-title: Log files
 title: Log files
-uuid: 90450f27-ed2f-4b67-953b-0546910deebf
+description: Log files
+copied-description: yes
 ---
 
 # Log files{#log-files}

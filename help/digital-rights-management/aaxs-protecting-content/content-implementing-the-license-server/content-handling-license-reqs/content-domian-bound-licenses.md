@@ -1,7 +1,7 @@
 ---
-seo-title: Issuing Domain-bound licenses
 title: Issuing Domain-bound licenses
-uuid: 175d3b7d-d1df-44ee-85ad-a0db4a1bdb9d
+description: Issuing Domain-bound licenses
+copied-description: yes
 ---
 
 # Issuing Domain-bound licenses{#issuing-domain-bound-licenses}

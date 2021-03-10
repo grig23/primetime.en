@@ -1,9 +1,6 @@
 ---
 description: TVSDK dispatches media player item events in response to loading a media item.
-seo-description: TVSDK dispatches media player item events in response to loading a media item.
-seo-title: Loader events
 title: Loader events
-uuid: 1b401ff5-4313-4c64-8be9-99bdeb58ba2a
 ---
 
 # Loader events{#loader-events}

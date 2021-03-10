@@ -1,9 +1,6 @@
 ---
 description: These classes provide information that help you to determine how well the player is performing.
-seo-description: These classes provide information that help you to determine how well the player is performing.
-seo-title: QoS classes
 title: QoS classes
-uuid: f145b744-6385-40df-aaee-ae9430d85895
 ---
 
 # QoS classes {#qos-classes}

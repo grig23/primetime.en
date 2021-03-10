@@ -1,7 +1,7 @@
 ---
-seo-title: Working with Policy Update Lists
 title: Working with Policy Update Lists
-uuid: 583abb31-5c80-43f2-bc3d-a2300f61c4ea
+description: Working with Policy Update Lists
+copied-description: yes
 ---
 
 # Working with Policy Update Lists{#working-with-policy-update-lists}

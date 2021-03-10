@@ -1,9 +1,6 @@
 ---
 description: The TVSDK player dispatches events to display custom ad loading status or to ignore an ad that is taking too long to load or has errors. These events are defined in events.CustomAdEvents.
-seo-description: The TVSDK player dispatches events to display custom ad loading status or to ignore an ad that is taking too long to load or has errors. These events are defined in events.CustomAdEvents.
-seo-title: Custom ad events
 title: Custom ad events
-uuid: 78e2ccf4-5943-4c60-84be-623182d9a300
 ---
 
 # Custom ad events{#custom-ad-events}

@@ -1,7 +1,7 @@
 ---
-seo-title: Deploy the BEES reference implementation
 title: Deploy the BEES reference implementation
-uuid: 5ee7b066-8ae8-48ba-a3f0-8cc14b19d5c5
+description: Deploy the BEES reference implementation
+copied-description: yes
 ---
 
 # Deploy the BEES reference implementation {#deploy-the-bees-reference-implementation}

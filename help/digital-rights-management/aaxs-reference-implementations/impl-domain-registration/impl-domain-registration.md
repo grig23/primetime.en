@@ -1,7 +1,7 @@
 ---
-seo-title: Implementing domain registration
 title: Implementing domain registration
-uuid: 2871cc15-eaea-430d-b6fe-f3692d82733b
+description: Implementing domain registration
+copied-description: yes
 ---
 
 # Implementing domain registration {#implementing-domain-registration}

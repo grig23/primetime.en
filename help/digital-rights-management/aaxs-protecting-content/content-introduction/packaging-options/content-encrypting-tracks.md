@@ -1,7 +1,7 @@
 ---
-seo-title: Encrypting tracks
 title: Encrypting tracks
-uuid: cbb852e1-6487-43f4-86c8-981780feb667
+description: Encrypting tracks
+copied-description: yes
 ---
 
 # Encrypting tracks{#encrypting-tracks}

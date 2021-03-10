@@ -1,9 +1,6 @@
 ---
 description: Browser TVSDK dispatches events/notifications in generally expected sequences. Your player can implement actions based on events in the expected sequence.
-seo-description: Browser TVSDK dispatches events/notifications in generally expected sequences. Your player can implement actions based on events in the expected sequence.
-seo-title: Order of playback events
 title: Order of playback events
-uuid: 259a9a2d-3d28-4240-b392-cc81f5c3f0cf
 ---
 
 # Order of playback events{#order-of-playback-events}

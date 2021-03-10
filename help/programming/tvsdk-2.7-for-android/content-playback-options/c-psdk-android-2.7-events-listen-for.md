@@ -1,9 +1,6 @@
 ---
 description: Events from TVSDK indicate the status of the player, errors that occur, the completion of actions that you have requested, such as a video starting to play, or actions that occur implicitly, such as an ad completing.
-seo-description: Events from TVSDK indicate the status of the player, errors that occur, the completion of actions that you have requested, such as a video starting to play, or actions that occur implicitly, such as an ad completing.
-seo-title: Listen for Primetime Player events
 title: Listen for Primetime Player events
-uuid: bd0a428c-fa51-41a6-950a-9d6843c6e177
 ---
 
 # Overview {#listen-for-primetime-player-events-overview}

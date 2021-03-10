@@ -1,9 +1,6 @@
 ---
 description: This section describes the features available with different versions of Flash Player and TVSDK.
-seo-description: This section describes the features available with different versions of Flash Player and TVSDK.
-seo-title: RBOP Client Support
 title: RBOP Client Support
-uuid: d1d0f788-7bc1-488c-807e-be47f83725e9
 ---
 
 # RBOP Client Support {#rbop-client-support}

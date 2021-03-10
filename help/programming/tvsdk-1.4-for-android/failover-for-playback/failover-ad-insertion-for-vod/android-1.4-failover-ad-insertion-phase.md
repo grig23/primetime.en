@@ -1,9 +1,6 @@
 ---
 description: TVSDK inserts the alternate content (ads) into the timeline that corresponds to the main content.
-seo-description: TVSDK inserts the alternate content (ads) into the timeline that corresponds to the main content.
-seo-title: Ad-insertion phase
 title: Ad-insertion phase
-uuid: 4a8e9578-6e95-44c0-b045-ae3c20da75e9
 ---
 
 # Ad-insertion phase{#ad-insertion-phase}

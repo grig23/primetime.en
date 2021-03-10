@@ -1,7 +1,7 @@
 ---
-seo-title: Adobe AIR
 title: Adobe AIR
-uuid: fc50e34b-2d0b-4e36-b77e-870dce20dc0d
+description: Adobe AIR
+copied-description: yes
 ---
 
 # Adobe AIR{#adobe-air}

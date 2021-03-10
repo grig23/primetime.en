@@ -1,7 +1,7 @@
 ---
-seo-title: Machine count when issuing licenses
 title: Machine count when issuing licenses
-uuid: d57f8b0b-0363-4b26-bd71-76f4abe5b68f
+description: Machine count when issuing licenses
+copied-description: yes
 ---
 
 # Machine count when issuing licenses{#machine-count-when-issuing-licenses}

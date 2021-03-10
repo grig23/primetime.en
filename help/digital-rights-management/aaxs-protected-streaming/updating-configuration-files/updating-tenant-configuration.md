@@ -1,7 +1,7 @@
 ---
-seo-title: Updating the Tenant Configuration File
 title: Updating the Tenant Configuration File
-uuid: b6cb43e2-b9a5-40bf-879a-010fcc3d5935
+description: Updating the Tenant Configuration File
+copied-description: yes
 ---
 
 # Updating the Tenant Configuration File{#updating-the-tenant-configuration-file}

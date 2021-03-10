@@ -1,7 +1,7 @@
 ---
-seo-title: Ports for application servers
 title: Ports for application servers
-uuid: 4b4c4c38-5072-42c5-ab5a-e684136d53e1
+description: Ports for application servers
+copied-description: yes
 ---
 
 # Ports for application servers{#ports-for-application-servers}

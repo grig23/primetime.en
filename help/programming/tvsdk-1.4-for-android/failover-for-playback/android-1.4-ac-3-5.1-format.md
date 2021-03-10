@@ -1,9 +1,6 @@
 ---
 description: Streaming over the Internet requires a constant and stable connection to play a stream from a remote server. However, the variability of a viewer's Internet connection or streaming playback means that remote playback might not have the quality of media played locally.
-seo-description: Streaming over the Internet requires a constant and stable connection to play a stream from a remote server. However, the variability of a viewer's Internet connection or streaming playback means that remote playback might not have the quality of media played locally.
-seo-title: AC-3 5.1 format
 title: AC-3 5.1 format
-uuid: d5e77bb5-ed51-4f9f-b34f-e9082f5ee4de
 ---
 
 # AC-3 5.1 format{#ac-format}

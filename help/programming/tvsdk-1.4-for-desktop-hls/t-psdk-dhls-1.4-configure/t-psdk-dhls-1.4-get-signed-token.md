@@ -1,9 +1,6 @@
 ---
 description: The Flash Runtime TVSDK needs a signed token to validate that you have the right to call the TVSDK API on the domain where your application resides.
-seo-description: The Flash Runtime TVSDK needs a signed token to validate that you have the right to call the TVSDK API on the domain where your application resides.
-seo-title: Load your signed token
 title: Load your signed token
-uuid: 8760eab3-3d6d-47c6-9aa7-f64f6aa5ddcf
 ---
 
 # Load your signed token {#load-your-signed-token}

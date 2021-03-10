@@ -1,9 +1,6 @@
 ---
 description: You can use TimedMetadata when the current playback time matches the start time.
-seo-description: You can use TimedMetadata when the current playback time matches the start time.
-seo-title: Use timed metadata
 title: Use timed metadata
-uuid: 98bb8c08-2794-42d6-b5c3-b1047ac804fe
 ---
 
 # Use timed metadata {#use-timed-metadata}

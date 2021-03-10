@@ -1,9 +1,6 @@
 ---
 description: TVSDK dispatches timed metadata events and generates timed metadata whenever default or custom tags are encountered or when a playlist changes in a manifest. Events are dispatched in the order in which they appear in the manifest.
-seo-description: TVSDK dispatches timed metadata events and generates timed metadata whenever default or custom tags are encountered or when a playlist changes in a manifest. Events are dispatched in the order in which they appear in the manifest.
-seo-title: Timed metadata events
 title: Timed metadata events
-uuid: 69c43701-6ffa-45fe-a104-fe81391222e7
 ---
 
 # Timed metadata events{#timed-metadata-events}

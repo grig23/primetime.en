@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: About the reference implementations
 title: About the reference implementations
-uuid: f08fdb4b-aaa8-4871-bb62-1a21d5abdd8d
+description: About the reference implementations
+copied-description: yes
 ---
 
 # About the reference implementations{#about-the-reference-implementations}

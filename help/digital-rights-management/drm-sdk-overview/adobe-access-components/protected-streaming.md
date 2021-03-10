@@ -1,7 +1,7 @@
 ---
-seo-title: Adobe Primetime DRM Server for Protected Streaming
 title: Adobe Primetime DRM Server for Protected Streaming
-uuid: 74049b6e-668e-4d98-aa26-a1738961e173
+description: Adobe Primetime DRM Server for Protected Streaming
+copied-description: yes
 ---
 
 # Adobe Primetime DRM Server for Protected Streaming{#adobe-primetime-drm-server-for-protected-streaming}

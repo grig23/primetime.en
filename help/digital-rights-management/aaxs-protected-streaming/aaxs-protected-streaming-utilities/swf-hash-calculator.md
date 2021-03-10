@@ -1,7 +1,7 @@
 ---
-seo-title: SWF Hash Calculator
 title: SWF Hash Calculator
-uuid: c1823208-92d9-47c5-b550-f9cc370b543d
+description: SWF Hash Calculator
+copied-description: yes
 ---
 
 # SWF Hash Calculator{#swf-hash-calculator}

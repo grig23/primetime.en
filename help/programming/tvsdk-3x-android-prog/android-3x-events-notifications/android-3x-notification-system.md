@@ -1,9 +1,6 @@
 ---
 description: Events and notifications help you manage the asynchronous aspects of the video application.
-seo-description: Events and notifications help you manage the asynchronous aspects of the video application.
-seo-title: Notifications and events for player status, activity, errors, and logging
 title: Notifications and events for player status, activity, errors, and logging
-uuid: c4a108e7-72aa-4c96-9538-b1385343d6af
 ---
 
 # Notifications and events for player status, activity, errors, and logging {#notifications-and-events-for-player-status-activity-errors-and-logging}

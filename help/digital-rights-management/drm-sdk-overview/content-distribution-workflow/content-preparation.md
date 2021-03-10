@@ -1,9 +1,6 @@
 ---
 description: Any use of Adobe Primetime DRM consists of two key steps at different points of the workflow. Content preparation must be done once per asset, and results in creating protected content. Content acquisition is done multiple times, once for every consumer that wants to watch that protected asset.
-seo-description: Any use of Adobe Primetime DRM consists of two key steps at different points of the workflow. Content preparation must be done once per asset, and results in creating protected content. Content acquisition is done multiple times, once for every consumer that wants to watch that protected asset.
-seo-title: Content preparation
 title: Content preparation
-uuid: edb633f0-b623-41ea-a52a-19017d45fb18
 ---
 
 # Content preparation{#content-preparation}

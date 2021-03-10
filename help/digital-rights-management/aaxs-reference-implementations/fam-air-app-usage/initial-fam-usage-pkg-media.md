@@ -1,7 +1,7 @@
 ---
-seo-title: Package media
 title: Package media
-uuid: f6e877be-d916-4766-bc44-99891a3df3a8
+description: Package media
+copied-description: yes
 ---
 
 # Package media {#package-media}

@@ -1,9 +1,6 @@
 ---
-seo-title: JSON object for direct ad breaks
 title: JSON object for direct ad breaks
-uuid: ffb901f4-0a8b-40fe-b6ba-5ffebc324cf2
 description: Details the JSON object when the type value is direct ad breaks
-seo-description: Details the JSON object when the type value is direct ad breaks
 ---
 
 # JSON object for direct ad breaks{#json-object-for-direct-ad-breaks}

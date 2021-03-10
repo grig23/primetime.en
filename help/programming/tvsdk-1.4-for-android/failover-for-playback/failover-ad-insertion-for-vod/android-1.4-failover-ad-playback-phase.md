@@ -1,9 +1,6 @@
 ---
 description: TVSDK downloads the ad segments and renders them on the device's screen.
-seo-description: TVSDK downloads the ad segments and renders them on the device's screen.
-seo-title: Ad-playback phase
 title: Ad-playback phase
-uuid: 1bbcea08-3475-4a64-9f89-c455d5dd828e
 ---
 
 # Ad-playback phase{#ad-playback-phase}

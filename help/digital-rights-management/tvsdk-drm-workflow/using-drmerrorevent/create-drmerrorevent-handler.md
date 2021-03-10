@@ -1,7 +1,7 @@
 ---
-seo-title: Create a DRMErrorEvent handler
 title: Create a DRMErrorEvent handler
-uuid: dde660fc-6899-47d4-97d4-46acda2db262
+description: Create a DRMErrorEvent handler
+copied-description: yes
 ---
 
 # Create a DRMErrorEvent handler{#create-a-drmerrorevent-handler}

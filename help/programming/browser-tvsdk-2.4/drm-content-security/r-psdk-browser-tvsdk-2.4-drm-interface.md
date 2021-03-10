@@ -1,9 +1,6 @@
 ---
 description: Browser TVSDK provides a DRM interface you can use to play content protected by different DRM solutions, including FairPlay, PlayReady, and Widevine.
-seo-description: Browser TVSDK provides a DRM interface you can use to play content protected by different DRM solutions, including FairPlay, PlayReady, and Widevine.
-seo-title: DRM interface overview
 title: DRM interface overview
-uuid: b553ebad-8310-4517-8d97-ef8a1c5f4340
 ---
 
 # DRM interface overview{#drm-interface-overview}

@@ -1,9 +1,6 @@
 ---
 description: These classes describe messages about errors, warnings, and some activities that the TVSDK issues for logging and debugging purposes.
-seo-description: These classes describe messages about errors, warnings, and some activities that the TVSDK issues for logging and debugging purposes.
-seo-title: Notification classes
 title: Notification classes
-uuid: 08c29efe-245d-4a6d-80c6-cd561cbf3b5f
 ---
 
 # Notification classes{#notification-classes}

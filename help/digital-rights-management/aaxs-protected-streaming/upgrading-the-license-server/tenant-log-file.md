@@ -1,7 +1,7 @@
 ---
-seo-title: Tenant Log File
 title: Tenant Log File
-uuid: 9637c72a-b90e-442a-be3c-d6875275c28b
+description: Tenant Log File
+copied-description: yes
 ---
 
 # Tenant Log File{#tenant-log-file}

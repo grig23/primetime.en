@@ -1,7 +1,7 @@
 ---
-seo-title: Examining encrypted file content
 title: Examining encrypted file content
-uuid: 1b3318f6-0850-43f2-9127-c72ea81a1bdf
+description: Examining encrypted file content
+copied-description: yes
 ---
 
 # Examining encrypted file content{#examining-encrypted-file-content}

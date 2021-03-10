@@ -1,9 +1,6 @@
 ---
 title: DRM 5.3.1 Release Notes
-seo-title: DRM 5.3.1 Release Notes
 description: DRM 5.3.1 Release Notes describe the new features and the known issues in DRM 5.3.1.
-seo-description: DRM 5.3.1 Release Notes describe the new features and the known issues in DRM 5.3.1.
-uuid: bb61b79f-a5b3-42ed-8016-495b1ac99ea6
 contentOwner: dekalra
 topic-tags: release-notes
 products: SG_PRIMETIME

@@ -1,7 +1,7 @@
 ---
-seo-title: Create video players
 title: Create video players
-uuid: 7727ab94-2b5d-419b-8251-8222fbc08781
+description: Create video players
+copied-description: yes
 ---
 
 # Create video players{#create-video-players}

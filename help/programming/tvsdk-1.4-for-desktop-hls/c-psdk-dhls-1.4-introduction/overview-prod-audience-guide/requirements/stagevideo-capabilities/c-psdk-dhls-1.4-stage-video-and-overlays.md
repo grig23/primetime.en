@@ -1,9 +1,6 @@
 ---
 description: You can use HTML overlays with StageVideo to display UI elements in the Flash display list video plane. This plane is above the StageVideo plane, so StageVideo always displays behind any Flash display list elements.
-seo-description: You can use HTML overlays with StageVideo to display UI elements in the Flash display list video plane. This plane is above the StageVideo plane, so StageVideo always displays behind any Flash display list elements.
-seo-title: StageVideo and HTML Overlays
 title: StageVideo and HTML Overlays
-uuid: 84e862ab-4c35-47a2-9c4e-f792d3ef5363
 ---
 
 # StageVideo and HTML Overlays{#stagevideo-and-html-overlays}

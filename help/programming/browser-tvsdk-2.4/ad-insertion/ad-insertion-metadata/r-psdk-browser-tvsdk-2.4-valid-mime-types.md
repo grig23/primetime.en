@@ -1,9 +1,6 @@
 ---
 description: An ad might have multiple creative, out of which one is selected to be played.
-seo-description: An ad might have multiple creative, out of which one is selected to be played.
-seo-title: Valid mime types
 title: Valid mime types
-uuid: ab2baac9-a9ef-44f1-83a1-2e6e471e3231
 ---
 
 # Valid mime types{#valid-mime-types}

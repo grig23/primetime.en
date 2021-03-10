@@ -1,7 +1,7 @@
 ---
-seo-title: Secure the server
 title: Secure the server
-uuid: bbd3e6ba-670a-4bcc-b3d2-ea77108a841b
+description: Secure the server
+copied-description: yes
 ---
 
 # Secure the server {#secure-the-server}

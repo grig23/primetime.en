@@ -1,7 +1,7 @@
 ---
-seo-title: TVSDK-DRM client-side workflow overview
 title: TVSDK-DRM client-side workflow overview
-uuid: bac2ce3a-01d7-488b-88a3-ce2060b658b2
+description: TVSDK-DRM client-side workflow overview
+copied-description: yes
 ---
 
 # TVSDK-DRM client-side workflow overview {#tvsdk-drm-client-side-workflow-overview}

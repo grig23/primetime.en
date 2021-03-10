@@ -1,7 +1,7 @@
 ---
-seo-title: Handling License Return requests
 title: Handling License Return requests
-uuid: d184faea-88cb-44f3-a253-e5314d577f17
+description: Handling License Return requests
+copied-description: yes
 ---
 
 # Handling License Return requests{#handling-license-return-requests}

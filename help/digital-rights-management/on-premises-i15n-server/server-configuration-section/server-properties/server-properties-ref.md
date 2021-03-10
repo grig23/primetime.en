@@ -1,7 +1,7 @@
 ---
-seo-title: Server Properties Reference
 title: Server Properties Reference
-uuid: 24a187fe-9b7d-411f-a358-d10c70a5dd0e
+description: Server Properties Reference
+copied-description: yes
 ---
 
 # Server Properties Reference{#server-properties-reference}

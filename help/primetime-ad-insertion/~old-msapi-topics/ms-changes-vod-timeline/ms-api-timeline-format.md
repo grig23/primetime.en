@@ -1,9 +1,6 @@
 ---
 description: You can specify or override timelines for ad breaks in VOD content using a formatted list of ad and content segments called pods.
-seo-description: You can specify or override timelines for ad breaks in VOD content using a formatted list of ad and content segments called pods.
-seo-title: VOD timeline format
 title: VOD timeline format
-uuid: 6daaf605-e5ee-48dc-a222-a5973b3d915a
 ---
 
 # VOD timeline format {#vod-timeline-format}

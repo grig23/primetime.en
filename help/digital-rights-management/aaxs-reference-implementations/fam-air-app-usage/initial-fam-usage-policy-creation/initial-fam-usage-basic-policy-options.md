@@ -1,7 +1,7 @@
 ---
-seo-title: Basic Policy Options
 title: Basic Policy Options
-uuid: b09543b6-26a7-4e4d-8e8f-866b4bf9cc50
+description: Basic Policy Options
+copied-description: yes
 ---
 
 # Basic Policy Options {#basic-policy-options}

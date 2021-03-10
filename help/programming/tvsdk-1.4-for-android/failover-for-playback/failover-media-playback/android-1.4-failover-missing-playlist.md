@@ -1,9 +1,6 @@
 ---
 description: When an entire playlist is missing, for example, when the M3U8 file specified in a top-level manifest file does not download, TVSDK attempts to recover. If it cannot recover, your application determines the next step.
-seo-description: When an entire playlist is missing, for example, when the M3U8 file specified in a top-level manifest file does not download, TVSDK attempts to recover. If it cannot recover, your application determines the next step.
-seo-title: Missing playlist failover
 title: Missing playlist failover
-uuid: 91a537f3-3e69-4669-8f84-0292c19ac209
 ---
 
 # Missing playlist failover{#missing-playlist-failover}

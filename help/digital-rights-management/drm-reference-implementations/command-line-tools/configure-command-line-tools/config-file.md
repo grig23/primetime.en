@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: About command-line tools configuration files
 title: About command-line tools configuration files
-uuid: 8220921f-1fe9-439c-8134-dc16c2e3601b
+description: About command-line tools configuration files
+copied-description: yes
 ---
 
 # About command-line tools configuration files{#about-command-line-tools-configuration-files}

@@ -1,7 +1,7 @@
 ---
-seo-title: Implement identity-based domain registration
 title: Implement identity-based domain registration
-uuid: 4a71b2e0-d1a2-4d63-9cbd-980a292774ab
+description: Implement identity-based domain registration
+copied-description: yes
 ---
 
 # Implement identity-based domain registration{#implement-identity-based-domain-registration}

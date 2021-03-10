@@ -1,9 +1,6 @@
 ---
 description: An opportunity detector is a TVSDK component that detects custom tags in a stream and identifies placement opportunities. These opportunities are sent to the content resolver, which customizes the content/ad insertion workflow based on the placement opportunity properties and metadata.
-seo-description: An opportunity detector is a TVSDK component that detects custom tags in a stream and identifies placement opportunities. These opportunities are sent to the content resolver, which customizes the content/ad insertion workflow based on the placement opportunity properties and metadata.
-seo-title: Opportunity generators and content resolvers
 title: Opportunity generators and content resolvers
-uuid: c49494da-2145-40d7-8f4b-2ecaf2866ca4
 ---
 
 # Opportunity generators and content resolvers {#opportunity-generators-and-content-resolvers}

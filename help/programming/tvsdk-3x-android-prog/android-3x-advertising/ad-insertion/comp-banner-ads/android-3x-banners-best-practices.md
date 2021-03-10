@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Best practices for companion banner ads
 title: Best practices for companion banner ads
-uuid: 0e4c98cd-5e16-4c84-848f-02bc6f1b0d6e
+description: Best practices for companion banner ads
+copied-description: yes
 ---
 
 # Best practices for companion banner ads {#best-practices-for-companion-banner-ads}

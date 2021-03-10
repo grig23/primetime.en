@@ -1,7 +1,7 @@
 ---
-seo-title: Deploy Adobe Access
 title: Deploy Adobe Access
-uuid: 9f9a9931-f607-4b1a-9209-0236a4c197ca
+description: Deploy Adobe Access
+copied-description: yes
 ---
 
 # Deploy Adobe Access {#deploy-adobe-access}

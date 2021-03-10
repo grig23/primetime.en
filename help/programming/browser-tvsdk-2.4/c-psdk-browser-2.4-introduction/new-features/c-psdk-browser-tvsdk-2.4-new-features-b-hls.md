@@ -1,9 +1,6 @@
 ---
 description: Browser TVSDK supports a number of HLS features that you can implement to add functionality to your video applications.
-seo-description: Browser TVSDK supports a number of HLS features that you can implement to add functionality to your video applications.
-seo-title: Supported HLS features
 title: Supported HLS features
-uuid: 033d81f8-cea4-4687-b2fb-1524d9164d39
 ---
 
 # Supported HLS features {#supported-hls-features}

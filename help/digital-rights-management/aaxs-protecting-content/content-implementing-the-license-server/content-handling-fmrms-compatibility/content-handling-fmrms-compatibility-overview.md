@@ -1,7 +1,7 @@
 ---
-seo-title: Handling FMRMS compatibility
 title: Handling FMRMS compatibility
-uuid: c8d36281-cb20-4716-a58c-209e012a69bd
+description: Handling FMRMS compatibility
+copied-description: yes
 ---
 
 # Overview {#handling-fmrms-compatibility-overview}

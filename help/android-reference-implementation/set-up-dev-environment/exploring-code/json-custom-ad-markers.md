@@ -1,7 +1,7 @@
 ---
-seo-title: JSON object for custom ad markers
 title: JSON object for custom ad markers
-uuid: 2c05d9ce-a22f-4829-bfea-9dcf0dc7cd6d
+description: JSON object for custom ad markers
+copied-description: yes
 ---
 
 # JSON object for custom ad markers {#json-object-for-custom-ad-markers}

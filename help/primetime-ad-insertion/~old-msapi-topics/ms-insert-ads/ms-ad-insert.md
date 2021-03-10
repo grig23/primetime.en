@@ -1,9 +1,6 @@
 ---
 description: All requests for ad insertion use the same URL structure and the same basic query parameters. Additional query parameters enable the manifest server to work with a variety of clients and situations.
-seo-description: All requests for ad insertion use the same URL structure and the same basic query parameters. Additional query parameters enable the manifest server to work with a variety of clients and situations.
-seo-title: Requests for ad insertion
 title: Requests for ad insertion
-uuid: e42b3228-bff7-4202-86ed-7f631f3016ae
 ---
 
 # Requests for ad insertion {#requests-for-ad-insertion}

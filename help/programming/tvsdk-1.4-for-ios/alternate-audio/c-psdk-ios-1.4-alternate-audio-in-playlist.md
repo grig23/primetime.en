@@ -1,9 +1,6 @@
 ---
 description: The playlist for a video can specify an unlimited number of alternative audio tracks for the main video content. For example, you might want to add different languages to your video content or allow the user to switch between different tracks on their device while the content is playing.
-seo-description: The playlist for a video can specify an unlimited number of alternative audio tracks for the main video content. For example, you might want to add different languages to your video content or allow the user to switch between different tracks on their device while the content is playing.
-seo-title: Alternate audio tracks in the playlist
 title: Alternate audio tracks in the playlist
-uuid: 68f01375-9d57-4839-a1c0-7e022b374012
 ---
 
 # Alternate audio tracks in the playlist{#alternate-audio-tracks-in-the-playlist}

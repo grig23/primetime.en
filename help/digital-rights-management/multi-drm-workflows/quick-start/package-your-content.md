@@ -1,9 +1,6 @@
 ---
 description: Packaging content is the process of preparing video content for playback over the web. Packaging includes transforming raw video into manifest files, and optionally encrypting the content using different DRM solutions for different devices and browsers.
-seo-description: Packaging content is the process of preparing video content for playback over the web. Packaging includes transforming raw video into manifest files, and optionally encrypting the content using different DRM solutions for different devices and browsers.
-seo-title: Package Your Content
 title: Package Your Content
-uuid: b9bc6104-a1ea-4ea0-a0a4-af8a606e5d47
 ---
 
 # Package Your Content {#package-your-content}

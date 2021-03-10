@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Mark ranges
 title: Mark ranges
-uuid: d98efb92-701e-4ee2-b574-823c1e5d5149
+description: Mark ranges
+copied-description: yes
 ---
 
 # Mark ranges{#mark-ranges}

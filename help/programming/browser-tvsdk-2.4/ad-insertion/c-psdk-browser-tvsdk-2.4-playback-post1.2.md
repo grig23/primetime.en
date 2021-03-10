@@ -1,9 +1,6 @@
 ---
 description: The behavior of media playback is affected by seeking, pausing, fast forward or rewind (trick play mode), and the inclusion of advertising.
-seo-description: The behavior of media playback is affected by seeking, pausing, fast forward or rewind (trick play mode), and the inclusion of advertising.
-seo-title: Default and customized playback behavior with ads
 title: Default and customized playback behavior with ads
-uuid: 58f11167-a764-4647-8490-05ca66eb6c47
 ---
 
 # Default and customized playback behavior with ads{#default-and-customized-playback-behavior-with-ads}

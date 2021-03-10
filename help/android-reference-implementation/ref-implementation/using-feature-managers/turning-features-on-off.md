@@ -1,9 +1,6 @@
 ---
 description: You can turn features on or off without going through the code by using the manager factory.
-seo-description: You can turn features on or off without going through the code by using the manager factory.
-seo-title: Turning features on or off using ManagerFactory
 title: Turning features on or off using ManagerFactory
-uuid: 385c2707-95f7-4628-8d25-67731151cb6a
 ---
 
 # Turning features on or off using ManagerFactory{#turning-features-on-or-off-using-managerfactory}

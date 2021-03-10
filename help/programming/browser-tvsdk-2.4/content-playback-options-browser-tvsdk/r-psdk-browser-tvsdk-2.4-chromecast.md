@@ -1,9 +1,6 @@
 ---
 description: You can cast any of the streams from a TVSDK-based sender app and have the stream played back on Chromecast with Browser TVSDK.
-seo-description: You can cast any of the streams from a TVSDK-based sender app and have the stream played back on Chromecast with Browser TVSDK.
-seo-title: Google Cast app for Browser TVSDK
 title: Google Cast app for Browser TVSDK
-uuid: 018143e2-143a-4f88-97c6-4b10a2083f9e
 ---
 
 # Google Cast app for Browser TVSDK{#google-cast-app-for-browser-tvsdk}

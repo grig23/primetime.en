@@ -1,9 +1,6 @@
 ---
 description: A MediaPlayer object encapsulates the behavior and functionality of a media player.
-seo-description: A MediaPlayer object encapsulates the behavior and functionality of a media player.
-seo-title: Set up the MediaPlayer
 title: Set up the MediaPlayer
-uuid: 2279e388-6fbc-49a2-8560-218d3d31e1d6
 ---
 
 # Set up the MediaPlayer{#set-up-the-mediaplayer}

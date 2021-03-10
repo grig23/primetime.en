@@ -1,9 +1,6 @@
 ---
 description: There are several Java System properties that you can configure on the license server to control the location of configuration and log files.
-seo-description: There are several Java System properties that you can configure on the license server to control the location of configuration and log files.
-seo-title: Java system properties
 title: Java system properties
-uuid: d8c72359-bf61-47e0-9cd5-b21225d5fe49
 ---
 
 # Java system properties{#java-system-properties}

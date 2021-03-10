@@ -1,8 +1,7 @@
 ---
 title: Adobe Primetime Programming Help
-seo-title: Adobe Primetime Programming Help
-description: null
-seo-description: null
+description: Adobe Primetime Programming Help
+copied-description: yes
 ---
 
 # Primetime Programming Help

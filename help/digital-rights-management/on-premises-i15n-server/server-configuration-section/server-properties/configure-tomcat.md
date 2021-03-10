@@ -1,7 +1,7 @@
 ---
-seo-title: Configure Tomcat
 title: Configure Tomcat
-uuid: 5f23aa33-29d7-4b41-87a4-59dc5b433de4
+description: Configure Tomcat
+copied-description: yes
 ---
 
 # Configure Tomcat{#configure-tomcat}

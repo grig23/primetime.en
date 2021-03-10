@@ -1,7 +1,7 @@
 ---
-seo-title: FAQ
 title: FAQ
-uuid: 7e7409b5-9b3f-4dc3-96b6-42a06d9b1265
+description: FAQ
+copied-description: yes
 ---
 
 # FAQ {#faq}

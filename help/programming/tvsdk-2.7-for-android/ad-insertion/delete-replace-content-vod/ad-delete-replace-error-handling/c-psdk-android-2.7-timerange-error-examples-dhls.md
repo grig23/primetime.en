@@ -1,9 +1,6 @@
 ---
 description: TVSDK responds to erroneous time range specifications by merging or replacing the time ranges as appropriate.
-seo-description: TVSDK responds to erroneous time range specifications by merging or replacing the time ranges as appropriate.
-seo-title: Time range error examples
 title: Time range error examples
-uuid: f6cc1e61-8f42-4559-b643-2134180a8c5e
 ---
 
 # Time range error examples{#time-range-error-examples}

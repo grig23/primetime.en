@@ -1,9 +1,6 @@
 ---
 description: You can set up the Reference Implementation to use Adobe Analytics reporting.
-seo-description: You can set up the Reference Implementation to use Adobe Analytics reporting.
-seo-title: Configure Adobe Analytics Reporting
 title: Configure Adobe Analytics Reporting
-uuid: bdf8bb7f-a0c8-48a2-a632-0b872687f3fe
 ---
 
 # Configure Adobe Analytics Reporting {#configure-adobe-analytics-reporting}

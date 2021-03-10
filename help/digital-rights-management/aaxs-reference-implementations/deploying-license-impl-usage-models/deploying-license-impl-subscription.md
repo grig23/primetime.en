@@ -1,7 +1,7 @@
 ---
-seo-title: Subscription
 title: Subscription
-uuid: 10fd8d38-d79e-45c2-88b3-82130bbef5b5
+description: Subscription
+copied-description: yes
 ---
 
 # Subscription {#subscription}

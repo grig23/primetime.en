@@ -1,8 +1,7 @@
 ---
 title: Primetime Migration Help
-seo-title: Adobe Primetime Migration Help
-description: null
-seo-description: null
+description: Primetime Migration Help
+copied-description: yes
 ---
 
 # Primetime Migration and Conversion Help

@@ -1,9 +1,6 @@
 ---
 description: Streaming over the Internet requires a constant and stable connection to play a stream from a remote server. However, the variability of a viewer's Internet connection or streaming playback means that remote playback might not have the quality of media played locally.
-seo-description: Streaming over the Internet requires a constant and stable connection to play a stream from a remote server. However, the variability of a viewer's Internet connection or streaming playback means that remote playback might not have the quality of media played locally.
-seo-title: Playback and failover
 title: Playback and failover
-uuid: 731c087d-9e14-4c7a-a856-c3962b9d7608
 ---
 
 # Overview {#playback-and-failover-overview}

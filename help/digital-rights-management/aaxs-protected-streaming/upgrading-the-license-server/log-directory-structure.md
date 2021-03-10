@@ -1,7 +1,7 @@
 ---
-seo-title: Log directory structure
 title: Log directory structure
-uuid: 230c6a97-1bdc-47b7-9cd9-3ebeea1c3906
+description: Log directory structure
+copied-description: yes
 ---
 
 # Log directory structure{#log-directory-structure}

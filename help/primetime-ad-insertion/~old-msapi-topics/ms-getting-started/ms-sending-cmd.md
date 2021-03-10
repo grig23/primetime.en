@@ -1,9 +1,6 @@
 ---
 description: Use the HTTP GET command to interact with the manifest server.
-seo-description: Use the HTTP GET command to interact with the manifest server.
-seo-title: Send a command to the Manifest Server
 title: Send a command to the Manifest Server
-uuid: e9680563-d268-406d-87ce-1521a677e9ec
 ---
 
 # Send a command to the Manifest Server {#send-a-command-to-the-manifest-server}

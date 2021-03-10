@@ -1,7 +1,7 @@
 ---
-seo-title: Deploying the Adobe Access Server for Protected Streaming overview
 title: Deploying the Adobe Access Server for Protected Streaming overview
-uuid: 48a7e452-520a-4ff8-97e9-11210221256d
+description: Deploying the Adobe Access Server for Protected Streaming overview
+copied-description: yes
 ---
 
 # Deploying the Adobe Access Server for Protected Streaming overview {#deploying-the-adobe-access-server-for-protected-streaming-overview}

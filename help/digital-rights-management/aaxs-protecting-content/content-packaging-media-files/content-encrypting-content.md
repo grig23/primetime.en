@@ -1,7 +1,7 @@
 ---
-seo-title: Encrypting content
 title: Encrypting content
-uuid: ea71154e-557b-447e-bc14-208232f00be1
+description: Encrypting content
+copied-description: yes
 ---
 
 # Encrypting content{#encrypting-content}

@@ -1,9 +1,6 @@
 ---
 description: This example shows the recommended way to include TimeRange specifications on the playback timeline.
-seo-description: This example shows the recommended way to include TimeRange specifications on the playback timeline.
-seo-title: Place TimeRange ad markers on the timeline
 title: Place TimeRange ad markers on the timeline
-uuid: cbcc4c84-0d56-4331-b555-b8e59f7d52d4
 ---
 
 # Place TimeRange ad markers on the timeline {#place-timerange-ad-markers-on-the-timeline}

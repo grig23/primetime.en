@@ -1,7 +1,7 @@
 ---
-seo-title: Command line tools for packaging content and creating revocations lists 
 title: Command line tools for packaging content and creating revocations lists 
-uuid: 2c740521-2004-4320-88e1-118b84e80e31
+description: Command line tools for packaging content and creating revocations lists 
+copied-description: yes
 ---
 
 # Command line tools for packaging content and creating revocations lists {#command-line-tools-for-packaging-content-revocation-lists}

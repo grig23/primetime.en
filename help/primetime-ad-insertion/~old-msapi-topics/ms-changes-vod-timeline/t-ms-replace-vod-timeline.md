@@ -1,9 +1,6 @@
 ---
 description: Replace a VOD timeline by sending a new ad insertion request to the manifest server with an appropriately set pttimeline query parameter.
-seo-description: Replace a VOD timeline by sending a new ad insertion request to the manifest server with an appropriately set pttimeline query parameter.
-seo-title: Replace a VOD timeline
 title: Replace a VOD timeline
-uuid: 17a6daa3-5ee5-48fb-8981-0d183aed0fe4
 ---
 
 # Replace a VOD timeline {#replace-a-vod-timeline}

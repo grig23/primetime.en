@@ -1,7 +1,7 @@
 ---
-seo-title: Setting preferences overview
 title: Setting preferences overview
-uuid: d1c067b1-6c2b-460e-8d00-5a5bfee0789c
+description: Setting preferences overview
+copied-description: yes
 ---
 
 # Setting preferences overview {#setting-preferences-overview}

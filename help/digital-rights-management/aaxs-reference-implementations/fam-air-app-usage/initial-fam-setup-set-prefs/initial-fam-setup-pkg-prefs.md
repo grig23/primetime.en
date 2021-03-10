@@ -1,7 +1,7 @@
 ---
-seo-title: Packager Preferences
 title: Packager Preferences
-uuid: 3e9c971d-3a5f-4f3e-97e7-baab63b1f67f
+description: Packager Preferences
+copied-description: yes
 ---
 
 # Packager Preferences {#packager-preferences}

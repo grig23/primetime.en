@@ -1,9 +1,6 @@
 ---
 description: You can use Adobe Primetime DRM to create CRLs that supplement the machine CRL that is published by Adobe.
-seo-description: You can use Adobe Primetime DRM to create CRLs that supplement the machine CRL that is published by Adobe.
-seo-title: Generating CRLs to supplement those published by Adobe
 title: Generating CRLs to supplement those published by Adobe
-uuid: 0cc4254d-20a0-4e05-9c5b-0b84a5c833cb
 ---
 
 # Generating CRLs to supplement those published by Adobe{#generating-crls-to-supplement-those-published-by-adobe}

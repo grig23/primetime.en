@@ -1,12 +1,8 @@
 ---
 title: Primetime Streaming Server releases
-seo-title: Primetime Streaming Server 1.x releases
 description: What's new in Primetime Streaming Server 1.3 and 1.4 releases.
-seo-description: What's new in Primetime Streaming Server 1.3 and 1.4 releases.
-uuid: be05db6b-713f-4406-940d-9f3a805f967b
 products: SG_PRIMETIME
 topic-tags: release-notes
-discoiquuid: baec714e-9d41-4e8b-b134-13a736885cbd
 ---
 
 # Primetime Streaming Server releases {#primetime-streaming-server-x-releases}

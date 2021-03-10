@@ -1,9 +1,6 @@
 ---
 description: An opportunity detector is a TVADK component that detects custom tags in a stream and identifies placement opportunities. These opportunities are sent to the content resolver, which customizes the content/ad insertion workflow based on the placement opportunity properties and metadata.
-seo-description: An opportunity detector is a TVADK component that detects custom tags in a stream and identifies placement opportunities. These opportunities are sent to the content resolver, which customizes the content/ad insertion workflow based on the placement opportunity properties and metadata.
-seo-title: Customize opportunity detectors and content resolvers
 title: Customize opportunity detectors and content resolvers
-uuid: 7bd04c8f-6f04-4321-88e8-9bb93251d940
 ---
 
 # Overview {#customize-opportunity-detectors-and-content-resolvers-overiew}

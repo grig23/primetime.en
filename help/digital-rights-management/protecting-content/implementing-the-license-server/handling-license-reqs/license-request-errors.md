@@ -1,7 +1,7 @@
 ---
-seo-title: License request error handling
 title: License request error handling
-uuid: 4563f546-77fe-4fb9-9ad8-a0689fe6fb4d
+description: License request error handling
+copied-description: yes
 ---
 
 # License request error handling {#license-request-error-handling}

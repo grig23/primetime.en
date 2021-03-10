@@ -1,9 +1,6 @@
 ---
 description: Operating systems and application servers are included in your Adobe Primetime DRM solution.
-seo-description: Operating systems and application servers are included in your Adobe Primetime DRM solution.
-seo-title: Vendor-specific security information
 title: Vendor-specific security information
-uuid: 331baa42-5e19-40a5-bc74-0b1a2cb9370e
 ---
 
 # Vendor-specific security information{#vendor-specific-security-information}

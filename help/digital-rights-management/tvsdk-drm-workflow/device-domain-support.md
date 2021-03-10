@@ -1,9 +1,6 @@
 ---
 description: Typically, all Primetime DRM licenses, at creation time, are bound to a unique device. This binding prevents users from sharing licenses across different devices without authorization. In addition to per-device binding, Primetime DRM provides the ability to bind licenses to a Device Domain, or group of devices.
-seo-description: Typically, all Primetime DRM licenses, at creation time, are bound to a unique device. This binding prevents users from sharing licenses across different devices without authorization. In addition to per-device binding, Primetime DRM provides the ability to bind licenses to a Device Domain, or group of devices.
-seo-title: Play encrypted content using domain support
 title: Play encrypted content using domain support
-uuid: 8854cc0f-9bfc-4833-82d7-a3f46ac88e06
 ---
 
 # Device domain support {#device-domain-support}

@@ -1,9 +1,6 @@
 ---
 description: You can display the current and remaining time of the content that is being played.
-seo-description: You can display the current and remaining time of the content that is being played.
-seo-title: Display the current time and remaining time
 title: Display the current time and remaining time
-uuid: b96ade8b-1c81-4367-ba37-fc41a92d7cbc
 ---
 
 # Display the current time and remaining time {#display-the-current-time-and-remaining-time}

@@ -1,7 +1,7 @@
 ---
-seo-title: Upgrading existing deployments
 title: Upgrading existing deployments
-uuid: 57e62a88-e541-435c-8274-7f1602548601
+description: Upgrading existing deployments
+copied-description: yes
 ---
 
 # Upgrading existing deployments {#upgrading-existing-deployments}

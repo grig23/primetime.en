@@ -1,9 +1,6 @@
 ---
 description: Create a PlaybackManager that handles the HLS stream setup and playback operation. No other configuration is required.
-seo-description: Create a PlaybackManager that handles the HLS stream setup and playback operation. No other configuration is required.
-seo-title: Enable video playback
 title: Enable video playback
-uuid: ddc0defa-c40f-4ee6-a69f-d5eeca6c2fce
 ---
 
 # Enable video playback {#enable-video-playback}

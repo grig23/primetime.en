@@ -1,9 +1,6 @@
 ---
 description: An allow list is a list of trusted entities.
-seo-description: An allow list is a list of trusted entities.
-seo-title: Maintain an allow list of trusted content packagers
 title: Maintain an allow list of trusted content packagers
-uuid: 9a132ef9-eb56-408a-939e-1acd32d83a33
 ---
 
 # Maintain an allow list of trusted content packagers {#maintain-a-allowlist-of-trusted-content-packagers}

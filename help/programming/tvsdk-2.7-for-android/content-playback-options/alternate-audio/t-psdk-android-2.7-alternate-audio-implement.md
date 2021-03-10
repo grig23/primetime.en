@@ -1,9 +1,6 @@
 ---
 description: Alternate audio uses MediaPlayer to play a video that is specified in an M3U8 HLS playlist and that can contain several alternate audio streams.
-seo-description: Alternate audio uses MediaPlayer to play a video that is specified in an M3U8 HLS playlist and that can contain several alternate audio streams.
-seo-title: Access alternate audio tracks
 title: Access alternate audio tracks
-uuid: 9cec3a00-1416-497d-8d16-0ee429c8b575
 ---
 
 # Access alternate audio tracks {#access-alternate-audio-tracks}

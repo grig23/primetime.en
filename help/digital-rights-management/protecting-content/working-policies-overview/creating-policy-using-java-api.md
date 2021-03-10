@@ -1,7 +1,7 @@
 ---
-seo-title: Creating a DRM policy with the Java API
 title: Creating a DRM policy with the Java API
-uuid: 1672a6d0-e38c-4330-97b0-02147f99db47
+description: Creating a DRM policy with the Java API
+copied-description: yes
 ---
 
 # Creating a DRM policy with the Java API {#creating-a-drm-policy-with-the-java-api}

@@ -1,9 +1,6 @@
 ---
 description: When a segment is missing, for example when a particular segment fails to download, attempts to recover through a variety of failover attempts. If it cannot recover, it issues an error.
-seo-description: When a segment is missing, for example when a particular segment fails to download, attempts to recover through a variety of failover attempts. If it cannot recover, it issues an error.
-seo-title: Missing segment failover
 title: Missing segment failover
-uuid: 17ee1221-e1eb-4f64-a406-4d7eff1d7555
 ---
 
 # Missing segment failover{#missing-segment-failover}

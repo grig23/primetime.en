@@ -1,7 +1,7 @@
 ---
-seo-title: Building the Flash Access Manager AIR Application
 title: Building the Flash Access Manager AIR Application
-uuid: 00927eb3-b8eb-4dd4-b528-91b70760c8cd
+description: Building the Flash Access Manager AIR Application
+copied-description: yes
 ---
 
 # Building the Flash Access Manager AIR Application {#building-the-flash-access-manager-air-application}

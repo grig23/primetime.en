@@ -1,7 +1,7 @@
 ---
-seo-title: About certificates
 title: About certificates
-uuid: 0b7818b4-bd6a-4f2e-94c2-565e0d735bf8
+description: About certificates
+copied-description: yes
 ---
 
 # About certificates {#about-certificates}

@@ -1,7 +1,7 @@
 ---
-seo-title: Identity-based domains
 title: Identity-based domains
-uuid: 34cad19b-1adb-4e0c-ac59-50632f6988f7
+description: Identity-based domains
+copied-description: yes
 ---
 
 # Identity-based domains {#identity-based-domains}

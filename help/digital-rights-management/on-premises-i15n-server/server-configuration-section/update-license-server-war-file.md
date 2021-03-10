@@ -1,7 +1,7 @@
 ---
-seo-title: Update the License Server WAR File
 title: Update the License Server WAR File
-uuid: 0cde53d6-185d-4bf2-84fc-0c31d17904a8
+description: Update the License Server WAR File
+copied-description: yes
 ---
 
 # Update the License Server WAR File{#update-the-license-server-war-file}

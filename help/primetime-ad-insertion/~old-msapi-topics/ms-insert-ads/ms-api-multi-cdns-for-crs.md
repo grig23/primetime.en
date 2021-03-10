@@ -1,9 +1,6 @@
 ---
 description: While the default creative repackaging service (CRS) scenario is to use one Content Delivery Network (CDN), you can deploy CRS assets on more than one CDN.
-seo-description: While the default creative repackaging service (CRS) scenario is to use one Content Delivery Network (CDN), you can deploy CRS assets on more than one CDN.
-seo-title: Multiple CDN support for CRS ad delivery
 title: Multiple CDN support for CRS ad delivery
-uuid: c5557a38-aa49-4161-bb58-3e8dff9a4d64
 ---
 
 # Multiple CDN support for CRS ad delivery {#multiple-cdn-support-for-crs-ad-delivery}

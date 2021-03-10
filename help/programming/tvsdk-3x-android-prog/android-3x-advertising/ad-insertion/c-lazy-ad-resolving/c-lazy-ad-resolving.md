@@ -1,10 +1,7 @@
 ---
 description: Ad resolving and ad loading may cause an unacceptable delay for a user waiting for playback to start. The Lazy Ad Loading and Lazy Ad Resolving features can reduce this startup delay. Lazy Ad Resolving has changed significantly in the 3.0 version. In Lazy Ad loading prior to 3.0, ad resolution was broken into two steps, resolving just pre-rolls ads prior to the PREPARED status, and mid-rolls and post-rolls after the PREPARED status. This has changed and ad breaks are now resolved at a specified interval prior to the position of the ad break.
 keywords: Lazy;Ad resolving;Ad loading
-seo-description: Ad resolving and ad loading may cause an unacceptable delay for a user waiting for playback to start. The Lazy Ad Loading and Lazy Ad Resolving features can reduce this startup delay. Lazy Ad Resolving has changed significantly in the 3.0 version. In Lazy Ad loading prior to 3.0, ad resolution was broken into two steps, resolving just pre-rolls ads prior to the PREPARED status, and mid-rolls and post-rolls after the PREPARED status. This has changed and ad breaks are now resolved at a specified interval prior to the position of the ad break.
-seo-title: Just-in-Time Ad Resolving
 title: Just-in-Time Ad Resolving
-uuid: 77028f6e-7e53-45d1-bcc0-54f8224d6d18
 ---
 
 # Overview {#just-in-time-ad-resolving-overview}

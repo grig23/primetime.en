@@ -1,7 +1,7 @@
 ---
-seo-title: Time-based rules
 title: Time-based rules
-uuid: 19a6ee7e-9580-48bb-a3a6-ff2cedcc796a
+description: Time-based rules
+copied-description: yes
 ---
 
 # Time-based rules {#time-based-rules}

@@ -1,9 +1,6 @@
 ---
 description: To receive notifications about tags in the manifest, implement the appropriate event listener(s).
-seo-description: To receive notifications about tags in the manifest, implement the appropriate event listener(s).
-seo-title: Add listeners for timed metadata notifications
 title: Add listeners for timed metadata notifications
-uuid: cd7a5936-d63a-4711-ac16-2d79bac099a3
 ---
 
 # Add listeners for timed metadata notifications {#add-listeners-for-timed-metadata-notifications}

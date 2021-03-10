@@ -1,7 +1,7 @@
 ---
-seo-title: License caching duration
 title: License caching duration
-uuid: d448aa43-8cba-4b1d-8609-0dba4bb67042
+description: License caching duration
+copied-description: yes
 ---
 
 # License caching duration{#license-caching-duration}

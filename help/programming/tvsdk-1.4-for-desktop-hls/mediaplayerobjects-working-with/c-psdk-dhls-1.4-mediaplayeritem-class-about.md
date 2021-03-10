@@ -1,9 +1,6 @@
 ---
 description: The MediaPlayer object represents your media player. A MediaPlayerItem represents audio or video on your player.
-seo-description: The MediaPlayer object represents your media player. A MediaPlayerItem represents audio or video on your player.
-seo-title: About the MediaPlayerItem class
 title: About the MediaPlayerItem class
-uuid: 531dd1a6-d72c-4ae3-9c3f-2f1d854245c5
 ---
 
 # About the MediaPlayerItem class{#about-the-mediaplayeritem-class}

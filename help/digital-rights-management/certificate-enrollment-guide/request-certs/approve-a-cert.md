@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Approve a certificate (Account or Secondary Administrator)
 title: Approve a certificate (Account or Secondary Administrator)
-uuid: 5b95e2e8-abe9-4aef-bcb4-9b98ba6604d1
+description: Approve a certificate (Account or Secondary Administrator)
+copied-description: yes
 ---
 
 # Approve a certificate (Account or Secondary Administrator){#approve-a-certificate-account-or-secondary-administrator}

@@ -1,7 +1,7 @@
 ---
-seo-title: Device capabilities required to play protected content
 title: Device capabilities required to play protected content
-uuid: 16ed73d9-e02f-4c86-bf15-2d3e7122bf5a
+description: Device capabilities required to play protected content
+copied-description: yes
 ---
 
 # Device capabilities required to play protected content {#device-capabilities-required-to-play-protected-content}

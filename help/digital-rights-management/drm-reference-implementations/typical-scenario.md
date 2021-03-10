@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Typical workflow
 title: Typical workflow
-uuid: aafe0030-8a59-4090-aeac-76867777eaa5
+description: Typical workflow
+copied-description: yes
 ---
 
 # Typical workflow{#typical-workflow}

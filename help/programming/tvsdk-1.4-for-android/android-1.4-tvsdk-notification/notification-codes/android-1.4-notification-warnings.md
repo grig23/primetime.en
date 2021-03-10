@@ -1,9 +1,6 @@
 ---
 description: This table proves detailed information about WARN type notifications.
-seo-description: This table proves detailed information about WARN type notifications.
-seo-title: WARNING notification codes
 title: WARNING notification codes
-uuid: 32b54e6c-f107-4e8e-aad6-34e1057719b0
 ---
 
 # WARNING notification codes {#warning-notification-codes}

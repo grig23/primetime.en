@@ -1,9 +1,6 @@
 ---
 description: In some analytics implementations, the client application might want to provide a different playhead position than the position reported by the Browser TVSDK localTime value.
-seo-description: In some analytics implementations, the client application might want to provide a different playhead position than the position reported by the Browser TVSDK localTime value.
-seo-title: Implement custom time updates
 title: Implement custom time updates
-uuid: 26a0592c-a47b-4d65-b984-5e51533dcddc
 ---
 
 # Implement custom time updates{#implement-custom-time-updates}

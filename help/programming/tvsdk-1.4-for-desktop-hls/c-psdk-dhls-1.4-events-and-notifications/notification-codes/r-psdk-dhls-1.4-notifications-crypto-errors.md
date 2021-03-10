@@ -1,9 +1,6 @@
 ---
 description: The crypto module of the Adobe video engine returns these notifications in the NATIVE_ERROR metadata object.
-seo-description: The crypto module of the Adobe video engine returns these notifications in the NATIVE_ERROR metadata object.
-seo-title: NATIVE_ERROR  Crypto values
 title: NATIVE_ERROR  Crypto values
-uuid: 6f5cea7d-688f-421e-bba6-62aeae1ec9ee
 ---
 
 # NATIVE_ERROR: Crypto values{#native-error-crypto-values}

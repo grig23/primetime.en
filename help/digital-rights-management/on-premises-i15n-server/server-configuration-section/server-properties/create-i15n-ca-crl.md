@@ -1,7 +1,7 @@
 ---
-seo-title: Create Individualization CA CRL
 title: Create Individualization CA CRL
-uuid: f722f3d1-517f-43e3-b892-f9287527fbe6
+description: Create Individualization CA CRL
+copied-description: yes
 ---
 
 # Create Individualization CA CRL{#create-individualization-ca-crl}

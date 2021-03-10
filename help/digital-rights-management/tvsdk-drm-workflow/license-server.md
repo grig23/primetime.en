@@ -1,7 +1,7 @@
 ---
-seo-title: Primetime DRM license server
 title: Primetime DRM license server
-uuid: 5be34572-327f-47ff-8b24-17b18f2e258b
+description: Primetime DRM license server
+copied-description: yes
 ---
 
 # Primetime DRM license server {#primetime-drm-license-server}

@@ -1,9 +1,6 @@
 ---
 description: The manifest server returns master playlists in M3U8 format, conforming to the proposed HTTP Live Streaming standard. It consists of a set of variant transport streams (TSs), each containing renditions of the same content for different bit rates and formats. Adobe Primetime ad insertion adds the EXT-X-MARKER directive tag, to be interpreted by client video players.
-seo-description: The manifest server returns master playlists in M3U8 format, conforming to the proposed HTTP Live Streaming standard. It consists of a set of variant transport streams (TSs), each containing renditions of the same content for different bit rates and formats. Adobe Primetime ad insertion adds the EXT-X-MARKER directive tag, to be interpreted by client video players.
-seo-title: EXT-X-MARKER Directive
 title: EXT-X-MARKER Directive
-uuid: e349bf89-b196-47b4-a362-9913fa28b2c6
 ---
 
 # EXT-X-MARKER Directive {#ext-x-marker-directive}

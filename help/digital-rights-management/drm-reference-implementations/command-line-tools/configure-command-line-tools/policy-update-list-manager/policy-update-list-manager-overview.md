@@ -1,7 +1,7 @@
 ---
-seo-title: Overview
 title: Overview
-uuid: 19d05867-c210-4cd0-bc2f-5dd75f5774e5
+description: Overview
+copied-description: yes
 ---
 
 # DRM Policy Update List Manager {#policy-update-list-manager}

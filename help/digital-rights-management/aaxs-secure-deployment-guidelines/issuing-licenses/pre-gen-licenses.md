@@ -1,7 +1,7 @@
 ---
-seo-title: Pre-generating licenses
 title: Pre-generating licenses
-uuid: 0207abdf-52bb-4bd0-a4f2-fe740b89fa83
+description: Pre-generating licenses
+copied-description: yes
 ---
 
 # Pre-generating licenses{#pre-generating-licenses}

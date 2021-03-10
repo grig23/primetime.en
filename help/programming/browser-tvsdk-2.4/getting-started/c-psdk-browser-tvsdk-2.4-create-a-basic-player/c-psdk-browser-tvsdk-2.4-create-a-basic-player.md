@@ -1,9 +1,6 @@
 ---
 description: To use Browser TVSDK, you must create and configure a basic player. For playing video content, you can create a basic player in either of two ways  using the Browser TVSDK, or using the UI Framework.
-seo-description: To use Browser TVSDK, you must create and configure a basic player. For playing video content, you can create a basic player in either of two ways  using the Browser TVSDK, or using the UI Framework.
-seo-title: Basic player
 title: Basic player
-uuid: 44a27458-be12-452f-92b9-3cef79439257
 ---
 
 # Overview {#basic-player-overview}

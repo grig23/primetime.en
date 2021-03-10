@@ -1,10 +1,8 @@
 ---
-description: null
 keywords: hard stop
-seo-description: null
-seo-title: Configuration properties
 title: Configuration properties
-uuid: 216921d1-a9c1-4650-9dce-c025836986e5
+description: Configuration properties
+copied-description: yes
 ---
 
 # Configuration properties {#configuration-properties}

@@ -1,9 +1,6 @@
 ---
 description: The MediaPlayer interface encapsulates the functionality and behavior of a media player.
-seo-description: The MediaPlayer interface encapsulates the functionality and behavior of a media player.
-seo-title: Set up the MediaPlayer
 title: Set up the MediaPlayer
-uuid: 4b27643c-9ccd-4abb-9793-475d06ee2a88
 ---
 
 # Set up the MediaPlayer {#set-up-the-mediaplayer}

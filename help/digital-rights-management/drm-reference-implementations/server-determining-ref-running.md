@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Determining if Reference Implementation License Server runs properly
 title: Determining if Reference Implementation License Server runs properly
-uuid: afd82d6d-a11c-48ff-b48c-8f81d4b406a0
+description: Determining if Reference Implementation License Server runs properly
+copied-description: yes
 ---
 
 # Determining if Reference Implementation License Server runs properly {#determining-if-reference-implementation-license-server-runs-properly}

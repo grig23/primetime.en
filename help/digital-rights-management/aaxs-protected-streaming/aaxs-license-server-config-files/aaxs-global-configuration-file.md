@@ -1,7 +1,7 @@
 ---
-seo-title: Global configuration file
 title: Global configuration file
-uuid: 10370bc0-36ab-4e43-9e75-c46a7177874c
+description: Global configuration file
+copied-description: yes
 ---
 
 # Global configuration file{#global-configuration-file}

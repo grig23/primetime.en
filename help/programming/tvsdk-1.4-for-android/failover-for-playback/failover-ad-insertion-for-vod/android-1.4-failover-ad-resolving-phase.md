@@ -1,9 +1,6 @@
 ---
 description: TVSDK contacts an ad delivery service, such as Adobe Primetime ad decisioning, and attempts to obtain the primary playlist file that corresponds to the video stream for the ad. During the ad-resolving phase, TVSDK makes an HTTP call to the remote ad-delivery server and parses the server's response.
-seo-description: TVSDK contacts an ad delivery service, such as Adobe Primetime ad decisioning, and attempts to obtain the primary playlist file that corresponds to the video stream for the ad. During the ad-resolving phase, TVSDK makes an HTTP call to the remote ad-delivery server and parses the server's response.
-seo-title: Ad-resolving phase
 title: Ad-resolving phase
-uuid: b3e62a57-7e62-4e4e-8fa6-0d416785db67
 ---
 
 # Ad-resolving phase{#ad-resolving-phase}

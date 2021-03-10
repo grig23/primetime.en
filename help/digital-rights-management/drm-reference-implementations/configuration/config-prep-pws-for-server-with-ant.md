@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Prepare passwords using Ant
 title: Prepare passwords using Ant
-uuid: 9419ab0d-b448-4881-9d26-35c00f0b13bc
+description: Prepare passwords using Ant
+copied-description: yes
 ---
 
 # Prepare passwords using Ant{#prepare-passwords-using-ant}

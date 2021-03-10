@@ -1,7 +1,7 @@
 ---
-seo-title: Preparing passwords for the Server properties files
 title: Preparing passwords for the Server properties files
-uuid: 2d876eb0-b1a5-4c30-ae96-0a22f6a03910
+description: Preparing passwords for the Server properties files
+copied-description: yes
 ---
 
 # Preparing passwords for the Server properties files {#preparing-passwords-for-the-server-properties-files}

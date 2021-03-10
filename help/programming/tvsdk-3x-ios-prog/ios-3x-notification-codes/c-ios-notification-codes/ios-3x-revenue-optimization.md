@@ -1,7 +1,5 @@
 ---
 description: This table provides detailed information about Revenue Optimization notifications. 
-seo-description: This table provides detailed information about Revenue Optimization notifications. 
-seo-title: REVENUE Optimization code
 title: REVENUE Optimization code
 ---
 

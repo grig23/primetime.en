@@ -1,7 +1,7 @@
 ---
-seo-title: Command line usage
 title: Command line usage
-uuid: b3a995de-653e-491a-9262-86dc56b9ce31
+description: Command line usage
+copied-description: yes
 ---
 
 # Command line usage {#command-line-usage}

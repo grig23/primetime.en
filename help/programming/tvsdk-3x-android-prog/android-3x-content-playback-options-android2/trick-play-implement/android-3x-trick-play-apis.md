@@ -1,9 +1,6 @@
 ---
 description: TVSDK includes methods, properties, and events to determine valid rates, current rates, whether trick play is supported, and other functionality that are related to fast forward and rewind.
-seo-description: TVSDK includes methods, properties, and events to determine valid rates, current rates, whether trick play is supported, and other functionality that are related to fast forward and rewind.
-seo-title: Rate-change API elements
 title: Rate-change API elements
-uuid: c2bcd20c-0641-4d75-802c-08098786d572
 ---
 
 # Rate-change API elements {#rate-change-api-elements}
