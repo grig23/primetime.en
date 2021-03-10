@@ -1,7 +1,7 @@
 ---
-seo-title: Handling authentication requests
 title: Handling authentication requests
-uuid: 036582d4-611c-4772-b247-81a3144fd5d6
+description: Handling authentication requests
+copied-description: yes
 ---
 
 # Handling authentication requests{#handling-authentication-requests}

@@ -1,7 +1,7 @@
 ---
-seo-title: Primetime DRM content protection options
 title: Primetime DRM content protection options
-uuid: e4865e17-fbb3-40be-ab23-816dd76f599d
+description: Primetime DRM content protection options
+copied-description: yes
 ---
 
 # Primetime DRM content protection options{#primetime-drm-content-protection-options}

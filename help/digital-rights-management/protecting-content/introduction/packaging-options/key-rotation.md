@@ -1,9 +1,6 @@
 ---
 description: You can select the following encryption options when you create a package. However, you cannot modify the encryption options during license acquisition 
-seo-description: You can select the following encryption options when you create a package. However, you cannot modify the encryption options during license acquisition 
-seo-title: Key Rotation
 title: Key Rotation
-uuid: 6ac3b828-2cd1-42df-b9ee-4daa8e553d5e
 ---
 
 # Key Rotation {#key-rotation}

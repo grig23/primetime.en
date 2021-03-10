@@ -1,9 +1,6 @@
 ---
 description: The notification portion of the Browser TVSDK library allows you to create a logging and debugging system that can be useful for diagnostic and validation purposes.
-seo-description: The notification portion of the Browser TVSDK library allows you to create a logging and debugging system that can be useful for diagnostic and validation purposes.
-seo-title: Notification system
 title: Notification system
-uuid: 69c4ff1d-3167-413b-ab49-942a5ddc34d7
 ---
 
 # Notification system {#notification-system}

@@ -1,9 +1,6 @@
 ---
 description: Closed captions and subtitles have some unique differences, and you enable them in different ways.
-seo-description: Closed captions and subtitles have some unique differences, and you enable them in different ways.
-seo-title: Subtitles and closed captions
 title: Subtitles and closed captions
-uuid: 91daf0be-087a-4be5-86c2-f8b83da43a8f
 ---
 
 # Requirements for subtitles and closed captions {#requirements-for-subtitles-and-closed-captions}

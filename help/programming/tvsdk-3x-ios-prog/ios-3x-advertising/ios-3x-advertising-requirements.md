@@ -1,9 +1,6 @@
 ---
 description: You can insert ads in your VOD and live/linear content by using the Adobe Primetime ad decisioning interface.
-seo-description: You can insert ads in your VOD and live/linear content by using the Adobe Primetime ad decisioning interface.
-seo-title: Advertising requirements
 title: Advertising requirements
-uuid: 0287f1e4-746f-42e5-b811-409064dd9b13
 ---
 
 # Advertising requirements {#advertising-requirements}

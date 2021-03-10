@@ -1,7 +1,7 @@
 ---
-seo-title: Terminology and core concepts
 title: Terminology and core concepts
-uuid: 89a9e4b0-f5e1-4dc2-9cf8-0c8d7e9b7d62
+description: Terminology and core concepts
+copied-description: yes
 ---
 
 # Terminology and core concepts {#terminology-and-core-concepts}

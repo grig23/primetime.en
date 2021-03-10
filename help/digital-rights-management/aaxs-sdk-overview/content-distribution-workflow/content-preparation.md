@@ -1,9 +1,6 @@
 ---
 description: Any use of Adobe Access consists of two key steps at different points of the workflow. Content preparation must be done once per asset, and results in creating protected content. Content acquisition is done multiple times, once for every consumer that wants to watch that protected asset.
-seo-description: Any use of Adobe Access consists of two key steps at different points of the workflow. Content preparation must be done once per asset, and results in creating protected content. Content acquisition is done multiple times, once for every consumer that wants to watch that protected asset.
-seo-title: Content preparation
 title: Content preparation
-uuid: 7a3562c6-6033-4e28-8f0a-18e3cb8987b9
 ---
 
 # Content preparation {#content-preparation}

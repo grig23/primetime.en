@@ -1,7 +1,7 @@
 ---
-seo-title: Deploy Adobe Primetime DRM
 title: Deploy Adobe Primetime DRM
-uuid: c14c2792-d207-4f39-b856-610520bdaa28
+description: Deploy Adobe Primetime DRM
+copied-description: yes
 ---
 
 # Deploy Adobe Primetime DRM {#configure-adobe-primetime-drm}

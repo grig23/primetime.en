@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Allow list for Adobe® Flash® Player SWFs
 title: Allow list for Adobe® Flash® Player SWFs
-uuid: 670d8ccf-5145-499f-a6e3-d5d89562291e
+description: Allow list for Adobe® Flash® Player SWFs
+copied-description: yes
 ---
 
 # Allow list for Adobe® Flash® Player SWFs{#allowlist-for-adobe-flash-player-swfs}

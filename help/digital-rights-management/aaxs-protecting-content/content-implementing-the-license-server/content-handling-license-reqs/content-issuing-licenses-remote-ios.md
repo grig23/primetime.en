@@ -1,7 +1,7 @@
 ---
-seo-title: Issuing licenses for remote key delivery to iOS clients (requires Adobe Primetime)
 title: Issuing licenses for remote key delivery to iOS clients (requires Adobe Primetime)
-uuid: 43d88426-209f-4d31-a810-ea8d75f31da9
+description: Issuing licenses for remote key delivery to iOS clients (requires Adobe Primetime)
+copied-description: yes
 ---
 
 # Issuing licenses for remote key delivery to iOS clients (requires Adobe Primetime){#issuing-licenses-for-remote-key-delivery-to-ios-clients-requires-adobe-primetime}

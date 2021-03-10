@@ -1,7 +1,7 @@
 ---
-seo-title: Packaging Options
 title: Packaging Options
-uuid: 04244428-cb42-438a-8f16-91532c70ea60
+description: Packaging Options
+copied-description: yes
 ---
 
 # Packaging Options{#packaging-options}

@@ -1,9 +1,6 @@
 ---
-seo-title: Standard AAXS DRM Workflow
 title: Standard AAXS DRM Workflow
 description: Standard AAXS DRM Workflow
-seo-description: Standard AAXS DRM Workflow
-uuid: b996eb2c-8e37-4a29-a972-e09c69d2461d
 ---
 
 # Standard AAXS DRM Workflow{#standard-aaxs-drm-workflow}

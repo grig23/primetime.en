@@ -1,9 +1,6 @@
 ---
 description: Adobe Access can be used with other third-party content streaming solutions to set up a complete and secure DRM-based media distribution ecosystem.
-seo-description: Adobe Access can be used with other third-party content streaming solutions to set up a complete and secure DRM-based media distribution ecosystem.
-seo-title: UltraViolet media and Adobe Access
 title: UltraViolet media and Adobe Access
-uuid: d287680f-02de-4cca-aeea-22b7fd8e67d2
 ---
 
 # UltraViolet media and Adobe Access {#ultraviolet-media-and-adobe-access}

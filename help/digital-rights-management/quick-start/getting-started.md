@@ -1,7 +1,7 @@
 ---
-seo-title: Getting Started
 title: Getting Started
-uuid: 2002cf94-c8a7-4820-a560-6d9f7f33ee97
+description: Getting Started
+copied-description: yes
 ---
 
 # Getting Started {#getting-started}

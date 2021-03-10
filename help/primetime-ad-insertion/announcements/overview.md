@@ -1,8 +1,6 @@
 ---
 title: Adobe Primetime Ad Insertion Announcements
-seo-title: Adobe Primetime Ad Insertion Announcements
 description: Announcements about recent feature releases and other related news about Primetime Ad Insertion
-seo-description: Announcements about recent feature releases and other related news about Primetime Ad Insertion
 ---
 
 # Primetime Ad Insertion Announcements

@@ -1,9 +1,6 @@
 ---
 description: The MediaPlayer provides a notifyClick() function that dispatches ad-related events when a clickable ad is playing. These events provide ad and ad break information that your app can use to provide click-through functionality.
-seo-description: The MediaPlayer provides a notifyClick() function that dispatches ad-related events when a clickable ad is playing. These events provide ad and ad break information that your app can use to provide click-through functionality.
-seo-title: Handle Clickable Ads
 title: Handle Clickable Ads
-uuid: 5d3c9d36-60d7-4272-a523-7d1fe0e1615f
 ---
 
 # Handle Clickable Ads {#handle-clickable-ads}

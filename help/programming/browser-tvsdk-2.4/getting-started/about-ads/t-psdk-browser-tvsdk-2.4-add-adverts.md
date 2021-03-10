@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Add Advertising
 title: Add Advertising
-uuid: 7762506f-b55e-445d-b8a2-c1208358a370
+description: Add Advertising
+copied-description: yes
 ---
 
 # Add Advertising {#add-advertising}

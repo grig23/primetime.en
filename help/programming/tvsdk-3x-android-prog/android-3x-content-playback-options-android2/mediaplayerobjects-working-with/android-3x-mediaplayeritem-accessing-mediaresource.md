@@ -1,9 +1,6 @@
 ---
 description: The methods in the MediaPlayerItem class allow you to obtain information about the content stream represented by a loaded MediaResource.
-seo-description: The methods in the MediaPlayerItem class allow you to obtain information about the content stream represented by a loaded MediaResource.
-seo-title: MediaPlayerItem methods for accessing MediaResource information
 title: MediaPlayerItem methods for accessing MediaResource information
-uuid: 46845583-0a76-4411-a8bc-0a16ebfe8e6e
 ---
 
 # MediaPlayerItem methods for accessing MediaResource information {#mediaplayeritem-methods-for-accessing-mediaresource-information}

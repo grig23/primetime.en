@@ -1,9 +1,6 @@
 ---
 description: Video Player Ad-Serving Interface Definition (VPAID) provides a common interface to play video ads. VPAID provides a rich media experience for users and allows publishers to better target ads, track ad impressions, and monetize video content.
-seo-description: Video Player Ad-Serving Interface Definition (VPAID) provides a common interface to play video ads. VPAID provides a rich media experience for users and allows publishers to better target ads, track ad impressions, and monetize video content.
-seo-title: Custom ad requirements
 title: Custom ad requirements
-uuid: 6d4ba87b-ffe5-467d-8ab5-9795928c2f69
 ---
 
 # Custom ad requirements {#custom-ad-requirements}

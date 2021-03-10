@@ -1,9 +1,6 @@
 ---
 description: When Primetime ad decisioningencounters a VAST ad (creative) that is empty or that has a media type that is invalid for HLS, it evaluates the fallback ads to determine what to return.
-seo-description: When Primetime ad decisioningencounters a VAST ad (creative) that is empty or that has a media type that is invalid for HLS, it evaluates the fallback ads to determine what to return.
-seo-title: Ad fallback behavior for VAST and VMAP
 title: Ad fallback behavior for VAST and VMAP
-uuid: 612416b9-d070-42e2-b68b-74ba52023345
 ---
 
 # Ad fallback behavior for VAST and VMAP {#ad-fallback-behavior-for-vast-and-vmap}

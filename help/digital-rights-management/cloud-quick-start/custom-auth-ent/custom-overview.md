@@ -1,7 +1,7 @@
 ---
-seo-title: Custom authentication/entitlement overview (Optional)
 title: Custom authentication/entitlement overview (Optional)
-uuid: 8b5e38a5-562c-4781-ac40-4b3d6cdd97fe
+description: Custom authentication/entitlement overview (Optional)
+copied-description: yes
 ---
 
 # Custom authentication/entitlement overview (Optional){#custom-authentication-entitlement-overview-optional}

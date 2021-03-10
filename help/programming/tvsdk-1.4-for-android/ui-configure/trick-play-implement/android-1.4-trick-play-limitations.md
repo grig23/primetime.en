@@ -1,9 +1,6 @@
 ---
 description: There are some limitations and some issues in the way trick play mode behaves.
-seo-description: There are some limitations and some issues in the way trick play mode behaves.
-seo-title: Limitations and behavior for trick play
 title: Limitations and behavior for trick play
-uuid: 0e84c9ef-fc18-4667-ad17-7f4777b552ba
 ---
 
 # Limitations and behavior for trick play{#limitations-and-behavior-for-trick-play}

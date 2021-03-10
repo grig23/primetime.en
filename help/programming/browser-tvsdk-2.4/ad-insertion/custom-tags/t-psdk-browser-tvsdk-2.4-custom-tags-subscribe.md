@@ -1,9 +1,6 @@
 ---
 description: Browser TVSDK prepares TimedMetadata objects for subscribed tags each time these objects are encountered in the Media Presentation Description (MPD) file.
-seo-description: Browser TVSDK prepares TimedMetadata objects for subscribed tags each time these objects are encountered in the Media Presentation Description (MPD) file.
-seo-title: Subscribe to custom ad tags
 title: Subscribe to custom ad tags
-uuid: 208f61f4-dc33-4363-aa71-878458740a8d
 ---
 
 # Subscribe to custom ad tags{#subscribe-to-custom-ad-tags}

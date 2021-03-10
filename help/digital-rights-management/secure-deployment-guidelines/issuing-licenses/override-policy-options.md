@@ -1,9 +1,6 @@
 ---
 description: When you issue a license, the license server can override the usage rules that are specified in the policy.
-seo-description: When you issue a license, the license server can override the usage rules that are specified in the policy.
-seo-title: Overriding policy options
 title: Overriding policy options
-uuid: abb230c2-ceb1-4e6e-a2ea-17942d79d0dc
 ---
 
 # Overriding policy options{#overriding-policy-options}

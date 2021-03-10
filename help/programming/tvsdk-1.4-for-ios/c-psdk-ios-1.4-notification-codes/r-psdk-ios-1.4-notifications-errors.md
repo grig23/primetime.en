@@ -1,9 +1,6 @@
 ---
 description: This table provides detailed information about ERROR type notifications.
-seo-description: This table provides detailed information about ERROR type notifications.
-seo-title: ERROR notification codes
 title: ERROR notification codes
-uuid: cea75277-7747-4f9b-ad59-98f9f1a5ac2f
 ---
 
 # ERROR notification codes{#error-notification-codes}

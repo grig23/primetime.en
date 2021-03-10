@@ -1,8 +1,7 @@
 ---
 title: Primetime Reference Implementation
-seo-title: Adobe Primetime Reference Implementation Help
-description: null
-seo-description: null
+description: Primetime Reference Implementation
+copied-description: yes
 ---
 
 # Primetime Reference Implementation

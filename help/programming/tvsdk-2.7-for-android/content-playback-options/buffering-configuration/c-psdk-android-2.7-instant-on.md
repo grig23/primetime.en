@@ -1,9 +1,6 @@
 ---
 description: Enabling instant on means that one or more channels are preloaded. When users select a channel or switch channels, the content plays immediately. The buffering is complete by the time the user starts watching.
-seo-description: Enabling instant on means that one or more channels are preloaded. When users select a channel or switch channels, the content plays immediately. The buffering is complete by the time the user starts watching.
-seo-title: Instant On
 title: Instant On
-uuid: 7e14b779-2a36-4ff4-a365-9ac49a836ff3
 ---
 
 # Instant On {#instant-on}

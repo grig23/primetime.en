@@ -1,7 +1,7 @@
 ---
-seo-title: Multiple play rights
 title: Multiple play rights
-uuid: 3386be38-4640-424a-9cb2-b95b2ab52c66
+description: Multiple play rights
+copied-description: yes
 ---
 
 # Multiple play rights{#multiple-play-rights}

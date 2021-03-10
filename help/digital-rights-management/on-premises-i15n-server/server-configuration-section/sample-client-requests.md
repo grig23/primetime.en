@@ -1,7 +1,7 @@
 ---
-seo-title: Sample Client Requests
 title: Sample Client Requests
-uuid: 330d5e3c-1711-4375-bd11-e7702f0cde31
+description: Sample Client Requests
+copied-description: yes
 ---
 
 # Sample Client Requests{#sample-client-requests}

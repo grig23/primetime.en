@@ -1,7 +1,7 @@
 ---
-seo-title: Overriding policy options
 title: Overriding policy options
-uuid: eeab6013-cd02-443a-9f26-bb3259b32c8a
+description: Overriding policy options
+copied-description: yes
 ---
 
 # Overriding policy options{#overriding-policy-options}

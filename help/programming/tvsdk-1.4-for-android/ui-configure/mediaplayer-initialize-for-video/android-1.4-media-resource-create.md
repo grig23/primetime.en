@@ -1,9 +1,6 @@
 ---
 description: For each new video content, initialize a MediaResource instance with information about the video content and load the media resource. The MediaResource class represents the content to be loaded by the MediaPlayer instance.
-seo-description: For each new video content, initialize a MediaResource instance with information about the video content and load the media resource. The MediaResource class represents the content to be loaded by the MediaPlayer instance.
-seo-title: Create a media resource
 title: Create a media resource
-uuid: d9fe982a-bedf-445c-b5be-f7918693782a
 ---
 
 # Create a media resource {#create-a-media-resource}

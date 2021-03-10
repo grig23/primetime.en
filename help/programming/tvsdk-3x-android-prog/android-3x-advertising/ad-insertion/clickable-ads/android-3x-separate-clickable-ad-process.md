@@ -1,9 +1,6 @@
 ---
 description: You should separate your player's UI logic from the process that manages ad clicks. One way to do this is to implement multiple fragments for an activity.
-seo-description: You should separate your player's UI logic from the process that manages ad clicks. One way to do this is to implement multiple fragments for an activity.
-seo-title: Separate the clickable ad process
 title: Separate the clickable ad process
-uuid: a5254ac5-3005-483e-935e-acbbef03df0e
 ---
 
 # Separate the clickable ad process {#separate-the-clickable-ad-process}

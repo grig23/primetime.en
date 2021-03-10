@@ -1,7 +1,7 @@
 ---
-seo-title: Using Media Packager
 title: Using Media Packager
-uuid: e5f8a3cf-b43d-437f-85a2-52d3ba4961d0
+description: Using Media Packager
+copied-description: yes
 ---
 
 # Using Media Packager {#using-media-packager}

@@ -1,9 +1,6 @@
 ---
 description: You can use the Primetime Player Objective-C API to customize the behavior of the player.
-seo-description: You can use the Primetime Player Objective-C API to customize the behavior of the player.
-seo-title: Media player classes
 title: Media player classes
-uuid: 705c71b6-4e5e-46b5-a59d-13df977b04f2
 ---
 
 # Media player classes {#media-player-classes}

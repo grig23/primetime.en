@@ -1,7 +1,7 @@
 ---
-seo-title: SWF application allow listing
 title: SWF application allow listing
-uuid: e3021ae9-54f4-4bcf-a274-515ae765f74b
+description: SWF application allow listing
+copied-description: yes
 ---
 
 # SWF application allow listing {#swf-application-allowlisting}

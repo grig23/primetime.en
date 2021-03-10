@@ -1,7 +1,7 @@
 ---
-seo-title: Handling Domain Registration requests
 title: Handling Domain Registration requests
-uuid: e0cef9c4-b2d1-4bec-8dce-50452bc826fb
+description: Handling Domain Registration requests
+copied-description: yes
 ---
 
 # Handling Domain Registration requests{#handling-domain-registration-requests}

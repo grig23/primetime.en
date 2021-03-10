@@ -1,7 +1,7 @@
 ---
-seo-title: Generating licenses
 title: Generating licenses
-uuid: 242d5567-f609-4781-a8a6-2f3d78471344
+description: Generating licenses
+copied-description: yes
 ---
 
 # Generating licenses {#generating-licenses}

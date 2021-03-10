@@ -1,7 +1,7 @@
 ---
-seo-title: Set a custom start time in the reference implementation
 title: Set a custom start time in the reference implementation
-uuid: ec404e61-9dce-4bd3-ac48-c2dbd834b6f8
+description: Set a custom start time in the reference implementation
+copied-description: yes
 ---
 
 # Set a custom start time in the reference implementation {#set-a-custom-start-time-in-the-reference-implementation}

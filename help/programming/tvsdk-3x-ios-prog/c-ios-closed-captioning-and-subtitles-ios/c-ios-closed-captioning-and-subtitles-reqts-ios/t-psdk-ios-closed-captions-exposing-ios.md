@@ -1,9 +1,6 @@
 ---
 description: To make closed captions available to your client player, you must enable them. The user can turn closed captions on or off and select the formatting.
-seo-description: To make closed captions available to your client player, you must enable them. The user can turn closed captions on or off and select the formatting.
-seo-title: Expose closed captions
 title: Expose closed captions
-uuid: 7057014a-b14a-4790-8f7f-37d7a1fb8194
 ---
 
 # Expose closed captions {#expose-closed-captions}

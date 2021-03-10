@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Overview
 title: Overview
-uuid: f4474837-9460-479d-89c2-dd697e0fb997
+description: Overview
+copied-description: yes
 ---
 
 # DRM Media Packager {#media-packager}

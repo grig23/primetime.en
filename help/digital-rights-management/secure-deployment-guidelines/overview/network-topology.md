@@ -1,7 +1,7 @@
 ---
-seo-title: Network topology overview
 title: Network topology overview
-uuid: b8b072dc-8dc0-46ba-bb01-1e9b58af2681
+description: Network topology overview
+copied-description: yes
 ---
 
 # Overview {#network-topology-overview}

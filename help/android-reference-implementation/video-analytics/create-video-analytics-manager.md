@@ -1,9 +1,6 @@
 ---
 description: Create the Video Analytics Manager
-seo-description: Create the Video Analytics Manager
-seo-title: Create the Video Analytics Manager
 title: Create the Video Analytics Manager
-uuid: d72e1dfe-df70-47cc-9e00-bd09017d6127
 
 ---
 

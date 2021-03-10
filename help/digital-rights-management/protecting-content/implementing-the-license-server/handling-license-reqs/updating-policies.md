@@ -1,7 +1,7 @@
 ---
-seo-title: Updating DRM policies
 title: Updating DRM policies
-uuid: 6f7a1432-88e4-499b-a008-6c8cf0e9c09b
+description: Updating DRM policies
+copied-description: yes
 ---
 
 # Updating DRM policies {#updating-drm-policies}

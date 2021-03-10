@@ -1,14 +1,10 @@
 ---
 title: Browser TVSDK 2.4 Release Notes
-seo-title: Browser TVSDK 2.4 Release Notes
 description: Browser TVSDK 2.4 Release Notes describe the new,  supported and unsupported features and the known issues in Browser TVSDK 2.4.
-seo-description: Browser TVSDK 2.4 Release Notes describe the new,  supported and unsupported features and the known issues in Browser TVSDK 2.4.
-uuid: 3a1eb1a5-0e72-4658-beeb-bca8816570e7
 contentOwner: dekalra
 topic-tags: release-notes
 products: SG_PRIMETIME
-discoiquuid: d71886cb-f34b-47b2-9df7-168686478106
----
+discoiq---
 
 # Browser TVSDK 2.4 Release Notes {#browser-tvsdk-release-notes}
 

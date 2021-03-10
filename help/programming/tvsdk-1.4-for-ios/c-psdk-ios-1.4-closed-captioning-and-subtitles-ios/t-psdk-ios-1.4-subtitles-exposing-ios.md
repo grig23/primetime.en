@@ -1,9 +1,6 @@
 ---
 description: The TVSDK notifies your player client about the availability of internal AVAsset's availableMediaCharacteristicsWithMediaSelectionOptions by using the PTMediaPlayerMediaSelectionOptionsAvailableNotification notification.
-seo-description: The TVSDK notifies your player client about the availability of internal AVAsset's availableMediaCharacteristicsWithMediaSelectionOptions by using the PTMediaPlayerMediaSelectionOptionsAvailableNotification notification.
-seo-title: Expose subtitles
 title: Expose subtitles
-uuid: 657ab9c7-b205-4d13-81a7-51bc8e7d5ee2
 ---
 
 # Expose subtitles {#expose-subtitles}

@@ -1,7 +1,7 @@
 ---
-seo-title: Encrypting script data
 title: Encrypting script data
-uuid: c91e5568-194e-4f20-858b-65310049901b
+description: Encrypting script data
+copied-description: yes
 ---
 
 # Encrypting script data {#encrypting-script-data}

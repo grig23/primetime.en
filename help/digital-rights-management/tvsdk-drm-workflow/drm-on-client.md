@@ -1,7 +1,7 @@
 ---
-seo-title: Primetime DRM on the client
 title: Primetime DRM on the client
-uuid: 472180ad-6596-4a24-aa51-7909a75a5e10
+description: Primetime DRM on the client
+copied-description: yes
 ---
 
 # Primetime DRM on the client{#primetime-drm-on-the-client}

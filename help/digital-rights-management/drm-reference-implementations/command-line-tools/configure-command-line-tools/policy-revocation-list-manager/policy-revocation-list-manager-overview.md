@@ -1,7 +1,7 @@
 ---
-seo-title: DRM Revocation List Manager
 title: DRM Revocation List Manager
-uuid: 30ab5f54-4aac-4535-b30c-b4e5dbfbc475
+description: DRM Revocation List Manager
+copied-description: yes
 ---
 
 # DRM Revocation List Manager {#policy-revocation-list-manager}

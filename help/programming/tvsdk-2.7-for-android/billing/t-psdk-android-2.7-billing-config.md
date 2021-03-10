@@ -1,9 +1,6 @@
 ---
 description: If you use the default configuration, there is nothing else you need to do to enable or configure billing. If you obtained different configuration parameters from your Adobe Enablement representative, use the BillingMetricsConfiguration class to set these parameters up before initializing the media player.
-seo-description: If you use the default configuration, there is nothing else you need to do to enable or configure billing. If you obtained different configuration parameters from your Adobe Enablement representative, use the BillingMetricsConfiguration class to set these parameters up before initializing the media player.
-seo-title: Configure billing metrics
 title: Configure billing metrics
-uuid: d8656ab2-fdd8-4fe4-8578-a6c8ecd378e2
 ---
 
 # Configure billing metrics {#configure-billing-metrics}

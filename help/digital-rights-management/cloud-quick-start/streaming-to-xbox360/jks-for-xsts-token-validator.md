@@ -1,7 +1,7 @@
 ---
-seo-title: Create JKS for an XSTS validator
 title: Create JKS for an XSTS validator
-uuid: e02b517d-0b72-4e95-92b2-09b8f785cce6
+description: Create JKS for an XSTS validator
+copied-description: yes
 ---
 
 # Create JKS for an XSTS validator{#create-jks-for-an-xsts-validator}

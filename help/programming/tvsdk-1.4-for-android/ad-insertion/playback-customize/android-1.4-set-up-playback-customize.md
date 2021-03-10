@@ -1,9 +1,6 @@
 ---
 description: You can customize or override ad behaviors.
-seo-description: You can customize or override ad behaviors.
-seo-title: Set up customized playback
 title: Set up customized playback
-uuid: 9cbf0bcf-7932-409e-a690-e79f284eaf74
 ---
 
 # Set-up customized playback {#cset-up-customized-playback}

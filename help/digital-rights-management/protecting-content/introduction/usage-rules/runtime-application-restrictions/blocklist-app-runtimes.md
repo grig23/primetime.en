@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Block list of application runtimes
 title: Block list of application runtimes
-uuid: fc3c9bd6-b1e6-4534-b29c-cd9a35b80928
+description: Block list of application runtimes
+copied-description: yes
 ---
 
 # Block list of application runtimes {#blocklist-of-application-runtimes}

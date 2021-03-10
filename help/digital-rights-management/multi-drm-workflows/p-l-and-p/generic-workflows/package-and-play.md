@@ -1,9 +1,6 @@
 ---
 description: You can use ExpressPlay's Bento4 packager to prepare content for any of the DRM solutions supported by Primetime Cloud DRM, powered by ExpressPlay.
-seo-description: You can use ExpressPlay's Bento4 packager to prepare content for any of the DRM solutions supported by Primetime Cloud DRM, powered by ExpressPlay.
-seo-title: ExpressPlay Packager / Cloud DRM / TVSDK
 title: ExpressPlay Packager / Cloud DRM / TVSDK
-uuid: 0d2f5a8d-15c4-42ba-acb8-1dc8d5bc62de
 ---
 
 # ExpressPlay Packager / Cloud DRM / TVSDK {#expressplay-packager-cloud-drm-tvsdk}

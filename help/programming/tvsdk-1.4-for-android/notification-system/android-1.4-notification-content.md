@@ -1,9 +1,6 @@
 ---
 description: MediaPlayerNotification objects provide information about changes in player state, warnings, and errors. Errors that stop the playback of the video also cause a change in the state of the player.
-seo-description: MediaPlayerNotification objects provide information about changes in player state, warnings, and errors. Errors that stop the playback of the video also cause a change in the state of the player.
-seo-title: Notification content
 title: Notification content
-uuid: 89fb8f63-b0d5-45cd-bdad-348529fd07d0
 ---
 
 # Notification content {#notification-content}

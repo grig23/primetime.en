@@ -1,9 +1,6 @@
 ---
 description: Using MediaPlayerItemLoader helps you obtain information about a media stream without instantiating a MediaPlayer instance. This is especially useful in pre-buffering streams so that playback can begin without delay.
-seo-description: Using MediaPlayerItemLoader helps you obtain information about a media stream without instantiating a MediaPlayer instance. This is especially useful in pre-buffering streams so that playback can begin without delay.
-seo-title: Load a media resource using MediaPlayerItemLoader
 title: Load a media resource using MediaPlayerItemLoader
-uuid: 43ca2470-1fd2-4f66-94fe-a12ed17b52d7
 ---
 
 # Load a media resource using MediaPlayerItemLoader {#load-a-media-resource-using-mediaplayeritemloader}

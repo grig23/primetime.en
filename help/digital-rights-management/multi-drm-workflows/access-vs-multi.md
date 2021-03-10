@@ -1,9 +1,6 @@
 ---
 description: For those familiar with Adobe's Primetime Access DRM solution, there are some fundamental architectural differences between Access and the Primetime Cloud DRM, powered by ExpressPlay solution.
-seo-description: For those familiar with Adobe's Primetime Access DRM solution, there are some fundamental architectural differences between Access and the Primetime Cloud DRM, powered by ExpressPlay solution.
-seo-title: Migrating from Access to Multi-DRM
 title: Migrating from Access to Multi-DRM
-uuid: 3e33ca9a-867e-46b8-bf88-8dbfe14ff786
 ---
 
 # Migrating from Access to Multi-DRM {#migrating-from-access-to-multi-drm}

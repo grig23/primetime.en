@@ -1,7 +1,7 @@
 ---
-seo-title: Overview
 title: Overview
-uuid: 5487d1d3-7eb8-410d-a4b1-cde3e94c00a1
+description: Overview
+copied-description: yes
 ---
 
 # DRM License Embedder {#license-embedder}

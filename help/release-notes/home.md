@@ -1,8 +1,7 @@
 ---
 title: Primetime Release Notes
-seo-title: Adobe Primetime Release Notes
-description: null
-seo-description: null
+description: Primetime Release Notes
+copied-description: yes
 ---
 
 # Primetime Release Notes

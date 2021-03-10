@@ -1,9 +1,6 @@
 ---
-seo-title: Download and configure prerequisite software
 title: Download and configure prerequisite software
 description: The installation process is straightforward. If you already have the JDK installed on your system, you can skip this step, but be aware that your JDK, Eclipse IDE, and OS need to be compatible.
-seo-description: The installation process is straightforward. If you already have the JDK installed on your system, you can skip this step, but be aware that your JDK, Eclipse IDE, and OS need to be compatible.
-uuid: ca29144f-8088-4c8d-93cf-aa59007da034
 ---
 
 # Download and configure prerequisite software {#download-and-configure-prerequisite-software}

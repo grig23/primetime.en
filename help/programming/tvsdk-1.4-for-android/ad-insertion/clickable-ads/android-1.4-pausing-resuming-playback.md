@@ -1,9 +1,6 @@
 ---
 description: When a user clicks an ad, your application should pause playback of the main video content.
-seo-description: When a user clicks an ad, your application should pause playback of the main video content.
-seo-title: Pause and resume playback
 title: Pause and resume playback
-uuid: a8fec392-3a71-4086-abf1-23522d023680
 ---
 
 # Pause and resume playback {#pause-and-resume-playback}

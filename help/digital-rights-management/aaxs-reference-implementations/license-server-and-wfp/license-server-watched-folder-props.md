@@ -1,7 +1,7 @@
 ---
-seo-title: Watched folder properties
 title: Watched folder properties
-uuid: fc204bb4-033a-46fe-8642-737f6a4cd1f1
+description: Watched folder properties
+copied-description: yes
 ---
 
 # Watched folder properties {#watched-folder-properties}

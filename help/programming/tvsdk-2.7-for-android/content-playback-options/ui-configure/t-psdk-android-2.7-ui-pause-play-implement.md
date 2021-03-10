@@ -1,9 +1,6 @@
 ---
 description: You can add pause and play buttons to pause or play your video.
-seo-description: You can add pause and play buttons to pause or play your video.
-seo-title: Play and pause a video
 title: Play and pause a video
-uuid: 66fefead-7f1d-46ed-a23e-381f25697978
 ---
 
 # Play and pause a video {#play-and-pause-a-video}

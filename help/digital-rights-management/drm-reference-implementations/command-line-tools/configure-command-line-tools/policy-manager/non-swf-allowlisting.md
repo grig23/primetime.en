@@ -1,7 +1,7 @@
 ---
-seo-title: Non-SWF Application Allow listing
 title: Non-SWF Application Allow listing
-uuid: d4f93b15-e556-4749-95ab-f7f58b1061d7
+description: Non-SWF Application Allow listing
+copied-description: yes
 ---
 
 # Non-SWF Application Allow listing {#non-swf-application-isting}

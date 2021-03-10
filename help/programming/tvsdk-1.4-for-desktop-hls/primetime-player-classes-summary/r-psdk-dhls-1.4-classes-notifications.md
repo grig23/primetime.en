@@ -1,9 +1,6 @@
 ---
 description: These classes describe messages about errors, warnings, and some activities that the issues for logging and debugging purposes.
-seo-description: These classes describe messages about errors, warnings, and some activities that the issues for logging and debugging purposes.
-seo-title: Notification classes
 title: Notification classes
-uuid: 3befc64b-4abd-47df-9c45-215b49029757
 ---
 
 # Notification classes {#notification-classes}

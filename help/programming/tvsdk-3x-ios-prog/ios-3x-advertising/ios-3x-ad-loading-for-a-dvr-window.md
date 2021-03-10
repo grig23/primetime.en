@@ -1,9 +1,6 @@
 ---
 description: You can decide whether to resolve only the ads that occur after the user's current live point or to also resolve ads that occur before the current live point.
-seo-description: You can decide whether to resolve only the ads that occur after the user's current live point or to also resolve ads that occur before the current live point.
-seo-title: Load Ad for a DVR window
 title: Load Ad for a DVR window
-uuid: 3ae1fbf6-deae-4f39-a17d-43d1fe3cb975
 ---
 
 # Load Ad for a DVR window {#load-ad-for-a-dvr-window}

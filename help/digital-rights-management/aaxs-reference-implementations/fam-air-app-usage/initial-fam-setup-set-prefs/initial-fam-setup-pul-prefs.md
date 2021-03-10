@@ -1,7 +1,7 @@
 ---
-seo-title: Policy Update List Preferences
 title: Policy Update List Preferences
-uuid: 50c97288-0185-4c52-a30f-2a8e588691ea
+description: Policy Update List Preferences
+copied-description: yes
 ---
 
 # Policy Update List Preferences {#policy-update-list-preferences}

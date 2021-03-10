@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Block list of DRM Clients restricted from accessing protected content
 title: Block list of DRM Clients restricted from accessing protected content
-uuid: 38bc024e-0c5b-4c1c-8d4b-94b9e0fec67e
+description: Block list of DRM Clients restricted from accessing protected content
+copied-description: yes
 ---
 
 # Block list of DRM Clients restricted from accessing protected content {#blocklist-of-drm-clients-restricted-from-accessing-protected-content}

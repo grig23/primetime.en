@@ -1,7 +1,7 @@
 ---
-seo-title: Maintain an allow list of trusted content packagers
 title: Maintain an allow list of trusted content packagers
-uuid: ad40993c-15c3-43b2-9593-7b75802cfe69
+description: Maintain an allow list of trusted content packagers
+copied-description: yes
 ---
 
 # Maintain an allow list of trusted content packagers {#maintain-a-allowlist-of-trusted-content-packagers}

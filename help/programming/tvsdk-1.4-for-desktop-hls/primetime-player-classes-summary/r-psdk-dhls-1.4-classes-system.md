@@ -1,9 +1,6 @@
 ---
 description: These classes provide access to system or network information.
-seo-description: These classes provide access to system or network information.
-seo-title: System classes
 title: System classes
-uuid: 2b720aad-cb64-4705-ac0f-f0d3d1a58286
 ---
 
 # System classes{#system-classes}

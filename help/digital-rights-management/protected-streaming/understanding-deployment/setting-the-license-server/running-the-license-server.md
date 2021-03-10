@@ -1,7 +1,7 @@
 ---
-seo-title: Running the DRM Server for Protected Streaming
 title: Running the DRM Server for Protected Streaming
-uuid: 9bbe211d-268b-43c2-9e55-7ce62de40d30
+description: Running the DRM Server for Protected Streaming
+copied-description: yes
 ---
 
 # Running the DRM Server for Protected Streaming {#running-the-drm-server-for-protected-streaming}

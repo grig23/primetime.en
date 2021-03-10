@@ -1,9 +1,6 @@
 ---
 description: The following encryption options are selected at packaging time and cannot be modified during license acquisition.
-seo-description: The following encryption options are selected at packaging time and cannot be modified during license acquisition.
-seo-title: Key Rotation
 title: Key Rotation
-uuid: 6ee47c06-9981-4281-b10b-343f8b1e55b7
 ---
 
 # Key Rotation{#key-rotation}

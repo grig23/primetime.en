@@ -1,9 +1,6 @@
 ---
 description: The Video Encoder interface of the AVE returns these video playback notifications in the NATIVE_ERROR metadata object.
-seo-description: The Video Encoder interface of the AVE returns these video playback notifications in the NATIVE_ERROR metadata object.
-seo-title: NATIVE_ERROR  Video playback values
 title: NATIVE_ERROR  Video playback values
-uuid: fbc08ecd-2e28-41ad-955b-557358bccdc8
 ---
 
 # NATIVE_ERROR: Video playback values{#native-error-video-playback-values}

@@ -1,7 +1,7 @@
 ---
-seo-title: Test the packaged content
 title: Test the packaged content
-uuid: 99df417a-85ce-45da-bfcf-33df2197bf5b
+description: Test the packaged content
+copied-description: yes
 ---
 
 # Test the packaged content {#test-the-packaged-content}

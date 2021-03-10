@@ -1,7 +1,7 @@
 ---
-seo-title: Defining time-based rules
 title: Defining time-based rules
-uuid: 17c69869-ac81-4561-9fb6-b1c5c9c4006d
+description: Defining time-based rules
+copied-description: yes
 ---
 
 # Defining time-based rules {#defining-time-based-rules}

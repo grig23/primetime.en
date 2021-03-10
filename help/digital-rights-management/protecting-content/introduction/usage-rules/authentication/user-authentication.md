@@ -1,7 +1,7 @@
 ---
-seo-title: Usage rules
 title: Usage rules
-uuid: 19a6ee7e-9580-48bb-a3a6-ff2cedcc796a
+description: Usage rules
+copied-description: yes
 ---
 
 # Usage rules {#usage-rules}

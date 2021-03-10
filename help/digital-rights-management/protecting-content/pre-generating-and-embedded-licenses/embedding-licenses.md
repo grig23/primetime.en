@@ -1,7 +1,7 @@
 ---
-seo-title: Embedding licenses
 title: Embedding licenses
-uuid: e3d55376-07de-479c-9a53-04bc8071ced4
+description: Embedding licenses
+copied-description: yes
 ---
 
 # Embedding licenses {#embedding-licenses}

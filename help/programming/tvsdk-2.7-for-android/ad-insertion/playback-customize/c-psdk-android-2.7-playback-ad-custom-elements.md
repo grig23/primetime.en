@@ -1,9 +1,6 @@
 ---
 description: TVSDK provides classes and methods that you can use to customize the playback behavior of content that contains advertising.
-seo-description: TVSDK provides classes and methods that you can use to customize the playback behavior of content that contains advertising.
-seo-title: API elements for ad playback
 title: API elements for ad playback
-uuid: 5e21e709-8446-4fed-8711-aa4f629f1147
 ---
 
 # API elements for ad playback {#api-elements-for-ad-playback}

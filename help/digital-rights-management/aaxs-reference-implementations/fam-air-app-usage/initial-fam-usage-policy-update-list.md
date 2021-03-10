@@ -1,7 +1,7 @@
 ---
-seo-title: Policy update list
 title: Policy update list
-uuid: ecc74b66-5b53-4ec3-9641-8b78929e2932
+description: Policy update list
+copied-description: yes
 ---
 
 # Policy update list {#policy-update-list}

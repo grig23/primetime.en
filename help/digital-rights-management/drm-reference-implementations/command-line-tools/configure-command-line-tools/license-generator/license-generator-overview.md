@@ -1,7 +1,7 @@
 ---
-seo-title: Overview
 title: Overview
-uuid: 857390be-dd14-46c0-b8f7-2bc661c515d4
+description: Overview
+copied-description: yes
 ---
 
 # DRM License Generator {#license-generator}

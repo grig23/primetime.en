@@ -1,7 +1,7 @@
 ---
-seo-title: Network layer security
 title: Network layer security
-uuid: bd53bccf-1130-4189-97ec-4259bd25762f
+description: Network layer security
+copied-description: yes
 ---
 
 # Network layer security{#network-layer-security}

@@ -1,9 +1,6 @@
 ---
 description: To upgrade a server running Adobe Access Server for Protected Streaming, replace the flashaccessserver.war file deployed on your application server with the file included with the latest Adobe Access. If you wish to use the new configuration options described above, update your server's flashaccess-tenant.xml. You also need to update jsafe.dll or libjsafe.so to the version included with the latest Adobe Access.
-seo-description: To upgrade a server running Adobe Access Server for Protected Streaming, replace the flashaccessserver.war file deployed on your application server with the file included with the latest Adobe Access. If you wish to use the new configuration options described above, update your server's flashaccess-tenant.xml. You also need to update jsafe.dll or libjsafe.so to the version included with the latest Adobe Access.
-seo-title: Running the Adobe Access Server for Protected Streaming
 title: Running the Adobe Access Server for Protected Streaming
-uuid: 3819500d-ad2f-49eb-8aa4-e50a55461608
 ---
 
 # Running the Adobe Access Server for Protected Streaming{#running-the-adobe-access-server-for-protected-streaming}

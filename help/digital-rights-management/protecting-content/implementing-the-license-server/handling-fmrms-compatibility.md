@@ -1,9 +1,6 @@
 ---
 description: Handling FMRMS compatibility
-seo-description: Handling FMRMS compatibility
-seo-title: Upgrading clients
 title: Upgrading clients
-uuid: c32ee087-2edf-4d11-be36-e2b31f3769de
 ---
 
 # Handling FMRMS compatibility {#handling-fmrms-compatibility}

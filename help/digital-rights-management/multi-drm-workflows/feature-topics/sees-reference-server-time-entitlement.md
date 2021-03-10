@@ -1,9 +1,6 @@
 ---
 description: Work with the SEES to see how to enable a time-based entitlement service using ExpressPlay.
-seo-description: Work with the SEES to see how to enable a time-based entitlement service using ExpressPlay.
-seo-title: Reference Service  Time-based Entitlement
 title: Reference Service  Time-based Entitlement
-uuid: dd937299-a271-49a9-9b26-eec16f1484df
 ---
 
 # Reference Service: Time-based Entitlement {#reference-service-time-based-entitlement}

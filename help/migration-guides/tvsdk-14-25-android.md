@@ -1,14 +1,10 @@
 ---
 title: TVSDK 1.4 to 2.5 for Android (Java)
-seo-title: TVSDK 1.4 to 2.5 for Android (Java)
 description: TVSDK 2.5 offers multiple benefits over version 1.4 in terms of performance, security, better integrations, and more.
-seo-description: TVSDK 2.5 offers multiple benefits over version 1.4 in terms of performance, security, better integrations, and more.
-uuid: aaab7aec-cb5b-4840-82e8-7112a8d98a8a
 contentOwner: vishgupt
 products: SG_PRIMETIME
 topic-tags: migration
-discoiquuid: 8d9136bf-b3ae-450c-bd8a-0bb246527886
----
+discoiq---
 
 # TVSDK 1.4 to 2.5 for Android (Java) {#tvsdk-to-for-android-java}
 

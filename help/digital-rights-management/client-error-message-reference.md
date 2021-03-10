@@ -1,7 +1,5 @@
 ---
 description: The DRM Client errors are a subset of the TVSDK client-side errors. 
-seo-description: The DRM Client errors are a subset of the TVSDK client-side errors. 
-seo-title: DRM Client Error Message Reference
 title: DRM Client Error Message Reference
 ---
 

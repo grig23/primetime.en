@@ -1,9 +1,6 @@
 ---
 description: Late-binding audio uses MediaPlayer to play a video that is specified in an M3U8 HLS playlist and that can contain several alternate audio streams.
-seo-description: Late-binding audio uses MediaPlayer to play a video that is specified in an M3U8 HLS playlist and that can contain several alternate audio streams.
-seo-title: Access alternate audio tracks
 title: Access alternate audio tracks
-uuid: c7060022-29ec-43c1-811b-41cca5f5356c
 ---
 
 # Access alternate audio tracks{#access-alternate-audio-tracks}

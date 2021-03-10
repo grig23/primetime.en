@@ -1,7 +1,7 @@
 ---
-seo-title: Firewall Rules
 title: Firewall Rules
-uuid: f1629ceb-22de-4bb5-b73f-9b874d97ea8b
+description: Firewall Rules
+copied-description: yes
 ---
 
 # Firewall Rules{#firewall-rules}

@@ -1,9 +1,6 @@
 ---
 description: TVSDK applies creative selection rules in the following ways 
-seo-description: TVSDK applies creative selection rules in the following ways 
-seo-title: Applying creative selection rules
 title: Applying creative selection rules
-uuid: 3949bc24-3060-408b-adae-947be790a8ff
 ---
 
 # Applying creative selection rules{#applying-creative-selection-rules}

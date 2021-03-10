@@ -1,7 +1,7 @@
 ---
-seo-title: Packaging media files overview
 title: Packaging media files overview
-uuid: 9509bcdc-ee4d-4025-9bb6-9b8ac439b926
+description: Packaging media files overview
+copied-description: yes
 ---
 
 # Overview {#packaging-media-files-overview}

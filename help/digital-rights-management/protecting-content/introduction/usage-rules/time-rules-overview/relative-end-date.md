@@ -1,7 +1,7 @@
 ---
-seo-title: Relative end date
 title: Relative end date
-uuid: a4b12c5b-ee09-4e28-9a05-65016174e4c7
+description: Relative end date
+copied-description: yes
 ---
 
 # Relative end date{#relative-end-date}

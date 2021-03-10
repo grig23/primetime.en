@@ -1,14 +1,10 @@
 ---
 title: TVSDK 1.4 for Android Release Notes
-seo-title: TVSDK 1.4 for Android Release Notes
 description: TVSDK 1.4 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 1.4.
-seo-description: TVSDK 1.4 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 1.4.
-uuid: 8bd8ee42-7a1b-4c14-aad9-22804743e505
 contentOwner: asgupta
 products: SG_PRIMETIME
 topic-tags: release-notes
-discoiquuid: f1ebc1a8-185a-493a-9c00-a6102dffb128
----
+discoiq---
 
 # TVSDK 1.4 for Android Release Notes {#tvsdk-for-android-release-notes}
 

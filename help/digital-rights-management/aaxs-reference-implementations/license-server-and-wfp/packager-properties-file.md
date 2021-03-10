@@ -1,7 +1,7 @@
 ---
-seo-title: Packager properties file
 title: Packager properties file
-uuid: 156624ec-66f0-4718-8a66-ed04a47f234d
+description: Packager properties file
+copied-description: yes
 ---
 
 # Packager properties file {#packager-properties-file}

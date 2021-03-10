@@ -1,9 +1,6 @@
 ---
 description: You can control the position and size of the video view using the MediaPlayerView object.
-seo-description: You can control the position and size of the video view using the MediaPlayerView object.
-seo-title: Control the position and size of the video view
 title: Control the position and size of the video view
-uuid: d09dbc18-1ec0-4336-bf3f-7ff6c265c443
 ---
 
 # Control the position and size of the video view{#control-the-position-and-size-of-the-video-view}

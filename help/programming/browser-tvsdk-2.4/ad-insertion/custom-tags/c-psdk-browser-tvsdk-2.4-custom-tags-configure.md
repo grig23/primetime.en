@@ -1,9 +1,6 @@
 ---
 description: Media streams can carry additional metadata in the form of tags in the Media Presentation Description (MPD) file, and this file indicates the placement of advertising. You can specify custom tag names and be notified when certain tags appear in the manifest file.
-seo-description: Media streams can carry additional metadata in the form of tags in the Media Presentation Description (MPD) file, and this file indicates the placement of advertising. You can specify custom tag names and be notified when certain tags appear in the manifest file.
-seo-title: Custom tags
 title: Custom tags
-uuid: d1e34288-545b-440f-a262-2fb853f0e3c4
 ---
 
 # Overview {#custom-tags-overview}

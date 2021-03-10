@@ -1,5 +1,4 @@
 ---
-uuid: 2d927ae8-4c4b-4b64-88b8-9c86430e226c
 ---
 
 # Glossary {#glossary}

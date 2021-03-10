@@ -1,7 +1,7 @@
 ---
-seo-title: Configuration file properties
 title: Configuration file properties
-uuid: aec5fee7-4d77-4299-8d85-3e9042b2bbd1
+description: Configuration file properties
+copied-description: yes
 ---
 
 # Configuration file properties {#configuration-file-properties}

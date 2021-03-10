@@ -1,9 +1,6 @@
 ---
 description: You can easily build a custom user interface based on the reference implementation framework.
-seo-description: You can easily build a custom user interface based on the reference implementation framework.
-seo-title: Build a custom user interface
 title: Build a custom user interface
-uuid: b785f6a4-3ef8-4f7a-a087-0d6551da9750
 ---
 
 # Build a custom user interface {#build-a-custom-user-interface}

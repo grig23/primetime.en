@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Implement chapter support
 title: Implement chapter support
-uuid: 6e2c3994-d28b-489f-ae60-9b876125a871
+description: Implement chapter support
+copied-description: yes
 ---
 
 # Implement chapter support {#implement-chapter-support}

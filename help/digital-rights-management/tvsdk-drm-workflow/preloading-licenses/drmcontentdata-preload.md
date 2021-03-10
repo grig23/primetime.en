@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Using DRMContentData to pre-load licenses
 title: Using DRMContentData to pre-load licenses
-uuid: 5cedd077-0613-4677-8fb0-81237d7ac61a
+description: Using DRMContentData to pre-load licenses
+copied-description: yes
 ---
 
 # Using DRMContentData to pre-load licenses{#using-drmcontentdata-to-pre-load-licenses}

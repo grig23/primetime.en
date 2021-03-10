@@ -1,7 +1,7 @@
 ---
-seo-title: Package encrypted content
 title: Package encrypted content
-uuid: 1e271167-107d-41df-8a7c-3075cb3acc0c
+description: Package encrypted content
+copied-description: yes
 ---
 
 # Package encrypted content{#package-encrypted-content}

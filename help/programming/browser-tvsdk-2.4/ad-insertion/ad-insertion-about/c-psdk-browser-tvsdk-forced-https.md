@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Secure Ad Loading over HTTPS
 title: Secure Ad Loading over HTTPS
-uuid: 10657f59-cfbf-4c75-9249-fc154952bc51
+description: Secure Ad Loading over HTTPS
+copied-description: yes
 ---
 
 # Secure Ad Loading over HTTPS{#secure-ad-loading-over-https}

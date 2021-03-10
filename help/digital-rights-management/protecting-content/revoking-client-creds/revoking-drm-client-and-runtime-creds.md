@@ -1,7 +1,7 @@
 ---
-seo-title: Revoking DRM client and runtime credentials
 title: Revoking DRM client and runtime credentials
-uuid: 8e36536a-8eed-4d27-8a5f-8d3219817e57
+description: Revoking DRM client and runtime credentials
+copied-description: yes
 ---
 
 # Revoking DRM client and runtime credentials {#revoking-drm-client-and-runtime-credentials}

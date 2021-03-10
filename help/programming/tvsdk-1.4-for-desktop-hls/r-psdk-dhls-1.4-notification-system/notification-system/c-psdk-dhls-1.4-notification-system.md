@@ -1,9 +1,6 @@
 ---
 description: MediaPlayerNotification objects provide information about changes in player status, warnings, and errors. Errors that stop the playback of the video also cause a change in the status of the player.
-seo-description: MediaPlayerNotification objects provide information about changes in player status, warnings, and errors. Errors that stop the playback of the video also cause a change in the status of the player.
-seo-title: Notifications for player status, activity, errors, and logging
 title: Notifications for player status, activity, errors, and logging
-uuid: 7ce5bed0-f312-437e-a82f-b1d4a8e1926c
 ---
 
 # Overview {#notifications-for-player-status-activity-errors-and-logging-overview}

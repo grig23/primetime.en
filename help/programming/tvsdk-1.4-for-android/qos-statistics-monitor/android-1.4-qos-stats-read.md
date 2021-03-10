@@ -1,9 +1,6 @@
 ---
 description: You can read playback, buffering, and device statistics from the QOSProvider class.
-seo-description: You can read playback, buffering, and device statistics from the QOSProvider class.
-seo-title: Read QOS playback, buffering, and device statistics
 title: Read QOS playback, buffering, and device statistics
-uuid: 19228a50-3721-4dc1-89b6-97458518e272
 ---
 
 # Read QOS playback, buffering, and device statistics{#read-qos-playback-buffering-and-device-statistics}

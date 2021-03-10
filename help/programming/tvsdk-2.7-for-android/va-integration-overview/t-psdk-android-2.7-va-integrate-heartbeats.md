@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Initialize and configure video analytics
 title: Initialize and configure video analytics
-uuid: 98017a20-4997-42f7-9b03-fd9c4b6ccd92
+description: Initialize and configure video analytics
+copied-description: yes
 ---
 
 # Initialize and configure video analytics {#initialize-and-configure-video-analytics}

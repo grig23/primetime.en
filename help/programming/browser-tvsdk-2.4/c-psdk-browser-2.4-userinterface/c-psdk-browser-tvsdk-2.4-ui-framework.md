@@ -1,9 +1,6 @@
 ---
 description: The UI framework is a UI layer on top of Browser TVSDK, which provides various video player-related UI constructs out of the box. You can create a highly customizable player by making the point changes that are appropriate for your environment.
-seo-description: The UI framework is a UI layer on top of Browser TVSDK, which provides various video player-related UI constructs out of the box. You can create a highly customizable player by making the point changes that are appropriate for your environment.
-seo-title: The UI Framework
 title: The UI Framework
-uuid: 8460d65c-b9aa-40d0-9e68-771b9f73a7b4
 ---
 
 # The UI Framework {#the-ui-framework}

@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Jailbreak enforcement (requires Adobe Primetime DRM)
 title: Jailbreak enforcement (requires Adobe Primetime DRM)
-uuid: 5cf8ebbc-17de-44cc-90d2-0857ea62c4a4
+description: Jailbreak enforcement (requires Adobe Primetime DRM)
+copied-description: yes
 ---
 
 # Jailbreak enforcement (requires Adobe Primetime DRM){#jailbreak-enforcement-requires-adobe-primetime-drm}

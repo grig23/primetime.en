@@ -1,7 +1,7 @@
 ---
-seo-title: Code Delivery / Package Contents
 title: Code Delivery / Package Contents
-uuid: 13de2fd4-9079-496c-a087-25176c118864
+description: Code Delivery / Package Contents
+copied-description: yes
 ---
 
 # Code Delivery / Package Contents{#code-delivery-package-contents}

@@ -1,9 +1,6 @@
 ---
 description: If you want to set up Primetime DRM, copy the files from the DVD. These files include JAR files that include code, certificates, and third-party classes. In addition, you need to request a certificate from Adobe Systems, Incorporated. Adobe then issues you multiple credentials that you use to protect the integrity of your packaged content, licenses, and communication between client and server.
-seo-description: If you want to set up Primetime DRM, copy the files from the DVD. These files include JAR files that include code, certificates, and third-party classes. In addition, you need to request a certificate from Adobe Systems, Incorporated. Adobe then issues you multiple credentials that you use to protect the integrity of your packaged content, licenses, and communication between client and server.
-seo-title: Set up your development environment
 title: Set up your development environment
-uuid: 68afefe8-7ec6-466e-89a8-bc0da8afb4c8
 ---
 
 # Set up your development environment {#set-up-your-development-environment}

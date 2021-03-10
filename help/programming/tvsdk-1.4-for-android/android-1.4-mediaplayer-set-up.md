@@ -1,9 +1,6 @@
 ---
 description: The MediaPlayer interface for Android encapsulates the functionality and behavior of a media player.
-seo-description: The MediaPlayer interface for Android encapsulates the functionality and behavior of a media player.
-seo-title: Set up the MediaPlayer
 title: Set up the MediaPlayer
-uuid: 492b4693-acdf-4213-98e5-d6f0f1ae086d
 ---
 
 # Set up the MediaPlayer {#set-up-the-mediaplayer}

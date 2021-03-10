@@ -1,7 +1,7 @@
 ---
-seo-title: Client Integration
 title: Client Integration
-uuid: 89b476e4-c382-47ce-8bd1-57c12b060073
+description: Client Integration
+copied-description: yes
 ---
 
 # Client Integration{#client-integration}

@@ -1,9 +1,6 @@
 ---
 description: Browser TVSDK currently supports the playback of streams where manifests and fragments do not contain extensions.
-seo-description: Browser TVSDK currently supports the playback of streams where manifests and fragments do not contain extensions.
-seo-title: Extensionless streams
 title: Extensionless streams
-uuid: c69ba62b-a940-4211-920d-2e559849fd6d
 ---
 
 # Extensionless streams{#extensionless-streams}

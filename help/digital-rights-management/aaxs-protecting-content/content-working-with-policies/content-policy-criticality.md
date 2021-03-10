@@ -1,7 +1,7 @@
 ---
-seo-title: Policy criticality
 title: Policy criticality
-uuid: 076f386e-ba58-4507-92a3-a190126c881e
+description: Policy criticality
+copied-description: yes
 ---
 
 # Policy criticality{#policy-criticality}

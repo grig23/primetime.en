@@ -1,9 +1,6 @@
 ---
 description: There are a few ways to determine ad insertion and ad placement.
-seo-description: There are a few ways to determine ad insertion and ad placement.
-seo-title: Ad insertion and placement
 title: Ad insertion and placement
-uuid: 1d4d6364-1c49-402b-9b72-8c185b1c94e1
 ---
 
 # Ad insertion and placement{#ad-insertion-and-placement}

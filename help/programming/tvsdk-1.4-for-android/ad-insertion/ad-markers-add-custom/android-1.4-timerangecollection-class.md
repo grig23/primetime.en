@@ -1,9 +1,6 @@
 ---
 description: The TimeRangeCollection utility class abstracts the notion of an ordered collection of TimeRange specifications and provides services to translate itself into a Metadata instance.
-seo-description: The TimeRangeCollection utility class abstracts the notion of an ordered collection of TimeRange specifications and provides services to translate itself into a Metadata instance.
-seo-title: TimeRangeCollection class
 title: TimeRangeCollection class
-uuid: 5705dc9d-4325-44b0-b5aa-196d09c3a67e
 ---
 
 # TimeRangeCollection class{#timerangecollection-class}

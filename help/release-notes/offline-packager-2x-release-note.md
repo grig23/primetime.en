@@ -1,14 +1,10 @@
 ---
 title: Primetime Offline Packager 2.x releases
-seo-title: Primetime Offline Packager 2.x releases
 description: What's new in Primetime Offline Packager 2.1 and 2.3.1 releases
-seo-description: What's new in Primetime Offline Packager 2.1 and 2.3.1 releases
-uuid: 01926a10-890d-477d-b832-e22847d957e0
 contentOwner: asgupta
 products: SG_PRIMETIME
 topic-tags: release-notes
-discoiquuid: 933a0711-846a-4bb7-bf51-b300822a93d4
----
+discoiq---
 
 # Primetime Offline Packager releases {#primetime-offline-packager-x-releases}
 

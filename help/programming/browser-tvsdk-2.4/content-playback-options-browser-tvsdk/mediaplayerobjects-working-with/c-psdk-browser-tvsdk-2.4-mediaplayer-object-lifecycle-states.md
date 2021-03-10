@@ -1,9 +1,6 @@
 ---
 description: From the moment the MediaPlayer instance is created to the moment it is terminated, this instance transitions from one state to the next.
-seo-description: From the moment the MediaPlayer instance is created to the moment it is terminated, this instance transitions from one state to the next.
-seo-title: Life cycle and states of the MediaPlayer object
 title: Life cycle and states of the MediaPlayer object
-uuid: fe76ea80-aaa8-43bc-9b81-85e0551f70dd
 ---
 
 # Life cycle and states of the MediaPlayer object{#life-cycle-and-states-of-the-mediaplayer-object}

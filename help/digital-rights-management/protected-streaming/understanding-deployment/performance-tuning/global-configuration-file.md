@@ -1,9 +1,6 @@
 ---
 description: This topic describes performance-related considerations. Any settings in the global configuration file called flashaccess-global.xml affect performance.
-seo-description: This topic describes performance-related considerations. Any settings in the global configuration file called flashaccess-global.xml affect performance.
-seo-title: Global configuration file
 title: Global configuration file
-uuid: 254925b5-d441-4a35-ad6f-f99db5de7591
 ---
 
 # Performance tuning {#performance-tuning}

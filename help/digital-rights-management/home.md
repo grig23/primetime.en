@@ -1,8 +1,7 @@
 ---
 title: Primetime Digital Rights Management Help
-seo-title: Adobe Digital Rights Management Help
-description: null
-seo-description: null
+description: Primetime Digital Rights Management Help
+copied-description: yes
 ---
 
 # Primetime Digital Rights Management (DRM) Help

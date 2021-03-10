@@ -1,9 +1,6 @@
 ---
 description: When a consumer acquires a protected content file from a website or CDN, the consumer must also acquire a license that contains a key to decrypt the video before it can be played. The following steps illustrate a common workflow for how protected content is accessed by a computer running Flash Player or Adobe AIR 
-seo-description: When a consumer acquires a protected content file from a website or CDN, the consumer must also acquire a license that contains a key to decrypt the video before it can be played. The following steps illustrate a common workflow for how protected content is accessed by a computer running Flash Player or Adobe AIR 
-seo-title: Content acquisition
 title: Content acquisition
-uuid: 80253746-bc31-43f0-b28b-7a1aa7fe34a7
 ---
 
 # Content acquisition{#content-acquisition}

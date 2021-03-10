@@ -1,7 +1,7 @@
 ---
-seo-title: UltraViolet media and Adobe Primetime DRM
 title: UltraViolet media and Adobe Primetime DRM
-uuid: 7076c0f9-e092-48e4-9118-8a414bd03c7a
+description: UltraViolet media and Adobe Primetime DRM
+copied-description: yes
 ---
 
 # UltraViolet media and Adobe Primetime DRM {#ultraviolet-media-and-adobe-primetime-drm}

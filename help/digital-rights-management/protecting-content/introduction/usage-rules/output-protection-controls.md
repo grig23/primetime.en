@@ -1,7 +1,7 @@
 ---
-seo-title: Output protection controls
 title: Output protection controls
-uuid: a0518392-cd33-4ef0-834c-f90145a9b421
+description: Output protection controls
+copied-description: yes
 ---
 
 # Output protection controls{#output-protection-controls}

@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Anonymous domain logic
 title: Anonymous domain logic
-uuid: bd0e8e51-27dc-4ccf-b285-a80c2ab9e260
+description: Anonymous domain logic
+copied-description: yes
 ---
 
 # Anonymous domain logic{#anonymous-domain-logic}

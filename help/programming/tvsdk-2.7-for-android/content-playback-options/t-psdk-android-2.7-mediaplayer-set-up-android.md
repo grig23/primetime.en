@@ -1,9 +1,6 @@
 ---
 description: Instantiate a MediaPlayer and place a view of it into a frame layout.
-seo-description: Instantiate a MediaPlayer and place a view of it into a frame layout.
-seo-title: Set up the MediaPlayer
 title: Set up the MediaPlayer
-uuid: 49c3edb9-b6e2-49f8-b4aa-f230af7de6b0
 ---
 
 # Set up the MediaPlayer {#set-up-the-mediaplayer}

@@ -1,7 +1,7 @@
 ---
-seo-title: Start date
 title: Start date
-uuid: 2f9e4eea-167e-4e8a-aaaf-08faa609a846
+description: Start date
+copied-description: yes
 ---
 
 # Start date{#start-date}

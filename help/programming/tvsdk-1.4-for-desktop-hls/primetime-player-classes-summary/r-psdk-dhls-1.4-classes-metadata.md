@@ -1,9 +1,6 @@
 ---
 description: These classes provide metadata for advertising, namespaces, and tracking.
-seo-description: These classes provide metadata for advertising, namespaces, and tracking.
-seo-title: Metadata classes
 title: Metadata classes
-uuid: e3884825-132c-4c5c-bc58-00c2967d9fa8
 ---
 
 # Metadata classes {#metadata-classes}

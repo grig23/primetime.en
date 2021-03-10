@@ -1,7 +1,7 @@
 ---
-seo-title: Handling certificate updates when your Adobe-issued certifcates expire
 title: Handling certificate updates when your Adobe-issued certifcates expire
-uuid: 5151ef15-daf6-4fb3-bf83-25ebac1d003b
+description: Handling certificate updates when your Adobe-issued certifcates expire
+copied-description: yes
 ---
 
 # Handling certificate updates when your Adobe-issued certifcates expire {#handling-certificate-updates-when-your-adobe-issued-certifcates-expire}

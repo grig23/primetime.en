@@ -1,7 +1,7 @@
 ---
-seo-title: License acquisition process overview
 title: License acquisition process overview
-uuid: c2eedd0a-3e3a-4c2f-a781-855f0ba65b15
+description: License acquisition process overview
+copied-description: yes
 ---
 
 # License acquisition process overview{#license-acquisition-process-overview}

@@ -1,9 +1,6 @@
 ---
 description: For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
-seo-description: For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
-seo-title: Implement an early ad break return
 title: Implement an early ad break return
-uuid: 0e77414e-86f5-4979-9caa-eaf2f39144a2
 ---
 
 # Implement an early ad break return {#implement-an-early-ad-break-return}

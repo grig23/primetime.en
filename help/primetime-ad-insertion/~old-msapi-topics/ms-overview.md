@@ -1,9 +1,6 @@
 ---
 description: The manifest server coordinates the systems that provide content, provide ads, play video, and track ads. It receives M3U8-encoded playlists (manifests) that client video players receive from content providers, stitches ads from ad providers into the manifests, and passes the stitched manifests to video players. It supports both client-side and server-side ad tracking. It conducts its interactions using an HTTP-based web service interface.
-seo-description: The manifest server coordinates the systems that provide content, provide ads, play video, and track ads. It receives M3U8-encoded playlists (manifests) that client video players receive from content providers, stitches ads from ad providers into the manifests, and passes the stitched manifests to video players. It supports both client-side and server-side ad tracking. It conducts its interactions using an HTTP-based web service interface.
-seo-title: Overview of Manifest Server interactions
 title: Overview of Manifest Server interactions
-uuid: 3e314a45-a4dd-492f-8915-19224a8fbbc7
 ---
 
 # Overview of Manifest Server interactions {#overview-of-manifest-server-interactions}

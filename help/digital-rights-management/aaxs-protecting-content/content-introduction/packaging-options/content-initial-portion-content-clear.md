@@ -1,7 +1,7 @@
 ---
-seo-title: Initial portion of content in the clear
 title: Initial portion of content in the clear
-uuid: 97c4df2d-c019-468b-93a7-e93942caa042
+description: Initial portion of content in the clear
+copied-description: yes
 ---
 
 # Initial portion of content in the clear{#initial-portion-of-content-in-the-clear}

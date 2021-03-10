@@ -1,9 +1,6 @@
 ---
 description: These classes provide information when the TVSDK is misused.
-seo-description: These classes provide information when the TVSDK is misused.
-seo-title: Error classes
 title: Error classes
-uuid: 0c77e20d-edaf-495c-9b33-02edc0a4432c
 ---
 
 # Error classes {#error-classes}

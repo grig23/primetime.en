@@ -1,7 +1,7 @@
 ---
-seo-title: Deploy the WAR files
 title: Deploy the WAR files
-uuid: 435a6a6e-c981-46fb-bca9-7f5f34eecd6a
+description: Deploy the WAR files
+copied-description: yes
 ---
 
 # Deploy the WAR files{#deploy-the-war-files}

@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Allow list for Primetime DRM applications allowed to play protected content
 title: Allow list for Primetime DRM applications allowed to play protected content
-uuid: 23dd4faf-7992-4ee9-97ce-c6004ee995c2
+description: Allow list for Primetime DRM applications allowed to play protected content
+copied-description: yes
 ---
 
 # Allow list for Primetime DRM applications allowed to play protected content {#allowlist-for-primetime-drm-applications-allowed-to-play-protected-content}

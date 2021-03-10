@@ -1,8 +1,6 @@
 ---
 title: Adobe Primetime API references
-seo-title: Adobe Primetime API references
 description: The APIs help you to create a functional application or integration quickly and easily.
-seo-description: The APIs help you to create a functional application or integration quickly and easily.
 topic-tags: API-references
 ---
 

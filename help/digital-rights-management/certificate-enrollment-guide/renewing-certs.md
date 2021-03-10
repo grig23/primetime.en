@@ -1,7 +1,7 @@
 ---
-seo-title: Renew certificates
 title: Renew certificates
-uuid: 12a560b0-966b-424e-bfe5-22e9c10d8667
+description: Renew certificates
+copied-description: yes
 ---
 
 # Renew certificates{#renew-certificates}

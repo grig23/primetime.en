@@ -1,9 +1,6 @@
 ---
 description: TVSDK supports displaying linear Video Player-Ad Interface Definition (VPAID) ads in an ad break. VPAID version 1.0 requires Flash, while version 2.0 also works with Browser TVSDK and JavaScript.
-seo-description: TVSDK supports displaying linear Video Player-Ad Interface Definition (VPAID) ads in an ad break. VPAID version 1.0 requires Flash, while version 2.0 also works with Browser TVSDK and JavaScript.
-seo-title: Display linear VPAID ads in an ad break
 title: Display linear VPAID ads in an ad break
-uuid: 1f3a5426-79f5-49a1-a913-923708c09ade
 ---
 
 # Display linear VPAID ads in an ad break{#display-linear-vpaid-ads-in-an-ad-break}

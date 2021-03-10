@@ -1,7 +1,7 @@
 ---
-seo-title: Playback window
 title: Playback window
-uuid: be3b1430-e522-442e-85ca-5a2f78b60130
+description: Playback window
+copied-description: yes
 ---
 
 # Playback window{#playback-window}

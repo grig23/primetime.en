@@ -1,9 +1,6 @@
 ---
 description: To set up the Adobe® Access™ for use, copy files from the DVD. These files include JAR files containing code, certificates, and third-party classes. In addition, request a certificate from Adobe Systems Incorporated. You will be issued multiple credentials used to protect the integrity of packaged content, licenses, and communication between the client and server.
-seo-description: To set up the Adobe® Access™ for use, copy files from the DVD. These files include JAR files containing code, certificates, and third-party classes. In addition, request a certificate from Adobe Systems Incorporated. You will be issued multiple credentials used to protect the integrity of packaged content, licenses, and communication between the client and server.
-seo-title: Setting up the development environment
 title: Setting up the development environment
-uuid: 1f192783-9c9a-4342-909a-4881248a85ad
 ---
 
 # Setting up the SDK {#setting-up-the-sdk}

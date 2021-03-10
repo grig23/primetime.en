@@ -1,7 +1,7 @@
 ---
-seo-title: Requirements for Synchronization
 title: Requirements for Synchronization
-uuid: 976a0ae1-bece-437e-b95b-6cd222525d13
+description: Requirements for Synchronization
+copied-description: yes
 ---
 
 # Requirements for Synchronization{#requirements-for-synchronization}

@@ -1,7 +1,7 @@
 ---
-seo-title: Native iOS and Android Applications
 title: Native iOS and Android Applications
-uuid: 03c4f6ba-5210-466e-a8fb-ee94d4bf3cfb
+description: Native iOS and Android Applications
+copied-description: yes
 ---
 
 # Native iOS and Android Applications{#native-ios-and-android-applications}

@@ -1,9 +1,6 @@
 ---
 description: You can implement your own opportunity detectors by implementing the interface PlacementOpportunityDetector.
-seo-description: You can implement your own opportunity detectors by implementing the interface PlacementOpportunityDetector.
-seo-title: Implement a custom opportunity detector
 title: Implement a custom opportunity detector
-uuid: 012527c5-4ef0-4cd6-a9df-2fb861078a7e
 ---
 
 # Implement a custom opportunity detector {#implement-a-custom-opportunity-detector}

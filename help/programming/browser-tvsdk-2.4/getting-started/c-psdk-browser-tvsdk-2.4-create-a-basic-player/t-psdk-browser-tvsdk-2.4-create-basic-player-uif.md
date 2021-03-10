@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Create a basic player using the UI Framework
 title: Create a basic player using the UI Framework
-uuid: d1a82dbb-1c05-4d0c-b6bc-e07cbede93cb
+description: Create a basic player using the UI Framework
+copied-description: yes
 ---
 
 # Create a basic player using the UI Framework{#create-a-basic-player-using-the-ui-framework}

@@ -1,7 +1,7 @@
 ---
-seo-title: Generate a certificate signing request (Requester)
 title: Generate a certificate signing request (Requester)
-uuid: 04abd5d2-77ac-4f89-8bea-31d389159aee
+description: Generate a certificate signing request (Requester)
+copied-description: yes
 ---
 
 # Generate a certificate signing request (Requester) {#generate-a-certificate-signing-request-requester}

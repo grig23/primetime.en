@@ -1,7 +1,7 @@
 ---
-seo-title: Managing Domains
 title: Managing Domains
-uuid: aee02196-8704-46ee-add9-82b371722f0f
+description: Managing Domains
+copied-description: yes
 ---
 
 # Managing Domains{#managing-domains}

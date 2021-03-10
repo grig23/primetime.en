@@ -1,7 +1,7 @@
 ---
-seo-title: Set up and deploy the server for Protected Streaming
 title: Set up and deploy the server for Protected Streaming
-uuid: 300a1b63-0bf0-48a8-977d-212563025c19
+description: Set up and deploy the server for Protected Streaming
+copied-description: yes
 ---
 
 # Set up and deploy the server for Protected Streaming {#set-up-and-deploy-the-server-for-protected-streaming}

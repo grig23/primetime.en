@@ -1,7 +1,7 @@
 ---
-seo-title: Customized logging
 title: Customized logging
-uuid: 415582e8-cd89-4ecd-9ad2-725fcda025b0
+description: Customized logging
+copied-description: yes
 ---
 
 # Customized logging {#customized-logging}

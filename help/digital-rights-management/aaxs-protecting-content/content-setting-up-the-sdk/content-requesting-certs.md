@@ -1,7 +1,7 @@
 ---
-seo-title: Requesting certificates
 title: Requesting certificates
-uuid: dc38732b-c8e3-40aa-a145-4ecc21535628
+description: Requesting certificates
+copied-description: yes
 ---
 
 # Requesting certificates{#requesting-certificates}

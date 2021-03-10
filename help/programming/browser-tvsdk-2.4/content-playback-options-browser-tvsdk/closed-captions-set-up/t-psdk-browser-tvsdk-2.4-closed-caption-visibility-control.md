@@ -1,9 +1,6 @@
 ---
 description: You can control the visibility of closed captions. When visibility is on, the currently selected track is displayed.
-seo-description: You can control the visibility of closed captions. When visibility is on, the currently selected track is displayed.
-seo-title: Control closed-caption visibility
 title: Control closed-caption visibility
-uuid: b161a729-73f3-4019-a95e-013b42779842
 ---
 
 # Control closed-caption visibility{#control-closed-caption-visibility}

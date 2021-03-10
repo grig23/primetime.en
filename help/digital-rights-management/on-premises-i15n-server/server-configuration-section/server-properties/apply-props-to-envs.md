@@ -1,9 +1,6 @@
 ---
 description: You must configure server properties to reflect your environment. You can do this using any of the following 
-seo-description: You must configure server properties to reflect your environment. You can do this using any of the following 
-seo-title: Apply properties to server environments
 title: Apply properties to server environments
-uuid: a1ee0d6c-b5e7-4689-b7c8-b155176faf1c
 ---
 
 # Apply properties to server environments{#apply-properties-to-server-environments}

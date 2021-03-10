@@ -1,9 +1,6 @@
 ---
 description: On devices that support GPU (hardware) acceleration, you can use a flash.media.StageVideo object to process video directly on the device hardware.
-seo-description: On devices that support GPU (hardware) acceleration, you can use a flash.media.StageVideo object to process video directly on the device hardware.
-seo-title: StageVideo minimum requirements
 title: StageVideo minimum requirements
-uuid: 8916dbac-33e0-4efd-8105-9ddbc85f0a3f
 ---
 
 # StageVideo minimum requirements{#stagevideo-minimum-requirements}

@@ -1,7 +1,7 @@
 ---
-seo-title: About ECI Files
 title: About ECI Files
-uuid: 124d8ab1-933b-4a1b-992a-919f3d799460
+description: About ECI Files
+copied-description: yes
 ---
 
 # About ECI Files{#about-eci-files}

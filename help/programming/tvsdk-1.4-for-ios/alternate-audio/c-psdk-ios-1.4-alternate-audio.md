@@ -1,9 +1,6 @@
 ---
 description: Alternate, or late-binding, audio allows you to switch among available audio tracks for a video track. This way, users can select a language track when the video is played.
-seo-description: Alternate, or late-binding, audio allows you to switch among available audio tracks for a video track. This way, users can select a language track when the video is played.
-seo-title: Alternate audio
 title: Alternate audio
-uuid: 9dc3bec6-2135-4083-8db2-50a492e6bd67
 ---
 
 # Overview {#alternate-audio-overview}

@@ -1,7 +1,7 @@
 ---
-seo-title: User authentication
 title: User authentication
-uuid: 5cbd76b9-ff64-4a4b-8cfd-54f05c04eaa3
+description: User authentication
+copied-description: yes
 ---
 
 # User authentication {#user-authentication}

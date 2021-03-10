@@ -1,9 +1,6 @@
 ---
-seo-title: Feature managers
 title: Feature managers
-uuid: 3d78544e-4819-4122-bfd3-01522a067aa9
 description: Feature managers provide a way for you to control individual features without traversing the entire TVSDK in search of code for one feature that could be scattered in multiple locations.
-seo-description: Feature managers provide a way for you to control individual features without traversing the entire TVSDK in search of code for one feature that could be scattered in multiple locations.
 ---
 
 # Feature managers {#feature-managers}

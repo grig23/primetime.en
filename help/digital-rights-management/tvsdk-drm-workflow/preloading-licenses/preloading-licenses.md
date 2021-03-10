@@ -1,7 +1,7 @@
 ---
-seo-title: Pre-loading licenses for offline playback overview
 title: Pre-loading licenses for offline playback overview
-uuid: 71e5169b-7f70-4723-9f9b-fdff822c5876
+description: Pre-loading licenses for offline playback overview
+copied-description: yes
 ---
 
 # Pre-loading licenses for offline playback {#pre-loading-licenses-for-offline-playback}

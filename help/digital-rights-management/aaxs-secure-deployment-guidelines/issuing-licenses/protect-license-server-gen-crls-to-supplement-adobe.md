@@ -1,7 +1,7 @@
 ---
-seo-title: Generate CRLs to supplement those published by Adobe
 title: Generate CRLs to supplement those published by Adobe
-uuid: 4e93f6d3-5a04-44e9-9e6b-e878798b68f5
+description: Generate CRLs to supplement those published by Adobe
+copied-description: yes
 ---
 
 # Generate CRLs to supplement those published by Adobe{#generate-crls-to-supplement-those-published-by-adobe}

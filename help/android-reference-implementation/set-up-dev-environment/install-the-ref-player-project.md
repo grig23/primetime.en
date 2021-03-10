@@ -1,9 +1,6 @@
 ---
 description: The TVSDK Primetime Reference is an Android application built around the TVSDK and AVE frameworks.
-seo-description: The TVSDK Primetime Reference is an Android application built around the TVSDK and AVE frameworks.
-seo-title: Build the Primetime reference implementation
 title: Build the Primetime reference implementation
-uuid: ab12660a-1563-49a4-82d9-1ab13f8a92be
 
 ---
 

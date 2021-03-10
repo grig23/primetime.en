@@ -1,7 +1,7 @@
 ---
-seo-title: About certificate enrollment roles
 title: About certificate enrollment roles
-uuid: 100776c2-6622-4b94-bc9b-5d4a04fd3260
+description: About certificate enrollment roles
+copied-description: yes
 ---
 
 # About certificate enrollment roles {#about-certificate-enrollment-roles}

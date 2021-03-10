@@ -1,7 +1,7 @@
 ---
-seo-title: Deploying the Primetime DRM Key Server overview
 title: Deploying the Primetime DRM Key Server overview
-uuid: 86630675-c15d-4f32-8212-d7343f4f92e0
+description: Deploying the Primetime DRM Key Server overview
+copied-description: yes
 ---
 
 # Deploy the Primetime DRM Key Server {#deploy-the-primetime-drm-key-server}

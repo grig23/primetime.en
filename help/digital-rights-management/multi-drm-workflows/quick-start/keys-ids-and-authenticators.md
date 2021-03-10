@@ -1,9 +1,6 @@
 ---
 description: To implement DRM you need particular certs and keys, including a content encryption key or CEK to encrypt your content, a customer authenticator for protecting communications with ExpressPlay servers, and CEKSIDs for identifying your content encryption keys as stored in a key management system.
-seo-description: To implement DRM you need particular certs and keys, including a content encryption key or CEK to encrypt your content, a customer authenticator for protecting communications with ExpressPlay servers, and CEKSIDs for identifying your content encryption keys as stored in a key management system.
-seo-title: Keys, IDs, and Authenticators
 title: Keys, IDs, and Authenticators
-uuid: 9e5b1a64-b4e9-442f-ac15-26831aaf585d
 ---
 
 # Keys, IDs, and Authenticators{#keys-ids-and-authenticators}
