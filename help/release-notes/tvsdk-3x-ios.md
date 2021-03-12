@@ -1,9 +1,9 @@
 ---
-title: TVSDK 3.12 for iOS Release Notes
-description: TVSDK 3.12 for iOS Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK iOS 3.12.
+title: TVSDK 3.13 for iOS Release Notes
+description: TVSDK 3.13 for iOS Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK iOS 3.13.
 ---
 
-# TVSDK 3.12 for iOS Release Notes {#tvsdk-for-ios-release-notes}
+# TVSDK 3.13 for iOS Release Notes {#tvsdk-for-ios-release-notes}
 
 TVSDK 3.12 for iOS Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK iOS 3.12.
 
@@ -13,13 +13,17 @@ Before you download iOS 3.12, ensure your hardware, operating system, and applic
 
 Operating System: iOS 8.0 or later.
 
-## iOS TVSDK 3.12
+## iOS TVSDK 3.13
 
-Fixed an issue where live stream fails after 15 minutes of playback. 
+The release introduces support for DEMUXED 'HLS/CMAF' (preroll, midroll, and postroll) ads for LIVE, VOD, and FER streams.
 
-For fixes in the current release see [customer issues fixed](#resolved-issues) and for limitations see [known issues and limitations](#known-issues-and-limitations) section.
+For fixes to customer-reported issues, see [Resolved issues](#resolved-issues). For limitations, see [known issues and limitations](#known-issues-and-limitations).
 
 ### New features and fixes in the previous releases {#whats-new-previous}
+
+**iOS TVSDK 3.12**
+
+Fixed an issue where live stream fails after 15 minutes of playback. 
 
 **iOS TVSDK 3.11**
 
@@ -293,6 +297,14 @@ Comment Type: draft
 
  <p>TVSDK versions earlier than version 1.4.28 sometimes exhibit a long delay in the startup time when ad-enabled content is played on devices that are running on iOS 10. To resolve this issue, upgrade to version 1.4.28 or later. Version 1.4.28 was released on August 31, 2016, and iOS 10 was released on September 13, 2016.</p> 
 -->
+
+**iOS TVSDK 3.13**
+
+* (ZD 42085) - Issues with playback on CMAF streams.
+
+* (ZD-43215) - Crash when dismissing the player while an ad is in progress.
+
+* (ZD 43210) - iOS HLS playback freezes when WebVTT subtitle is enabled.
 
 **iOS TVSDK 3.12**
 
