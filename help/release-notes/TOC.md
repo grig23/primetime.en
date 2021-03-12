@@ -14,7 +14,7 @@ user-guide-description: Provides release-specific information, system requiremen
   + [PTAI 20.12.1 Release Notes](ptai-20x-release-notes.md)
   + [PTAI 19.11.1 Release Notes](ptai-19x-release-notes.md)
 + TVSDK for iOS {#tvsdk-ios}
-  + [TVSDK 3.12 for iOS Release Notes](tvsdk-3x-ios.md)
+  + [TVSDK 3.13 for iOS Release Notes](tvsdk-3x-ios.md)
   + [TVSDK 1.4 for iOS Release Notes](tvsdk-1-4-ios.md)
 + TVSDK for Android {#tvsdk-android}
   + [TVSDK 3.13 for Android Release Notes](tvsdk-3x-android.md)
