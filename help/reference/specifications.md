@@ -6,7 +6,7 @@ seo-description: Adobe Primetime Specifications
 topic-tags: Adobe Primetime Specifications
 ---
 
-# Adobe Primetime API Specifications
+# Adobe Primetime Specifications
 
 Adobe Primetime brings TV to every IP-connected screen. It gives programmers and operators modular capabilities to stream, protect, analyze, and monetize video across desktops and devices. Powering these experiences are a number of streaming technologies used to deliver content and advertising to Primetime video players.
 
