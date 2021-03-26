@@ -8,6 +8,9 @@ topic-tags: API-references
 
 # Adobe Primetime API references {#api-references}
 
++ Primetime Dynamic Ad Insertion {#server-side}
+  + [Bootstrap API Reference](../primetime-ad-insertion/technical-reference/bootstrap-api.md)
+
 + TVSDK 3.12 {#tvsdk-312}
   + [TVSDK 3.12 for Android](https://help.adobe.com/en_US/primetime/api/psdk/javadoc3.12/index.html)
 
