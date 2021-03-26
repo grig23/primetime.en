@@ -1,9 +1,6 @@
 ---
 description: You can choose to use default ad behaviors.
-seo-description: You can choose to use default ad behaviors.
-seo-title: Use the default playback behavior
 title: Use the default playback behavior
-uuid: ccda5223-17c1-4cda-b875-e706f5dc8648
 ---
 
 # Use the default playback behavior {#use-the-default-playback-behavior}

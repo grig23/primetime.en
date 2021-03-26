@@ -1,9 +1,6 @@
 ---
 description: Code can request a key through DRMManager.
-seo-description: Code can request a key through DRMManager.
-seo-title: Key request workflow on HTML5 TVSDK
 title: Key request workflow on HTML5 TVSDK
-uuid: a1f50eba-4301-49a1-b2e5-9add6687cff8
 ---
 
 # Key request workflow on HTML5 TVSDK{#key-request-workflow-on-html-tvsdk}

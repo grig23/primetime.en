@@ -1,7 +1,7 @@
 ---
-seo-title: About Adobe Access
 title: About Adobe Access
-uuid: e0e85150-8966-4d16-b53a-2c283067481d
+description: About Adobe Access
+copied-description: yes
 ---
 
 # About Adobe Access {#about-adobe-access}

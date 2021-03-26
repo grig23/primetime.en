@@ -1,9 +1,6 @@
 ---
 description: The PTMediaPlayer interface encapsulates the functionality and behavior of a media player object.
-seo-description: The PTMediaPlayer interface encapsulates the functionality and behavior of a media player object.
-seo-title: Set up the PTMediaPlayer
 title: Set up the PTMediaPlayer
-uuid: 698034d3-1260-416f-83b0-6b7d058750a0
 ---
 
 # Set up the PTMediaPlayer {#set-up-the-ptmediaplayer}

@@ -1,7 +1,7 @@
 ---
-seo-title: License preview
 title: License preview
-uuid: 3069aa16-5bf3-4af6-801c-ad823530d7eb
+description: License preview
+copied-description: yes
 ---
 
 # License preview{#license-preview}

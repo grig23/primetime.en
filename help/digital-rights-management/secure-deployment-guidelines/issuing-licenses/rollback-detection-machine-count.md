@@ -1,9 +1,6 @@
 ---
 description: If the business rules require that the number of machines for a user be tracked, the License Server or Domain Server must store the machine IDs that are associated with the user.
-seo-description: If the business rules require that the number of machines for a user be tracked, the License Server or Domain Server must store the machine IDs that are associated with the user.
-seo-title: Machine count when issuing licenses
 title: Machine count when issuing licenses
-uuid: 7ba8a8d4-a31f-4f37-82a7-755cfa443544
 ---
 
 # Machine count when issuing licenses {#machine-count-when-issuing-licenses}

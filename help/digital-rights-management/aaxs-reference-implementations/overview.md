@@ -1,7 +1,7 @@
 ---
-seo-title: Overview- Using the reference implementations
 title: Overview- Using the reference implementations
-uuid: 4009b6d1-b315-4117-8c26-c2f6ee0cefc2
+description: Overview- Using the reference implementations
+copied-description: yes
 ---
 
 # Overview- Using the reference implementations {#overview-using-the-reference-implementations}

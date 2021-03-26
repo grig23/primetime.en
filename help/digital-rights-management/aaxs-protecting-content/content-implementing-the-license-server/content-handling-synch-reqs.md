@@ -1,7 +1,7 @@
 ---
-seo-title: Handling synchronization requests
 title: Handling synchronization requests
-uuid: 37b2db09-4c09-4216-874b-b570a84569b6
+description: Handling synchronization requests
+copied-description: yes
 ---
 
 # Handling synchronization requests{#handling-synchronization-requests}

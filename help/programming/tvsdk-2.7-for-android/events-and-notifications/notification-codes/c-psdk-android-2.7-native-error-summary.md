@@ -1,7 +1,7 @@
 ---
-seo-title: Details for the NATIVE_ERROR notification
 title: Details for the NATIVE_ERROR notification
-uuid: 750ee0e2-15d4-4602-9574-94015a6e1b57
+description: Details for the NATIVE_ERROR notification
+copied-description: yes
 ---
 
 # Details for the NATIVE_ERROR notification {#details-for-the-native-error-notification}

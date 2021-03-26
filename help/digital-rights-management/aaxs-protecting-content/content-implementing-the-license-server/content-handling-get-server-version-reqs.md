@@ -1,7 +1,7 @@
 ---
-seo-title: Handling Get Server Version requests
 title: Handling Get Server Version requests
-uuid: a3084faa-cf3d-45cc-a244-298308c4cf15
+description: Handling Get Server Version requests
+copied-description: yes
 ---
 
 # Handling Get Server Version requests{#handling-get-server-version-requests}

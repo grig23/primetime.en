@@ -1,7 +1,7 @@
 ---
-seo-title: Allow list for Adobe® Flash® Player SWFs allowed to play protected content
 title: Allow list for Adobe® Flash® Player SWFs allowed to play protected content
-uuid: 482bfbed-7ef9-48d9-b399-d23fddabc81e
+description: Allow list for Adobe® Flash® Player SWFs allowed to play protected content
+copied-description: yes
 ---
 
 # Allow list for Adobe® Flash® Player SWFs allowed to play protected content {#allowlist-for-adobe-flash-player-swfs-allowed-to-play-protected-content}

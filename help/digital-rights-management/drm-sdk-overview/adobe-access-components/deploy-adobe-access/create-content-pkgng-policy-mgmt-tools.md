@@ -1,7 +1,7 @@
 ---
-seo-title: Create content packaging and policy management tools
 title: Create content packaging and policy management tools
-uuid: 0f95c905-5734-457c-b60a-13689b285b44
+description: Create content packaging and policy management tools
+copied-description: yes
 ---
 
 # Create content packaging and policy management tools{#create-content-packaging-and-policy-management-tools}

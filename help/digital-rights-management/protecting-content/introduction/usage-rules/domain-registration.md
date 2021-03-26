@@ -1,7 +1,7 @@
 ---
-seo-title: Device Group Domain Registration
 title: Device Group Domain Registration
-uuid: 221bf6c3-0568-443d-b761-64715a57ada6
+description: Device Group Domain Registration
+copied-description: yes
 ---
 
 # Device Group Domain Registration{#device-group-domain-registration}

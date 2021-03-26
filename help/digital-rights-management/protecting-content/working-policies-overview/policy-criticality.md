@@ -1,7 +1,7 @@
 ---
-seo-title: DRM policy criticality
 title: DRM policy criticality
-uuid: ddc03142-7acb-4a9f-a367-e34cfc5e78ba
+description: DRM policy criticality
+copied-description: yes
 ---
 
 # DRM policy criticality{#drm-policy-criticality}

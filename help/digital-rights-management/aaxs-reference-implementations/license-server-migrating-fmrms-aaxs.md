@@ -1,7 +1,7 @@
 ---
-seo-title: Migrating from FMRMS 1.0 or 1.5 to Adobe Access 2.0 and above
 title: Migrating from FMRMS 1.0 or 1.5 to Adobe Access 2.0 and above
-uuid: 05caeb39-0c62-4053-87a9-8e89030a188d
+description: Migrating from FMRMS 1.0 or 1.5 to Adobe Access 2.0 and above
+copied-description: yes
 ---
 
 # Migrating from FMRMS 1.0 or 1.5 to Adobe Access 2.0 and above {#migrating-from-fmrms-or-to-adobe-access-and-above}

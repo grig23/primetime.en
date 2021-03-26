@@ -1,9 +1,6 @@
 ---
 description: In the AdobeTVSDKConfig.json you can specify default rules as well as rules for specific zones.
-seo-description: In the AdobeTVSDKConfig.json you can specify default rules as well as rules for specific zones.
-seo-title: Sample creative selection rules
 title: Sample creative selection rules
-uuid: 0342de7e-b9cd-48e3-8bd1-e463bd6d0495
 ---
 
 # Sample creative selection rules {#sample-creative-selection-rules}

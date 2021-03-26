@@ -1,9 +1,6 @@
 ---
 description: The Adobe Access Server for Protected Streaming requires two types of configuration files  a global configuration file (flashaccess-global.xml) and a tenant configuration file for each tenant (flashaccess-tenant.xml).
-seo-description: The Adobe Access Server for Protected Streaming requires two types of configuration files  a global configuration file (flashaccess-global.xml) and a tenant configuration file for each tenant (flashaccess-tenant.xml).
-seo-title: Configuration Directory Structure
 title: Configuration Directory Structure
-uuid: c6cfc734-6b7c-4502-9bdb-c7aaca156e0e
 ---
 
 # License server configuration files & Configuration Directory Structure {#configuration-directory-structure}

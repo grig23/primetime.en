@@ -1,7 +1,7 @@
 ---
-seo-title: Timeout for authentication tokens
 title: Timeout for authentication tokens
-uuid: 41b0fbf5-a567-4118-bec1-c05e6e0b6d1f
+description: Timeout for authentication tokens
+copied-description: yes
 ---
 
 # Timeout for authentication tokens{#timeout-for-authentication-tokens}

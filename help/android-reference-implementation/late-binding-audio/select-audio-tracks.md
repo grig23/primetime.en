@@ -1,7 +1,7 @@
 ---
-seo-title: Select the audio tracks
 title: Select the audio tracks
-uuid: a827f426-956b-4a5f-90ba-db12010aa7c7
+description: Select the audio tracks
+copied-description: yes
 ---
 
 # Select the audio tracks{#select-the-audio-tracks}

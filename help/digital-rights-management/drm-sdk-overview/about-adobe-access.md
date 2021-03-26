@@ -1,9 +1,6 @@
 ---
 description: Primetime DRM lets content owners and distributors control how and where their content can be distributed and experienced, providing end-to-end protection throughout the content lifecycle. It encrypts video files, which can then be streamed or downloaded to Microsoft® Windows®, Apple® Mac OS®, Linux®, and Android® platforms, and enforces business models such as online video rental. Consumers can enjoy high-quality content at their convenience, whether they are online or offline. Primetime DRM offers key advantages that content owners and distributors can use to quickly deliver new services that differentiate them from the competition.
-seo-description: Primetime DRM lets content owners and distributors control how and where their content can be distributed and experienced, providing end-to-end protection throughout the content lifecycle. It encrypts video files, which can then be streamed or downloaded to Microsoft® Windows®, Apple® Mac OS®, Linux®, and Android® platforms, and enforces business models such as online video rental. Consumers can enjoy high-quality content at their convenience, whether they are online or offline. Primetime DRM offers key advantages that content owners and distributors can use to quickly deliver new services that differentiate them from the competition.
-seo-title: About Adobe Primetime DRM
 title: About Adobe Primetime DRM
-uuid: 4c445ccb-0a8e-490f-b840-8654fcaa106c
 ---
 
 # About Adobe Primetime DRM{#about-adobe-primetime-drm}

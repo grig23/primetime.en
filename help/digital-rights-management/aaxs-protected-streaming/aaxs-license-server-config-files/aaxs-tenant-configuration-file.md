@@ -1,7 +1,7 @@
 ---
-seo-title: Tenant configuration file
 title: Tenant configuration file
-uuid: 6e5c82c9-b8f5-4fca-8325-a884b2c779f7
+description: Tenant configuration file
+copied-description: yes
 ---
 
 # Tenant configuration file {#tenant-configuration-file}

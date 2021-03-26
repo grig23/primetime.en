@@ -1,7 +1,7 @@
 ---
-seo-title: Packaging content
 title: Packaging content
-uuid: 366c8470-b7ef-4a39-83c2-151ba9be9a32
+description: Packaging content
+copied-description: yes
 ---
 
 # Packaging content{#packaging-content}

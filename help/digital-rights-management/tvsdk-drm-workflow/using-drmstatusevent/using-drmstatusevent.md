@@ -1,7 +1,7 @@
 ---
-seo-title: Using the DRMStatusEvent class overview
 title: Using the DRMStatusEvent class overview
-uuid: 9faf35fe-63ac-43a8-a945-4735c12efb04
+description: Using the DRMStatusEvent class overview
+copied-description: yes
 ---
 
 # Using the DRMStatusEvent class overview {#using-the-drmstatusevent-class-overview}

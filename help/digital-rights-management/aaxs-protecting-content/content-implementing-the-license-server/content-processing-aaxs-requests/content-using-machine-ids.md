@@ -1,7 +1,7 @@
 ---
-seo-title: Using machine identifiers
 title: Using machine identifiers
-uuid: 2832c158-fade-4bbf-ae89-f95ce9dfc369
+description: Using machine identifiers
+copied-description: yes
 ---
 
 # Using machine identifiers{#using-machine-identifiers}

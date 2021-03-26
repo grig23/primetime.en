@@ -1,9 +1,6 @@
 ---
 description: The main components of Adobe Access consist of a Java SDK, and the Flash Player and Adobe AIR client runtime environments.
-seo-description: The main components of Adobe Access consist of a Java SDK, and the Flash Player and Adobe AIR client runtime environments.
-seo-title: Java SDK, Flash Player and Adobe AIR client
 title: Java SDK, Flash Player and Adobe AIR client
-uuid: 6b6c5aa2-56ee-4476-a05b-dcbbe3b9001e
 ---
 
 # Adobe Access components{#adobe-access-components}

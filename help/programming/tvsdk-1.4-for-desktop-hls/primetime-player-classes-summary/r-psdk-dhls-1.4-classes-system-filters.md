@@ -1,9 +1,6 @@
 ---
 description: These classes implement media resource filtering.
-seo-description: These classes implement media resource filtering.
-seo-title: System filters classes
 title: System filters classes
-uuid: 2a1cde8e-219f-4c5a-8eab-7a0fcac77a59
 ---
 
 # System filters classes{#system-filters-classes}

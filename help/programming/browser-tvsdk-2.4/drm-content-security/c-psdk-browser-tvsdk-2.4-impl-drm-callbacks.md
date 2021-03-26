@@ -1,9 +1,6 @@
 ---
 description: The following new APIs allow you to define DRM callbacks.
-seo-description: The following new APIs allow you to define DRM callbacks.
-seo-title: Implementing DRM callbacks
 title: Implementing DRM callbacks
-uuid: a54c5ec2-299f-47b0-b65b-eed5656ab6aa
 ---
 
 # Implementing DRM callbacks{#implementing-drm-callbacks}

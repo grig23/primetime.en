@@ -1,7 +1,7 @@
 ---
-seo-title: Set up a domain server
 title: Set up a domain server
-uuid: b262ea86-f465-4ed1-b278-122d4dafc881
+description: Set up a domain server
+copied-description: yes
 ---
 
 # Set up a domain server {#set-up-a-domain-server}

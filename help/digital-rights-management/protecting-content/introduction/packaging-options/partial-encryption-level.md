@@ -1,7 +1,7 @@
 ---
-seo-title: Partial encryption level
 title: Partial encryption level
-uuid: dbd9ce92-c829-4cad-9ac4-c57bd4f70345
+description: Partial encryption level
+copied-description: yes
 ---
 
 # Partial encryption level {#partial-encryption-level}

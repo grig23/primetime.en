@@ -1,7 +1,7 @@
 ---
-seo-title: HSM configuration
 title: HSM configuration
-uuid: da4d7118-65a8-460d-a796-b7bf5c28b208
+description: HSM configuration
+copied-description: yes
 ---
 
 # HSM configuration {#hsm-configuration}

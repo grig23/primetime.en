@@ -1,7 +1,7 @@
 ---
-seo-title: Allow list for Adobe® Primetime applications allowed to play protected content
 title: Allow list for Adobe® Primetime applications allowed to play protected content
-uuid: 3b1f938c-5c76-459e-a918-dfbec0fc2ff9
+description: Allow list for Adobe® Primetime applications allowed to play protected content
+copied-description: yes
 ---
 
 # Allow list for Adobe® Primetime applications allowed to play protected content {#allowlist-for-adobe-primetime-applications-allowed-to-play-protected-content}

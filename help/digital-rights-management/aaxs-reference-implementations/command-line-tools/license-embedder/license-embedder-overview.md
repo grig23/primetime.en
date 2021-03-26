@@ -1,7 +1,7 @@
 ---
-seo-title: License Embedder overview
 title: License Embedder overview
-uuid: 0639d7b0-a6c1-45fe-a21b-1fb23d0e379e
+description: License Embedder overview
+copied-description: yes
 ---
 
 # License Embedder overview {#license-embedder-overview}

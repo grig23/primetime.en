@@ -1,9 +1,6 @@
 ---
 description: The TVSDK currently provides built-in ad provider metadata support for TVSDK ads, direct ad breaks, and custom ad markers.
-seo-description: The TVSDK currently provides built-in ad provider metadata support for TVSDK ads, direct ad breaks, and custom ad markers.
-seo-title: Ad insertion types
 title: Ad insertion types
-uuid: 6b5c3555-1ddd-4215-8bb2-03d16bb818c5
 ---
 
 # Ad insertion types {#ad-insertion-types}

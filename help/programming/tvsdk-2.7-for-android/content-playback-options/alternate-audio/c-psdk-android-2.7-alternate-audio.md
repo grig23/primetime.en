@@ -1,9 +1,6 @@
 ---
 description: Alternate audio allows you to switch among available audio tracks for a video track. Users can select their preferred language track when the video is played.
-seo-description: Alternate audio allows you to switch among available audio tracks for a video track. Users can select their preferred language track when the video is played.
-seo-title: Alternate audio
 title: Alternate audio
-uuid: 86aa5393-6a9e-49db-807b-7299e6b4ab2b
 ---
 
 # Overview {#alternate-audio-overview}

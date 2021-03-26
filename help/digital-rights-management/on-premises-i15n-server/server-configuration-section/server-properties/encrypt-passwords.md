@@ -1,7 +1,7 @@
 ---
-seo-title: Encrypt Passwords
 title: Encrypt Passwords
-uuid: 94dc7fe9-fe40-4779-912a-d84b58e4ee36
+description: Encrypt Passwords
+copied-description: yes
 ---
 
 # Encrypt Passwords{#encrypt-passwords}

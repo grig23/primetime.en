@@ -1,7 +1,7 @@
 ---
-seo-title: Enhanced License Chaining
 title: Enhanced License Chaining
-uuid: f869b4e7-4b24-4832-94a7-b7143567ab58
+description: Enhanced License Chaining
+copied-description: yes
 ---
 
 # Enhanced License Chaining {#enhanced-license-chaining}

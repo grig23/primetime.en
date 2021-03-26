@@ -1,9 +1,6 @@
 ---
 description: Ad insertion resolves ads for video-on-demand (VOD), for live streaming, and for linear streaming with ad tracking and ad playback. TVSDK makes the required requests to the ad server, receives information about ads for the specified content, and places the ads in the content in phases.
-seo-description: Ad insertion resolves ads for video-on-demand (VOD), for live streaming, and for linear streaming with ad tracking and ad playback. TVSDK makes the required requests to the ad server, receives information about ads for the specified content, and places the ads in the content in phases.
-seo-title: Insert ads
 title: Insert ads
-uuid: 7c178295-e800-4eaa-904a-45e55e70dc02
 ---
 
 # Overview {#insert-ads-overview}

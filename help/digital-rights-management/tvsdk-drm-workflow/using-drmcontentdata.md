@@ -1,7 +1,7 @@
 ---
-seo-title: Using the DRMContentData class
 title: Using the DRMContentData class
-uuid: e79eb5b8-4e88-43b5-a80f-5fd141dc729d
+description: Using the DRMContentData class
+copied-description: yes
 ---
 
 # Using the DRMContentData class {#using-the-drmcontentdata-class}

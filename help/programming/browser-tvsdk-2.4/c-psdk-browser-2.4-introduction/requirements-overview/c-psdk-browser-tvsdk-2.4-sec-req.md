@@ -1,9 +1,6 @@
 ---
 description: There are some security considerations to be aware for Browser TVSDK.
-seo-description: There are some security considerations to be aware for Browser TVSDK.
-seo-title: Security considerations
 title: Security considerations
-uuid: 78edf2b0-363c-4ab6-b588-ab4748ee6096
 ---
 
 # Security considerations{#security-considerations}

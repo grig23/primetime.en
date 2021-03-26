@@ -1,7 +1,7 @@
 ---
-seo-title: Updating the Global Configuration File
 title: Updating the Global Configuration File
-uuid: f733550c-46c0-49c2-8fd1-15906f7d7b22
+description: Updating the Global Configuration File
+copied-description: yes
 ---
 
 # Updating the Global Configuration File{#updating-the-global-configuration-file}

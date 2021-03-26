@@ -1,7 +1,7 @@
 ---
-seo-title: Crossdomain policy file
 title: Crossdomain policy file
-uuid: 8eae1a52-7eec-46fd-a189-6952f5be98e8
+description: Crossdomain policy file
+copied-description: yes
 ---
 
 # Crossdomain policy file {#crossdomain-policy-file}

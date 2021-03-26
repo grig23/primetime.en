@@ -1,9 +1,6 @@
 ---
 description: You can implement a control bar with DVR support for VOD and live streaming. DVR support includes the concept of a seekable window and the client live point.
-seo-description: You can implement a control bar with DVR support for VOD and live streaming. DVR support includes the concept of a seekable window and the client live point.
-seo-title: Construct a control bar enhanced for DVR
 title: Construct a control bar enhanced for DVR
-uuid: 71bfceef-baf0-40ad-a7a0-fa2e22d24e31
 ---
 
 # Construct a control bar enhanced for DVR {#construct-a-control-bar-enhanced-for-dvr}

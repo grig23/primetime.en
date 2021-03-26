@@ -1,7 +1,7 @@
 ---
-seo-title: Out-of-band Licenses
 title: Out-of-band Licenses
-uuid: 7f029eb7-a2a5-4cee-a27c-7e222a00d3b3
+description: Out-of-band Licenses
+copied-description: yes
 ---
 
 # Out-of-band Licenses {#out-of-band-licenses}

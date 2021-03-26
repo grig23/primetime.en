@@ -1,7 +1,7 @@
 ---
-seo-title: Example of a customized VOD asset
 title: Example of a customized VOD asset
-uuid: 21e83b47-d7e2-4a2d-8a0b-80dd09e253a8
+description: Example of a customized VOD asset
+copied-description: yes
 ---
 
 # Example of a customized VOD asset {#example-of-a-customized-vod-asset}

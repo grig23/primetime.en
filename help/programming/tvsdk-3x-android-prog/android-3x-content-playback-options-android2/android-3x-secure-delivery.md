@@ -1,7 +1,5 @@
 ---
 description: TVSDK introduces secure delivery over HTTPS.
-seo-description: TVSDK introduces secure delivery over HTTPS.
-seo-title: Secure Delivery over HTTPS
 title: Secure Delivery over HTTPS
 ---
 

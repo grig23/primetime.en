@@ -1,9 +1,6 @@
 ---
 description: You can implement your own opportunity generators by implementing the OpportunityGenerator class.
-seo-description: You can implement your own opportunity generators by implementing the OpportunityGenerator class.
-seo-title: Implement a custom opportunity generator
 title: Implement a custom opportunity generator
-uuid: 93d8253f-10f9-4950-a273-28975cb69caa
 ---
 
 # Implement a custom opportunity generator {#implement-a-custom-opportunity-generator}

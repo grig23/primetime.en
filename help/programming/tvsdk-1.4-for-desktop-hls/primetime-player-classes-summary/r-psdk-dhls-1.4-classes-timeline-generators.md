@@ -1,9 +1,6 @@
 ---
 description: These classes assist in detecting opportunities in a timeline for placement of content, such as ads.
-seo-description: These classes assist in detecting opportunities in a timeline for placement of content, such as ads.
-seo-title: Timeline generators classes
 title: Timeline generators classes
-uuid: 1e36b738-0684-44f0-b3c3-dd656c70f705
 ---
 
 # Timeline generators classes{#timeline-generators-classes}

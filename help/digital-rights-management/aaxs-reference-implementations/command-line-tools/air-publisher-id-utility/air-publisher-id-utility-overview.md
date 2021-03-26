@@ -1,7 +1,7 @@
 ---
-seo-title: AIR Publisher ID utility overview
 title: AIR Publisher ID utility overview
-uuid: 31aecc0e-ad9b-43ad-ba58-77d2c999f4a4
+description: AIR Publisher ID utility overview
+copied-description: yes
 ---
 
 # AIR Publisher ID utility overview {#air-publisher-id-utility-overview}

@@ -1,9 +1,6 @@
 ---
 description: These classes provide information about the media.
-seo-description: These classes provide information about the media.
-seo-title: Info classes
 title: Info classes
-uuid: 49d6dc60-573e-41a6-aef9-2094c2699673
 ---
 
 # Info classes {#info-classes}

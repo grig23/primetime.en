@@ -1,9 +1,6 @@
 ---
 description: Primetime ad insertion uses cookies for internal purposes and to facilitate working with streams and ad servers.
-seo-description: Primetime ad insertion uses cookies for internal purposes and to facilitate working with streams and ad servers.
-seo-title: Cookies
 title: Cookies
-uuid: 514ca7bd-e5ef-41be-ac63-52ef2d2a60bb
 ---
 
 # Cookies {#cookies}

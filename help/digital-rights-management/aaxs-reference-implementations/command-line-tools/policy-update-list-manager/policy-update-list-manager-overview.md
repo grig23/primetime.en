@@ -1,7 +1,7 @@
 ---
-seo-title: Policy Update List Manager overview
 title: Policy Update List Manager overview
-uuid: d030e159-02f5-4a28-b7e8-2cf5fd58b9f1
+description: Policy Update List Manager overview
+copied-description: yes
 ---
 
 # Policy Update List Manager overview {#policy-update-list-manager-overview}

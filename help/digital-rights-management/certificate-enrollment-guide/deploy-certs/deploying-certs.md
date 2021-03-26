@@ -1,7 +1,7 @@
 ---
-seo-title: Deploy certificates
 title: Deploy certificates
-uuid: adf72b51-be0f-49ec-83f7-152a378b04e6
+description: Deploy certificates
+copied-description: yes
 ---
 
 # Deploy certificates{#deploy-certificates}

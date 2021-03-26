@@ -1,9 +1,6 @@
 ---
 description: In some cases you may want to restrict end users from playing content on multiple devices when the content is purchased or rented. If the customer is using Expressplay, this can be done by using the Expressplay APIs to bind the user's Expressplay token to the user's machine.
-seo-description: In some cases you may want to restrict end users from playing content on multiple devices when the content is purchased or rented. If the customer is using Expressplay, this can be done by using the Expressplay APIs to bind the user's Expressplay token to the user's machine.
-seo-title: Device Binding
 title: Device Binding
-uuid: 351fa33c-4226-4ed5-829c-56b563166fec
 ---
 
 # Device Binding{#device-binding}

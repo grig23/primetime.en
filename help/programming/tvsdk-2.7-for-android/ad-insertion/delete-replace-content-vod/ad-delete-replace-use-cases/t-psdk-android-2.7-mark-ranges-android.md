@@ -1,9 +1,6 @@
 ---
 description: You can designate time intervals in VOD content as ad breaks.
-seo-description: You can designate time intervals in VOD content as ad breaks.
-seo-title: Mark ranges
 title: Mark ranges
-uuid: 6ae2adee-fb7a-4cef-a8e8-ecf671ed3660
 ---
 
 # Mark ranges {#mark-ranges}

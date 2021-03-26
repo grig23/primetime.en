@@ -1,9 +1,6 @@
 ---
 description: Here are some examples of the process to delete and replace ads.
-seo-description: Here are some examples of the process to delete and replace ads.
-seo-title: Examples to delete and replace ads
 title: Examples to delete and replace ads
-uuid: 31ceb39a-aa30-472e-908a-3ba57559045f
 ---
 
 # Examples to delete and replace ads {#examples-to-delete-and-replace-ads}

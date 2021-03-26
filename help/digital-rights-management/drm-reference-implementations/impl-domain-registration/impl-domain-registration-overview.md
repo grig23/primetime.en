@@ -1,7 +1,7 @@
 ---
-seo-title: Overview
 title: Overview
-uuid: 578e749f-ee11-4682-9159-95a17982f3c4
+description: Overview
+copied-description: yes
 ---
 
 # Overview {#implement-domain-registration-overview}

@@ -1,7 +1,7 @@
 ---
-seo-title: Adobe Primetime authentication (Optional)
 title: Adobe Primetime authentication (Optional)
-uuid: fa6225d6-e0e5-4fcc-ac26-4ff54f9f334a
+description: Adobe Primetime authentication (Optional)
+copied-description: yes
 ---
 
 # Adobe Primetime authentication (Optional) {#adobe-primetime-authentication-optional}

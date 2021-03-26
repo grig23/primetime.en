@@ -1,7 +1,7 @@
 ---
-seo-title: Updating configuration files overview
 title: Updating configuration files overview
-uuid: e9be21cf-ad23-4ed6-8bef-f194bc1fd749
+description: Updating configuration files overview
+copied-description: yes
 ---
 
 # Updating configuration files overview {#updating-configuration-files-overview}

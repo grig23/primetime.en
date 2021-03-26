@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Mark ranges
 title: Mark ranges
-uuid: ca544f64-ef83-4c08-8ec5-1bc07fdba3c4
+description: Mark ranges
+copied-description: yes
 ---
 
 # Use cases to delete and replace ads {#use-cases-delete-replace-ads}

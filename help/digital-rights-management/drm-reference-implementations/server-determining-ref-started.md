@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Check whether the license server started properly
 title: Check whether the license server started properly
-uuid: a6a034c9-b3c4-4e26-b901-d2c132c00c52
+description: Check whether the license server started properly
+copied-description: yes
 ---
 
 # Check whether the license server started properly {#check-whether-the-license-server-started-properly}

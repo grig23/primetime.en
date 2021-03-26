@@ -1,9 +1,6 @@
 ---
 description: To get started with Primetime DRM Cloud, powered by ExpressPlay, you need to set up Adobe Cert and ExpressPlay accounts with the help of your Adobe representative.
-seo-description: To get started with Primetime DRM Cloud, powered by ExpressPlay, you need to set up Adobe Cert and ExpressPlay accounts with the help of your Adobe representative.
-seo-title: Get Provisioned (Accounts, etc.)
 title: Get Provisioned (Accounts, etc.)
-uuid: 51b95676-2121-4d8b-8756-9fd097185a13
 ---
 
 # Get Provisioned (Accounts, etc.) {#get-provisioned-accounts-etc}

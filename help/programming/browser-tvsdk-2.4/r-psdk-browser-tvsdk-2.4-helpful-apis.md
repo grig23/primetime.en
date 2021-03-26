@@ -1,9 +1,6 @@
 ---
 description: There are some APIs that can help you use the Adobe Flash Player.
-seo-description: There are some APIs that can help you use the Adobe Flash Player.
-seo-title: Helpful APIs for the Adobe Flash Player
 title: Helpful APIs for the Adobe Flash Player
-uuid: eae314c0-fd9e-480f-ae1c-9b5f3eb4db4b
 ---
 
 # Helpful APIs for the Adobe Flash Player{#helpful-apis-for-the-adobe-flash-player}

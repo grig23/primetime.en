@@ -1,9 +1,6 @@
 ---
 description: Before you can use most of the TVSDK player methods, the player must be in a valid status.
-seo-description: Before you can use most of the TVSDK player methods, the player must be in a valid status.
-seo-title: Wait for a valid status
 title: Wait for a valid status
-uuid: ffa63ad6-84d3-4eb2-aa99-026418d86528
 ---
 
 # Wait for a valid state {#wait-for-a-valid-state}

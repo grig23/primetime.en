@@ -1,9 +1,6 @@
 ---
 description: You can specify several caption styling options, and these options override the style options in the original captions.
-seo-description: You can specify several caption styling options, and these options override the style options in the original captions.
-seo-title: Closed caption styling options
 title: Closed caption styling options
-uuid: 0e2fd9f3-e569-4b5d-9b78-86f8ee6230ee
 ---
 
 # Closed caption styling options{#closed-caption-styling-options}

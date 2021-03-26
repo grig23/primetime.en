@@ -1,9 +1,6 @@
 ---
 description: After a MediaResource is successfully loaded, Browser TVSDK creates an instance of the MediaPlayerItem class to provide access to that resource.
-seo-description: After a MediaResource is successfully loaded, Browser TVSDK creates an instance of the MediaPlayerItem class to provide access to that resource.
-seo-title: About the MediaPlayerItem class
 title: About the MediaPlayerItem class
-uuid: 5226d3ad-2438-44fe-a8ef-bcc0da8331b8
 ---
 
 # About the MediaPlayerItem class{#about-the-mediaplayeritem-class}

@@ -1,9 +1,6 @@
 ---
 description: The MediaResource class represents the content to be loaded by the MediaPlayer instance.
-seo-description: The MediaResource class represents the content to be loaded by the MediaPlayer instance.
-seo-title: Create a media resource
 title: Create a media resource
-uuid: 3d03d92f-69b3-4da8-9b16-25a264115ae5
 ---
 
 # Create a media resource {#create-a-media-resource}

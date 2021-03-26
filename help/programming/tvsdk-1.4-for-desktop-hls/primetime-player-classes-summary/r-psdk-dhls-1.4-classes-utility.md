@@ -1,9 +1,6 @@
 ---
 description: These classes provide ways to process various types of information.
-seo-description: These classes provide ways to process various types of information.
-seo-title: Utility classes
 title: Utility classes
-uuid: ec57aba9-b29b-4bc5-804f-6ab5549a61c1
 ---
 
 # Utility classes {#utility-classes}

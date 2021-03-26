@@ -1,7 +1,7 @@
 ---
-seo-title: Securely storing policies
 title: Securely storing policies
-uuid: b1ac236f-6637-46d4-8405-a819d6093314
+description: Securely storing policies
+copied-description: yes
 ---
 
 # Securely storing policies{#securely-storing-policies}

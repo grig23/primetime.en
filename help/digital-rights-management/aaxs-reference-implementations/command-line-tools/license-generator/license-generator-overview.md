@@ -1,7 +1,7 @@
 ---
-seo-title: License Generator overview
 title: License Generator overview
-uuid: 9c191871-28f4-485e-b09f-038e499764bb
+description: License Generator overview
+copied-description: yes
 ---
 
 # License Generator overview {#license-generator-overview}

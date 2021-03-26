@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Remote key delivery properties (iOS)
 title: Remote key delivery properties (iOS)
-uuid: 17e1b756-d106-47a7-99ae-641190693870
+description: Remote key delivery properties (iOS)
+copied-description: yes
 ---
 
 # Remote key delivery properties (iOS){#remote-key-delivery-properties-ios}

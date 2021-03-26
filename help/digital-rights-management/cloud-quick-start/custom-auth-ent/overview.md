@@ -1,7 +1,7 @@
 ---
-seo-title: BEES Overview
 title: BEES Overview
-uuid: c6ee7528-fdfa-4a56-bea2-a5e2dab6d428
+description: BEES Overview
+copied-description: yes
 ---
 
 # BEES Overview{#bees-overview}

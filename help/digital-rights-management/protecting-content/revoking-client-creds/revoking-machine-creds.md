@@ -1,7 +1,7 @@
 ---
-seo-title: Revoking machine credentials
 title: Revoking machine credentials
-uuid: 3647c843-5f1a-457e-949d-10a6278b1c29
+description: Revoking machine credentials
+copied-description: yes
 ---
 
 # Revoking machine credentials {#revoking-machine-credentials}

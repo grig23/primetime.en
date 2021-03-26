@@ -1,9 +1,6 @@
 ---
 description: TVSDK for Android includes a variety of features and provides the following main capabilities 
-seo-description: TVSDK for Android includes a variety of features and provides the following main capabilities 
-seo-title: Primetime TVSDK features
 title: Primetime TVSDK features
-uuid: 7a9218c7-a67c-49ac-83b0-fe40650a3625
 ---
 
 # Primetime TVSDK features{#primetime-tvsdk-features}

@@ -1,9 +1,6 @@
 ---
 description: A MediaResource represents the content that is about to be loaded by the MediaPlayer instance.
-seo-description: A MediaResource represents the content that is about to be loaded by the MediaPlayer instance.
-seo-title: MediaPlayer and MediaResource classes
 title: MediaPlayer and MediaResource classes
-uuid: dcc747d2-8340-45e3-8cdb-a79d4f9360dc
 ---
 
 # MediaPlayer and MediaResource classes {#mediaplayer-and-mediaresource-classes}

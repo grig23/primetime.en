@@ -1,7 +1,7 @@
 ---
-seo-title: Policy workflow details
 title: Policy workflow details
-uuid: b355fcf6-3416-440f-9b30-a155e20f9f74
+description: Policy workflow details
+copied-description: yes
 ---
 
 # BEES Workflow {#bees-workflow}

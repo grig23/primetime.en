@@ -1,7 +1,7 @@
 ---
-seo-title: Creating a policy using the Java API
 title: Creating a policy using the Java API
-uuid: c653548d-4abf-46b9-8669-d68b966da359
+description: Creating a policy using the Java API
+copied-description: yes
 ---
 
 # Creating a policy using the Java API {#creating-a-policy-using-the-java-api}

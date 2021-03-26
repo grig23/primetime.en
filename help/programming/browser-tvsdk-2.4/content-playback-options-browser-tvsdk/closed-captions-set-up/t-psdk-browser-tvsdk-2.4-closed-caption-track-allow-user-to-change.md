@@ -1,9 +1,6 @@
 ---
 description: Here is an example of how a user can select a closed-caption track.
-seo-description: Here is an example of how a user can select a closed-caption track.
-seo-title: Allow the user to change the track
 title: Allow the user to change the track
-uuid: bd3d4d20-9b52-4365-b656-83ec2a405a1c
 ---
 
 # Allow the user to change the track{#allow-the-user-to-change-the-track}

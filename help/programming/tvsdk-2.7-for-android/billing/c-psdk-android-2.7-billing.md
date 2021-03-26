@@ -1,9 +1,6 @@
 ---
 description: To accommodate customers who want to pay only for what they use, rather than a fixed rate regardless of actual use, Adobe collects usage metrics and uses these metrics to determine how much to bill the customers.
-seo-description: To accommodate customers who want to pay only for what they use, rather than a fixed rate regardless of actual use, Adobe collects usage metrics and uses these metrics to determine how much to bill the customers.
-seo-title: Billing metrics
 title: Billing metrics
-uuid: 4a03995a-60f6-440e-9cdf-9c0b9c5f1d90
 ---
 
 # Overview {#billing-metrics-overview}

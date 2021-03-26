@@ -1,7 +1,7 @@
 ---
-seo-title: Alternate audio
 title: Alternate audio
-uuid: cc38ded2-45b7-4be4-8f46-a919fdaf79cf
+description: Alternate audio
+copied-description: yes
 ---
 
 # Alternate audio {#alternate-audio}

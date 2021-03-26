@@ -1,7 +1,7 @@
 ---
-seo-title: Install Tomcat
 title: Install Tomcat
-uuid: f7663eda-ad18-4a6e-bb9f-01c74721b047
+description: Install Tomcat
+copied-description: yes
 ---
 
 # Install Tomcat {#install-tomcat}

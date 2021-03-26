@@ -1,9 +1,6 @@
 ---
 description: Here is some information and examples about how the Browser TVSDK accommodates updated master manifests.
-seo-description: Here is some information and examples about how the Browser TVSDK accommodates updated master manifests.
-seo-title: Live master-manifest update architecture
 title: Live master-manifest update architecture
-uuid: 6f253502-8dec-4b42-9ee1-99ad9bfd6080
 ---
 
 # Live master-manifest update architecture{#live-master-manifest-update-architecture}

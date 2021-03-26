@@ -1,7 +1,7 @@
 ---
-seo-title: Rollback detection
 title: Rollback detection
-uuid: cc554194-2848-4104-85eb-f697a86c72f2
+description: Rollback detection
+copied-description: yes
 ---
 
 # Rollback detection{#rollback-detection}

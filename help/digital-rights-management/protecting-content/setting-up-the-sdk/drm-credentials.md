@@ -1,7 +1,7 @@
 ---
-seo-title: Adobe Primetime DRM credentials
 title: Adobe Primetime DRM credentials
-uuid: 593a5157-5a8e-4916-9308-626e1ab8fad5
+description: Adobe Primetime DRM credentials
+copied-description: yes
 ---
 
 # Adobe Primetime DRM credentials{#adobe-primetime-drm-credentials}

@@ -1,7 +1,7 @@
 ---
-seo-title: Server properties files
 title: Server properties files
-uuid: 3d3a0ee3-009f-4d62-9587-7e487ecdcafd
+description: Server properties files
+copied-description: yes
 ---
 
 # Server properties files {#server-properties-files}

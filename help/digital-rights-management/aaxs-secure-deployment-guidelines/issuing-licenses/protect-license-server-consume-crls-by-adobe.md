@@ -1,7 +1,7 @@
 ---
-seo-title: Consume CRLs published by Adobe
 title: Consume CRLs published by Adobe
-uuid: 43f65edb-0c96-46ab-b787-1b5f0b4b093e
+description: Consume CRLs published by Adobe
+copied-description: yes
 ---
 
 # Consume CRLs published by Adobe{#consume-crls-published-by-adobe}

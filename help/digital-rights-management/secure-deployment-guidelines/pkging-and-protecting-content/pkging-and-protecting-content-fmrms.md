@@ -1,9 +1,6 @@
 ---
 description: Flash Media Rights Management Server 1.x and Adobe Primetime DRM use different metadata to package content and request licenses. For Primetime DRM to use FMRMS version 1.x content, the metadata must be converted.
-seo-description: Flash Media Rights Management Server 1.x and Adobe Primetime DRM use different metadata to package content and request licenses. For Primetime DRM to use FMRMS version 1.x content, the metadata must be converted.
-seo-title: Ensuring compatibility with Flash Media Rights Management Server 1.x
 title: Ensuring compatibility with Flash Media Rights Management Server 1.x
-uuid: dd70941e-9015-4fb0-b265-557b6252e051
 ---
 
 # Ensuring compatibility with Flash Media Rights Management Server 1.x {#ensuring-compatibility-with-flash-media-rights-management-server-x}

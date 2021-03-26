@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Autoplay on iOS
 title: Autoplay on iOS
-uuid: d15bad24-be50-49e5-90f4-68dbda96fb6d
+description: Autoplay on iOS
+copied-description: yes
 ---
 
 # Autoplay on iOS{#autoplay-on-ios}

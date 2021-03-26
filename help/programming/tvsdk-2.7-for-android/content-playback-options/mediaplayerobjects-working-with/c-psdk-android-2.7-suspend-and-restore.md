@@ -1,10 +1,7 @@
 ---
 description: Suspending and restoring the TVSDK MediaPlayer when a device screen is turned off and on must be handled by your application.
 keywords: SurfaceView;Suspend;Restore;BroadcastReceiver
-seo-description: Suspending and restoring the TVSDK MediaPlayer when a device screen is turned off and on must be handled by your application.
-seo-title: Suspend and Restore MediaPlayer
 title: Suspend and Restore MediaPlayer
-uuid: 7777af91-547c-4f7a-8818-3d46dccee7d6
 ---
 
 # Suspend and Restore MediaPlayer {#suspend-and-restore-mediaplayer}

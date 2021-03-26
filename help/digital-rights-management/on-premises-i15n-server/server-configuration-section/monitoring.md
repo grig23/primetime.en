@@ -1,7 +1,7 @@
 ---
-seo-title: Monitoring
 title: Monitoring
-uuid: ee62c55f-0d44-40f4-a2c7-39456f4d3d99
+description: Monitoring
+copied-description: yes
 ---
 
 # Monitoring{#monitoring}

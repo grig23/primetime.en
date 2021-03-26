@@ -1,9 +1,6 @@
 ---
 description: To use the custom skins, you must write the customization similar to default-video-controls.css and refer to this new customization in the player.
-seo-description: To use the custom skins, you must write the customization similar to default-video-controls.css and refer to this new customization in the player.
-seo-title: Custom skins
 title: Custom skins
-uuid: bc71926e-0dec-4628-8248-911224a7a6c2
 ---
 
 # Custom skins{#custom-skins}

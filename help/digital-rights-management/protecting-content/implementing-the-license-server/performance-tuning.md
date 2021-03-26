@@ -1,7 +1,7 @@
 ---
-seo-title: Performance tuning
 title: Performance tuning
-uuid: db8889c7-ecf5-4551-a6fc-1d3ab992b9ff
+description: Performance tuning
+copied-description: yes
 ---
 
 # Performance tuning{#performance-tuning}

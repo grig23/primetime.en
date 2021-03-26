@@ -1,9 +1,6 @@
 ---
 description: Publishers can build HLS-compliant video players that work with the Primetime manifest server client-side ad tracking workflows. The interfaces to the manifest server for the live stream and video on demand (VOD) cases are slightly different.
-seo-description: Publishers can build HLS-compliant video players that work with the Primetime manifest server client-side ad tracking workflows. The interfaces to the manifest server for the live stream and video on demand (VOD) cases are slightly different.
-seo-title: Overview of non-TVSDK client-side tracking
 title: Overview of non-TVSDK client-side tracking
-uuid: fb23be01-3327-443d-82c4-fb0993e7fec1
 ---
 
 # Overview of non-TVSDK client-side tracking {#overview-of-non-tvsdk-client-side-tracking}

@@ -1,9 +1,6 @@
 ---
 description: You can enable fallback when a VMAP inline ad contains an invalid media type.
-seo-description: You can enable fallback when a VMAP inline ad contains an invalid media type.
-seo-title: Define fallback ad behavior for VMAP inline ads
 title: Define fallback ad behavior for VMAP inline ads
-uuid: a7b5c9a6-f546-4d3a-9d49-7e5484acff7a
 ---
 
 # Define fallback ad behavior for VMAP inline ads {#define-fallback-ad-behavior-for-vmap-inline-ads}

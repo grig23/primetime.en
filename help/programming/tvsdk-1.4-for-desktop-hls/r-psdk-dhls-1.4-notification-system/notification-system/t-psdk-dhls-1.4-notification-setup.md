@@ -1,9 +1,6 @@
 ---
 description: You can listen for notifications and you can add your own notifications to the notification history.
-seo-description: You can listen for notifications and you can add your own notifications to the notification history.
-seo-title: Set up your notification system
 title: Set up your notification system
-uuid: 2d1876c7-4ce6-491c-880b-dd94697d4feb
 ---
 
 # Set up your notification system{#set-up-your-notification-system}

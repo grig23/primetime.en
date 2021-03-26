@@ -1,7 +1,7 @@
 ---
-seo-title: Working with DRM Policy Update Lists
 title: Working with DRM Policy Update Lists
-uuid: 41f89671-81c6-4d3d-ac31-9c2a1980517a
+description: Working with DRM Policy Update Lists
+copied-description: yes
 ---
 
 # DRM policy update lists {#drm-policy-update-lists}

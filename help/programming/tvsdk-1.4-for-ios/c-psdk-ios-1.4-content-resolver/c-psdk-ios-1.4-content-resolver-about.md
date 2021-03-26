@@ -1,9 +1,6 @@
 ---
 description: TVSDK provides default opportunity generators and content resolvers that place ads in the timeline, and these generators and resolvers are based on nonstandard tags in the manifest. Your application might need to alter the timeline based on opportunities that are identified in the manifest, such as indicators for a blackout period.
-seo-description: TVSDK provides default opportunity generators and content resolvers that place ads in the timeline, and these generators and resolvers are based on nonstandard tags in the manifest. Your application might need to alter the timeline based on opportunities that are identified in the manifest, such as indicators for a blackout period.
-seo-title: Opportunity generators and content resolvers
 title: Opportunity generators and content resolvers
-uuid: e1d658eb-cb6c-407d-9163-2dbf62ba1d19
 ---
 
 # Opportunity generators and content resolvers{#opportunity-generators-and-content-resolvers}

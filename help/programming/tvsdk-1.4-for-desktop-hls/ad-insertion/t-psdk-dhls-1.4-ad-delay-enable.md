@@ -1,9 +1,6 @@
 ---
 description: You can specify whether to allow playback before all ads are loaded and placed in the timeline. Starting playback in this way gives a viewer faster access to the main content. This feature is applicable only for live DVR and does not work on, say VOD assets.
-seo-description: You can specify whether to allow playback before all ads are loaded and placed in the timeline. Starting playback in this way gives a viewer faster access to the main content. This feature is applicable only for live DVR and does not work on, say VOD assets.
-seo-title: Enable lazy ad loading
 title: Enable lazy ad loading
-uuid: ac7c8801-7fa2-4f17-b79c-c603b3236948
 ---
 
 # Enable lazy ad loading{#enable-lazy-ad-loading}

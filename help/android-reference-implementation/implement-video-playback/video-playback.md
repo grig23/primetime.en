@@ -1,9 +1,6 @@
 ---
-seo-title: Essential operations of video playback
 title: Essential operations of video playback
 description: The PlaybackManager provides essential operations of HLS streaming
-seo-description: The PlaybackManager provides essential operations of HLS streaming
-uuid: 7ac93f1f-9233-4462-a4be-528d1aa524a9
 ---
 
 # Essential operations of video playback {#essential-operations-of-video-playback}

@@ -1,7 +1,7 @@
 ---
-seo-title: Update the reference implementation DB
 title: Update the reference implementation DB
-uuid: 2883045e-ad62-466d-94a2-fc45ded2a4f5
+description: Update the reference implementation DB
+copied-description: yes
 ---
 
 # Update the reference implementation DB{#update-the-reference-implementation-db}

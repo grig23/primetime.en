@@ -1,7 +1,7 @@
 ---
-seo-title: Vendor-specific security information
 title: Vendor-specific security information
-uuid: 23186770-c73a-4802-bc30-fa9e4b47d9ba
+description: Vendor-specific security information
+copied-description: yes
 ---
 
 # Vendor-specific security information{#vendor-specific-security-information}

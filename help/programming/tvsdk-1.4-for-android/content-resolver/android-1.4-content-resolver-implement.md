@@ -1,9 +1,6 @@
 ---
 description: You can implement your own content resolvers based on the default resolvers.
-seo-description: You can implement your own content resolvers based on the default resolvers.
-seo-title: Implement a custom content resolver
 title: Implement a custom content resolver
-uuid: 88627fdc-3b68-4a9f-847e-a490ea8e3034
 ---
 
 # Implement a custom content resolver {#implement-a-custom-content-resolver}

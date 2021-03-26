@@ -1,9 +1,6 @@
 ---
 description: This example shows the recommended way to include custom ad markers on the playback timeline.
-seo-description: This example shows the recommended way to include custom ad markers on the playback timeline.
-seo-title: Place custom ad markers on the timeline
 title: Place custom ad markers on the timeline
-uuid: 47e31a97-e5da-46f3-bdcc-327c159c4355
 ---
 
 # Place custom ad markers on the timeline {#place-custom-ad-markers-on-the-timeline}

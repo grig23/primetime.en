@@ -1,7 +1,7 @@
 ---
-seo-title: Replay protection
 title: Replay protection
-uuid: c737998a-9c33-48b4-b741-91106697d71f
+description: Replay protection
+copied-description: yes
 ---
 
 # Replay protection{#replay-protection}

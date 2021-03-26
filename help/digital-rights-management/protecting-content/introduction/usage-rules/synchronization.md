@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Requirements for Synchronization
 title: Requirements for Synchronization
-uuid: 594a4bb2-c042-4485-9cae-73b8f9f93d82
+description: Requirements for Synchronization
+copied-description: yes
 ---
 
 # Requirements for Synchronization {#requirements-for-synchronization}

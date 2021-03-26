@@ -1,9 +1,6 @@
 ---
 description: To upgrade a server that supports the version 3.0 Reference Implementation License Server or Watched Folder Packager, you need to replace the .war files that have been deployed on an Application Server with the files that have been included with Adobe Primetime DRM Reference Implementation Server.
-seo-description: To upgrade a server that supports the version 3.0 Reference Implementation License Server or Watched Folder Packager, you need to replace the .war files that have been deployed on an Application Server with the files that have been included with Adobe Primetime DRM Reference Implementation Server.
-seo-title: Upgrade existing deployments
 title: Upgrade existing deployments
-uuid: 1a40aae9-f639-41fa-b42d-cf8cdfcde694
 ---
 
 # Overview {#upgrade-existing-deployments-overview}

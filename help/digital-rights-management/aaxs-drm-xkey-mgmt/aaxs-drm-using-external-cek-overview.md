@@ -1,9 +1,6 @@
 ---
 description: Customers can use Adobe Access (AAXS) DRM with their own Content Key Management Systems (CKMS) with the External CEK feature.
-seo-description: Customers can use Adobe Access (AAXS) DRM with their own Content Key Management Systems (CKMS) with the External CEK feature.
-seo-title: Adobe Access DRM External CEK Overview
 title: Adobe Access DRM External CEK Overview
-uuid: ea0bba63-7743-4216-863f-392500998eb6
 ---
 
 # Adobe Access DRM External CEK Overview {#adobe-access-drm-external-cek-overview}

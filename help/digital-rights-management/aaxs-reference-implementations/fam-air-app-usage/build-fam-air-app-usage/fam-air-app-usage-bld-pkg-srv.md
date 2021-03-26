@@ -1,7 +1,7 @@
 ---
-seo-title: Building the Packager Server
 title: Building the Packager Server
-uuid: 3e6b13a7-c451-4014-868f-9726c21d5b23
+description: Building the Packager Server
+copied-description: yes
 ---
 
 # Building the Packager Server {#building-the-packager-server}

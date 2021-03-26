@@ -1,7 +1,7 @@
 ---
-seo-title: Global server configuration data
 title: Global server configuration data
-uuid: f6d6cb01-2645-4cd2-83ec-0272323a67cd
+description: Global server configuration data
+copied-description: yes
 ---
 
 # Global server configuration data{#global-server-configuration-data}

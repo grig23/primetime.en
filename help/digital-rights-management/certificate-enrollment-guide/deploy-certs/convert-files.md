@@ -1,7 +1,7 @@
 ---
-seo-title: Convert files
 title: Convert files
-uuid: e17ee003-5ac2-4bb8-83b7-81ee8fa9ee46
+description: Convert files
+copied-description: yes
 ---
 
 # Convert files{#convert-files}

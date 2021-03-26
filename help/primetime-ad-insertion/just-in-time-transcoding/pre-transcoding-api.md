@@ -1,9 +1,6 @@
 ---
 title: Pre-Transcoding API
 description: You can use the just-in-time repackaging API to transcode ad creatives ahead of time, so an content-compatible versions are available when needed, eliminating the 2-4 minute delay associated with just-in-time (JIT) repackaging.
-seo-description: You can use the just-in-time repackaging API to transcode ad creatives ahead of time, so an content-compatible versions are available when needed, eliminating the 2-4 minute delay associated with just-in-time (JIT) repackaging.
-seo-title: Pre-Transcoding API
-uuid: 03cd2428-510a-4b99-8496-059a48d5abba
 ---
 
 # Pre-transcoding and re-packaging API {#pre-transcoding-api}

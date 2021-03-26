@@ -1,9 +1,6 @@
 ---
 description: You can enable client-side ad tracking by adding the pttrackingmode and pttrackingversion parameters to your Bootstrap URL request.
-seo-description: You can enable client-side ad tracking by adding the pttrackingmode and pttrackingversion parameters to your Bootstrap URL request.
-seo-title: Enable client-side ad tracking
 title: Enable client-side ad tracking
-uuid: 0a825756-1d9a-43c5-bc22-9b366f39fdbb
 ---
 
 # Enable client-side ad tracking {#enable-client-side-ad-tracking}

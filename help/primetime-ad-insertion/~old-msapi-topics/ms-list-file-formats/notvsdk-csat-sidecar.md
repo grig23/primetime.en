@@ -1,9 +1,6 @@
 ---
 description: If the client requests tracking information in JSON format, the manifest server sends back a file in one of the JSON formats.
-seo-description: If the client requests tracking information in JSON format, the manifest server sends back a file in one of the JSON formats.
-seo-title: JSON formats for tracking URLs
 title: JSON formats for tracking URLs
-uuid: 4b17639b-c0de-4ef4-931b-aa7c4c036c0a
 ---
 
 # JSON formats for tracking URLs {#json-formats-for-tracking-urls}

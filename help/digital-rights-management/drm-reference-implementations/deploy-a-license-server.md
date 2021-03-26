@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Deploy the license server
 title: Deploy the license server
-uuid: bee7ead1-ed13-4894-80f9-5196bf2f818f
+description: Deploy the license server
+copied-description: yes
 ---
 
 # Deploy the license server{#deploy-the-license-server}

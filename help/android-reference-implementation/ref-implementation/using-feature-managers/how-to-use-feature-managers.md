@@ -1,7 +1,7 @@
 ---
-seo-title: How to use feature managers
 title: How to use feature managers
-uuid: 29027635-e9ff-48c3-8d89-de1ed9889ec0
+description: How to use feature managers
+copied-description: yes
 ---
 
 # How to use feature managers {#how-to-use-feature-managers}

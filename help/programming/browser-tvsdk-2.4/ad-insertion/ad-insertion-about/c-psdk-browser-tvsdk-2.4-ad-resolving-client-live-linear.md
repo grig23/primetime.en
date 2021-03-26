@@ -1,9 +1,6 @@
 ---
 description: For live/linear content, Browser TVSDK replaces a chunk of the main stream content with an ad break of the same duration, so that the timeline duration remains the same.
-seo-description: For live/linear content, Browser TVSDK replaces a chunk of the main stream content with an ad break of the same duration, so that the timeline duration remains the same.
-seo-title: Live/linear ad resolving and insertion
 title: Live/linear ad resolving and insertion
-uuid: 18c6733a-e827-4b1c-9cd5-796d57cbdb05
 ---
 
 # Live/linear ad resolving and insertion{#live-linear-ad-resolving-and-insertion}

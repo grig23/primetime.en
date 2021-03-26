@@ -1,9 +1,6 @@
 ---
 description: The feature managers serve as wrappers around the TVSDK library.
-seo-description: The feature managers serve as wrappers around the TVSDK library.
-seo-title: Reference implementation structure
 title: Reference implementation structure
-uuid: ae347a97-1500-476a-9fc8-c99e6b2ab8de
 ---
 
 # Reference implementation structure {#reference-implementation-structure}

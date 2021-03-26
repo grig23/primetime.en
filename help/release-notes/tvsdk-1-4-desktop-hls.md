@@ -1,13 +1,9 @@
 ---
 title: TVSDK 1.4 for Desktop HLS Release Notes
-seo-title: TVSDK 1.4 for Desktop HLS Release Notes
 description: TVSDK for Desktop HLS Release Notes describe what is new or changed, the resolved and known issues in TVSDK DHLS.
-seo-description: TVSDK for Desktop HLS Release Notes describe what is new or changed, the resolved and known issues in TVSDK DHLS.
-uuid: 84da27b7-299b-478d-88f5-ef943f0a8321
 contentOwner: asgupta
 products: SG_PRIMETIME
 topic-tags: release-notes
-discoiquuid: e4437a26-9454-4da1-ae87-0fce664aac3d
 ---
 
 # TVSDK 1.4 for Desktop HLS Release Notes {#tvsdk-for-desktop-hls-release-notes}

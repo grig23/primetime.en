@@ -1,7 +1,7 @@
 ---
-seo-title: Building the Packager Server and AIR Application
 title: Building the Packager Server and AIR Application
-uuid: ed7a1f11-1b7d-41d6-9b15-95c304992fc9
+description: Building the Packager Server and AIR Application
+copied-description: yes
 ---
 
 # Building the Packager Server and AIR Application {#building-the-packager-server-and-air-application}

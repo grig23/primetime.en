@@ -1,7 +1,7 @@
 ---
-seo-title: Password Scrambler
 title: Password Scrambler
-uuid: e488babc-cd50-41b9-acb8-490e8e42e8bc
+description: Password Scrambler
+copied-description: yes
 ---
 
 # Password Scrambler {#password-scrambler}

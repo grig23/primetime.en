@@ -1,9 +1,6 @@
 ---
 description: This table provides detailed information about INFO type notifications.
-seo-description: This table provides detailed information about INFO type notifications.
-seo-title: INFO notification codes
 title: INFO notification codes
-uuid: 27117707-be3d-4935-a193-85776edd26ce
 ---
 
 # INFO notification codes{#info-notification-codes}

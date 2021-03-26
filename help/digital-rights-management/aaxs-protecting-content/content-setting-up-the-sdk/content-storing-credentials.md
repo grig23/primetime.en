@@ -1,7 +1,7 @@
 ---
-seo-title: Storing credentials
 title: Storing credentials
-uuid: dbce523c-32d9-423f-bc95-39786f85fc29
+description: Storing credentials
+copied-description: yes
 ---
 
 # Storing credentials{#storing-credentials}

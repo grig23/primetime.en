@@ -1,7 +1,7 @@
 ---
-seo-title: Requirements
 title: Requirements
-uuid: 29046834-66ca-42f6-a77f-fd00bbace2ec
+description: Requirements
+copied-description: yes
 ---
 
 # Requirements{#requirements}

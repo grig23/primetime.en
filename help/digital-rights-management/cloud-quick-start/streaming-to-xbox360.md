@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Set the XSTS token in your player
 title: Set the XSTS token in your player
-uuid: 8995e029-deee-4e23-9cda-a50de8c4f2c0
+description: Set the XSTS token in your player
+copied-description: yes
 ---
 
 # Streaming to Xbox360 (Optional) {#streaming-to-xboc360} 

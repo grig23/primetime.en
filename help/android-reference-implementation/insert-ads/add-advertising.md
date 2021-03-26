@@ -1,7 +1,7 @@
 ---
-seo-title: Add advertising
 title: Add advertising
-uuid: cff37f8e-e62b-43ba-8af6-8fd5fe0dd16f
+description: Add advertising
+copied-description: yes
 ---
 
 # Add advertising {#add-advertising}

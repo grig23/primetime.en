@@ -1,9 +1,6 @@
 ---
 description: Event handlers enable you to respond to TVSDK events.
-seo-description: Event handlers enable you to respond to TVSDK events.
-seo-title: Implement event listeners and callbacks
 title: Implement event listeners and callbacks
-uuid: bb1980f3-340b-4d36-ae7e-c9fc1d145233
 ---
 
 # Implement event listeners and callbacks {#implement-event-listeners-and-callbacks}

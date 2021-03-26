@@ -1,7 +1,7 @@
 ---
-seo-title: Custom usage rules
 title: Custom usage rules
-uuid: ab2c7ac5-bd78-46bd-a7be-8a3651f24ae5
+description: Custom usage rules
+copied-description: yes
 ---
 
 # Custom usage rules {#custom-usage-rules}

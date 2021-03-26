@@ -1,9 +1,6 @@
 ---
 description: From Flash 15 and later, when hardware rendering with StageVideo is not available, StageVideo seamlessly falls back to a software StageVideo object.
-seo-description: From Flash 15 and later, when hardware rendering with StageVideo is not available, StageVideo seamlessly falls back to a software StageVideo object.
-seo-title: Flash 15 support for StageVideo
 title: Flash 15 support for StageVideo
-uuid: 49bd8703-016e-4fda-8773-5254d4774ec6
 ---
 
 # Flash 15 support for StageVideo{#flash-support-for-stagevideo}

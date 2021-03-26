@@ -1,9 +1,6 @@
 ---
 description: The MediaPlayerItem.timedMetadata property provides access to all TimedMetadata objects that are created from playlist/manifest tags or from ID3 tags in the media stream.
-seo-description: The MediaPlayerItem.timedMetadata property provides access to all TimedMetadata objects that are created from playlist/manifest tags or from ID3 tags in the media stream.
-seo-title: Notifications for manifest tags
 title: Notifications for manifest tags
-uuid: 50727455-b37b-4e39-8efb-a97de3164074
 ---
 
 # Notifications for manifest tags{#notifications-for-manifest-tags}

@@ -1,9 +1,6 @@
 ---
 description: The behavior of media playback is affected by seeking, pausing, fast forward or rewind, and advertising.
-seo-description: The behavior of media playback is affected by seeking, pausing, fast forward or rewind, and advertising.
-seo-title: Default and customized playback behavior with ads
 title: Default and customized playback behavior with ads
-uuid: 272cdfd0-799f-41e5-bf41-1620d48c992a
 ---
 
 # Default and customized playback behavior with ads{#default-and-customized-playback-behavior-with-ads}

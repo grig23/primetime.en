@@ -1,7 +1,7 @@
 ---
-seo-title: Using the DRMErrorEvent class overview
 title: Using the DRMErrorEvent class overview
-uuid: cbb9c1a7-3c50-479d-b7e5-63010a696dfa
+description: Using the DRMErrorEvent class overview
+copied-description: yes
 ---
 
 # Using the DRMErrorEvent class {#using-the-drmerrorevent-class}

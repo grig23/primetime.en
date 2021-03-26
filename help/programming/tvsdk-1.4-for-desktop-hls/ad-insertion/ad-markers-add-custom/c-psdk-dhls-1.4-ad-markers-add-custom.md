@@ -1,9 +1,6 @@
 ---
 description: By using custom ad markers, you can mark specific sections of the main content as ad-related content periods.
-seo-description: By using custom ad markers, you can mark specific sections of the main content as ad-related content periods.
-seo-title: Add custom ad markers
 title: Add custom ad markers
-uuid: 7cf76e76-965c-4ee4-a311-e28b5a3b5046
 ---
 
 # Overview {#add-custom-ad-markers-overview}

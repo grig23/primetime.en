@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Disable pre-roll ads
 title: Disable pre-roll ads
-uuid: 2e307a58-49f2-43d6-908b-97684ad6e3d3
+description: Disable pre-roll ads
+copied-description: yes
 ---
 
 # Disable pre-roll ads{#disable-pre-roll-ads}

@@ -1,7 +1,7 @@
 ---
-seo-title: Watched Folders
 title: Watched Folders
-uuid: b0073c35-4599-4477-9f5b-28fba889f649
+description: Watched Folders
+copied-description: yes
 ---
 
 # Watched Folders {#watched-folders}

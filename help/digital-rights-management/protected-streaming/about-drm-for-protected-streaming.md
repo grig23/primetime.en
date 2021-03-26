@@ -1,9 +1,6 @@
 ---
 description: The Adobe Primetime DRM Server for Protected Streaming is a license server implementation that is based on the Primetime DRM SDK. This server issues licenses for protected content to Primetime DRM clients.
-seo-description: The Adobe Primetime DRM Server for Protected Streaming is a license server implementation that is based on the Primetime DRM SDK. This server issues licenses for protected content to Primetime DRM clients.
-seo-title: About Adobe Primetime DRM Server for Protected Streaming
 title: About Adobe Primetime DRM Server for Protected Streaming
-uuid: 775bef19-6071-428f-80f5-57cae472753c
 ---
 
 # About Adobe Primetime DRM Server for Protected Streaming{#about-adobe-primetime-drm-server-for-protected-streaming}

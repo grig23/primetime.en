@@ -1,7 +1,7 @@
 ---
-seo-title: License server properties file
 title: License server properties file
-uuid: bede307a-2060-451f-baf5-d058702c0a7e
+description: License server properties file
+copied-description: yes
 ---
 
 # License server properties file {#license-server-properties-file}

@@ -1,9 +1,6 @@
 ---
 description: You can use the Android native Widevine DRM with DASH streams.
-seo-description: You can use the Android native Widevine DRM with DASH streams.
-seo-title: Widevine DRM
 title: Widevine DRM
-uuid: ceb2f18f-9e53-47d6-9d4b-7004ac1d22c9
 ---
 
 # Widevine DRM {#widevine-drm}

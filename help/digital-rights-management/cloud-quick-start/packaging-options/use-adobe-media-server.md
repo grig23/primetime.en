@@ -1,7 +1,7 @@
 ---
-seo-title: Use Adobe Media Server
 title: Use Adobe Media Server
-uuid: 272b9919-6ae4-4adb-aab5-28b1f92aa9fe
+description: Use Adobe Media Server
+copied-description: yes
 ---
 
 # Use Adobe Media Server {#use-adobe-media-server}

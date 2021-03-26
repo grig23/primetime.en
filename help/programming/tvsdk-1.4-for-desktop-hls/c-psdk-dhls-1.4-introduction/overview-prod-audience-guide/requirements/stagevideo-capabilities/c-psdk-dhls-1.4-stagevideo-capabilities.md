@@ -1,9 +1,6 @@
 ---
 description: On devices that support GPU (hardware) acceleration, you can use a flash.media.StageVideo object to process video on the device hardware. The availability of StageVideo depends upon the versions and capabilities of different parts of your system including Flash Player, video hardware, OS, drivers, browser, network connection, and viewing context.
-seo-description: On devices that support GPU (hardware) acceleration, you can use a flash.media.StageVideo object to process video on the device hardware. The availability of StageVideo depends upon the versions and capabilities of different parts of your system including Flash Player, video hardware, OS, drivers, browser, network connection, and viewing context.
-seo-title: StageVideo capabilities and restrictions
 title: StageVideo capabilities and restrictions
-uuid: 7556f30b-4b9f-4258-beb6-2a4ce8f05d1a
 ---
 
 # Overview {#stagevideo-capabilities-and-restrictions-overview}

@@ -1,9 +1,6 @@
 ---
 description: TVSDK supports resolving and inserting ads for VOD and live/linear streams.
-seo-description: TVSDK supports resolving and inserting ads for VOD and live/linear streams.
-seo-title: Primetime ad server metadata
 title: Primetime ad server metadata
-uuid: 314f14c0-4da4-4da6-96f9-5a5ffea22a99
 ---
 
 # Overview {#primetime-ad-server-metadata-overview}

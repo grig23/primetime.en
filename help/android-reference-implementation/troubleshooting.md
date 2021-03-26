@@ -1,7 +1,7 @@
 ---
-seo-title: Troubleshooting
 title: Troubleshooting
-uuid: b7a41ea7-86c5-442c-b751-86a9055c5e35
+description: Troubleshooting
+copied-description: yes
 ---
 
 # Troubleshooting{#troubleshooting}

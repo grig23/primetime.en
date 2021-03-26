@@ -1,7 +1,7 @@
 ---
-seo-title: Add Requesters
 title: Add Requesters
-uuid: 1b3b4895-1ece-4794-b0cc-10bbdcc37438
+description: Add Requesters
+copied-description: yes
 ---
 
 # Add Requesters{#add-requesters}

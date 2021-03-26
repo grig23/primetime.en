@@ -1,9 +1,6 @@
 ---
 description: MediaPlayerStatus objects provide information about changes in player status. Notification objects provide information about warnings and errors. Errors that stop the playback of the video also cause a change in the status of the player. You implement event listeners to capture and respond to events (MediaPlayerEvent objects).
-seo-description: MediaPlayerStatus objects provide information about changes in player status. Notification objects provide information about warnings and errors. Errors that stop the playback of the video also cause a change in the status of the player. You implement event listeners to capture and respond to events (MediaPlayerEvent objects).
-seo-title: Notifications and events for player status, activity, errors, and logging
 title: Notifications and events for player status, activity, errors, and logging
-uuid: ec840f14-38d1-4f43-b119-e1326515fc63
 ---
 
 # Notifications and events for player status, activity, errors, and logging {#notifications-and-events-for-player-status-activity-errors-and-logging}

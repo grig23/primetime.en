@@ -1,9 +1,6 @@
 ---
 description: Browser TVSDK provides tools for creating an advanced video player application (your Primetime player), which you can integrate with other Primetime components.
-seo-description: Browser TVSDK provides tools for creating an advanced video player application (your Primetime player), which you can integrate with other Primetime components.
-seo-title: null
-title: null
-uuid: 57b35a5f-87f8-41a2-ad85-300b999dc30b
+title: Flash Failover
 ---
 
 # Flash Failover {#flash-failover}

@@ -1,7 +1,7 @@
 ---
-seo-title: Prerequisites
 title: Prerequisites
-uuid: 59a51ef8-ab54-4254-a160-2a8103a920b2
+description: Prerequisites
+copied-description: yes
 ---
 
 # Prerequisites {#prerequisites}

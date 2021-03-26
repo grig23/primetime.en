@@ -1,9 +1,6 @@
 ---
 description: The FairPlay license token interface provides production and test services.
-seo-description: The FairPlay license token interface provides production and test services.
-seo-title: FairPlay license token request / response
 title: FairPlay license token request / response
-uuid: 10d4a760-8895-4fb3-8288-1c3a640df587
 ---
 
 # FairPlay license token request and response {#fairplay-license-token-request-response}

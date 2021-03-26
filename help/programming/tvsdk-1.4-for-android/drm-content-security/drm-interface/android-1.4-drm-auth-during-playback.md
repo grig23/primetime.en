@@ -1,9 +1,6 @@
 ---
 description: When the DRM metadata for a video is included in the media stream, perform authentication during playback.
-seo-description: When the DRM metadata for a video is included in the media stream, perform authentication during playback.
-seo-title: DRM authentication during playback
 title: DRM authentication during playback
-uuid: a1a63e3e-be34-49e1-96c4-ae266003b3d1
 ---
 
 # DRM authentication during playback {#drm-authentication-during-playback}

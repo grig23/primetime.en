@@ -1,9 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Initial Flash Access Manager setup
 title: Initial Flash Access Manager setup
-uuid: e9041f7c-b098-4121-88bf-ff3e6369e01b
+description: Initial Flash Access Manager setup
+copied-description: yes
 ---
 
 # Initial Flash Access Manager setup {#initial-flash-access-manager-setup}

@@ -1,9 +1,6 @@
 ---
 description: The ad signaling mode specifies where the video stream should get advertising information.
-seo-description: The ad signaling mode specifies where the video stream should get advertising information.
-seo-title: Ad signaling mode
 title: Ad signaling mode
-uuid: 947544f9-667e-4d81-af83-155f0db7788e
 ---
 
 # Ad signaling mode {#ad-signaling-mode}

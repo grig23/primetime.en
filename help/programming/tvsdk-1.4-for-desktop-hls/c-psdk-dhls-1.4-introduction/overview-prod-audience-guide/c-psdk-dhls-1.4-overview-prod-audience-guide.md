@@ -1,9 +1,6 @@
 ---
 description: This guide provides information about how to develop video player applications by using TVSDK for Desktop HLS, which is implemented in ActionScript.
-seo-description: This guide provides information about how to develop video player applications by using TVSDK for Desktop HLS, which is implemented in ActionScript.
-seo-title: Overview
 title: Overview
-uuid: 9752a239-690b-4b2b-aab1-1e82470d84d1
 ---
 
 # Overview {#overview}

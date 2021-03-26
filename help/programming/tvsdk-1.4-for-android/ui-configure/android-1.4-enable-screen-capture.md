@@ -1,10 +1,8 @@
 ---
-description: null
 keywords: setSecure;VideoEngineView
-seo-description: null
-seo-title: Enable screen capture
 title: Enable screen capture
-uuid: f3d18729-e13e-47f9-b4b8-f93a2874ef16
+description: Enable screen capture
+copied-description: yes
 ---
 
 # Enable screen capture{#enable-screen-capture}

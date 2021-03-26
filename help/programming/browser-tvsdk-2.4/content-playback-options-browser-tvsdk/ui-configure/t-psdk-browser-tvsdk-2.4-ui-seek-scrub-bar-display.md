@@ -1,9 +1,6 @@
 ---
 description: In Browser TVSDK, you can seek to a specific position (time) in a stream. A stream can be a sliding-window playlist or video-on-demand (VOD) content.
-seo-description: In Browser TVSDK, you can seek to a specific position (time) in a stream. A stream can be a sliding-window playlist or video-on-demand (VOD) content.
-seo-title: Handle seek when using the seek bar
 title: Handle seek when using the seek bar
-uuid: a7c74141-581f-40a3-9d28-ce56ba56773c
 ---
 
 # Handle seek when using the seek bar{#handle-seek-when-using-the-seek-bar}

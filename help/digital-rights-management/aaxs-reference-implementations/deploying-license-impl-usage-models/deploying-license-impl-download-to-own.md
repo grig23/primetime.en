@@ -1,7 +1,7 @@
 ---
-seo-title: Download-To-Own
 title: Download-To-Own
-uuid: 4dd73299-722d-4b0d-ad3d-5d83e5377fd4
+description: Download-To-Own
+copied-description: yes
 ---
 
 # Download-To-Own {#download-to-own}

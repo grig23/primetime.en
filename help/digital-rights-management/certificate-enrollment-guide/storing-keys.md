@@ -1,7 +1,7 @@
 ---
-seo-title: Store keys
 title: Store keys
-uuid: 81836adf-6cb9-46f2-be2f-8a20f6685c9d
+description: Store keys
+copied-description: yes
 ---
 
 # Store keys{#store-keys}

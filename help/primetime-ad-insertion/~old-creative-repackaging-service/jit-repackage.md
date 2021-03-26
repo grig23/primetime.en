@@ -1,9 +1,6 @@
 ---
 description: Either a client video player or the manifest server can interact with CRS to achieve JIT repackaging. Both use the same ad selection logic.
-seo-description: Either a client video player or the manifest server can interact with CRS to achieve JIT repackaging. Both use the same ad selection logic.
-seo-title: Detailed Workflows for JIT Repackaging
 title: Detailed Workflows for JIT Repackaging
-uuid: 11b6eb3c-f6aa-4018-9b20-ab6f5910508b
 ---
 
 # Detailed Workflows for JIT Repackaging {#detailed-workflows-for-jit-repackaging}

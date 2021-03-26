@@ -1,7 +1,7 @@
 ---
-seo-title: Crossdomain DRM policy file
 title: Crossdomain DRM policy file
-uuid: e0ca3133-c924-4cb7-bc46-23f8692679b9
+description: Crossdomain DRM policy file
+copied-description: yes
 ---
 
 # Crossdomain DRM policy file{#crossdomain-drm-policy-file}

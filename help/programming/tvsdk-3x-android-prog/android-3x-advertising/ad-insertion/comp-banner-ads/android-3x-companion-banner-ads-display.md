@@ -1,9 +1,6 @@
 ---
 description: To display banner ads, you need to create banner instances and allow TVSDK to listen for ad-related events.
-seo-description: To display banner ads, you need to create banner instances and allow TVSDK to listen for ad-related events.
-seo-title: Display banner ads
 title: Display banner ads
-uuid: cfd4b26c-9643-4b60-9aff-bc27dec289f1
 ---
 
 # Display banner ads {#display-banner-ads}

@@ -1,7 +1,7 @@
 ---
-seo-title: Upgrading metadata
 title: Upgrading metadata
-uuid: cad0b23e-50ca-47ae-871f-be571cb00a26
+description: Upgrading metadata
+copied-description: yes
 ---
 
 # Upgrading metadata{#upgrading-metadata}

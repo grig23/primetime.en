@@ -1,9 +1,6 @@
 ---
 description: If you select an HSM to store your server credentials, you must load the private keys and certificates onto the HSM and create a pkcs11.cfg configuration file.
-seo-description: If you select an HSM to store your server credentials, you must load the private keys and certificates onto the HSM and create a pkcs11.cfg configuration file.
-seo-title: HSM configuration
 title: HSM configuration
-uuid: 3610840b-082e-4a73-8aa5-5065f9232e0b
 ---
 
 # HSM configuration{#hsm-configuration}

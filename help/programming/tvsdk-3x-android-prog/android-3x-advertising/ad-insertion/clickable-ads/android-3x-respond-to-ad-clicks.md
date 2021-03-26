@@ -1,9 +1,6 @@
 ---
 description: When a user clicks on an ad or a related button, your application must respond. TVSDK provides you with information about the destination URL for the click.
-seo-description: When a user clicks on an ad or a related button, your application must respond. TVSDK provides you with information about the destination URL for the click.
-seo-title: Respond to clicks on ads
 title: Respond to clicks on ads
-uuid: abc5de2f-3ab0-4e00-908c-ea8b31387d4f
 ---
 
 # Respond to clicks on ads {#respond-to-clicks-on-ads}

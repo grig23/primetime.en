@@ -1,10 +1,8 @@
 ---
-description: null
 keywords: creative selection rules;AdobeTVSDKConfig
-seo-description: null
-seo-title: Apply creative selection rules
 title: Apply creative selection rules
-uuid: 66e55f95-25ce-4838-b222-63ee34e535d1
+description: Apply creative selection rules
+copied-description: yes
 ---
 
 # Apply creative selection rules {#apply-creative-selection-rules}

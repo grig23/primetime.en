@@ -1,23 +1,30 @@
 ---
 title: Primetime Release Notes
-seo-title: Adobe Primetime Release Notes
-description: null
-seo-description: null
+description: Primetime Release Notes
+copied-description: yes
 ---
 
 # Primetime Release Notes
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-## Enhancements and fixes in PTAI 21.2.1
+## Enhancements and fixes in TVSDK 3.13 iOS
 
-The release includes support for DASH output optimization: time-based node consolidation.
+The release introduces support for DEMUXED 'HLS/CMAF' (preroll, midroll, and postroll) ads for LIVE, VOD, and FER streams.
 
-## Fixes in TVSDK 3.12 Android
+For other fixes and details, see [TVSDK for iOS Release Notes](../release-notes/tvsdk-3x-ios.md)
 
-The release focused on updating Primetime Reference application’s gradle version to version 5.6.4.
+## Enhancements and fixes in PTAI 21.2.2
 
-Check out for more information about the current released version for [Android](../release-notes/tvsdk-3x-android.md).
+The release includes support for EXT-X-IMAGE-STREAM-INF stream insertion/synchronization in HLS streams. The feature is enabled through a server-side configuration. Contact your technical account representative to enable the feature..
+
+## Fixes in TVSDK 3.13 Android
+
+This release provides a workaround to the issue about the Widevine DRM stream freezing or showing black frames on ABR switch on FireTV devices, which include Fire TV 3rd generation Pendant and Fire TV Cube 1st and 2nd generation devices.
+
+To resolve the issue, set the API `MediaPlayer.flushVideoDecoderOnHeaderChange(true)` for the specified Fire TV devices before initiating playback. The default value is false.
+
+Check out the [TVSDK for Android Release Notes](../release-notes/tvsdk-3x-android.md) for more information.
 
 ## Enhancements and fixes in TVSDK 3.12 iOS Release Notes
 

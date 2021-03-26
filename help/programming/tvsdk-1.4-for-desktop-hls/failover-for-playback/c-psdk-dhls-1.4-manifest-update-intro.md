@@ -1,9 +1,6 @@
 ---
 description: TVSDK can detect changed playback information in master m3u8 manifests for live streaming and update the playback information while the stream is playing. TVSDK supports a dynamic set of bit rate profiles as the profiles appear or disappear from the master manifest, including non-overlapping profile bit rates between updates.
-seo-description: TVSDK can detect changed playback information in master m3u8 manifests for live streaming and update the playback information while the stream is playing. TVSDK supports a dynamic set of bit rate profiles as the profiles appear or disappear from the master manifest, including non-overlapping profile bit rates between updates.
-seo-title: Live master-manifest update
 title: Live master-manifest update
-uuid: 44f8adc2-0538-4c5d-8e39-55f661d8540b
 ---
 
 # Live master-manifest update{#live-master-manifest-update}

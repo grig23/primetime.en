@@ -1,9 +1,6 @@
 ---
 description: Full Event Replay (FER) content is a live stream converted to VOD by adding the #EXT-X-ENDLIST tag to the end of the manifest file. The stream retains its ad cue markers.
-seo-description: Full Event Replay (FER) content is a live stream converted to VOD by adding the #EXT-X-ENDLIST tag to the end of the manifest file. The stream retains its ad cue markers.
-seo-title: FER ad resolving and insertion
 title: FER ad resolving and insertion
-uuid: 85da0e92-17fe-4001-a53c-085dadd09756
 ---
 
 # FER ad resolving and insertion{#fer-ad-resolving-and-insertion}

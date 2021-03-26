@@ -1,9 +1,6 @@
 ---
 description: For video-on-demand (VOD) content, Browser TVSDK inserts ad breaks by splicing the ads in the main content so that the timeline duration increases.
-seo-description: For video-on-demand (VOD) content, Browser TVSDK inserts ad breaks by splicing the ads in the main content so that the timeline duration increases.
-seo-title: VOD ad resolving and insertion
 title: VOD ad resolving and insertion
-uuid: 34a30ae5-d553-4c5d-9829-8e5eaa41c104
 ---
 
 # VOD ad resolving and insertion{#vod-ad-resolving-and-insertion}

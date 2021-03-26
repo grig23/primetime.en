@@ -1,7 +1,7 @@
 ---
-seo-title: Physical security and access
 title: Physical security and access
-uuid: 804e8854-be3b-4ec7-bf96-f0fe5fd8a92b
+description: Physical security and access
+copied-description: yes
 ---
 
 # Physical security and access {#physical-security-and-access}

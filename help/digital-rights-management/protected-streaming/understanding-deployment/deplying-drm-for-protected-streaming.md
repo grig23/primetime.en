@@ -1,7 +1,7 @@
 ---
-seo-title: Deploying the Adobe Primetime DRM Server for Protected Streaming
 title: Deploying the Adobe Primetime DRM Server for Protected Streaming
-uuid: 83ef8237-0026-4677-b42b-ea4b6de19630
+description: Deploying the Adobe Primetime DRM Server for Protected Streaming
+copied-description: yes
 ---
 
 # Deploying the Adobe Primetime DRM Server for Protected Streaming{#deploying-the-adobe-primetime-drm-server-for-protected-streaming}

@@ -1,9 +1,6 @@
 ---
 description: The MediaPlayer provides methods to set and get the initial buffering time and playback buffering time.
-seo-description: The MediaPlayer provides methods to set and get the initial buffering time and playback buffering time.
-seo-title: Set buffering times
 title: Set buffering times
-uuid: 25142b01-5381-49c9-b89a-24c858faaf13
 ---
 
 # Set buffering times{#set-buffering-times}
