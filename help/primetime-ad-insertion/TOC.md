@@ -1,5 +1,4 @@
 ---
-cloud: experience-cloud
 product: adobe primetime
 audience: end-user
 user-guide-title: Primetime Ad Insertion Help
