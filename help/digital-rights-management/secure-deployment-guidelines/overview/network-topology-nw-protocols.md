@@ -1,8 +1,8 @@
 ---
 description: When you configure a secure network architecture, network protocols are required for interaction between Adobe Primetime DRM and other systems in your enterprise network.
 title: Adobe Primetime DRM network protocols
+exl-id: d5720ef4-6845-4a62-940a-9d8ba9b43b13
 ---
-
 # Adobe Primetime DRM network protocols {#adobe-primetime-drm-network-protocols}
 
 When you configure a secure network architecture, network protocols are required for interaction between Adobe Primetime DRM and other systems in your enterprise network.

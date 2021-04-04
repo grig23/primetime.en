@@ -1,8 +1,8 @@
 ---
 description: You can use TVSDK to retrieve information about the player's position in the media and display it on the seek bar.
 title: Display the duration, current time, and remaining time of the video
+exl-id: 68501c81-346a-4c3e-aa20-a98b8b1c6b17
 ---
-
 # Display the duration, current time, and remaining time of the video {#display-the-duration-current-time-and-remaining-time-of-the-video}
 
 You can use TVSDK to retrieve information about the player's position in the media and display it on the seek bar.

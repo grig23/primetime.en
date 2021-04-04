@@ -1,8 +1,8 @@
 ---
 description: To provide a smoother viewing experience, Browser TVSDK sometimes buffers the video stream. You can configure the way the player buffers.
 title: Buffering
+exl-id: 786379d1-0f2d-44a9-b580-1c8dcbd3fd17
 ---
-
 # Buffering{#buffering}
 
 To provide a smoother viewing experience, Browser TVSDK sometimes buffers the video stream. You can configure the way the player buffers.
@@ -36,4 +36,3 @@ While the video is being rendered, Browser TVSDK continues to buffer new fragmen
 >[!TIP]
 >
 >If the initial buffer value is high, it might give your user a long initial buffering time before starting. That might provide smooth playback for a longer time; however, if network conditions are poor, initial playback could be delayed.
-

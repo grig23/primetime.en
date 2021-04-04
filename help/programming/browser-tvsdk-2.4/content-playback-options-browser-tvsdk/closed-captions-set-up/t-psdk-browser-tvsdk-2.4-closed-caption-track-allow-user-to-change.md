@@ -1,8 +1,8 @@
 ---
 description: Here is an example of how a user can select a closed-caption track.
 title: Allow the user to change the track
+exl-id: 103ca0ad-2707-4e4f-87ee-f55041e4527a
 ---
-
 # Allow the user to change the track{#allow-the-user-to-change-the-track}
 
 Here is an example of how a user can select a closed-caption track.
@@ -25,4 +25,3 @@ Here is an example of how a user can select a closed-caption track.
        item.selectClosedCaptionsTrack(tracks[k]); 
    }
    ```
-

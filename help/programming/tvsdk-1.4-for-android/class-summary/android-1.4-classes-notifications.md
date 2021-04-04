@@ -1,8 +1,8 @@
 ---
 description: These classes describe messages about errors, warnings, and some activities that the TVSDK issues for logging and debugging purposes.
 title: Notification classes
+exl-id: b869c201-2731-42e5-a20e-282edd2caddc
 ---
-
 # Notification classes{#notification-classes}
 
 These classes describe messages about errors, warnings, and some activities that the TVSDK issues for logging and debugging purposes.

@@ -1,8 +1,8 @@
 ---
 description: TVSDK contacts an ad delivery service, such as Adobe Primetime ad decisioning, and attempts to obtain the primary playlist file that corresponds to the video stream for the ad. During the ad-resolving phase, TVSDK makes an HTTP call to the remote ad-delivery server and parses the server's response.
 title: Ad-resolving phase
+exl-id: 5dd96709-1a65-442f-a753-a4343c6e8762
 ---
-
 # Ad-resolving phase{#ad-resolving-phase}
 
 TVSDK contacts an ad delivery service, such as Adobe Primetime ad decisioning, and attempts to obtain the primary playlist file that corresponds to the video stream for the ad. During the ad-resolving phase, TVSDK makes an HTTP call to the remote ad-delivery server and parses the server's response.
@@ -26,4 +26,4 @@ One of the following failover situations can occur during this phase:
 
   This might occur because, for example, the parsing of the inbound data failed.
 
-TVSDK issues a warning notification about the error and continues processing. 
+TVSDK issues a warning notification about the error and continues processing.

@@ -2,8 +2,8 @@
 title: Deploy the license server
 description: Deploy the license server
 copied-description: yes
+exl-id: 1439a5b2-eccb-41b7-a4d3-0673e727fb13
 ---
-
 # Deploy the license server{#deploy-the-license-server}
 
 1. Copy your reference implementation war files to the `webapps` directory on your Tomcat server.

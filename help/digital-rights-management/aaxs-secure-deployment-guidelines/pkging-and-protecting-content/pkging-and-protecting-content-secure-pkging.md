@@ -2,8 +2,8 @@
 title: Securely packaging content
 description: Securely packaging content
 copied-description: yes
+exl-id: f554852c-83d9-4b31-8dde-2af577c70989
 ---
-
 # Securely packaging content {#securely-packaging-content}
 
 The configuration file for the Adobe Access Media Packager command line tool requires a PKCS12 credential that is used during packaging.
@@ -20,4 +20,4 @@ The Adobe Access Packaging API issues warnings under certain conditions. You mus
 
 If content is packaged using a policy with incorrect attributes, the policy should be updated, and the updated policy must be made available to the License Server though a policy update list or another mechanism for delivering the updated policy to the server. Some policy attributes cannot be changed after the policy is created. If these attributes are incorrect, pull the content back from the distribution sites, revoke the policy so that no future licenses can be granted, and re-encrypt the content.
 
-When packaging is complete, the packaging key is not explicitly destroyed; however, it is garbage-collected. Therefore, the packaging key does remain present in memory for a period of time; you must guard against unauthorized access to the machine and take steps to ensure that you do not expose any files, such as core dumps, that may reveal this information. 
+When packaging is complete, the packaging key is not explicitly destroyed; however, it is garbage-collected. Therefore, the packaging key does remain present in memory for a period of time; you must guard against unauthorized access to the machine and take steps to ensure that you do not expose any files, such as core dumps, that may reveal this information.

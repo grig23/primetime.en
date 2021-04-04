@@ -1,8 +1,8 @@
 ---
 title: Troubleshoot and debug
-description: 
+description:
+exl-id: 1fcacd29-627d-4536-a746-16ddcfc8bc34
 ---
-
 # Troubleshoot and debug {#troubleshooting-debugging}
 
 Primetime Ad Insertion offers tools to identify and diagnose issues that can occur in all phases of video delivery, such as CDN delivery errors, ad creative errors or client connectivity errors.

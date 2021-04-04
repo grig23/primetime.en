@@ -1,8 +1,8 @@
 ---
 description: You can set ABR control values only with ABRControlParameters, but you can construct a new one at any time.
 title: Configure adaptive bit rates using ABRControlParameters
+exl-id: fc7887bd-37e8-48e7-8afb-3946fb3f1e77
 ---
-
 # Configure adaptive bit rates using ABRControlParameters {#configure-adaptive-bit-rates-using-abrcontrolparameters}
 
 You can set ABR control values only with ABRControlParameters, but you can construct a new one at any time.
@@ -32,4 +32,3 @@ You can set ABR control values only with ABRControlParameters, but you can const
      int maxTrickPlayBandwidthUsage, 
      int maxPlayoutRate);
    ```
-

@@ -1,8 +1,8 @@
 ---
 description: Browser TVSDK provides default opportunity generators and content resolvers that place ads in the timeline, and these generators and resolvers are based on nonstandard tags in the manifest. Your application might need to alter the timeline based on opportunities that are identified in the manifest.
 title: Opportunity generators and content resolvers
+exl-id: a47acd22-8b1b-4c66-a7eb-a4d99afb5f17
 ---
-
 # Opportunity generators and content resolvers{#opportunity-generators-and-content-resolvers}
 
 Browser TVSDK provides default opportunity generators and content resolvers that place ads in the timeline, and these generators and resolvers are based on nonstandard tags in the manifest. Your application might need to alter the timeline based on opportunities that are identified in the manifest.
@@ -22,4 +22,3 @@ You can also use `MediaPlayerItemConfig.adTags` to add more ad marker tags/cues 
 >[!TIP]
 >
 >The default values of `MediaPlayerItemConfig.adTags` and `MediaPlayerItemConfig.subscribeTags` is `[MediaPlayerItemConfig.DEFAULT_AD_TAG]`.
-

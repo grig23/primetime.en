@@ -1,8 +1,8 @@
 ---
 description: The flashaccess-tenant.xml configuration file includes settings that apply to a specific tenant of the license server.
 title: Tenant configuration file
+exl-id: 35ec521f-ba17-4a2d-8adb-82b2c6cbe33a
 ---
-
 # Tenant configuration file{#tenant-configuration-file}
 
 The flashaccess-tenant.xml configuration file includes settings that apply to a specific tenant of the license server.
@@ -60,4 +60,4 @@ The tenant configuration file includes:
         * *Device capability requirements* — Optionally specifies the hardware capabilities required to access content. 
         * *Jailbreak detection requirements* — Optionally specifies that playback is not allowed for devices on which jailbreak is detected.
 
-See the comments in the example tenant configuration file for more details. 
+See the comments in the example tenant configuration file for more details.

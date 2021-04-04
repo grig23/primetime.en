@@ -2,8 +2,8 @@
 title: Upgrading clients
 description: Upgrading clients
 copied-description: yes
+exl-id: 0476c9ef-3622-4bc5-bb24-f8543470b7d3
 ---
-
 # Upgrading clients{#upgrading-clients}
 
 If an FMRMS 1.x client contacts a Adobe Access server, the server needs to prompt the client to upgrade.

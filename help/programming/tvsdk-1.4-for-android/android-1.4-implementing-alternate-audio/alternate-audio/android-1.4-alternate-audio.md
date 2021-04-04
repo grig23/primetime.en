@@ -1,8 +1,8 @@
 ---
 description: Alternate, or late-binding, audio allows you to switch among available audio tracks for a video track. This way, users can select a language track when the video is played.
 title: Alternate audio
+exl-id: ce3dbdd3-9cc2-4732-b980-33b091667f70
 ---
-
 # Alternate audio {#alternate-audio}
 
 Alternate, or late-binding, audio allows you to switch among available audio tracks for a video track. This way, users can select a language track when the video is played.
@@ -81,4 +81,3 @@ PSDKErrorCode MediaPlayerItemImpl::selectAudioTrack(const AudioTrack &audioTrack
     return result; 
 }
 ```
-

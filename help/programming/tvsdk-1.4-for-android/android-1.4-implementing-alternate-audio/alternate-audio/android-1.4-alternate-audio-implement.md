@@ -1,8 +1,8 @@
 ---
 description: Late-binding audio uses MediaPlayer to play a video that is specified in an M3U8 HLS playlist and that can contain several alternate audio streams.
 title: Access alternate audio tracks
+exl-id: d357bcc9-2996-42f0-a733-482f59e938ac
 ---
-
 # Access alternate audio tracks{#access-alternate-audio-tracks}
 
 Late-binding audio uses MediaPlayer to play a video that is specified in an M3U8 HLS playlist and that can contain several alternate audio streams.
@@ -17,4 +17,4 @@ Late-binding audio uses MediaPlayer to play a video that is specified in an M3U8
    `mediaPlayerItem.getAudioTracks()` 1. (Optional) Present the available tracks to the user.
 1. Set the selected audio track on the `MediaPlayerItem` instance.
 
-   `mediaPlayerItem.selectAudioTrack(audioTrack)` 
+   `mediaPlayerItem.selectAudioTrack(audioTrack)`

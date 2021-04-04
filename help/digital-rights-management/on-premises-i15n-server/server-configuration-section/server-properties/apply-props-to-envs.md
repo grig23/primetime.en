@@ -1,8 +1,8 @@
 ---
 description: You must configure server properties to reflect your environment. You can do this using any of the following 
 title: Apply properties to server environments
+exl-id: 0c78011a-e8c8-43a8-8c2d-a5c4ed54a8d7
 ---
-
 # Apply properties to server environments{#apply-properties-to-server-environments}
 
 You must configure server properties to reflect your environment. You can do this using any of the following:

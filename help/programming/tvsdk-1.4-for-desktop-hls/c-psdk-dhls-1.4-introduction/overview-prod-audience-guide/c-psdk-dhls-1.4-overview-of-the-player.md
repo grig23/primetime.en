@@ -1,8 +1,8 @@
 ---
 description: TVSDK for Desktop HLS includes a variety of features and provides the following main capabilities 
 title: Primetime TVSDK features
+exl-id: d78ca77e-b29c-4fae-8ab9-edc55ab12847
 ---
-
 # Primetime TVSDK features{#primetime-tvsdk-features}
 
 TVSDK for Desktop HLS includes a variety of features and provides the following main capabilities:

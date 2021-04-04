@@ -1,8 +1,8 @@
 ---
 description: Customize your reference implementation to integrate Adobe Primetime authentication for your production environment.
 title: Integrate Primetime authentication
+exl-id: ef6dc75d-d00f-481f-a620-4ec402cbebb6
 ---
-
 # Integrate Primetime authentication {#integrate-primetime-authentication}
 
 Customize your reference implementation to integrate Adobe Primetime authentication for your production environment.

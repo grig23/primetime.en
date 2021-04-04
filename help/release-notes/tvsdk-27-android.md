@@ -3,8 +3,8 @@ title: TVSDK 2.7 for Android Release Notes
 description: TVSDK 2.7 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 2.7
 products: SG_PRIMETIME
 topic-tags: release-notes
+exl-id: d64f0ef2-60a9-43a1-b2f9-44764a570538
 ---
-
 # TVSDK 2.7 for Android Release Notes {#tvsdk-for-android-release-notes}
 
 TVSDK 2.7 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 2.7

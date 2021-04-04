@@ -2,8 +2,8 @@
 title: Policy Manager Command-line usage
 description: Policy Manager Command-line usage
 copied-description: yes
+exl-id: 888be282-7eaa-4101-b4b1-4f8df99a967a
 ---
-
 # Policy Manager Command-line usage {#policy-manager-command-line-usage}
 
 ```

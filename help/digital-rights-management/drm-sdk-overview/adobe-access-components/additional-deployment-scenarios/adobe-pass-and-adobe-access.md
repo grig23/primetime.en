@@ -2,8 +2,8 @@
 title: Adobe Primetime authentication and Adobe Primetime DRM
 description: Adobe Primetime authentication and Adobe Primetime DRM
 copied-description: yes
+exl-id: 7239be8b-9725-48b6-a4e2-8d13461f297d
 ---
-
 # Adobe Primetime authentication and Adobe Primetime DRM {#adobe-primetime-authentication-and-adobe-primetime-drm}
 
 Adobe Primetime authentication ( [https://www.adobe.com/products/adobepass/](https://www.adobe.com/products/adobepass/)) provides user/device authentication and authorization across multiple content providers. The user must have a valid cable TV or satellite TV subscription. 

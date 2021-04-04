@@ -2,8 +2,8 @@
 title: Java system properties
 description: Java system properties
 copied-description: yes
+exl-id: 3fac8fac-7c71-4638-a671-eecc203dc871
 ---
-
 # Java system properties {#java-system-properties}
 
 The following two Java System properties may optionally be set to modify the location of configuration and log files for the license server:
@@ -16,4 +16,3 @@ If you are using [!DNL catalina.bat] or [!DNL catalina.sh] to start Tomcat, thes
 ```
 JAVA_OPTS=-DLicenseServer.ConfigRoot="absolute-path-to-config-folder" -DLicenseServer.LogRoot="absolute-path-to-log-folder"
 ```
-

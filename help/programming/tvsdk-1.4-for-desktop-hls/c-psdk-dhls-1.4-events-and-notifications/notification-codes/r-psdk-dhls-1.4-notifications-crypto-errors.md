@@ -1,8 +1,8 @@
 ---
 description: The crypto module of the Adobe video engine returns these notifications in the NATIVE_ERROR metadata object.
 title: NATIVE_ERROR  Crypto values
+exl-id: c14b35c1-ed91-4a44-b826-fd6a05dbe345
 ---
-
 # NATIVE_ERROR: Crypto values{#native-error-crypto-values}
 
 The crypto module of the Adobe video engine returns these notifications in the NATIVE_ERROR metadata object.
@@ -16,4 +16,3 @@ The crypto module of the Adobe video engine returns these notifications in the N
 |  304  | `CRYPTO_ERROR_DIGEST_UPDATE`  | Digest update.  |
 |  305  | `CRYPTO_ERROR_DIGEST_FINISH`  | Digest finish.  |
 |  306  | `CRYPTO_ERROR_BAD_PARAMETER`  | Bad parameter.  |
-

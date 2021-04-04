@@ -2,8 +2,8 @@
 title: About command-line tools configuration files
 description: About command-line tools configuration files
 copied-description: yes
+exl-id: 0ec4917e-7c70-4b84-86ac-c34c8a522018
 ---
-
 # About command-line tools configuration files{#about-command-line-tools-configuration-files}
 
 The command-line tools look for [!DNL flashaccesstools.properties] in the directory in which you run the tools. However, you can use the `-c` option when you run a command-line tool to specify a different location for the default [!DNL flashaccesstools.properties]. You can also use `-c` to specify a different configuration file.

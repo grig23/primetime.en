@@ -1,8 +1,8 @@
 ---
 description: There are some limitations and some issues in the way trick play mode behaves.
 title: Limitations and behavior for trick play
+exl-id: 98558970-9e5e-4dc1-a327-63d9db1d4fed
 ---
-
 # Limitations and behavior for trick play{#limitations-and-behavior-for-trick-play}
 
 There are some limitations and some issues in the way trick play mode behaves.
@@ -28,4 +28,3 @@ Here are the limitations for trick play mode:
     * Exiting trick play invokes the same ad playback policy as when exiting seek.
 
       Therefore, as in seeking, the behavior depends on whether your application's playback policy is different from the default. The default is that the last skipped ad break is played at the point where you come out of trick play mode.
-

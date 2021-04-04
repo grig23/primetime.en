@@ -1,8 +1,8 @@
 ---
 description: Just-in-time-transcoding can inject ID3 timed metadata into ad creatives to facilitate client-side ad tracking.
 title: Using just-in-time-transcoding to Inject ID3 Timed Metadata Tags
+exl-id: 6171223a-71f9-45a2-a3f5-7ede4a9b101a
 ---
-
 # Using Just-in-Time Transcoding to Inject ID3 Timed Metadata Tags {#using-crs-to-inject-id-timed-metadata-tags}
 
 CRS can inject ID3 timed metadata into ad creatives to facilitate client-side ad tracking.

@@ -2,8 +2,8 @@
 title: Remote key delivery properties (iOS)
 description: Remote key delivery properties (iOS)
 copied-description: yes
+exl-id: 0fe3ed9b-a8ee-43b4-ab3c-8ea2e696503b
 ---
-
 # Remote key delivery properties (iOS){#remote-key-delivery-properties-ios}
 
 To support the generation of licenses for Remote Key delivery to an iOS client in Adobe Primetime DRM , you must specify the Key Server certificate in the `flashaccess-refimpl.properties` file.
@@ -28,4 +28,3 @@ The following properties have been added in Primetime DRM :
   </tr> 
  </tbody> 
 </table>
-

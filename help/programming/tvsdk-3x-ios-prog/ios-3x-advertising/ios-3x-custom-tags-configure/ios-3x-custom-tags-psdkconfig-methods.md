@@ -1,8 +1,8 @@
 ---
 description: You can configure custom tag names in TVSDK globally with the PTSDKConfig class.
 title: Config class methods for tags
+exl-id: 017b766e-a6aa-4c14-af9a-2c88746e22c0
 ---
-
 # Config class methods for tags {#config-class-methods-for-tags}
 
 You can configure custom tag names in TVSDK globally with the PTSDKConfig class.

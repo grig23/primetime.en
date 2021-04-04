@@ -1,8 +1,8 @@
 ---
 description: These classes assist in detecting ad opportunities in the timeline.
 title: Timeline detectors classes
+exl-id: c6a39ac5-53bb-4a5b-802b-eeb18ca6a7bc
 ---
-
 # Timeline detectors classes{#timeline-detectors-classes}
 
 These classes assist in detecting ad opportunities in the timeline.

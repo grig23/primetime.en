@@ -1,8 +1,8 @@
 ---
 description: The Video Encoder interface of the AVE returns these video playback notifications in the NATIVE_ERROR metadata object.
 title: NATIVE_ERROR  Video playback values
+exl-id: a4476bbe-a62b-40cf-9795-cd209683c572
 ---
-
 # NATIVE_ERROR: Video playback values{#native-error-video-playback-values}
 
 The Video Encoder interface of the AVE returns these video playback notifications in the NATIVE_ERROR metadata object.
@@ -498,4 +498,3 @@ The Video Encoder interface of the AVE returns these video playback notification
   </tr> 
  </tbody> 
 </table>
-

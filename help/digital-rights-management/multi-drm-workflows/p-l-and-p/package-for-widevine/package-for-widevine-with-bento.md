@@ -1,8 +1,8 @@
 ---
 description: We use both the Bento4 packager and the Adobe offline packager to author encrypted DASH content. Bento4 takes as input unencrypted mp4 content.
 title: Package your content with Bento4
+exl-id: c873eaf6-c738-4f95-a900-a8aecb03754d
 ---
-
 # Packaging content for Widevine and PlayReady {#package-for-widevine}
 
 We use both the Bento4 packager and the Adobe offline packager to author encrypted DASH content. Bento4 takes as input unencrypted mp4 content.
@@ -94,4 +94,4 @@ The conf_path argument points to configuration file that would contain the follo
 </config>
 ```
 
-Because certain Android devices — primarily Amazon Fire TV — do not support audio decryption, audio encryption is optional. 
+Because certain Android devices — primarily Amazon Fire TV — do not support audio decryption, audio encryption is optional.

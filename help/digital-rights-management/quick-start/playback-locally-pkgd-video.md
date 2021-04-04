@@ -2,8 +2,8 @@
 title: Play back a locally packaged video
 description: Play back a locally packaged video
 copied-description: yes
+exl-id: 25909e1e-6236-4388-a4f8-fd22326496c2
 ---
-
 # Play back a locally packaged video {#play-back-a-locally-packaged-video}
 
 1. To open a player, enter the following URL in a browser:

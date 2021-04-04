@@ -1,8 +1,8 @@
 ---
 description: This procedure is an example of how to create a button that allows a user to select a closed caption track.
 title: Allow users to change the caption track
+exl-id: cf273f06-ae0d-458c-aeef-7f70dad6106f
 ---
-
 # Allow users to change the caption track {#allow-users-to-change-the-caption-track}
 
 This procedure is an example of how to create a button that allows a user to select a closed caption track.

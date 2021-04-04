@@ -1,8 +1,8 @@
 ---
 description: TVSDK handles blackouts in live video streams and provides alternate content during a blackout.
 title: Handle blackouts
+exl-id: 4a2ff371-69a9-4c13-ac61-3c5cd9c83a6f
 ---
-
 # Handle blackouts {#handle-blackouts}
 
 TVSDK handles blackouts in live video streams and provides alternate content during a blackout.

@@ -1,8 +1,8 @@
 ---
 description: When Primetime ad decisioningencounters a VAST ad (creative) that is empty or that has a media type that is invalid for HLS, it evaluates the fallback ads to determine what to return.
 title: Ad fallback behavior for VAST and VMAP
+exl-id: 8145d928-5d38-40f1-8dc3-fee9b815465c
 ---
-
 # Ad fallback behavior for VAST and VMAP {#ad-fallback-behavior-for-vast-and-vmap}
 
 When Primetime ad decisioningencounters a VAST ad (creative) that is empty or that has a media type that is invalid for HLS, it evaluates the fallback ads to determine what to return.
@@ -23,4 +23,3 @@ When there are stand-alone fallback ads, the Primetime ad decisioningplug-in exa
 >[!IMPORTANT]
 >
 >This behavior is always enabled for ads in VAST wrappers. For VAST ads inline in a VMAP, the behavior is disabled by default, but your application can enable it.
-

@@ -2,8 +2,8 @@
 description: Ad resolving and ad loading can cause an unacceptable delay for a user waiting for playback to start. The Lazy Ad Loading and Lazy Ad Resolving features can reduce this startup delay.
 keywords: Lazy;Ad resolving;Ad loading
 title: Lazy ad resolving
+exl-id: 6f4c2b9b-a129-4132-8c88-259602222381
 ---
-
 # Overview {#lazy-ad-resolving}
 
 Ad resolving and ad loading can cause an unacceptable delay for a user waiting for playback to start. The Lazy Ad Loading and Lazy Ad Resolving features can reduce this startup delay.

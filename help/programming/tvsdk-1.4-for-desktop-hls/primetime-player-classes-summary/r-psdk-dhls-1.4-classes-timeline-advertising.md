@@ -1,8 +1,8 @@
 ---
 description: These classes provide information about ads that occur within a timeline.
 title: Timeline advertising classes
+exl-id: 2ac1f6b7-48b2-4d9c-b39d-a7e6f1ff2ac5
 ---
-
 # Timeline advertising classes {#timeline-advertising-classes}
 
 These classes provide information about ads that occur within a timeline.
@@ -27,4 +27,3 @@ These classes provide information about ads that occur within a timeline.
 |[AuditudeAdResolver](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/timeline/advertising/AuditudeAdResolver.html)  | Class that handles primetime ad resolving in the TVSDK process.  |
 | [AdType](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/timeline/advertising/AdType.html)  | Enumeration of all ad types supported by the TVSDK.  |
 | [MetadataAdResolver](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/timeline/advertising/MetadataAdResolver.html)  | Class.  |
-

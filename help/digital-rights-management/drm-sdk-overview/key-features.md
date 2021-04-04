@@ -2,8 +2,8 @@
 title: Key features
 description: Key features
 copied-description: yes
+exl-id: 3d9af53c-97ab-425d-9a01-128e0f112ec1
 ---
-
 # Key features{#key-features}
 
 Adobe Primetime DRM provides these key features:

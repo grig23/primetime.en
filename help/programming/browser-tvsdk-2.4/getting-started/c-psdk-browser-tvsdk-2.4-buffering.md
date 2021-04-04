@@ -1,8 +1,8 @@
 ---
 description: You can configure visuals to notify the user that content is buffering.
 title: Buffering
+exl-id: 1b2f32b4-1839-4256-82d6-b262569aa751
 ---
-
 # Buffering{#buffering}
 
 You can configure visuals to notify the user that content is buffering.
@@ -53,4 +53,3 @@ Here is what the result DOM looks like:
 </div> 
 
 ```
-

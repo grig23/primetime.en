@@ -1,8 +1,8 @@
 ---
 description: Adobe Access can be used with other third-party content streaming solutions to set up a complete and secure DRM-based media distribution ecosystem.
 title: UltraViolet media and Adobe Access
+exl-id: cca476a4-1961-46d8-aad4-bc7c996d7b02
 ---
-
 # UltraViolet media and Adobe Access {#ultraviolet-media-and-adobe-access}
 
 Adobe Access can be used with other third-party content streaming solutions to set up a complete and secure DRM-based media distribution ecosystem.
@@ -27,4 +27,3 @@ It is easy to set up an UltraViolet system along with Adobe Access. The followin
 
    The content license is bound to the domain. The client application can insert the license into the CFF file. Content can now be played back in the application, with all protection and usage rule enforcement handled by the Adobe Access component in the runtime. 
 1. Other devices and applications owned by the same end user can be registered with the co-ordinator. The content can now be loaded in other Adobe Access devices without requiring any external transaction.
-

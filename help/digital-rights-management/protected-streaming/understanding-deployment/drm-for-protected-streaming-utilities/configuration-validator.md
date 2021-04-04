@@ -1,8 +1,8 @@
 ---
 description: Adobe recommends that if you make changes in the configuration file, you should run the Configuration Validator utility before you start the server. This utility can detect most configuration errors early, before they cause failures during request processing.
 title: Configuration validator
+exl-id: 41d0a926-4e12-442c-886e-5f12cf10eed8
 ---
-
 # Configuration validator{#configuration-validator}
 
 Adobe recommends that if you make changes in the configuration file, you should run the Configuration Validator utility before you start the server. This utility can detect most configuration errors early, before they cause failures during request processing.
@@ -54,4 +54,3 @@ Deployment-based validation can be performed at the following levels:
   ```
       Validator --<root-path-to-LicenseServer.ConfigRoot> -g
   ```
-

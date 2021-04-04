@@ -1,8 +1,8 @@
 ---
 description: These classes provide information that help you to determine how well the player is performing.
 title: QoS classes
+exl-id: ba0cddd0-3af9-4e35-9079-97c260cbd3e9
 ---
-
 # QoS classes{#qos-classes}
 
 These classes provide information that help you to determine how well the player is performing.
@@ -43,4 +43,3 @@ These classes provide information that help you to determine how well the player
   </tr> 
  </tbody> 
 </table>
-

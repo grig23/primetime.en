@@ -1,8 +1,8 @@
 ---
 description: You can track video use by integrating TVSDK with Adobe Analytics.
 title: Integrating TVSDK with Adobe Analytics
+exl-id: d6e235ad-dffb-4503-bf6f-f7a780523791
 ---
-
 # Integrating TVSDK with Adobe Analytics {#integrating-tvsdk-with-adobe-analytics}
 
 You can track video use by integrating TVSDK with Adobe Analytics.

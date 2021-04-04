@@ -1,8 +1,8 @@
 ---
 description: When TVSDK detects a subscribed tag in the playlist/manifest, the player automatically tries to process the tag and expose it in the form of a PTTimedMetadata object.
 title: Timed metadata class
+exl-id: b619b019-cb6d-4c31-a7e2-7ebe2f44a4b0
 ---
-
 # Timed metadata class{#timed-metadata-class}
 
 When TVSDK detects a subscribed tag in the playlist/manifest, the player automatically tries to process the tag and expose it in the form of a PTTimedMetadata object.
@@ -70,4 +70,3 @@ Remember the following:
 | `@property (nonatomic, assign) PTTimedMetadataType type`  | Returns the type of the timed metadata.  |
 | `@property (nonatomic, retain) NSString *metadataId`  | Returns the ID extracted from the cue/tag attributes. Otherwise, a unique random value is provided.  |
 | `@property (nonatomic, retain) NSString *name`  | Returns the name of the cue, which is usually the HLS tag name.  |
-

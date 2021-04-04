@@ -1,8 +1,8 @@
 ---
 description: You can display the current and remaining time of the content that is being played.
 title: Display the current time and remaining time
+exl-id: f1aebeb7-381b-4bd5-8535-32b902f838d2
 ---
-
 # Display the current time and remaining time {#display-the-current-time-and-remaining-time}
 
 You can display the current and remaining time of the content that is being played.

@@ -2,8 +2,8 @@
 title: Prepare passwords for the Server properties files
 description: Prepare passwords for the Server properties files
 copied-description: yes
+exl-id: b613d43d-17ec-44e9-bd14-81f9bb9a7f62
 ---
-
 # Prepare passwords for the Server properties files{#prepare-passwords-for-the-server-properties-files}
 
 The reference implementation provides `ScrambleUtil.class`, a class that ensures the security of your credential's password. 

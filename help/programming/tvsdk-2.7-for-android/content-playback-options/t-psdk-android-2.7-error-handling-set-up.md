@@ -1,8 +1,8 @@
 ---
 description: You can set up one lace to handle errors.
 title: Set up error handling
+exl-id: 594cd9b8-491f-4972-990a-5657f87c7f89
 ---
-
 # Set up error handling {#set-up-error-handling}
 
 You can set up one lace to handle errors.
@@ -30,4 +30,3 @@ mediaPlayer.addEventListener(MediaPlayerEvent.STATUS_CHANGED,
     } 
 });
 ```
-

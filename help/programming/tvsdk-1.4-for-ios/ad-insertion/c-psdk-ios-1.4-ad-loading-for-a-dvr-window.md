@@ -1,8 +1,8 @@
 ---
 description: You can decide whether to resolve only the ads that occur after the user's current live point or to also resolve ads that occur before the current live point.
 title: Load Ad for a DVR window
+exl-id: f0799002-5cba-41c2-86bb-9ccf6b906357
 ---
-
 # Load Ad for a DVR window {#load-ad-for-a-dvr-window}
 
 You can decide whether to resolve only the ads that occur after the user's current live point or to also resolve ads that occur before the current live point.

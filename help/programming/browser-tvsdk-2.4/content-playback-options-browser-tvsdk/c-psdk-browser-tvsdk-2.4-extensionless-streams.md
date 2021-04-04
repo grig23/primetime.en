@@ -1,8 +1,8 @@
 ---
 description: Browser TVSDK currently supports the playback of streams where manifests and fragments do not contain extensions.
 title: Extensionless streams
+exl-id: ef81bfd2-2bfa-4ff7-b826-fd80802b3c07
 ---
-
 # Extensionless streams{#extensionless-streams}
 
 Browser TVSDK currently supports the playback of streams where manifests and fragments do not contain extensions.
@@ -34,4 +34,3 @@ If `resourceType` is not provided, the UI Framework determines the resource type
 >[!TIP]
 >
 >For extension-less manifest, ensure that `resourceType` is always passed while loading a resource in the UI Framework.
-

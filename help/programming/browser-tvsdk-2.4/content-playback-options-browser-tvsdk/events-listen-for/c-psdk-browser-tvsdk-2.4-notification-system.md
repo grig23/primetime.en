@@ -1,8 +1,8 @@
 ---
 description: The notification portion of the Browser TVSDK library allows you to create a logging and debugging system that can be useful for diagnostic and validation purposes.
 title: Notification system
+exl-id: 6a3a3c56-1580-4f43-ba81-220a5b0fe5c3
 ---
-
 # Notification system {#notification-system}
 
 The notification portion of the Browser TVSDK library allows you to create a logging and debugging system that can be useful for diagnostic and validation purposes.
@@ -36,4 +36,3 @@ To set up your application to listen for notifications:
 
    The callback receives an instance of the `AdobePSDK.MediaPlayerStatusChangeEvent`, and Browser TVSDK passes this event object to the callback that contains the new player state. 
 1. Your application can listen to other events that are dispatched by Browser TVSDK by using the `MediaPlayer` instance.
-

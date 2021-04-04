@@ -1,8 +1,8 @@
 ---
 description: To accommodate customers who want to pay only for what they use, rather than a fixed rate regardless of actual use, Adobe collects usage metrics and uses these metrics to determine how much to bill the customers.
 title: Billing usage metrics
+exl-id: 8b76d8ea-c8d6-427b-886a-4ae8764bd47a
 ---
-
 # Billing metrics {#billing-metrics}
 
 To accommodate customers who want to pay only for what they use, rather than a fixed rate regardless of actual use, Adobe collects usage metrics and uses these metrics to determine how much to bill the customers.
@@ -79,4 +79,4 @@ If you use a network capture tool to monitor the statistics TVSDK transmits to A
 </request>
 ```
 
-The boolean properties `drmProtected`, `adsEnabled`, and `midrollEnabled` appear only if they are true.  
+The boolean properties `drmProtected`, `adsEnabled`, and `midrollEnabled` appear only if they are true.

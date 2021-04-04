@@ -2,8 +2,8 @@
 title: Primetime Release Notes
 description: Primetime Release Notes
 copied-description: yes
+exl-id: 29087a3e-f16e-4510-8d3a-ed2229700899
 ---
-
 # Primetime Release Notes
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.

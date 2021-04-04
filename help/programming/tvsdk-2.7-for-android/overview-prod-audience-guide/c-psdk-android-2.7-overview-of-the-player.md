@@ -1,8 +1,8 @@
 ---
 description: TVSDK for Android 2.5 includes a variety of features that you can implement in your players.
 title: Primetime TVSDK features
+exl-id: 1f1ea807-67b0-4dfa-adf3-198207f57aff
 ---
-
 # Primetime TVSDK features {#primetime-tvsdk-features}
 
 TVSDK for Android 2.7 includes a variety of features that you can implement in your players.

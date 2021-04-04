@@ -1,8 +1,8 @@
 ---
 description: You can mark, delete, and replace time ranges in VOD streams by using different ad signaling mode and ad metadata combinations. Different combinations of signaling mode and metadata result in different behaviors.
 title: Effect on ad insertion and deletion from ad signaling mode and ad metadata combinations
+exl-id: 949ca84f-4aa9-4668-b91b-99fdf13f625c
 ---
-
 # Effect on ad insertion and deletion from ad signaling mode and ad metadata combinations {#effect-on-ad-insertion-and-deletion-from-ad-signaling-mode-and-ad-metadata-combinations}
 
 You can mark, delete, and replace time ranges in VOD streams by using different ad signaling mode and ad metadata combinations. Different combinations of signaling mode and metadata result in different behaviors.
@@ -230,4 +230,3 @@ The following table provides the details about the signaling mode and metadata c
   </tr> 
  </tbody> 
 </table>
-

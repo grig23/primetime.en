@@ -1,8 +1,8 @@
 ---
 description: Your application must use the appropriate TimedMetadata objects at the appropriate times.
 title: Store timed metadata objects as they are dispatched
+exl-id: 0a5cceee-d990-4bb2-ac85-da3ab47aa745
 ---
-
 # Store timed metadata objects as they are dispatched {#store-timed-metadata-objects-as-they-are-dispatched}
 
 Your application must use the appropriate TimedMetadata objects at the appropriate times.
@@ -34,4 +34,3 @@ To store timed metadata objects as they are dispatched:
        ... 
    }
    ```
-

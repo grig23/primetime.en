@@ -1,8 +1,8 @@
 ---
 description: You can provide custom metadata on content, ads, and chapter tracking calls by using callback functions.
 title: Implement custom metadata support
+exl-id: c7478578-7f49-4fd0-b381-c558888401aa
 ---
-
 # Implement custom metadata support{#implement-custom-metadata-support}
 
 You can provide custom metadata on content, ads, and chapter tracking calls by using callback functions.
@@ -39,4 +39,3 @@ Callback functions are invoked just before the tracking call is made, so your ap
                     }; 
        };
    ```
-

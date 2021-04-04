@@ -2,8 +2,8 @@
 title: About certificate enrollment roles
 description: About certificate enrollment roles
 copied-description: yes
+exl-id: fe3eb499-8636-46d0-8e5b-7baca08813bb
 ---
-
 # About certificate enrollment roles {#about-certificate-enrollment-roles}
 
 The certificate enrollment process requires at least two employees: an Administrator and a Requester. The Primetime DRM SDK licensee appoints an Account Administrator. There can be only one Account Administrator. The Account Administrator can designate one Secondary Administrator.
@@ -35,4 +35,3 @@ The following are the abilities of each role:
 
     * Up to five Requesters per license 
     * Request certificates
-

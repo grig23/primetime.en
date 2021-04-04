@@ -1,8 +1,8 @@
 ---
 title: PSDK Error Codes
 description: Information about various error codes, warnings, and native error codes.
+exl-id: 90d66c13-c40c-4602-83da-186c2b623375
 ---
-
 # PSDK Error Codes {#psdk-error-codes}
 
 Read on to know about PSDK error codes, warnings, and native error codes.

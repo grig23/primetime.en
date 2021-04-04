@@ -2,8 +2,8 @@
 title: Troubleshooting
 description: Troubleshooting
 copied-description: yes
+exl-id: 6c4f15b6-507e-496e-ad1c-702ce77dd069
 ---
-
 # Troubleshooting{#troubleshooting}
 
 Following are some problems and solutions you may encounter during deployment.
@@ -32,4 +32,3 @@ Following are some problems and solutions you may encounter during deployment.
   ```
 
   Ensure that you use the password scrambler class *that has been provided with the Reference Implementation*. This scrambler utility is different from the one that has been provided with the Adobe Primetime DRM Server for Protected Streaming.
-

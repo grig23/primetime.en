@@ -1,8 +1,8 @@
 ---
 description: Browser TVSDK supports a number of MP3 and MP4 features that you can implement to add functionality to your applications.
 title: Supported MP3 and MP4 features
+exl-id: 742d9d52-0dc7-44f9-8d42-d2738057a0ee
 ---
-
 # Supported MP3 and MP4 features {#supported-mp-and-mp-features}
 
 Browser TVSDK supports a number of MP3 and MP4 features that you can implement to add functionality to your applications.

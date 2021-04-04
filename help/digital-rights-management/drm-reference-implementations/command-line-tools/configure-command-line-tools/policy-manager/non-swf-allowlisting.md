@@ -2,8 +2,8 @@
 title: Non-SWF Application Allow listing
 description: Non-SWF Application Allow listing
 copied-description: yes
+exl-id: f33fb0e9-144f-49f8-8da2-8a50aea09456
 ---
-
 # Non-SWF Application Allow listing {#non-swf-application-isting}
 
 AIR was the first platform that featured application allow listing, and the name of the property you use to allow list non-SWF applications (Adobe AIR, iOS, Android, etc.) retains its original name: `policy.allowedAIRApplication.n`. This allows the content to be played back by all non-Flash applications that are signed with a Signing Certificate prior to publishing. This is referred to as the *Application ID*. You can extract the Application ID by using the [!DNL AdobePublisherIDUtility.jar] tool. This allow listing will be enforced on any client that supports Primetime DRM.

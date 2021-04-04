@@ -1,8 +1,8 @@
 ---
 description: Media streams can carry additional metadata in the form of tags in the playlist/manifest file, and this file indicates the placement of advertising. You can specify custom tag names and be notified when certain tags appear in the manifest file.
 title: Custom tags
+exl-id: 797b447d-3316-47c9-80e9-1ff1d3e04797
 ---
-
 # Overview {#custom-tags-overview}
 
 Media streams can carry additional metadata in the form of tags in the playlist/manifest file, and this file indicates the placement of advertising. You can specify custom tag names and be notified when certain tags appear in the manifest file.
@@ -60,4 +60,4 @@ Your application can set up the following scenarios:
 
 You can subscribe to any of the following tags as custom tags: `EXT-PROGRAM-DATE-TIME`, `EXT-X-START`, `EXT-X-AD`, `EXT-X-CUE`, `EXT-X-ENDLIST`. You are notified with a `TimedMetadata` event during parsing of manifest files.
 
-There are some advertising tags, such as `EXT-X-CUE`, to which you are already subscribed. These ad tags are also used by the default opportunity generator. You can specify which ad tags are used by the default opportunity generator by setting the `adTags` property. 
+There are some advertising tags, such as `EXT-X-CUE`, to which you are already subscribed. These ad tags are also used by the default opportunity generator. You can specify which ad tags are used by the default opportunity generator by setting the `adTags` property.

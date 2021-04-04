@@ -2,8 +2,8 @@
 title: Firewall rules
 description: Firewall rules
 copied-description: yes
+exl-id: 5f560782-7b09-411a-8791-8d227bc4049b
 ---
-
 # Firewall rules {#firewall-rules}
 
 ## Incoming URLs {#section-F111526A9DB844CBBF21A3CAE5F50880}

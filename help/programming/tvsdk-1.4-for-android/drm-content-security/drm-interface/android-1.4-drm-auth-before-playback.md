@@ -1,8 +1,8 @@
 ---
 description: When the DRM metadata for a video is separate from the media stream, perform authentication before beginning playback.
 title: DRM authentication before playback
+exl-id: da81ec38-ea77-4fcd-a6e4-5804465385cb
 ---
-
 # DRM authentication before playback {#drm-authentication-before-playback}
 
 When the DRM metadata for a video is separate from the media stream, perform authentication before beginning playback.
@@ -164,5 +164,4 @@ When this is the case, use `DRMHelper` methods to download the contents of the D
 1. If authentication is successful, start playback.
 1. If authentication is not successful, notify the user and do not start playback.
 
-Your application must handle any authentication errors. Failing to successfully authenticate before playing places TVSDK into an error state. That is, it changes its state to ERROR, an error is generated containing the error code from the DRM library, and the playback stops. Your application must resolve the issue, reset the player, and reload the resource. 
-
+Your application must handle any authentication errors. Failing to successfully authenticate before playing places TVSDK into an error state. That is, it changes its state to ERROR, an error is generated containing the error code from the DRM library, and the playback stops. Your application must resolve the issue, reset the player, and reload the resource.

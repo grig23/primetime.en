@@ -1,8 +1,8 @@
 ---
 description: The PTMediaPlayer interface encapsulates the functionality and behavior of a media player object.
 title: Set up the PTMediaPlayer
+exl-id: cf8f46c8-c52a-4f44-b493-965ce1b50c68
 ---
-
 # Set up the PTMediaPlayer {#set-up-the-ptmediaplayer}
 
 TVSDK provides tools for creating an advanced video player application (your Primetime player), which you can integrate with other Primetime components.
@@ -82,4 +82,3 @@ To set up your `PTMediaPlayer`:
    ```
    [player play];
    ```
-

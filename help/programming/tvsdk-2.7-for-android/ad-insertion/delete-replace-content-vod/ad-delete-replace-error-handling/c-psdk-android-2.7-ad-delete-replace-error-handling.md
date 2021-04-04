@@ -1,8 +1,8 @@
 ---
 description: TVSDK handles time range errors according to the specific problem by merging or reordering the improperly defined time ranges.
 title: Ad deletion and replacement error handling
+exl-id: 0d70bb63-bdc5-4741-81db-1408216234c2
 ---
-
 # Overview {#ad-deletion-and-replacement-error-handling-overview}
 
 TVSDK handles time range errors according to the specific problem by merging or reordering the improperly defined time ranges.
@@ -33,4 +33,3 @@ Remember the following:
 * When the server does not return valid `AdBreaks`, TVSDK generates and processes a `NOPTimelineOperation` for the empty AdBreak, and no ad plays. 
 
 * Although C3 ad delete/replacement is intended to be supported only for VOD, if specified in the ad metadata, time ranges are also processed for live streams.
-

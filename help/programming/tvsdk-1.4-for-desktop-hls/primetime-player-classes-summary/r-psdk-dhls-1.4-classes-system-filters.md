@@ -1,8 +1,8 @@
 ---
 description: These classes implement media resource filtering.
 title: System filters classes
+exl-id: edc38a86-3fdf-4ee2-b87e-2c6af0c9d540
 ---
-
 # System filters classes{#system-filters-classes}
 
 These classes implement media resource filtering.

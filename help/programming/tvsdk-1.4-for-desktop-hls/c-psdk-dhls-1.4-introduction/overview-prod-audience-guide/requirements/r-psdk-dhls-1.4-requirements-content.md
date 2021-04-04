@@ -1,8 +1,8 @@
 ---
 description: Check the restrictions and requirements for streams and playlists (manifests), including DRM encryption keys.
 title: Content and manifest requirements
+exl-id: 96b2b245-558b-4606-87c0-22140430c326
 ---
-
 # Content and manifest requirements {#content-and-manifest-requirements}
 
 Check the restrictions and requirements for streams and playlists (manifests), including DRM encryption keys.

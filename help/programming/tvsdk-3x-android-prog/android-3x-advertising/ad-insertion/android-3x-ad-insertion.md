@@ -1,8 +1,8 @@
 ---
 description: You can insert ads in your VOD and live/linear content by using the Adobe Primetime ad decisioning interface. Primetime ad decisioningworks with TVSDK to identify ad opportunities, resolve ads, and insert resolved ads in your video streams.
 title: Advertising requirements
+exl-id: 3ca82cc5-ed64-458e-9a8d-475a84512478
 ---
-
 # Advertising and its requirements {#advertising-requirements}
 
 You can insert ads in your VOD and live/linear content by using the Adobe Primetime ad decisioning interface. Primetime ad decisioningworks with TVSDK to identify ad opportunities, resolve ads, and insert resolved ads in your video streams.

@@ -1,8 +1,8 @@
 ---
 description: Browser TVSDK prepares TimedMetadata objects for subscribed tags each time these objects are encountered in the Media Presentation Description (MPD) file.
 title: Subscribe to custom ad tags
+exl-id: d4b9ec3a-9c3f-4adf-984e-b45862e97140
 ---
-
 # Subscribe to custom ad tags{#subscribe-to-custom-ad-tags}
 
 Browser TVSDK prepares TimedMetadata objects for subscribed tags each time these objects are encountered in the Media Presentation Description (MPD) file.
@@ -65,4 +65,3 @@ To subscribe to custom tags:
    ```js
    player.replaceCurrentResource(mediaResource,mediaPlayerItemConfig);
    ```
-

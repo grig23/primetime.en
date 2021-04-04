@@ -2,8 +2,8 @@
 title: Overview
 description: Overview
 copied-description: yes
+exl-id: ba6e8fab-b199-4969-b372-06fa6d7a1e4a
 ---
-
 # DRM License Generator {#license-generator}
 
 Use [!DNL AdobeLicenseGenerator.jar] to generate licenses without requiring the client to send a license request to a server. You can then embed a pre-generated license in the content, or deliver the license to the client through other mechanisms, such as a simple HTTP web server.

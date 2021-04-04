@@ -2,8 +2,8 @@
 title: License acquisition process details
 description: License acquisition process details
 copied-description: yes
+exl-id: d772339a-8d05-401b-b5c1-18169b3627b6
 ---
-
 # License acquisition process details {#license-acquisition-process-details}
 
 This process presents a detailed, API-level view of the Primetime DRM protected-content workflow: 

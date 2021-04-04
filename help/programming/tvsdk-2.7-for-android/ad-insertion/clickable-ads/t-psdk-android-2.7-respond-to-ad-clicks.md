@@ -1,8 +1,8 @@
 ---
 description: When a user clicks on an ad or a related button, your application must respond. TVSDK provides you with information about the destination URL for the click.
 title: Respond to clicks on ads
+exl-id: a313bb03-a857-48b6-ace7-b61574dbf75f
 ---
-
 # Respond to clicks on ads {#respond-to-clicks-on-ads}
 
 TVSDK provides you with information so that you can act on click-through ads. As you create your player UI, you must decide how to respond when a user clicks on a clickable ad.
@@ -91,4 +91,3 @@ private AdClickedEventListener adClickedEventListener =
 }; 
 
 ```
-

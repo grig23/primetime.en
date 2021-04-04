@@ -1,8 +1,8 @@
 ---
 description: The behavior of media playback is affected by seeking, pausing, fast forward or rewind, and advertising.
 title: Default and customized playback behavior with ads
+exl-id: 865d5390-2d79-4d01-a6c1-5673cd7a0ced
 ---
-
 # Default and customized playback behavior with ads {#default-and-customized-playback-behavior-with-ads}
 
 The behavior of media playback is affected by seeking, pausing, fast forward or rewind, and advertising.
@@ -84,4 +84,3 @@ The following table describes how TVSDK handles ads and ad breaks during playbac
   </tr> 
  </tbody> 
 </table>
-

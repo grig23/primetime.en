@@ -2,8 +2,8 @@
 title: Create an authentication UI
 description: Create an authentication UI
 copied-description: yes
+exl-id: 54853dcf-2241-44e6-9565-7eca94cc84cc
 ---
-
 # Create an authentication UI {#create-an-authentication-ui}
 
 1. Create a user interface to retrieve the user's authentication credentials.
@@ -129,4 +129,3 @@ copied-description: yes
    </mx:WindowedApplication> 
    
    ```
-

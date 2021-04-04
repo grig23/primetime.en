@@ -2,8 +2,8 @@
 title: Packager Preferences
 description: Packager Preferences
 copied-description: yes
+exl-id: 43e49372-a875-413a-ba27-25e3ce5c64c4
 ---
-
 # Packager Preferences {#packager-preferences}
 
 This tab contains settings required for packaging content. The following table describes these preferences: 

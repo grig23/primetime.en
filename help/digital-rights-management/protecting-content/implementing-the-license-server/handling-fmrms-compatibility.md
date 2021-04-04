@@ -1,8 +1,8 @@
 ---
 description: Handling FMRMS compatibility
 title: Upgrading clients
+exl-id: 7774b408-c2cb-400b-be41-74cc9739e0e9
 ---
-
 # Handling FMRMS compatibility {#handling-fmrms-compatibility}
 
 There are two types of requests related to Flash Media Rights Management Server 1.x compatibility. One type of request is used to prompt 1.x clients to upgrade to a runtime that supports Adobe Primetime DRM 2.0 or later. Another is used to update 1.x metadata to the Primetime DRM format before a license can be requested. Support for these requests is only needed if you previously deployed any content that uses FMRMS 1.0 or 1.5.

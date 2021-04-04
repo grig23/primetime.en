@@ -2,8 +2,8 @@
 title: Overview
 description: Overview
 copied-description: yes
+exl-id: f1a55d5c-c7df-4b8f-8c1e-875d30026069
 ---
-
 # Overview{#overview}
 
 To request a license, the client sends the metadata that was embedded in the content during packaging. The license server uses the information in the content metadata to generate a license.
@@ -18,4 +18,4 @@ If an error occurs while parsing the request, a `HandlerParsingException` is thr
 
 Licenses and errors are sent at one time when `LicenseHandler.close()` is called.
 
-A device may have multiple licenses for the same content (same License ID), but can only have one license for a particular License ID and Policy ID. If it receives a license with a duplicate LicenseID/PolicyID, the new license will replace the old one only if the new license's issue date is later than the existing license's issue date. This logic is used to process licenses embedded into content, therefore, it is not recommended to embed more than one license with the same Policy ID in a chunk of content. The same logic applies to licenses passed to the client through the `DRMManager.storeVoucher()` ActionScript3 API; if the client already possesses a license with a later issue date, the provided license may be ignored. 
+A device may have multiple licenses for the same content (same License ID), but can only have one license for a particular License ID and Policy ID. If it receives a license with a duplicate LicenseID/PolicyID, the new license will replace the old one only if the new license's issue date is later than the existing license's issue date. This logic is used to process licenses embedded into content, therefore, it is not recommended to embed more than one license with the same Policy ID in a chunk of content. The same logic applies to licenses passed to the client through the `DRMManager.storeVoucher()` ActionScript3 API; if the client already possesses a license with a later issue date, the provided license may be ignored.

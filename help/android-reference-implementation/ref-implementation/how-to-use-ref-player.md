@@ -2,8 +2,8 @@
 title: How to use the Primetime reference implementation
 description: How to use the Primetime reference implementation
 copied-description: yes
+exl-id: 45145f0d-c0e4-4d36-94fd-72f07619dc91
 ---
-
 # How to use the Primetime reference implementation {#how-to-use-the-primetime-reference-implementation}
 
 The Primetime reference implementation is a modular player that has been broken down into individual features that you can easily modify through specialized feature managers. These feature managers are used as a bridge to connect the application and the TVSDK library.

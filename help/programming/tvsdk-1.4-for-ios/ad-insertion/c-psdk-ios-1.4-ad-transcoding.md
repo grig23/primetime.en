@@ -1,8 +1,8 @@
 ---
 description: Some third-party ads (or creatives) cannot be stitched into the HTTP Live Streaming (HLS) content stream because their video format is incompatible with HLS. Primetime ad insertion and TVSDK can optionally attempt to repackage incompatible ads into compatible M3U8 videos.
 title: Repackage incompatible ads using Adobe Creative Repackaging Service
+exl-id: 6766bdf7-bffb-4dc1-bc8d-148a7f713f5f
 ---
-
 # Repackage incompatible ads using Adobe Creative Repackaging Service{#repackage-incompatible-ads-using-adobe-creative-repackaging-service}
 
 Some third-party ads (or creatives) cannot be stitched into the HTTP Live Streaming (HLS) content stream because their video format is incompatible with HLS. Primetime ad insertion and TVSDK can optionally attempt to repackage incompatible ads into compatible M3U8 videos.
@@ -58,4 +58,3 @@ PTDefaultURLTransformer *defaultTransformer = [[[PTDefaultURLTransformer alloc] 
 // metadata is the PTMetadata instance set on a PTMediaPlayerItem instance. 
 [metadata setMetadata:[self getNetworkConfiguration] forKey:PTNetworkConfigurationMetadataKey];
 ```
-

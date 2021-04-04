@@ -1,8 +1,8 @@
 ---
 description: You can override the default behavior for how TVSDK handles seeks over ads when using custom ad markers.
 title: Control playback behavior for seeking over custom ad markers
+exl-id: c148aca6-699d-4b93-9013-9e20bc391687
 ---
-
 # Control playback behavior for seeking over custom ad markers {#control-playback-behavior-for-seeking-over-custom-ad-markers}
 
 You can override the default behavior for how TVSDK handles seeks over ads when using custom ad markers.

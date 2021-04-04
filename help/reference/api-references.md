@@ -2,8 +2,8 @@
 title: Adobe Primetime API references
 description: The APIs help you to create a functional application or integration quickly and easily.
 topic-tags: API-references
+exl-id: 6862764e-c1d8-413a-a0c0-66b31eac8e53
 ---
-
 # Adobe Primetime API references {#api-references}
 
 + Primetime Dynamic Ad Insertion {#server-side}

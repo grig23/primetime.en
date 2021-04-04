@@ -1,8 +1,8 @@
 ---
 description: You can control the visibility of closed captions. When visibility is on, the currently selected track is displayed. If you change which track is current, the visibility setting remains the same.
 title: Control closed-caption visibility
+exl-id: fac24d97-b83e-4bc4-a824-8a1692509519
 ---
-
 # Control closed-caption visibility{#control-closed-caption-visibility}
 
 You can control the visibility of closed captions. When visibility is on, the currently selected track is displayed. If you change which track is current, the visibility setting remains the same.
@@ -141,4 +141,3 @@ You can control the visibility of closed captions. When visibility is on, the cu
    } 
    
    ```
-

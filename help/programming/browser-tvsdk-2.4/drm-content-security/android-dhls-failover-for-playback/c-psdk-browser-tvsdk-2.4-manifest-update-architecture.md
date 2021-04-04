@@ -1,8 +1,8 @@
 ---
 description: Here is some information and examples about how the Browser TVSDK accommodates updated master manifests.
 title: Live master-manifest update architecture
+exl-id: 2d9be228-7a96-4c19-828d-c1a4b0b07aa0
 ---
-
 # Live master-manifest update architecture{#live-master-manifest-update-architecture}
 
 Here is some information and examples about how the Browser TVSDK accommodates updated master manifests.
@@ -49,4 +49,3 @@ All of these bit rates need to be restarted. There are two temporal streams set 
 WRITER: Add relref to api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/events/MediaPlayerItemEvent.html#MASTER_UPDATED
 
  -->
-

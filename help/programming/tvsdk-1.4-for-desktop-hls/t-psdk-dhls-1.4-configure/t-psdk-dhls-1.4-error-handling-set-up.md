@@ -1,8 +1,8 @@
 ---
 description: Set up a single place to handle errors.
 title: Set up error handling
+exl-id: ce4a2954-0166-43af-afdf-0aa24659f1ae
 ---
-
 # Set up error handling{#set-up-error-handling}
 
 Set up a single place to handle errors.
@@ -31,4 +31,3 @@ private void onStatusChanged(event:MediaPlayerStatusChangeEvent):void {
 } 
 
 ```
-

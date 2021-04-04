@@ -4,8 +4,8 @@ description: Browser TVSDK 2.4 Release Notes describe the new,  supported and un
 contentOwner: dekalra
 topic-tags: release-notes
 products: SG_PRIMETIME
+exl-id: 83fdf530-5cbb-41d9-ab2a-28e117f04488
 ---
-
 # Browser TVSDK 2.4 Release Notes {#browser-tvsdk-release-notes}
 
 Browser TVSDK 2.4 Release Notes describe the new,  supported and unsupported features and the known issues in Browser TVSDK 2.4.

@@ -1,8 +1,8 @@
 ---
 description: TVSDK provides API elements that are useful when implementing blackouts, including methods, metadata, and notifications.
 title: Blackout API elements
+exl-id: 76d99d8d-1aae-4faa-aaf2-bb7b535a1c71
 ---
-
 # Blackout API elements {#blackout-api-elements}
 
 TVSDK provides API elements that are useful when implementing blackouts, including methods, metadata, and notifications.

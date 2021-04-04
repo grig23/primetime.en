@@ -1,8 +1,8 @@
 ---
 description: You can use the Android native Widevine DRM with DASH streams.
 title: Widevine DRM
+exl-id: 6a011cd7-446a-4f3a-ae36-110618001bf3
 ---
-
 # Widevine DRM {#widevine-drm}
 
 You can use the Android native Widevine DRM with DASH streams.
@@ -33,4 +33,3 @@ DRMManager.setProtectionData(
   null); 
 
 ```
-

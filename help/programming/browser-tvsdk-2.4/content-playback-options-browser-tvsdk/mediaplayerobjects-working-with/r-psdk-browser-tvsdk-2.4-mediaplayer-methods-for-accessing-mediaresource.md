@@ -1,8 +1,8 @@
 ---
 description: The methods in the MediaPlayerItem class allow you to obtain information about the content stream that is represented by a loaded MediaResource.
 title: MediaPlayer attributes to access MediaResource information
+exl-id: 183a2992-06f2-4b1d-84c3-a6c2a7223e32
 ---
-
 # MediaPlayer attributes to access MediaResource information{#mediaplayer-attributes-to-access-mediaresource-information}
 
 The methods in the MediaPlayerItem class allow you to obtain information about the content stream that is represented by a loaded MediaResource.
@@ -75,4 +75,3 @@ The methods in the MediaPlayerItem class allow you to obtain information about t
   </tr> 
  </tbody> 
 </table>
-

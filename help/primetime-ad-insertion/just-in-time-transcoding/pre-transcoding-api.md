@@ -1,8 +1,8 @@
 ---
 title: Pre-Transcoding API
 description: You can use the just-in-time repackaging API to transcode ad creatives ahead of time, so an content-compatible versions are available when needed, eliminating the 2-4 minute delay associated with just-in-time (JIT) repackaging.
+exl-id: d45668e0-ec8a-4e5a-a56b-cffff27561f2
 ---
-
 # Pre-transcoding and re-packaging API {#pre-transcoding-api}
 
 Primetime Ad Insertion offers a pre-transcoding API for situations where creative URLs are known in advance, such as for large direct-sold events.  This eliminates the 2-4 minute delay associated with just-in-time transcoding.
@@ -99,4 +99,4 @@ CRS responds to the request with one of the following status codes:
 
 Using the repackaging API, you can pre-transcode future SSAI or CSAI events. If the assets are intended to be used with SSAI in future, make sure that all the parameters in the POST calls are unique. The parameters are: AdSystem, AdId, CreativeURL, Zone, Format. Any differences in this set of parameters, result in a new transcoding request for SSAI.
 
-For assets used with CSAI in the future, the asset uniqueness depends on Zone and CreativeURL. AdSystem and AdId do not result in different transcoded assets and these are available to clients. 
+For assets used with CSAI in the future, the asset uniqueness depends on Zone and CreativeURL. AdSystem and AdId do not result in different transcoded assets and these are available to clients.

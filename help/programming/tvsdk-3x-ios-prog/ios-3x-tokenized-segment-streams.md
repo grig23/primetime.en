@@ -1,8 +1,8 @@
 ---
 description: HLS streams that are delivered through a Content Delivery Network (CDN) can sometimes use authentication tokens on the manifest and segment requests for verification. These tokens can be provided as URL parameters or as cookie headers.
 title: Tokenized segment streams
+exl-id: c7b441a7-63b6-4930-93a1-12ef6b72474e
 ---
-
 # Tokenized segment streams {#tokenized-segment-streams}
 
 HLS streams that are delivered through a Content Delivery Network (CDN) can sometimes use authentication tokens on the manifest and segment requests for verification. These tokens can be provided as URL parameters or as cookie headers.
@@ -20,4 +20,3 @@ An additional request is made to the master manifest (m3u8) before the stream be
 >[!IMPORTANT]
 >
 >This cookie-sharing feature is only supported on devices running iOS 8 or above.
-

@@ -2,8 +2,8 @@
 title: SWF application allow listing
 description: SWF application allow listing
 copied-description: yes
+exl-id: ae8b7f52-897f-43f9-ac7b-665d4b8c16b8
 ---
-
 # SWF application allow listing {#swf-application-allowlisting}
 
 To allow list a SWF application, you can follow one of these two strategies:
@@ -13,4 +13,4 @@ To allow list a SWF application, you can follow one of these two strategies:
 
   On the other hand, if you are using Primetime DRM via Flash/Adobe Media Server (FMS/AMS), you can supply the path to your particular SWF(s), and FMS/AMS will automatically hash the SWFs for you to insert into the DRM policy that is used to package the content streamed by FMS/AMS.
 
-See `policy.allowedSWFApplication.n` in *Configuration properties* for details. 
+See `policy.allowedSWFApplication.n` in *Configuration properties* for details.

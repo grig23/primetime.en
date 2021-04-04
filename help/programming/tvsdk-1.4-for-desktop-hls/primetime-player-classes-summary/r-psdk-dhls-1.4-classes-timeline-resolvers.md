@@ -1,8 +1,8 @@
 ---
 description: These classes assist in resolving content, such as ads, to place on the timeline.
 title: Timeline resolvers classes
+exl-id: 8135214b-5c0c-48ac-b1a4-21825e10f293
 ---
-
 # Timeline resolvers classes{#timeline-resolvers-classes}
 
 These classes assist in resolving content, such as ads, to place on the timeline.

@@ -1,8 +1,8 @@
 ---
 description: The status of the media player determines which actions are legal.
 title: Lifecycle and statuses of the MediaPlayer object
+exl-id: 6b43f334-bd21-4d0e-a123-fd99403a6082
 ---
-
 # Lifecycle and statuses of the MediaPlayer object {#lifecycle-and-statuses-of-the-mediaplayer-object}
 
 The status of the media player determines which actions are legal.
@@ -103,4 +103,3 @@ mediaPlayer.addEventListener(MediaPlayerEvent STATUS_CHANGED, new StatusChangeEv
 }); 
 
 ```
-

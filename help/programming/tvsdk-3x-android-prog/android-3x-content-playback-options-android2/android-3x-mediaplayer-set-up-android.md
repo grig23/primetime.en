@@ -1,8 +1,8 @@
 ---
 description: TVSDK provides tools for creating an advanced video player application (your Primetime player), that you can integrate with other Primetime components. It also provides a number of features designed to maximize the quality of video playback.
 title: Set up the Media player
+exl-id: 99fdc4c1-0c67-4de5-87a5-b42d76f43ae9
 ---
-
 # Set up the Media player {#set-up-the-media-player}
 
 TVSDK provides tools for creating an advanced video player application (your Primetime player), that you can integrate with other Primetime components. It also provides a number of features designed to maximize the quality of video playback.

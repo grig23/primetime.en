@@ -2,8 +2,8 @@
 title: Introduction
 description: Introduction
 copied-description: yes
+exl-id: 881ad531-b914-42f6-a06e-119da13965e0
 ---
-
 # Overview {#overview}
 
 The Adobe Primetime Software Development Kit (TVSDK) is a toolkit that allows you to add advanced video playback functionality to your applications.

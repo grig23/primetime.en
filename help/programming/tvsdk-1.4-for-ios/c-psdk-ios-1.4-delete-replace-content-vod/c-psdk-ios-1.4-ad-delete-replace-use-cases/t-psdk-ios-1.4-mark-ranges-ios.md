@@ -2,8 +2,8 @@
 title: Mark ranges
 description: Mark ranges
 copied-description: yes
+exl-id: e13db995-8910-43aa-a302-d8b1175af181
 ---
-
 # Mark ranges{#mark-ranges}
 
  To implement the `PTTimeRangeCollection` and mark ranges of content as ads: 

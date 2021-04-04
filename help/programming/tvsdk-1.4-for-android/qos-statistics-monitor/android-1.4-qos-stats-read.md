@@ -1,8 +1,8 @@
 ---
 description: You can read playback, buffering, and device statistics from the QOSProvider class.
 title: Read QOS playback, buffering, and device statistics
+exl-id: 1b79c254-4135-4d77-8b24-473f214021a1
 ---
-
 # Read QOS playback, buffering, and device statistics{#read-qos-playback-buffering-and-device-statistics}
 
 You can read playback, buffering, and device statistics from the QOSProvider class.
@@ -77,4 +77,3 @@ It also provides information about the device, such as the manufacturer, model, 
      " (" + orientation + ")"); 
    
    ```
-

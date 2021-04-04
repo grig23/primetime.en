@@ -1,8 +1,8 @@
 ---
 description: With the Adobe Primetime DRM Server for Protected Streaming, you can specify all usage rules on the server with configuration files.
 title: About usage rules
+exl-id: 55af3a18-8fdb-4285-bd9f-ca479475e34f
 ---
-
 # About usage rules{#about-usage-rules}
 
 With the Adobe Primetime DRM Server for Protected Streaming, you can specify all usage rules on the server with configuration files.
@@ -21,4 +21,3 @@ The Primetime DRM Server for Protected Streaming supports the following usage ru
 >[!NOTE]
 >
 >If you want to support remote key delivery to iOS devices, then the DRM policy that is applied at packaging time must have remote key delivery enabled. This setting cannot be modified through the tenant configuration on the server.
-

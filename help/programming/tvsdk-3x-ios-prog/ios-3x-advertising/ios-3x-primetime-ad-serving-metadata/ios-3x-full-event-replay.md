@@ -1,8 +1,8 @@
 ---
 description: TVSDK supports resolving and inserting ads for VOD and live/linear streams.
 title: Primetime ad server metadata
+exl-id: 32813029-51d4-421e-8278-a2d42c59e4dc
 ---
-
 # Enable ads in full-event replay {#section_6016E1DAF03645C8A8388D03C6AB7571}
 
 Full-event replay (FER) is a VOD asset that acts as a live/DVR asset, so your application must take steps to ensure that ads are placed correctly.

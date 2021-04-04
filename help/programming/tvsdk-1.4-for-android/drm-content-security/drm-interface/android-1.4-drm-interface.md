@@ -1,8 +1,8 @@
 ---
 description: You can use the features of the Primetime Digital Rights Management (DRM) system to provide secure access to your video content. Alternatively, you can use third-party DRM solutions as an alternative to Adobe's integrated Primetime DRM solution.
 title: Primetime DRM interface overview
+exl-id: 2f6e50e6-39f0-4939-bb9b-6c46e34bab7e
 ---
-
 # Overview {#primetime-drm-interface-overview}
 
 You can use the features of the Primetime Digital Rights Management (DRM) system to provide secure access to your video content. Alternatively, you can use third-party DRM solutions as an alternative to Adobe's integrated Primetime DRM solution.

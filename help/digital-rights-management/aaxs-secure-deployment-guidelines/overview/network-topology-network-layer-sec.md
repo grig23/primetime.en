@@ -2,8 +2,8 @@
 title: Network layer security
 description: Network layer security
 copied-description: yes
+exl-id: 70c9917d-32bc-43f6-add3-62883f98ac5e
 ---
-
 # Network layer security{#network-layer-security}
 
 Network security vulnerabilities are among the first threats to any Internet-facing or intranet-facing application server. This section describes the process of hardening hosts on the network against these vulnerabilities. It addresses network segmentation, Transmission Control Protocol/Internet Protocol (TCP/IP) stack hardening, and the use of firewalls for host protection.
@@ -37,4 +37,3 @@ This table describes common techniques that reduce network security vulnerabilit
   </tr> 
  </tbody> 
 </table>
-

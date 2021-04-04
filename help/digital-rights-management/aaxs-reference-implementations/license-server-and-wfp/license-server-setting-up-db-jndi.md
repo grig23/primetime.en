@@ -2,8 +2,8 @@
 title: Setting up the database and configuring the JNDI datasource
 description: Setting up the database and configuring the JNDI datasource
 copied-description: yes
+exl-id: ed22f095-924b-4792-8a10-e7548fab2c3b
 ---
-
 # Setting up the database and configuring the JNDI datasource {#setting-up-the-database-and-configuring-the-jndi-datasource}
 
 The reference implementation license server requires a database to support the following features:
@@ -59,4 +59,4 @@ You can safely ignore this error. This only happens the first time you run this 
 
 At this point you will need to configure Database Connection Pooling (DBCP). DBCP uses the Jakarta-Commons Database Connection Pool. A JNDI Datasource TestDB is configured to take advantage of this application server connection pooling. To change database connection to point to a MySQL server that is not on localhost, modify the [!DNL META-INF\context.xml] file (which specifies the location, username, and password of the license server's database) located in [!DNL flashaccess.war], or modify [!DNL \Reference Implementation\Server\refimpl\WebContent\META-INF\context.xml] and recreate the WAR file using the updated files. To change any of these parameters, edit the [!DNL context.xml] located in the WebContent directory and use the Ant script to recreate the WAR file. To tune the database, change the JNDI datasource settings in this file.
 
-If you debug the Reference Implementation project within Eclipse, you need to add `$CATALINA_HOME\lib\tomcat-dbcp.jar` to your run/debug configuration. This step is not required if you run the [!DNL flashaccess.war] file on a standalone Tomcat 6.0 server. 
+If you debug the Reference Implementation project within Eclipse, you need to add `$CATALINA_HOME\lib\tomcat-dbcp.jar` to your run/debug configuration. This step is not required if you run the [!DNL flashaccess.war] file on a standalone Tomcat 6.0 server.

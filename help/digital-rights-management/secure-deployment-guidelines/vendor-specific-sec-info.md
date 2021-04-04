@@ -1,8 +1,8 @@
 ---
 description: Operating systems and application servers are included in your Adobe Primetime DRM solution.
 title: Vendor-specific security information
+exl-id: 4cc39414-cab5-4282-825d-64651d9b03e1
 ---
-
 # Vendor-specific security information{#vendor-specific-security-information}
 
 Operating systems and application servers are included in your Adobe Primetime DRM solution.
@@ -79,4 +79,3 @@ Here are some of these measures:
 * Closing unneeded ports 
 * Limiting administrative interfaces by IP addresses or domains 
 * Using the Java™ Security Manager
-

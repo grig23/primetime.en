@@ -3,8 +3,8 @@ title: TVSDK 3.13 for Android Release Notes
 description: TVSDK 3.13 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.13
 products: SG_PRIMETIME
 topic-tags: release-notes
+exl-id: cd2c64ef-dd42-4dc2-805f-eeb64a8a53d9
 ---
-
 # TVSDK 3.13 for Android Release Notes {#tvsdk-for-android-release-notes}
 
 TVSDK 3.13 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.13.

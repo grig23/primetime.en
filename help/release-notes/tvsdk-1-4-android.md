@@ -4,8 +4,8 @@ description: TVSDK 1.4 for Android Release Notes describe what is new or changed
 contentOwner: asgupta
 products: SG_PRIMETIME
 topic-tags: release-notes
+exl-id: 1e3ec3b7-25be-4640-870e-928e832fe12d
 ---
-
 # TVSDK 1.4 for Android Release Notes {#tvsdk-for-android-release-notes}
 
 TVSDK 1.4 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 1.4.

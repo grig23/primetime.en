@@ -2,8 +2,8 @@
 title: Examining encrypted file content
 description: Examining encrypted file content
 copied-description: yes
+exl-id: a8a61d1c-c259-4346-9a71-6741f70697ae
 ---
-
 # Examining encrypted file content {#examining-encrypted-file-content}
 
 To examine the contents of an FLV or an F4V file by using the Java API, perform the following steps:
@@ -13,4 +13,4 @@ To examine the contents of an FLV or an F4V file by using the Java API, perform 
 1. Pass the encrypted file to the `MediaEncrypter.examineEncryptedContent` method, which returns a `KeyMetaData` object. 
 1. Inspect the information within the `KeyMetaData` object.
 
-For sample code demonstrating how to extract DRM metadata from an encrypted file, see `com.adobe.flashaccess.samples.mediapackager.ExamineContent` in the Reference Implementation Command Line Tools “samples” directory. 
+For sample code demonstrating how to extract DRM metadata from an encrypted file, see `com.adobe.flashaccess.samples.mediapackager.ExamineContent` in the Reference Implementation Command Line Tools “samples” directory.

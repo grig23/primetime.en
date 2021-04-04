@@ -2,8 +2,8 @@
 title: Configure the license server database
 description: Configure the license server database
 copied-description: yes
+exl-id: 1d5d988e-d22a-4405-8f39-1763f1f65094
 ---
-
 # Configure the license server database{#configure-the-license-server-database}
 
 To configure the sample database by setting up the database schema and populating the database with sample data: 
@@ -50,4 +50,3 @@ If you debug the Reference Implementation project in Eclipse, add `$CATALINA_HOM
 >[!NOTE]
 >
 >If you run the [!DNL flashaccess.war] file on a standalone Tomcat 6.0 server, this step is not required.
-

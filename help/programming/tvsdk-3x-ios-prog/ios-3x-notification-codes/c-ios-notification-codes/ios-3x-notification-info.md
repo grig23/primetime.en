@@ -1,8 +1,8 @@
 ---
 description: This table provides detailed information about INFO type notifications.
 title: INFO notification codes
+exl-id: c3703871-26cd-4f83-9a01-0993c6ef3d6b
 ---
-
 # INFO notification codes {#info-notification-codes}
 
 This table provides detailed information about INFO type notifications.

@@ -2,8 +2,8 @@
 title: Configure usage model demo mode
 description: Configure usage model demo mode
 copied-description: yes
+exl-id: 593acfbd-fd37-4bab-ac8e-5cb62963fac4
 ---
-
 # Configure usage model demo mode{#configure-usage-model-demo-mode}
 
 Before the Reference Implementation server can issue licenses for the usage model demo, you must configure the server to specify how licenses are generated for each of the four usage models. This means you need to specify a DRM policy for each usage model. The Reference Implementation includes the following sample DRM policies in the [!DNL Reference Implementation/Server/Reference Implementation Server/resources/] directory:

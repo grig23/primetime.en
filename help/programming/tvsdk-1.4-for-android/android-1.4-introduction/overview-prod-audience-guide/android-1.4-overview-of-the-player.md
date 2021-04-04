@@ -1,8 +1,8 @@
 ---
 description: TVSDK for Android includes a variety of features and provides the following main capabilities 
 title: Primetime TVSDK features
+exl-id: 7df03752-98aa-4317-8e41-a284472cabbb
 ---
-
 # Primetime TVSDK features{#primetime-tvsdk-features}
 
 TVSDK for Android includes a variety of features and provides the following main capabilities:
@@ -45,4 +45,3 @@ TVSDK for Android includes a variety of features and provides the following main
 
     * Debug logging 
     * Tracking support for fragment duration, size, and time-to-download
-

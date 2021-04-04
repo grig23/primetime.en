@@ -1,8 +1,8 @@
 ---
 description: Browser TVSDK sends billing metrics to Adobe in an XML format.
 title: Transmit billing metrics
+exl-id: f6ed72be-a5a8-48f2-b518-76c710300ea7
 ---
-
 # Transmit billing metrics{#transmit-billing-metrics}
 
 Browser TVSDK sends billing metrics to Adobe in an XML format.
@@ -33,4 +33,4 @@ If you use a network capture tool to monitor the statistics Browser TVSDK transm
 </request>
 ```
 
-The boolean properties `drmProtected`, `adsEnabled`, and `midrollEnabled` appear only if they are true.  
+The boolean properties `drmProtected`, `adsEnabled`, and `midrollEnabled` appear only if they are true.

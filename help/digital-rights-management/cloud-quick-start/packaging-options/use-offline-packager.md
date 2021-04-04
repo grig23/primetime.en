@@ -2,8 +2,8 @@
 title: Use the included Primetime Offline Packager
 description: Use the included Primetime Offline Packager
 copied-description: yes
+exl-id: 6a1d0dc3-8906-4de5-8351-890c1cf31efd
 ---
-
 # Use the included Primetime Offline Packager{#use-the-included-primetime-offline-packager}
 
 Your Primetime Java Packager comes pre-configured with most of the settings you need to package content. There are only a few areas to update in order to get started.
@@ -34,4 +34,4 @@ java -jar OfflinePackager.jar -conf_path [configuration filename]
 
 Sample configuration files to package your content to HLS or HDS format are provided, named [!DNL config_hds.xml] and [!DNL config.hls.xml].
 
-The HDS or HLS content will be output to the [!DNL /output] folder under the Protection Kit directory. All artifacts written to this directory must be hosted on an HTTP web server in order to be played. 
+The HDS or HLS content will be output to the [!DNL /output] folder under the Protection Kit directory. All artifacts written to this directory must be hosted on an HTTP web server in order to be played.

@@ -2,8 +2,8 @@
 title: Deploy Adobe Primetime DRM
 description: Deploy Adobe Primetime DRM
 copied-description: yes
+exl-id: 64a96d70-502c-48b8-9f43-59f4001a7ab6
 ---
-
 # Deploy Adobe Primetime DRM {#configure-adobe-primetime-drm}
 
 A key advantage to Adobe Primetime DRM SDK is that you can install it on any Java™ application server or servlet container, such as Tomcat. You also need JDK™ 1.5 or higher. For more information on software requirements, see Primetime DRM SDK platform requirements: [https://www.adobe.com/products/flashaccess/systemreqs/](https://www.adobe.com/products/flashaccess/systemreqs/).

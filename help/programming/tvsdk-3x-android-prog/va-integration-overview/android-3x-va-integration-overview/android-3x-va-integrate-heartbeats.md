@@ -2,8 +2,8 @@
 title: Initialize and configure video analytics
 description: Initialize and configure video analytics
 copied-description: yes
+exl-id: 26bdc11e-b8f6-414f-a3e9-53bc895d25ce
 ---
-
 # Initialize and configure video analytics {#initialize-and-configure-video-analytics}
 
 You can configure your player to track and analyze video use. 

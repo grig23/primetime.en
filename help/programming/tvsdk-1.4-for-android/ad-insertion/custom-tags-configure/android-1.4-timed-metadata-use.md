@@ -1,8 +1,8 @@
 ---
 description: You can use TimedMetadata when the current playback time matches the start time.
 title: Use timed metadata
+exl-id: 7f87cd14-121a-4543-ab0a-a03d829d040b
 ---
-
 # Use timed metadata {#use-timed-metadata}
 
 You can use TimedMetadata when the current playback time matches the start time.

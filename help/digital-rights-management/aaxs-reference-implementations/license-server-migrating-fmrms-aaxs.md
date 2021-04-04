@@ -2,8 +2,8 @@
 title: Migrating from FMRMS 1.0 or 1.5 to Adobe Access 2.0 and above
 description: Migrating from FMRMS 1.0 or 1.5 to Adobe Access 2.0 and above
 copied-description: yes
+exl-id: 9aadf9a0-a7c5-466b-9dd1-c1bab2b8bfc6
 ---
-
 # Migrating from FMRMS 1.0 or 1.5 to Adobe Access 2.0 and above {#migrating-from-fmrms-or-to-adobe-access-and-above}
 
 In order to continue to issue licenses for content packaged using Flash Media Rights Management Server (FMRMS) 1.0 or 1.5, license and policy data must be migrated from the LiveCycle ES server to the customer's new server based on the Adobe Access SDK. The important steps are:
@@ -22,4 +22,4 @@ If you are migrating from FMRMS 1.5 to Adobe Access, see the V1_5PolicyConverter
 
 The converted policies will be written to a set of files. In addition, PolicyConverter will output a CSV file containing the mapping of old policy IDs to new policy IDs. This file can be imported into the "PolicyConversion" table in the reference implementation database, and will be used by `RefImplMetadataConvReqHandler`.
 
-Once the relevant data has been migrated to your Adobe Access-based server, you are ready to implement support for 1.x compatibility requests. See `RefImplUpgradeV1ClientHandler` and `RefImplMetadataConvReqHandler` in the reference implementation for examples of how to process these types of requests. 
+Once the relevant data has been migrated to your Adobe Access-based server, you are ready to implement support for 1.x compatibility requests. See `RefImplUpgradeV1ClientHandler` and `RefImplMetadataConvReqHandler` in the reference implementation for examples of how to process these types of requests.

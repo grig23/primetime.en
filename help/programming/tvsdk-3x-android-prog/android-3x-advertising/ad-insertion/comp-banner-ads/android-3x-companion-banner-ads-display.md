@@ -1,8 +1,8 @@
 ---
 description: To display banner ads, you need to create banner instances and allow TVSDK to listen for ad-related events.
 title: Display banner ads
+exl-id: 3ccf6525-ffc1-4f45-a662-8b53cab0f448
 ---
-
 # Display banner ads {#display-banner-ads}
 
 To display banner ads, you need to create banner instances and allow TVSDK to listen for ad-related events.

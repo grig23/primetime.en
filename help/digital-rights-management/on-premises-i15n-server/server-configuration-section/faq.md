@@ -2,8 +2,8 @@
 title: FAQ
 description: FAQ
 copied-description: yes
+exl-id: 9058604e-dbab-4df5-89fd-1219c85c7643
 ---
-
 # FAQ {#faq}
 
 * How often do ECI changes occur? 

@@ -1,8 +1,8 @@
 ---
 description: Your application can monitor the activity in your player and the changing status of the player by listening for the events that are dispatched by TVSDK.
 title: Primetime player events summary
+exl-id: 3912f140-1600-41fb-9dc4-306646b7cd85
 ---
-
 # Primetime player events summary {#primetime-player-events-summary}
 
 Your application can monitor the activity in your player and the changing status of the player by listening for the events that are dispatched by TVSDK.

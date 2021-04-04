@@ -2,8 +2,8 @@
 title: Working with Policy Update Lists
 description: Working with Policy Update Lists
 copied-description: yes
+exl-id: 71715eec-e6a3-4640-b17f-ec0c38caf73e
 ---
-
 # Working with Policy Update Lists{#working-with-policy-update-lists}
 
 For license servers that do not have access to a database for storing information about policies, you may wish to use a policy update list to notify the license server of updated policies. Policy Update Lists may contain updated versions of policies or a list of policy IDs that have been revoked. If a policy update list is supplied in `HandlerConfiguration`, the SDK will enforce this list when issuing a license.
@@ -23,4 +23,4 @@ Working with policy update lists involves the use of a `PolicyUpdateListFactory`
 
 To add additional entries to an existing `PolicyUpdateList`, load an existing policy update list. Create a new `PolicyUpdateListFactory` instance. Call P `olicyUpdateListFactory.addEntries` to add all the entries from the old list to the new list. Call `PolicyUpdateListFactory.addRevocationEntry` or `addUpdatedEntry` to add any new revocation or update entries to the PolicyUpdateList.
 
-For sample code demonstrating how to create a policy update list, load an existing policy update list, and check whether a policy has been revoked, see `com.adobe.flashaccess.samples.policyupdatelist` `.CreatePolicyUpdateList` in the Reference Implementation Command Line Tools “samples” directory. 
+For sample code demonstrating how to create a policy update list, load an existing policy update list, and check whether a policy has been revoked, see `com.adobe.flashaccess.samples.policyupdatelist` `.CreatePolicyUpdateList` in the Reference Implementation Command Line Tools “samples” directory.

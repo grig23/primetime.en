@@ -1,8 +1,8 @@
 ---
 description: Browser TVSDK supports a number of DASH features that you can implement to add functionality to your video applications.
 title: Supported DASH features
+exl-id: 29a5d1a3-e31e-459c-90b5-80227df46e4b
 ---
-
 # Supported DASH features{#supported-dash-features}
 
 Browser TVSDK supports a number of DASH features that you can implement to add functionality to your video applications.

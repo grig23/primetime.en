@@ -2,8 +2,8 @@
 title: Adobe Primetime authentication (Optional)
 description: Adobe Primetime authentication (Optional)
 copied-description: yes
+exl-id: 59fbbefa-0c84-474a-ace9-141b50ad5f5f
 ---
-
 # Adobe Primetime authentication (Optional) {#adobe-primetime-authentication-optional}
 
 If the DRM policy that is used to package the content is an anonymous policy, a license will be issued to all license requests. Optionally,  Primetime Cloud DRM  also supports authentication via Adobe Primetime authentication. If this feature is enabled, a license will not be issued unless the client device has first acquired a Primetime authentication Token and set it locally via the appropriate client API ( `setAuthenticationToken`) for setting custom authentication tokens. For more information on integrating Primetime authentication into your authentication workflow, please refer to: [Adobe Primetime authentication.](https://tve.helpdocsonline.com/home)

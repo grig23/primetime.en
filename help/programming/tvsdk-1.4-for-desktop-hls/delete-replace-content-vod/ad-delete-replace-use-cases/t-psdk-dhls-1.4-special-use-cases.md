@@ -2,8 +2,8 @@
 title: Special Use Cases
 description: Special Use Cases
 copied-description: yes
+exl-id: 33aad8cc-5939-4890-bc89-32d6bbf1fa4c
 ---
-
 # Special Use Cases{#special-use-cases}
 
 TVSDK favors custom range settings over standard ad settings. For example, if MARK ranges are defined, the ad's insertion settings are ignored. If REPLACE ranges are defined, TVSDK automatically uses the `CustomRanges` signaling mode. 

@@ -1,8 +1,8 @@
 ---
 description: You can cast any of the streams from a TVSDK-based sender app and have the stream played back on Chromecast with Browser TVSDK.
 title: Google Cast app for Browser TVSDK
+exl-id: 71077467-8040-4f04-a43b-cc963701c426
 ---
-
 # Google Cast app for Browser TVSDK{#google-cast-app-for-browser-tvsdk}
 
 You can cast any of the streams from a TVSDK-based sender app and have the stream played back on Chromecast with Browser TVSDK.
@@ -125,4 +125,3 @@ customMessageBus.onMessage = function (event) {
 }; 
 
 ```
-

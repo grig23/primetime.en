@@ -3,8 +3,8 @@ title: Primetime Streaming Server releases
 description: What's new in Primetime Streaming Server 1.3 and 1.4 releases.
 products: SG_PRIMETIME
 topic-tags: release-notes
+exl-id: 80c4687e-b0ac-48f2-a1c3-8751552da9d1
 ---
-
 # Primetime Streaming Server releases {#primetime-streaming-server-x-releases}
 
 What's new in Primetime Streaming Server 1.3 and 1.4 releases.

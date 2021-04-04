@@ -1,8 +1,8 @@
 ---
 description: You can complete Digital Rights Management (DRM)-specific workflows.
 title: Digital Rights Management
+exl-id: 5a40252b-2917-4341-bc64-8642432ddda9
 ---
-
 # Digital Rights Management {#digital-rights-management}
 
 You can complete Digital Rights Management (DRM)-specific workflows.

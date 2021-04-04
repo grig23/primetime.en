@@ -1,8 +1,8 @@
 ---
 title: Manifest Rewriting and Ad-Fetching Rules
-description: Manifest Rewriting and Ad-Fetching Rules 
+description: Manifest Rewriting and Ad-Fetching Rules
+exl-id: 3750abc1-da60-4faf-ba85-37914f33641f
 ---
-
 # Manifest Rewriting and Ad-Fetching Rules {#manifest-rewriting}
 
 Primetime Ad Insertion is capable of re-writing fragments and fetching assets using simple search/replace rules.  This can be used to down-convert https to http requests, which would increase performance by removing TLS handshakes.  This can also be used to deliver ad assets and cdn assets from the same CDN.

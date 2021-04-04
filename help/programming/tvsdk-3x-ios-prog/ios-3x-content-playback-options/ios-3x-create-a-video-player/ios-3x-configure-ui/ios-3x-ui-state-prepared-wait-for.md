@@ -1,8 +1,8 @@
 ---
 description: Before you can use most of the TVSDK player methods, the player must be in a valid status.
 title: Wait for a valid state
+exl-id: 2ea7e287-7393-4909-8f55-53cebf4dc289
 ---
-
 # Wait for a valid state {#wait-for-a-valid-state}
 
 Before you can use most of the TVSDK player methods, the player must be in a valid status.

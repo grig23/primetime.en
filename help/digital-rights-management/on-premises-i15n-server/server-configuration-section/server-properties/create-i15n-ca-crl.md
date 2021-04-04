@@ -2,8 +2,8 @@
 title: Create Individualization CA CRL
 description: Create Individualization CA CRL
 copied-description: yes
+exl-id: 72147209-1337-4aed-9e4e-210c905c55a4
 ---
-
 # Create Individualization CA CRL{#create-individualization-ca-crl}
 
 This Certificate Revocation List (CRL) distribution point is included within each machine certificate issued by the individualization server. During machine certificate validation on the license server, this CRL will be downloaded from the distribution point listed in the certificate (or read from the cache if already downloaded) and checked to be sure the certificate has not been revoked.

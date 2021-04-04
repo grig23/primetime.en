@@ -2,8 +2,8 @@
 title: Command line usage
 description: Command line usage
 copied-description: yes
+exl-id: 55b18fee-b7d8-4a5a-91a7-a08cd23e7866
 ---
-
 # Command line usage {#command-line-usage}
 
 Before using Media Packager, ensure that you fulfill the requirements listed in Requirements and that the configuration file contains the required information (see Configuration file in the *Using the Adobe Access Reference Implementations*.
@@ -123,4 +123,3 @@ The following table contains descriptions of the command line options shown in t
   </tr> 
  </tbody> 
 </table>
-

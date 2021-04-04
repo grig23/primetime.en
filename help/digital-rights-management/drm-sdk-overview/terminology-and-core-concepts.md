@@ -2,8 +2,8 @@
 title: Terminology and core concepts
 description: Terminology and core concepts
 copied-description: yes
+exl-id: eb065dd4-0312-4a5c-b013-a02e6ac85fa0
 ---
-
 # Terminology and core concepts{#terminology-and-core-concepts}
 
 The following terms and concepts are used throughout this document:
@@ -70,4 +70,4 @@ Policies are created using Primetime DRM SDK.
 
 **Retailers**
 
-See the entry for *distributors* earlier in this section. 
+See the entry for *distributors* earlier in this section.

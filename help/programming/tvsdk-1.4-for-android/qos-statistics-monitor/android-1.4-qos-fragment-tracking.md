@@ -1,8 +1,8 @@
 ---
 description: Quality of service (QoS) offers a detailed view into how the video engine is performing. TVSDK provides detailed statistics about playback, buffering, and devices.
 title: Track at the fragment level using load information
+exl-id: 29e82a93-783f-4e32-ab5e-12713a60cfec
 ---
-
 # Track at the fragment level using load information{#track-at-the-fragment-level-using-load-information}
 
 Quality of service (QoS) offers a detailed view into how the video engine is performing. TVSDK provides detailed statistics about playback, buffering, and devices.

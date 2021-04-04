@@ -1,8 +1,8 @@
 ---
 description: These classes enable you to customize logging.
 title: Logging classes
+exl-id: 85cf33dc-54c0-43f0-8386-2805853226ed
 ---
-
 # Logging classes{#logging-classes}
 
 These classes enable you to customize logging.
@@ -43,4 +43,3 @@ These classes enable you to customize logging.
   </tr> 
  </tbody> 
 </table>
-

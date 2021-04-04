@@ -1,8 +1,8 @@
 ---
 description: Video analytics reports are routed to the Adobe Analytics reporting platforms.
 title: Access video analytics reports
+exl-id: 95e6f20a-3f89-427c-8f38-92b82fa0579d
 ---
-
 # Access video analytics reports{#access-video-analytics-reports}
 
 Video analytics reports are routed to the Adobe Analytics reporting platforms.

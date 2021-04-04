@@ -2,8 +2,8 @@
 title: Request a certificate (Requester)
 description: Request a certificate (Requester)
 copied-description: yes
+exl-id: 290231ec-1146-4bfb-a449-b8ff85704197
 ---
-
 # Request a certificate (Requester){#request-a-certificate-requester}
 
 1. Log onto the Certificate Enrollment site.
@@ -27,5 +27,4 @@ copied-description: yes
 
 1. Click the **[!UICONTROL Submit Request]** button.
 
-   An e-mail is sent to the Account and Secondary Administrators for review. The Requester is Cc'd. 
-
+   An e-mail is sent to the Account and Secondary Administrators for review. The Requester is Cc'd.

@@ -2,8 +2,8 @@
 title: Software Requirements
 description: Software Requirements
 copied-description: yes
+exl-id: aa2ae6ac-7c2a-4cc3-a3a4-b7f92e478d23
 ---
-
 # Software Requirements {#software-requirements}
 
 * Tomcat 6

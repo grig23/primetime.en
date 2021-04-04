@@ -1,8 +1,8 @@
 ---
 description: Before you can use most of the Browser TVSDK player methods, the player must be in a valid state.
 title: Wait for a valid state
+exl-id: 14f6a5db-4f81-448b-b291-487569a7bc4e
 ---
-
 # Wait for a valid state {#wait-for-a-valid-state}
 
 Before you can use most of the Browser TVSDK player methods, the player must be in a valid state.
@@ -20,4 +20,3 @@ The required state is usually PREPARED.
    ```
    <readonly> status :AdobePSDK.MediaPlayerStatus
    ```
-

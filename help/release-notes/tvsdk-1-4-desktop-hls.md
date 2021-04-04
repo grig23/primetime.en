@@ -4,8 +4,8 @@ description: TVSDK for Desktop HLS Release Notes describe what is new or changed
 contentOwner: asgupta
 products: SG_PRIMETIME
 topic-tags: release-notes
+exl-id: 5e227c99-acf6-4b16-a35a-68e2928fdbfd
 ---
-
 # TVSDK 1.4 for Desktop HLS Release Notes {#tvsdk-for-desktop-hls-release-notes}
 
 TVSDK for Desktop HLS Release Notes describe what is new or changed, the resolved, and known issues in TVSDK DHLS.

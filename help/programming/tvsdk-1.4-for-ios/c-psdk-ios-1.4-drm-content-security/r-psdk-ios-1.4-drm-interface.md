@@ -1,8 +1,8 @@
 ---
 description: The key client-side element of the Primetime digital rights management (DRM) system is the DRM Manager.
 title: Primetime DRM interface overview
+exl-id: dee420cf-8aad-42e8-965d-9fd9395f2c45
 ---
-
 # Primetime DRM interface overview {#primetime-drm-interface-overview}
 
 You can use the features of the Primetime Digital Rights Management (DRM) system to provide secure access to your video content. Alternatively, you can use third-party DRM solutions as an alternative to Adobe's integrated Primetime DRM solution.

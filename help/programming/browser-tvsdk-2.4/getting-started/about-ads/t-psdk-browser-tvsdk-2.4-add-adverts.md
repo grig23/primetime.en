@@ -2,8 +2,8 @@
 title: Add Advertising
 description: Add Advertising
 copied-description: yes
+exl-id: 72f875ea-80ae-482b-94be-41116fff3614
 ---
-
 # Add Advertising {#add-advertising}
 
 1. Define the advertising metadata.

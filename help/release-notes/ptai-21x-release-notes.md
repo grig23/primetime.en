@@ -1,8 +1,9 @@
 ---
 title:  PTAI 21.2.2 release notes
 description: The PTAI release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2021.
+exl-id: 39a05f6d-431a-4416-81b1-21d82c0dbd69
+exl-id: 068befcb-2b28-4900-a632-0f5862089532
 ---
-
 # Primetime Ad Insertion 21.2.2 Release Notes
 
 Primetime Ad Insertion 21.x.x release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2021.

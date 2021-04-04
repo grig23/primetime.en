@@ -1,8 +1,8 @@
 ---
 description: You can customize or override ad behaviors.
 title: Set up customized playback
+exl-id: 28c28589-9e94-40de-b921-1bffc0392c29
 ---
-
 # Set up customized playback{#set-up-customized-playback}
 
 You can customize or override ad behaviors.

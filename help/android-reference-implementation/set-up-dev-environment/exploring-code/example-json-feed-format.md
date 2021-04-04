@@ -1,8 +1,8 @@
 ---
 description: The reference implementation uses a JSON-based input file.
 title: Example JSON feed format
+exl-id: a04d5501-74dc-4ae3-880e-72da7718fe1b
 ---
-
 # Example JSON feed format {#example-json-feed-format}
 
 The reference implementation uses a JSON-based input file.

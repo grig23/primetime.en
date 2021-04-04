@@ -2,8 +2,8 @@
 title: About the reference implementations
 description: About the reference implementations
 copied-description: yes
+exl-id: fe387330-9449-4977-be15-069c814354bf
 ---
-
 # About the reference implementations{#about-the-reference-implementations}
 
  This guide describes the installation, configuration, and operation of the Adobe Primetime DRM reference implementations. 
@@ -54,4 +54,3 @@ The Primetime DRM reference implementations include these components:
 * **The Primetime DRM Server for Protected Streaming** - This is a ready-to-go binary that you can implement quickly with minimal effort. It is a good option for customers that want to quickly show Proof of Concept, or it *could* be a production option if your custom DRM needs are minimal. For more information, see Related Information below. 
 
 * **The Primetime Cloud DRM Service** - This is an Adobe-hosted license server that you can use for license serving. (You must be a Primetime licensee to use this service.) This Adobe cloud service relieves you of the expense, maintenance, and engineering required to build your own service. For more information, see Related Information below.
-

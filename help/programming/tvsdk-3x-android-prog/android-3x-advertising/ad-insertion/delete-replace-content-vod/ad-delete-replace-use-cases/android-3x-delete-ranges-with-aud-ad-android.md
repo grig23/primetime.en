@@ -1,8 +1,8 @@
 ---
 description: You can remove TimeRanges between begin and end in localTime from the timeline.
 title: Delete ranges
+exl-id: afa2f520-144f-47b4-b271-50c8e4d138d8
 ---
-
 # Delete ranges {#delete-ranges}
 
 You can remove `TimeRanges` between `begin` and `end` in `localTime` from the timeline.

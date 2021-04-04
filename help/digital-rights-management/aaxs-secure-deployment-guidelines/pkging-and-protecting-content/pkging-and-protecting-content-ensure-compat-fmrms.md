@@ -2,8 +2,8 @@
 title: Ensure compatibility with Flash Media Rights Management Server 1.x
 description: Ensure compatibility with Flash Media Rights Management Server 1.x
 copied-description: yes
+exl-id: 324ea561-c666-4cf9-871b-11f6b6b406f1
 ---
-
 # Ensure compatibility with Flash Media Rights Management Server 1.x{#ensure-compatibility-with-flash-media-rights-management-server-x}
 
 Flash Media Rights Management Server 1.x and Adobe Access use different metadata for packaging content and requesting licenses. For Adobe Access to use FMRMS version 1.x content, the metadata must be converted.
@@ -20,4 +20,4 @@ The Adobe Access SDK supports two options for converting metadata:
 
   To convert the metadata, Adobe Access requires access to the Adobe Access 1.x content encryption keys. When you migrate from Flash Media Rights Management Server 1.x, you can continue to store the content encryption keys in the LiveCycle ES database, or you can implement a custom solution to securely store the content encryption keys elsewhere. If you choose to continue storing the content encryption keys in the LiveCycle ES database, follow the recommendations outlined in "Protecting access to sensitive content in the database" in *Hardening and Security for LiveCycle ES*.
 
-For more information on ensuring compatibility with content packaged using Flash Media Rights Management Server 1.x, see the *Adobe Access API Reference*. 
+For more information on ensuring compatibility with content packaged using Flash Media Rights Management Server 1.x, see the *Adobe Access API Reference*.

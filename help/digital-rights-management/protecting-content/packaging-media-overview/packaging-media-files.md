@@ -2,8 +2,8 @@
 title: Packaging media files overview
 description: Packaging media files overview
 copied-description: yes
+exl-id: 88c593a7-33b5-4773-b283-2ab16f9e8c3a
 ---
-
 # Overview {#packaging-media-files-overview}
 
  Packaging refers to the process of encrypting and applying a DRM policy to video content. You can use the media packaging APIs to package files. The Primetime DRM Java SDK can only package progressive-download content, such as MP4.
@@ -32,4 +32,4 @@ All of these tasks can be accomplished with the Java API.
 
 See *Adobe Primetime DRM API Reference* for details about the Java API.
 
-See *Using the Adobe Primetime DRM Reference Implementations* for information about the Media Packager reference implementation. 
+See *Using the Adobe Primetime DRM Reference Implementations* for information about the Media Packager reference implementation.

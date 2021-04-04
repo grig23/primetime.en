@@ -1,8 +1,8 @@
 ---
 title: Adobe Primetime Ad Insertion Announcements
 description: Announcements about recent feature releases and other related news about Primetime Ad Insertion
+exl-id: 7d85d3a2-6786-47bd-8d45-ec162aea0ab3
 ---
-
 # Primetime Ad Insertion Announcements
 
 ## Reducing Programmatic Ad Errors via Ad Resolution Timeouts

@@ -1,8 +1,8 @@
 ---
 description: When the DRM metadata for a video is separate from the media stream, you should authenticate before you beginning the playback.
 title: DRM authentication before playback
+exl-id: b3267363-f734-44a6-99f5-e155deb53f3e
 ---
-
 # DRM authentication before playback {#drm-authentication-before-playback}
 
 When the DRM metadata for a video is separate from the media stream, you should authenticate before you beginning the playback.

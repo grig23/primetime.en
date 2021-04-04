@@ -1,8 +1,8 @@
 ---
 description: Closed captions and subtitles have some unique differences, and you enable them in different ways.
 title: Requirements for subtitles and closed captions
+exl-id: f90dcfb7-4fd2-41d5-8396-cdc827f8a8c4
 ---
-
 # Requirements for subtitles and closed captions {#requirements-for-subtitles-and-closed-captions}
 
 Closed captions and subtitles have some unique differences, and you enable them in different ways.

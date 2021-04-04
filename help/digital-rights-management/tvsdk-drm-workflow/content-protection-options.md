@@ -2,8 +2,8 @@
 title: Primetime DRM content protection options
 description: Primetime DRM content protection options
 copied-description: yes
+exl-id: fb73caf8-a542-4ca6-a5ea-3cd633b2495b
 ---
-
 # Primetime DRM content protection options{#primetime-drm-content-protection-options}
 
 Primetime DRM provides a number of options for content owners to protect their content:

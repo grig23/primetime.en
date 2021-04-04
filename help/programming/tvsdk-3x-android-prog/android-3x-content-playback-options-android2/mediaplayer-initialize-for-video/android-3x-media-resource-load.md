@@ -1,8 +1,8 @@
 ---
 description: Load a resource by directly instantiating a MediaResource and loading the video content to be played. This is one way of loading a media resource.
 title: Load a media resource in the media player
+exl-id: f39d3aa2-8912-4dac-9f10-91b6d20395ea
 ---
-
 # Load a media resource in the media player {#load-a-media-resource-in-the-media-player}
 
 Load a resource by directly instantiating a MediaResource and loading the video content to be played. This is one way of loading a media resource.

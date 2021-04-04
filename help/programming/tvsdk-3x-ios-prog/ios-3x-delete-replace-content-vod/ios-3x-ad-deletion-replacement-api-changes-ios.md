@@ -1,8 +1,8 @@
 ---
 description: TVSDK supports the programmatic deleting and replacing of ad content in VOD streams.
 title: Ad deletion and replacement API changes
+exl-id: 4093af3c-41fd-4486-9e1c-26f68d3fbeb4
 ---
-
 # Ad deletion and replacement API changes {#ad-deletion-and-replacement-api-changes}
 
 TVSDK supports the programmatic deleting and replacing of ad content in VOD streams.

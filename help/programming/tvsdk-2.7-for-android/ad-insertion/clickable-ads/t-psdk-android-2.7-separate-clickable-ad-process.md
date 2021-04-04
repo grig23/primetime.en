@@ -1,8 +1,8 @@
 ---
 description: You should separate your player's UI logic from the process that manages ad clicks. One way to do this is to implement multiple fragments for an activity.
 title: Separate the clickable ad process
+exl-id: 9b6fad9b-d46d-4965-8770-0bb85c052e0e
 ---
-
 # Separate the clickable ad process {#separate-the-clickable-ad-process}
 
 You should separate your player's UI logic from the process that manages ad clicks. One way to do this is to implement multiple fragments for an activity.
@@ -82,4 +82,3 @@ You should separate your player's UI logic from the process that manages ad clic
    } 
    
    ```
-

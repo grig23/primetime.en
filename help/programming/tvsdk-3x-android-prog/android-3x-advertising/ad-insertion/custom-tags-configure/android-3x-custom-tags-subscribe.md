@@ -1,8 +1,8 @@
 ---
 description: TVSDK prepares TimedMetadata objects for subscribed tags each time these objects are encountered in the content manifest.
 title: Subscribe to custom tags
+exl-id: faefcefb-e52f-4e32-859a-7da4284ca52e
 ---
-
 # Subscribe to custom tags {#subscribe-to-custom-tags}
 
 TVSDK prepares TimedMetadata objects for subscribed tags each time these objects are encountered in the content manifest.

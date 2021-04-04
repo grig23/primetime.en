@@ -1,8 +1,8 @@
 ---
 description: You can set up a user interface control to adjust the volume for the video.
 title: Provide volume control
+exl-id: 8b8b0263-9874-4e87-853e-eb394ebef3e3
 ---
-
 # Provide volume control {#provide-volume-control}
 
 You can set up a user interface control to adjust the volume for the video.

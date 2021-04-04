@@ -1,8 +1,8 @@
 ---
 description: You can specify closed-caption formatting.
 title: Examples  Caption formatting
+exl-id: 946530a1-c7d7-4582-81b8-71b2980561cb
 ---
-
 # Examples: Caption formatting{#examples-caption-formatting}
 
 You can specify closed-caption formatting.
@@ -28,4 +28,3 @@ var tf = new AdobePSDK.TextFormat(
 >[!IMPORTANT]
 >
 >Browser TVSDK does not support font edge, fill color, or fill opacity.
-

@@ -1,8 +1,8 @@
 ---
 description: The Password Scrambler utility encrypts a password for the Adobe Primetime DRM Server for Protected Streaming configuration files.
 title: Password scrambler
+exl-id: 9cedd3e5-01db-4ea9-bf23-8767987fc26c
 ---
-
 # Password scrambler {#password-scrambler}
 
 The Password Scrambler utility encrypts a password for the Adobe Primetime DRM Server for Protected Streaming configuration files.

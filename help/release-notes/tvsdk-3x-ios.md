@@ -1,8 +1,8 @@
 ---
 title: TVSDK 3.13 for iOS Release Notes
 description: TVSDK 3.13 for iOS Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK iOS 3.13.
+exl-id: adf8ab23-86d6-4113-b243-2709d5f7f829
 ---
-
 # TVSDK 3.13 for iOS Release Notes {#tvsdk-for-ios-release-notes}
 
 TVSDK 3.12 for iOS Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK iOS 3.12.

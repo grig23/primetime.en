@@ -2,8 +2,8 @@
 title: Deploying the Adobe Access Server for Protected Streaming overview
 description: Deploying the Adobe Access Server for Protected Streaming overview
 copied-description: yes
+exl-id: fdefa13a-14ec-4301-ab39-2ceea830463d
 ---
-
 # Deploying the Adobe Access Server for Protected Streaming overview {#deploying-the-adobe-access-server-for-protected-streaming-overview}
 
 Before deploying the Adobe Access Server for Protected Streaming, make sure you have installed the versions of Java and Tomcat listed in the Requirements section.
@@ -19,4 +19,3 @@ The server optionally uses a platform-specific library ( [!DNL jsafe.dll] on Mic
 >[!NOTE]
 >
 >The 64-bit version should only be used if both the operating system and JDK support 64-bit, otherwise use the 32-bit version.
-

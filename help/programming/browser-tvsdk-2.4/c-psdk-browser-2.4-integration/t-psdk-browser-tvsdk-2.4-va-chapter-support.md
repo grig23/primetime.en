@@ -2,8 +2,8 @@
 title: Implement chapter support
 description: Implement chapter support
 copied-description: yes
+exl-id: 8a962706-50cd-41c2-96a7-6af1b24145a4
 ---
-
 # Implement chapter support{#implement-chapter-support}
 
 A chapter is defined as the time between each ad break. For example, the time between a pre-roll ad break and the first mid-roll is defined as the first chapter. You can define and track chapters for video tracking in a Browser TVSDK-based application using custom chapters. Custom chapters are managed by the application and are based on CMS data or another way that the application uses to define chapters. 
@@ -24,4 +24,3 @@ A chapter is defined as the time between each ad break. For example, the time be
      
    vaObj.chapters = chapters;
    ```
-

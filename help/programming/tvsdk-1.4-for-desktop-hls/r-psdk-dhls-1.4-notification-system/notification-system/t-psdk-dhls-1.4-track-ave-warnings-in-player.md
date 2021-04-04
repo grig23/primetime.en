@@ -1,8 +1,8 @@
 ---
 description: Using the NotificationEvent, you can track warnings that are passed from the Adobe Video Engine (AVE).
 title: Track AVE warnings in your player
+exl-id: 49118d7f-ed79-4d22-ba91-8929f97c7256
 ---
-
 # Track AVE warnings in your player{#track-ave-warnings-in-your-player}
 
 Using the NotificationEvent, you can track warnings that are passed from the Adobe Video Engine (AVE).

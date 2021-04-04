@@ -1,8 +1,8 @@
 ---
 description: To test your DRM solution, you need a video application that can process the particular DRM solution you are working with. This player could be a sample player made available by Adobe, or your own TVSDK-based video application.
 title: Playback your protected content
+exl-id: b0e09474-f752-495f-a702-93f288535403
 ---
-
 # Playback your protected content {#playback-your-protected-content}
 
 To test your DRM solution, you need a video application that can process the particular DRM solution you are working with. This player could be a sample player made available by Adobe, or your own TVSDK-based video application.

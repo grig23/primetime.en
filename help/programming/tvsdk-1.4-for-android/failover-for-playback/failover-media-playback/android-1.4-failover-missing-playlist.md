@@ -1,8 +1,8 @@
 ---
 description: When an entire playlist is missing, for example, when the M3U8 file specified in a top-level manifest file does not download, TVSDK attempts to recover. If it cannot recover, your application determines the next step.
 title: Missing playlist failover
+exl-id: aab2dde3-aee2-4ade-b8f9-91c72df0c747
 ---
-
 # Missing playlist failover{#missing-playlist-failover}
 
 When an entire playlist is missing, for example, when the M3U8 file specified in a top-level manifest file does not download, TVSDK attempts to recover. If it cannot recover, your application determines the next step.
@@ -39,4 +39,4 @@ psdkutils::PSDKErrorCode
 _networkDownVerificationUrl = value; return psdkutils::kECSuccess; }
 ```
 
-If setNetworkDownVerificationUrl is not set, TVSDK uses the MainManifest url by default to figure if the network is down. 
+If setNetworkDownVerificationUrl is not set, TVSDK uses the MainManifest url by default to figure if the network is down.

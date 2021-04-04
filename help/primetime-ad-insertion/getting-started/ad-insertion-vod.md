@@ -1,8 +1,8 @@
 ---
 title: Use Ad Insertion for VOD
 description: Using Ad Insertion for VOD
+exl-id: c998938e-f8a6-4ad3-97f6-ca4ad5055f15
 ---
-
 # Use Ad Insertion for VOD {#ad-insertion-vod}
 
 Primetime Ad Insertion supports ad insertion into multiple VOD assets, using standard VAST 3.0+ or VMAP 1.0+ formats.

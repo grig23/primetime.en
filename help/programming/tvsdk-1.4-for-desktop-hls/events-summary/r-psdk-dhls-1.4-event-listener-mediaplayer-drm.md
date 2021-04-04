@@ -1,8 +1,8 @@
 ---
 description: TVSDK dispatches digital rights management (DRM) events in response to DRM-related operations such as when new DRM metadata becomes available.
 title: DRM events
+exl-id: 65a02744-8973-418d-9a9c-53a2a313f631
 ---
-
 # DRM events{#drm-events}
 
 TVSDK dispatches digital rights management (DRM) events in response to DRM-related operations such as when new DRM metadata becomes available.

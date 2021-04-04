@@ -1,8 +1,8 @@
 ---
 description: Frequently asked questions about using resolution-based output protection.
 title: RBOP FAQ
+exl-id: 16b95db4-43a9-4458-b7f4-94033a36542e
 ---
-
 # RBOP FAQ {#rbop-faq}
 
 Frequently asked questions about using resolution-based output protection.
@@ -71,4 +71,3 @@ Frequently asked questions about using resolution-based output protection.
   ```
 
   throughout, for all instances of `maxPixel` and `pixelCount`.
-

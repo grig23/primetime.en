@@ -1,8 +1,8 @@
 ---
 description: This guide provides information about how to develop video player applications using Browser TVSDK.
 title: Product overview and audience
+exl-id: e2bbec5e-d1ce-430c-986c-ba3152190b1c
 ---
-
 # Product overview and audience{#product-overview-and-audience}
 
 This guide provides information about how to develop video player applications using Browser TVSDK.

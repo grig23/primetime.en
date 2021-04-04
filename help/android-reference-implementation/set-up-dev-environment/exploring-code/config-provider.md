@@ -1,8 +1,8 @@
 ---
 description: The ConfigProvider class gets the configuration for the media player. You must implement the configuration interface so the feature managers can read the configuration information.
 title: ConfigProvider
+exl-id: 75613bfb-3c2b-4b53-b365-adc98f7e1164
 ---
-
 # ConfigProvider {#configprovider}
 
 The ConfigProvider class gets the configuration for the media player. You must implement the configuration interface so the feature managers can read the configuration information.

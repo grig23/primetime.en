@@ -1,8 +1,8 @@
 ---
 description: There are some security considerations to be aware for Browser TVSDK.
 title: Security considerations
+exl-id: bc98890a-082a-4e2d-b927-ecb3bd878de9
 ---
-
 # Security considerations{#security-considerations}
 
 There are some security considerations to be aware for Browser TVSDK.
@@ -28,4 +28,3 @@ There are some security considerations to be aware for Browser TVSDK.
       >[!IMPORTANT]
       >
       >Starting in version 2.4.5, if the player is hosted over HTTPS, Browser TVSDK converts the HTTP calls to HTTPS when using MSE technology.
-

@@ -1,8 +1,8 @@
 ---
 description: This example shows the recommended way to include custom ad markers on the playback timeline.
 title: Place custom ad markers on the timeline
+exl-id: 32a4b342-1f26-42c5-9682-789c541f0fa6
 ---
-
 # Place custom ad markers on the timeline {#place-custom-ad-markers-on-the-timeline}
 
 This example shows the recommended way to include custom ad markers on the playback timeline.

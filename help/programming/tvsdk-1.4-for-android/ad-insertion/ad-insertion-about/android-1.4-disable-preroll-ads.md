@@ -2,8 +2,8 @@
 title: Disable pre-roll ads
 description: Disable pre-roll ads
 copied-description: yes
+exl-id: ff52588e-540e-4072-bec0-e531c8cb6fe3
 ---
-
 # Disable pre-roll ads{#disable-pre-roll-ads}
 
 To disable pre-roll, change the default opportunity generators to not make the pre-roll call. The default opportunity generators is: 
@@ -32,4 +32,3 @@ result.push(new SpliceOutOpportunityGenerator());
 return result; 
 }
 ```
-

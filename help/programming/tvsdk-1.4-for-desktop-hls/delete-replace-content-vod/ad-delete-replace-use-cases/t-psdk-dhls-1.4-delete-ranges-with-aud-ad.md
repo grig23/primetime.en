@@ -1,8 +1,8 @@
 ---
 description: Remove TimeRanges between begin and end in localTime from the timeline.
 title: Delete ranges with Primetime ad decisioning ad
+exl-id: e097f92e-b4ce-4e33-9a71-213cf19188fb
 ---
-
 # Delete ranges with Primetime ad decisioning ad{#delete-ranges-with-primetime-ad-decisioning-ad}
 
 Remove TimeRanges between begin and end in localTime from the timeline.
@@ -60,4 +60,3 @@ Remove TimeRanges between begin and end in localTime from the timeline.
    }
    
    ```
-

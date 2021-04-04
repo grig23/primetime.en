@@ -1,8 +1,8 @@
 ---
 description: You can configure your player to track and analyze video use.
 title: Initialize and configure video analytics
+exl-id: e0bf461b-a431-4fba-bd3d-c38be307a92f
 ---
-
 # Initialize and configure video analytics {#initialize-and-configure-video-analytics}
 
 You can configure your player to track and analyze video use.
@@ -140,4 +140,4 @@ To configure video tracking in your player:
       videoAnalyticsProvider = null;
       // Create a new instance of VideoAnalyticsProvider to continue tracking.
       } 
-      ``` 
+      ```

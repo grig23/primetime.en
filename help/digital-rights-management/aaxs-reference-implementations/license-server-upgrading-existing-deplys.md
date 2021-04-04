@@ -2,8 +2,8 @@
 title: Upgrading existing deployments
 description: Upgrading existing deployments
 copied-description: yes
+exl-id: e07b883f-d5f7-40d3-9221-a0dc2d859a5a
 ---
-
 # Upgrading existing deployments {#upgrading-existing-deployments}
 
 To upgrade a server running the version 3.0 Reference Implementation License Server or Watched Folder Packager, replace the [!DNL .war] files deployed on your Application Server with the files included with Adobe Access Reference Implementation Server.
@@ -27,4 +27,3 @@ The following properties must be added to flashaccess-refimpl.properties to use 
 The following properties must be added to [!DNL flashaccess-refimpl.properties] to support remote key delivery to iOS clients:
 
 * `HandlerConfiguration.KeyServerCertificate` or `RefImpl.HSM.HandlerConfiguration.KeyServerCertificate.Alias`
-

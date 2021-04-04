@@ -1,8 +1,8 @@
 ---
 description: You can save the current playback position in a video and resume playing at the same position in a future session.
 title: Save the video position and resume later
+exl-id: 6b1eeeeb-ae13-437f-80cc-1ceb7bf8ac19
 ---
-
 # Save the video position and resume later {#save-the-video-position-and-resume-later}
 
 You can save the current playback position in a video and resume playing at the same position in a future session.

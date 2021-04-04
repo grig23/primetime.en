@@ -1,8 +1,8 @@
 ---
 description: These classes describe events that the TVSDK dispatches to your media player in response to various activities.
 title: Events classes
+exl-id: a349984a-5e47-4895-a56f-ef25eb372c79
 ---
-
 # Events classes {#events-classes}
 
 These classes describe events that the TVSDK dispatches to your media player in response to various activities.

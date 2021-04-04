@@ -2,8 +2,8 @@
 title: Overview
 description: Overview
 copied-description: yes
+exl-id: 4781e0bc-c753-4c8f-9c91-bf15294eb8b2
 ---
-
 # Overview {#overview}
 
 Use the Primetime DRM Policy Manager command-line tool ( [!DNL AdobePolicyManager.jar]) to create and manage DRM policies.

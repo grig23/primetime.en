@@ -1,8 +1,8 @@
 ---
 description: You can use notifications to implement real-time logging in your video application.
 title: Add real-time logging and debugging
+exl-id: 06ba7207-bb6e-4f77-8575-746505b131bd
 ---
-
 # Add real-time logging and debugging{#add-real-time-logging-and-debugging}
 
 You can use notifications to implement real-time logging in your video application.

@@ -2,8 +2,8 @@
 title: Command line usage
 description: Command line usage
 copied-description: yes
+exl-id: 241849bb-e818-420e-98b4-c12e306b17b2
 ---
-
 # Command line usage {#command-line-usage}
 
 To generate a license, use the following syntax:
@@ -79,4 +79,3 @@ The following table describes the command line options that can be specified alo
   </tr> 
  </tbody> 
 </table>
-

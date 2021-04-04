@@ -1,8 +1,8 @@
 ---
 description: When users fast forward or fast rewind through the media, they are in the trick play mode. To enter trick play mode, you need to set the MediaPlayer playback rate to a value other than 1.
 title: Implement fast forward and rewind
+exl-id: c1d70d46-449b-494b-9b89-5553e9bcdbc3
 ---
-
 # Implement fast forward and rewind {#implement-fast-forward-and-rewind}
 
 When users fast forward or fast rewind through the media, they are in the trick play mode. To enter trick play mode, you need to set the MediaPlayer playback rate to a value other than 1.

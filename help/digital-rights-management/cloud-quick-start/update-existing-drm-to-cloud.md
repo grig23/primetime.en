@@ -2,8 +2,8 @@
 title: Update existing DRM content to use Cloud DRM (Optional)
 description: Update existing DRM content to use Cloud DRM (Optional)
 copied-description: yes
+exl-id: 89b1e99a-cb28-4524-9c47-f71f92d3753d
 ---
-
 # Update existing DRM content to use Cloud DRM (Optional) {#update-existing-drm-content-to-use-cloud-drm-optional}
 
 If you have an existing library of content protected by Primetime DRM, it is possible to "re-header" the existing content to use the  Primetime Cloud DRM service, instead of having to re-package/encrypt the original source files. Re-headering the content simply updates the DRM Metadata of the content in the HLS manifest. It does not perform any unencryption/re-encryption of the original asset. This may be a useful option if the original source content is not available, or if there is concern over the amount of resources required to re-package a large library.
@@ -29,4 +29,4 @@ Supply the `-drm_refresh option` to the command line. A new manifest file will b
 
 ## Using the Primetime DRM Java SDK to Re-header {#section_7EDBAC4C78DF4CD5BE8410EEAD8437A2}
 
-Updating an existing DRM Metadata can be accomplished by using the Primetime DRM (formerly known as Adobe Access DRM) Java SDK for a programmatic approach. For more details, please refer to the [!DNL RegenerateMetadata.java] code sample in the [!DNL /Reference Implmentation/Command Line Tools/samples/] package of the SDK. The Adobe Access Java SDK is not a part of this CloudDRM Protection Kit, and must be acquired directly from Adobe. Please contact your Adobe business contact for further details.  
+Updating an existing DRM Metadata can be accomplished by using the Primetime DRM (formerly known as Adobe Access DRM) Java SDK for a programmatic approach. For more details, please refer to the [!DNL RegenerateMetadata.java] code sample in the [!DNL /Reference Implmentation/Command Line Tools/samples/] package of the SDK. The Adobe Access Java SDK is not a part of this CloudDRM Protection Kit, and must be acquired directly from Adobe. Please contact your Adobe business contact for further details.

@@ -1,8 +1,8 @@
 ---
 description: Code can request a key through DRMManager.
 title: Key request workflow on HTML5 TVSDK
+exl-id: 1f60aadc-4730-4f71-a221-1af3ae3cba93
 ---
-
 # Key request workflow on HTML5 TVSDK{#key-request-workflow-on-html-tvsdk}
 
 Code can request a key through DRMManager.
@@ -46,4 +46,4 @@ var protectionData = {
    };
 ```
 
-TVSDK does not provide any API to force a particular DRM system because each browser supports one DRM system only. 
+TVSDK does not provide any API to force a particular DRM system because each browser supports one DRM system only.

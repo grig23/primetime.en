@@ -1,8 +1,8 @@
 ---
 description: For live and VOD media, Browser TVSDK starts playback by downloading the playlist that is associated with the middle-resolution bit rate and then downloading segments of the middle-resolution bit rate media that is defined by the playlist.
 title: Media playback
+exl-id: 56033ca2-8a63-4a0d-ac7d-bf208273a238
 ---
-
 # Media playback {#media-playback}
 
 For live and VOD media, Browser TVSDK starts playback by downloading the playlist that is associated with the middle-resolution bit rate and then downloading segments of the middle-resolution bit rate media that is defined by the playlist.

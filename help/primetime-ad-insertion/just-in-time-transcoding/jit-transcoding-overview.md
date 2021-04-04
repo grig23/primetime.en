@@ -1,8 +1,8 @@
 ---
 title: Just-in-Time Transcoding
-description: 
+description:
+exl-id: 9577e1d5-1462-49d6-9d24-94e74dc9c019
 ---
-
 # Just-in-Time Transcoding {#just-in-time-transcoding}
 
 Primetime Ad Insertion features just-in-time transcoding and packaging to ensure that incompatible ad creatives can be played back properly in content streams. It can also inject ID3 packets into ad fragments that can be used in client-side ad tracking.

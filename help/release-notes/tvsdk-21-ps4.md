@@ -4,8 +4,8 @@ description: TVSDK 2.1 for PlayStation 4 Release Notes describe the supported fe
 contentOwner: dekalra
 topic-tags: release-notes
 products: SG_PRIMETIME
+exl-id: 32af3fe4-c730-41f6-a558-987bd14c9bae
 ---
-
 # TVSDK 2.1 PlayStation 4 Release Notes {#tvsdk-playstation-release-notes}
 
 TVSDK 2.1 for PlayStation 4 Release Notes describe the supported features and the known issues in TVSDK 2.1 PlayStation 4 .

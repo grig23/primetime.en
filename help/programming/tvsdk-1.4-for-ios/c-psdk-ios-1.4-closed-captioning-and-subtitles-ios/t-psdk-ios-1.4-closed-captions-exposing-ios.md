@@ -1,8 +1,8 @@
 ---
 description: To make closed captions available to your client player, you must enable them. The user can turn closed captions on or off and select the formatting.
 title: Expose closed captions
+exl-id: 57168c6e-a958-4a89-b22b-0c9f1cab3a49
 ---
-
 # Expose closed captions {#expose-closed-captions}
 
 To make closed captions available to your client player, you must enable them. The user can turn closed captions on or off and select the formatting.

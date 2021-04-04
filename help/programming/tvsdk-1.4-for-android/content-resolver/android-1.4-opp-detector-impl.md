@@ -1,8 +1,8 @@
 ---
 description: You can implement your own opportunity detectors by implementing the interface PlacementOpportunityDetector.
 title: Implement a custom opportunity detector
+exl-id: d78949a0-2c76-4976-9358-05f3db86781e
 ---
-
 # Implement a custom opportunity detector {#implement-a-custom-opportunity-detector}
 
 You can implement your own opportunity detectors by implementing the interface PlacementOpportunityDetector.
@@ -76,4 +76,3 @@ public class CustomPlacementOpportunityDetector implements PlacementOpportunityD
 } 
 
 ```
-

@@ -2,8 +2,8 @@
 title: Rollback detection
 description: Rollback detection
 copied-description: yes
+exl-id: 054d3634-5ce9-4a51-ac91-e6ae60a1fd6e
 ---
-
 # Rollback detection {#rollback-detection}
 
 If your implementation of Adobe Access uses business rules that require the client to maintain state (for example, the playback window interval), Adobe highly recommends that the server keep track of the rollback counter and use AIR or SWF allow listing.

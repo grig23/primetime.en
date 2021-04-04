@@ -2,8 +2,8 @@
 title: About Adobe Access Server for Protected Streaming
 description: About Adobe Access Server for Protected Streaming
 copied-description: yes
+exl-id: 69fbc99d-ee1a-4066-ae01-d61838db32a3
 ---
-
 # About Adobe Access Server for Protected Streaming{#about-adobe-access-server-for-protected-streaming}
 
 The Adobe® Access™ Server for Protected Streaming is a license server implementation based on the Adobe Access SDK. This server issues licenses for protected content to Adobe Access clients.

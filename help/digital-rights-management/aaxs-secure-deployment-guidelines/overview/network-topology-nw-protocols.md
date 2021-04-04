@@ -2,8 +2,8 @@
 title: Network protocols used by Adobe Access
 description: Network protocols used by Adobe Access
 copied-description: yes
+exl-id: f065690d-6fa1-43a7-8aa8-a1ccd68e998d
 ---
-
 # Network protocols used by Adobe Access {#network-protocols-used-by-adobe-access}
 
 When you configure a secure network architecture, the network protocols in the following table are required for interaction between Adobe Access and other systems in your enterprise network. 

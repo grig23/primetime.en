@@ -1,8 +1,8 @@
 ---
 description: Use the helper class AuditudeSettings, which extends the MetadataNode class, to set up Adobe Primetime ad decisioning metadata.
 title: Set up ad insertion metadata
+exl-id: 5afcdd51-a611-4ea9-88e1-5aa15b8a504a
 ---
-
 # Set up ad insertion metadata {#set-up-ad-insertion-metadata}
 
 Use the helper class AuditudeSettings, which extends the MetadataNode class, to set up Adobe Primetime ad decisioning metadata.

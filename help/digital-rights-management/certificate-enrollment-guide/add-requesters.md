@@ -2,8 +2,8 @@
 title: Add Requesters
 description: Add Requesters
 copied-description: yes
+exl-id: 66d9bc90-8287-4a07-9f60-4263888d5cce
 ---
-
 # Add Requesters{#add-requesters}
 
 An Adobe Primetime DRM licensee can have up to five Requesters. Adobe advises you, however, to limit the number of Requesters to the individuals who are developing the Primetime DRM solution. The Requesters are responsible for storing the private key in a secure location. 
@@ -52,4 +52,3 @@ An Adobe Primetime DRM licensee can have up to five Requesters. Adobe advises yo
     1. Click **[!UICONTROL Save]**.
 
        The user receives an e-mail stating that their Primetime DRM account registration has been completed.
-

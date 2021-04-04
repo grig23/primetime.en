@@ -1,8 +1,8 @@
 ---
 description: You might need to know whether the media content is live or VOD.
 title: Identify whether the content is live or VOD
+exl-id: fb15c779-db25-4858-b7d7-ae5eabf646a3
 ---
-
 # Identify whether the content is live or VOD{#identify-whether-the-content-is-live-or-vod}
 
 You might need to know whether the media content is live or VOD.
@@ -20,4 +20,3 @@ You might need to know whether the media content is live or VOD.
    ```js
    player.currentItem.live
    ```
-

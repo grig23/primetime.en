@@ -2,8 +2,8 @@
 title: Deploying the license server and watched folder packager overview
 description: Deploying the license server and watched folder packager overview
 copied-description: yes
+exl-id: b44aec8b-f1d7-4dce-bc51-0ce2b74ae0c1
 ---
-
 # Deploying the license server and watched folder packager overview {#deploying-the-license-server-and-watched-folder-packager-overview}
 
 Copy the license server WAR files to Tomcat's [!DNL webapps] directory. If you have previously deployed the WAR file, you may need to manually delete the unpacked WAR directories ( [!DNL flashaccess], [!DNL edcws], and [!DNL flashaccess-packager] in Tomcat's [!DNL webapps] directory). To prevent Tomcat from unpacking WAR files, edit the [!DNL server.xml] file in Tomcat's conf directory and set the `unpackWARs` attribute to `false`.
@@ -12,4 +12,4 @@ The properties file ( [!DNL flashaccess-refimpl.properties]) must be on the clas
 
 The reference implementation server uses several certificate files, policy files, and other resources. Those files are all located in one resource folder. By default, the resource folder is [!DNL C:\flashaccess-server-resources], but this location can be modified in [!DNL flashaccess-refimpl.properties]. Be sure to copy all the required resources to this location before starting the server.
 
-To start Tomcat and the license server, run `catalina.bat start` from Tomcat's [!DNL bin] directory. 
+To start Tomcat and the license server, run `catalina.bat start` from Tomcat's [!DNL bin] directory.

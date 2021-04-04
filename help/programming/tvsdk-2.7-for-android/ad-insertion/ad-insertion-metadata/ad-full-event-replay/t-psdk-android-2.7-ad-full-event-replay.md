@@ -1,8 +1,8 @@
 ---
 description: Full-event replay (FER) is a VOD asset that acts as a live/DVR asset, so your application must take steps to ensure that ads are placed correctly.
 title: Enable ads in full-event replay
+exl-id: 866a696d-0c5e-4665-8890-cbbaed3e7a04
 ---
-
 # Enable ads in full-event replay {#enable-ads-in-full-event-replay-overview}
 
 Full-event replay (FER) is a VOD asset that acts as a live/DVR asset, so your application must take steps to ensure that ads are placed correctly.

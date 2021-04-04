@@ -2,8 +2,8 @@
 title: Create a basic player using the UI Framework
 description: Create a basic player using the UI Framework
 copied-description: yes
+exl-id: 78629042-fd87-406b-af42-229e34d48162
 ---
-
 # Create a basic player using the UI Framework{#create-a-basic-player-using-the-ui-framework}
 
 To create a basic player using the UI Framework: 

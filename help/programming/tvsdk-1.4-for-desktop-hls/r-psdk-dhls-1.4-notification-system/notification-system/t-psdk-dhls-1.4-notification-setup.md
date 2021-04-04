@@ -1,8 +1,8 @@
 ---
 description: You can listen for notifications and you can add your own notifications to the notification history.
 title: Set up your notification system
+exl-id: da6cec2d-8488-4f61-881b-72999ece650c
 ---
-
 # Set up your notification system{#set-up-your-notification-system}
 
 You can listen for notifications and you can add your own notifications to the notification history.
@@ -22,4 +22,3 @@ To receive notifications:
 
     * The new state ( `MediaPlayer.Status`) 
     * A `MediaPlayerNotification` object
-

@@ -1,8 +1,8 @@
 ---
 title: AAXS DRM External CEK Workflow
 description: This workflow is a departure from most existing DRM systems, as it does not require the use of any central repository or Content Key Management System (CKMS)
+exl-id: f084aa57-8bef-40a0-b52d-4d23dfdf36c4
 ---
-
 # AAXS DRM External CEK Workflow{#aaxs-drm-external-cek-workflow}
 
  This workflow is a departure from most existing DRM systems, as it does not require the use of any central repository or Content Key Management System (CKMS). However, for customers that desire AAXS to work with their existing CKMS, AAXS provides a feature called "External CEK", in which the CEK is supplied externally at packaging and license issuance time. 

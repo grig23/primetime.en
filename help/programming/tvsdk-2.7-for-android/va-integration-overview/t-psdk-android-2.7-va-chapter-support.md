@@ -2,8 +2,8 @@
 title: Implement chapter support
 description: Implement chapter support
 copied-description: yes
+exl-id: 4d1b3488-88c9-49ff-9e54-f78aacdabf6e
 ---
-
 # Implement chapter support {#implement-chapter-support}
 
 You can define and track *custom* chapters for video tracking in TVSDK-based applications.
@@ -39,4 +39,3 @@ Custom chapters are managed by the application, and are based on CMS data or on 
    vaMetadata.setChapters(chapters); 
    
    ```
-

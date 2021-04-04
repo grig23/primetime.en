@@ -2,8 +2,8 @@
 title: Set up the license server database
 description: Set up the license server database
 copied-description: yes
+exl-id: be6232b4-bf51-486f-9c85-ab6f6ec6d9bd
 ---
-
 # Set up the license server database{#set-up-the-license-server-database}
 
 The reference implementation license server requires a database to support the following:
@@ -39,4 +39,3 @@ To run the license server, you need to install and configure MySQL:
    >[!NOTE]
    >
    >MySQL JDBC Driver 5.1.7 works with Tomcat 6.0. Older versions of Tomcat are no longer supported.
-

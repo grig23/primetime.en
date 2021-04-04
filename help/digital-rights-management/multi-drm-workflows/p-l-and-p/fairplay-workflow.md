@@ -1,8 +1,8 @@
 ---
 description: The DRM workflows involve packaging your content, providing licensing for the content, and playing back the protected content from your own video application. The workflow is generally similar for each DRM solution, but with some differences is in the details.
 title: Multi-DRM Workflow for FairPlay
+exl-id: a66cecda-762b-48f7-afed-6fef6303d169
 ---
-
 # Multi-DRM Workflow for FairPlay {#multi-drm-workflow-for-fairplay}
 
 The DRM workflows involve packaging your content, providing licensing for the content, and playing back the protected content from your own video application. The workflow is generally similar for each DRM solution, but with some differences is in the details.

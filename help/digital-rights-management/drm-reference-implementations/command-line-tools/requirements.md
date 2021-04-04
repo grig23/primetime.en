@@ -2,8 +2,8 @@
 title: Command-line tools requirements
 description: Command-line tools requirements
 copied-description: yes
+exl-id: b19512d0-0865-4c24-a6d8-1f26cd3f210c
 ---
-
 # Command-line tools requirements {#command-line-tools-requirements}
 
 * Java 1.5 or higher.

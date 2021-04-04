@@ -2,8 +2,8 @@
 title: Command line usage
 description: Command line usage
 copied-description: yes
+exl-id: 2142cb76-e71c-4443-8b5d-348e45587331
 ---
-
 # Command line usage {#command-line-usage}
 
 Before using Policy Manager, ensure that you fulfill the requirements listed in Requirements.
@@ -125,4 +125,3 @@ The following table describes the command line options that can be specified alo
   </tr> 
  </tbody> 
 </table>
-

@@ -2,8 +2,8 @@
 description: Support for the withCredentials attribute in XMLHttpRequests allows cross-origin resource sharing (CORS) requests to include the target domain's cookies for a variety of request types.
 keywords: CORS;cross origin;resource sharing;cookies;withCredentials
 title: Cross-origin resource sharing
+exl-id: 02826c87-b0c6-495b-a17d-67c5693a9772
 ---
-
 # Cross-origin resource sharing {#cross-origin-resource-sharing}
 
 Support for the withCredentials attribute in XMLHttpRequests allows cross-origin resource sharing (CORS) requests to include the target domain's cookies for a variety of request types.

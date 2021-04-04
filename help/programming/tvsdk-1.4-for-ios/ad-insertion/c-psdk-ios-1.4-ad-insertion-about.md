@@ -1,8 +1,8 @@
 ---
 description: Ad insertion resolves ads for video-on-demand (VOD) , for live streaming, and for linear streaming with ad tracking and ad playback. TVSDK makes the required requests to the ad server, receives information about ads for the specified content, and places the ads in the content in phases.
 title: Insert ads
+exl-id: 4e5a4fe2-6887-48d0-b335-f3e99559dca8
 ---
-
 # Insert ads{#insert-ads}
 
 Ad insertion resolves ads for video-on-demand (VOD) , for live streaming, and for linear streaming with ad tracking and ad playback. TVSDK makes the required requests to the ad server, receives information about ads for the specified content, and places the ads in the content in phases.
@@ -116,4 +116,3 @@ The ability to exit from an ad break early is identified through a custom tag in
        [clientFactory clearOpportunityResolvers]; 
        [clientFactory registerOpportunityResolver:[[PTDefaultExtendedAdOpportunityResolver new] autorelease]];
        ```
-

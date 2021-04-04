@@ -1,8 +1,8 @@
 ---
 description: You might need to know whether the media content is live or video on demand (VOD).
 title: Identify whether the content is live or VOD
+exl-id: a75332d9-a23a-423c-8d1f-81b40ca73b21
 ---
-
 # Identify whether the content is live or VOD {#identify-whether-the-content-is-live-or-vod}
 
 You might need to know whether the media content is live or video on demand (VOD).

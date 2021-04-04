@@ -1,8 +1,8 @@
 ---
 description: MediaPlayerNotification provides information that is related to the player's status.
 title: Notification content
+exl-id: dc46f717-f08b-4d52-82ea-88107076f4fb
 ---
-
 # Notification content{#notification-content}
 
 MediaPlayerNotification provides information that is related to the player's status.
@@ -19,4 +19,4 @@ TVSDK provides a chronological list of `MediaPlayerNotification` notifications. 
     
     * `innerNotification`: A reference to another `MediaPlayerNotification` object that directly impacts this notification.
 
-You can store this information locally for later analysis or send it to a remote server for logging and graphical representation. 
+You can store this information locally for later analysis or send it to a remote server for logging and graphical representation.

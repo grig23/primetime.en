@@ -1,8 +1,8 @@
 ---
 description: You can use Adobe's Offline packager to prepare content for any of the DRM solutions supported by Primetime Cloud DRM, powered by ExpressPlay.
 title: Primetime Packager / Cloud DRM / TVSDK
+exl-id: 2055c18b-62de-41bf-9644-f366609e0198
 ---
-
 # Primetime Packager / Cloud DRM / TVSDK {#primetime-packager-cloud-drm-tvsdk}
 
 You can use Adobe's Offline packager to prepare content for any of the DRM solutions supported by Primetime Cloud DRM, powered by ExpressPlay.

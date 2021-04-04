@@ -1,8 +1,8 @@
 ---
 description: You can easily build a custom user interface based on the reference implementation framework.
 title: Build a custom user interface
+exl-id: 96008010-cd63-4fb1-a3fc-2fc94b624413
 ---
-
 # Build a custom user interface {#build-a-custom-user-interface}
 
 You can build a custom user interface based on the reference implementation framework.

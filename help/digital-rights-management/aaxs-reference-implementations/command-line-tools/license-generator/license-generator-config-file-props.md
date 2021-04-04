@@ -2,8 +2,8 @@
 title: Configuration File Properties
 description: Configuration File Properties
 copied-description: yes
+exl-id: ce4193fa-d217-4134-b08e-715c2cc57c84
 ---
-
 # Configuration File Properties {#configuration-file-properties}
 
 Before you run the License Generator, specify values for the License Generator properties. The configuration file specifies the following properties. For property names that include *n*, *n* represents an integer starting with 1 and increasing for each instance of the property. 
@@ -46,4 +46,3 @@ Before you run the License Generator, specify values for the License Generator p
   </tr> 
  </tbody> 
 </table>
-

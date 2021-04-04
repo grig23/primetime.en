@@ -1,8 +1,8 @@
 ---
 title: JSON object for Primetime ads
 description: The code block below defines the details JSON object when the type value is Primetime ads.
+exl-id: b1392781-2dfb-4934-b1ce-1c761cbfb22d
 ---
-
 # JSON object for Primetime ads {#json-object-for-primetime-ads}
 
 The code block below defines the details JSON object when the type value is Primetime ads.

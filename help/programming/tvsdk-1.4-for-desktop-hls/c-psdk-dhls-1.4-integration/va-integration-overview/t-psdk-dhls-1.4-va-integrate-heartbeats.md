@@ -1,8 +1,8 @@
 ---
 description: You can configure your player to track and analyze video use.
 title: Initialize and configure video analytics
+exl-id: 58d560d1-f668-4e1d-a817-b2e02008fdbe
 ---
-
 # Initialize and configure video analytics{#initialize-and-configure-video-analytics}
 
 You can configure your player to track and analyze video use.
@@ -178,4 +178,3 @@ To configure video tracking in your player:
       >[!TIP]
       >
       >This API is optional and is not needed for VOD video tracking.
-

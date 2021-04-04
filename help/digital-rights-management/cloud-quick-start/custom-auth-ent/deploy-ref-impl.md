@@ -2,8 +2,8 @@
 title: Deploy the BEES reference implementation
 description: Deploy the BEES reference implementation
 copied-description: yes
+exl-id: 87f3f879-66b4-4b8c-a0c4-e15551f9b727
 ---
-
 # Deploy the BEES reference implementation {#deploy-the-bees-reference-implementation}
 
 1. Set up your Tomcat application server. (See your Tomcat documentation.)

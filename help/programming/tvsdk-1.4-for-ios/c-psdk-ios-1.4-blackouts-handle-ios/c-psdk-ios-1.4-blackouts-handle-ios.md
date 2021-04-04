@@ -1,8 +1,8 @@
 ---
 description: TVSDK handles blackouts in live video streams and provides alternate content during a blackout.
 title: Handle blackouts in live streams
+exl-id: 772700ac-2b6d-4bf9-9400-c357dd77f701
 ---
-
 # Handle blackouts in live streams{#handle-blackouts-in-live-streams}
 
 TVSDK handles blackouts in live video streams and provides alternate content during a blackout.
@@ -37,4 +37,3 @@ To implement the solution for this use case:
 
     * When joining the main stream when a blackout is in the DVR. 
     * When switching back to the main content from the alternate content.
-

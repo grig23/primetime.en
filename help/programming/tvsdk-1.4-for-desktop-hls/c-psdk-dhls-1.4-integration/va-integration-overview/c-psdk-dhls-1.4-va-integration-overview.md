@@ -1,8 +1,8 @@
 ---
 description: You can track video use by integrating TVSDK with Adobe Analytics.
 title: Video analytics
+exl-id: 02303511-2713-4974-ada7-6f50fc500325
 ---
-
 # Video analytics{#video-analytics}
 
 You can track video use by integrating TVSDK with Adobe Analytics.
@@ -27,4 +27,3 @@ The following procedure summarizes the steps to activate video tracking in your 
    >The TVSDK built-in video tracking capability depends on a properly configured `AppMeasurement` instance. The tracking elements assume that the `AppMeasurement` library is already instantiated and configured before configuring and activating video tracking. TVSDK video tracking capabilities depend on the existence of a fully functional and properly configured instance of the `AppMeasurement` library.
 
 1. Set up video analytics reporting on the server side by using Adobe Analytics Admin Tools.
-

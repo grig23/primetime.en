@@ -1,8 +1,8 @@
 ---
 description: You can control the visibility of closed captions. When visibility is on, the currently selected track is displayed.
 title: Control closed-caption visibility
+exl-id: e74c0344-43f3-4ed7-bbf2-d89dd3df8a33
 ---
-
 # Control closed-caption visibility{#control-closed-caption-visibility}
 
 You can control the visibility of closed captions. When visibility is on, the currently selected track is displayed.
@@ -18,4 +18,3 @@ If closed caption text is displayed when the player enters the seek mode, the te
 >The visibility values for closed captions are controlled with `MediaPlayer.VISIBLE` and `MediaPlayer.INVISIBLE`.
 
 1. Use the `MediaPlayer.ccVisibility` property to access the current visibility setting for the closed captions.
-

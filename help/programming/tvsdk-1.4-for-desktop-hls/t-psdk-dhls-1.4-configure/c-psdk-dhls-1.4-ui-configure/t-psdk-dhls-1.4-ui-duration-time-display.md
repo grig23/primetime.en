@@ -1,8 +1,8 @@
 ---
 description: You can use TVSDK to retrieve information about the media that you can display on the seek bar.
 title: Display the duration, current time, and remaining time of the video
+exl-id: 490bfa22-6df6-44a3-8e0d-9bb5939ae881
 ---
-
 # Display the duration, current time, and remaining time of the video{#display-the-duration-current-time-and-remaining-time-of-the-video}
 
 You can use TVSDK to retrieve information about the media that you can display on the seek bar.

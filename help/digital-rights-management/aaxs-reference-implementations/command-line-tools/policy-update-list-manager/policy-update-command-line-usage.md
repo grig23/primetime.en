@@ -2,8 +2,8 @@
 title: Command line usage
 description: Command line usage
 copied-description: yes
+exl-id: 4c772010-b7b6-4655-98ee-b52e8022d4af
 ---
-
 # Command line usage {#command-line-usage}
 
 Policy Update List Manager is in the \Reference Implementation\Command Line Tools directory on the DVD. To create a policy update list, use the following syntax:
@@ -77,4 +77,3 @@ The following table contains descriptions of the command line options shown in t
   </tr> 
  </tbody> 
 </table>
-

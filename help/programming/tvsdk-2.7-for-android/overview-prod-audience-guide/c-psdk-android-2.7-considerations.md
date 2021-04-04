@@ -1,8 +1,8 @@
 ---
 description: To use TVSDK most effectively, you should consider certain details of its operation and follow certain best practices.
 title: Considerations and best practices
+exl-id: df9029f7-9c23-4f6c-9f5b-4819c63610ca
 ---
-
 # Considerations and best practices{#considerations-and-best-practices}
 
 To use TVSDK most effectively, you should consider certain details of its operation and follow certain best practices.

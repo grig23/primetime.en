@@ -1,8 +1,8 @@
 ---
 description: When the media player switches its current profile to a new profile, you can retrieve information about the switch, including when it switched, width and height information, or why a different bit rate was used.
 title: Get information about profile switch
+exl-id: 3ef4b319-dd78-4abd-9c2d-ab1d608f6cea
 ---
-
 # Get information about profile switch{#get-information-about-profile-switch}
 
 When the media player switches its current profile to a new profile, you can retrieve information about the switch, including when it switched, width and height information, or why a different bit rate was used.

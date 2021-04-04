@@ -1,8 +1,8 @@
 ---
 description: Another way to resolve a media resource is with MediaPlayerItemLoader. This is useful when you want to obtain information about a particular media stream without instantiating a MediaPlayer instance.
 title: Load a media resource using MediaPlayerItemLoader
+exl-id: 9d129497-8a71-433a-a542-f49be519893b
 ---
-
 # Load a media resource using MediaPlayerItemLoader {#load-a-media-resource-using-mediaplayeritemloader}
 
 Another way to resolve a media resource is with MediaPlayerItemLoader. This is useful when you want to obtain information about a particular media stream without instantiating a MediaPlayer instance.
@@ -51,4 +51,3 @@ Through the `MediaPlayerItemLoader` class, you can exchange a media resource for
    itemLoader.load(mediaResource); 
    
    ```
-

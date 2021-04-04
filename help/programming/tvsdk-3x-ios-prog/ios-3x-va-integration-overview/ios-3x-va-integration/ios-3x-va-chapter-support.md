@@ -2,8 +2,8 @@
 title: Implement chapter support
 description: Implement chapter support
 copied-description: yes
+exl-id: 2cc34a75-5fcb-4b4a-ba2c-5e1e805597e4
 ---
-
 # Implement chapter support {#implement-chapter-support}
 
 You can define and track chapters for video tracking in a TVSDK-based application in the following ways:

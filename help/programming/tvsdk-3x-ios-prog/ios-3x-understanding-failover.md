@@ -1,8 +1,8 @@
 ---
 description: Failover handling occurs when a variant playlist has multiple renditions for the same bit rate, and one of the renditions stops working. The TVSDK switches between renditions.
 title: Failover
+exl-id: 3da378ac-1665-4e51-a901-3d7772ede69a
 ---
-
 # Failover {#failover}
 
 Failover handling occurs when a variant playlist has multiple renditions for the same bit rate, and one of the renditions stops working. The TVSDK switches between renditions.

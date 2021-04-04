@@ -1,8 +1,8 @@
 ---
 description: TVSDK dispatches media player item events in response to loading a media item.
 title: Loader events
+exl-id: 80a503f2-ad2e-44e5-93dc-2311df77f52e
 ---
-
 # Loader events{#loader-events}
 
 TVSDK dispatches media player item events in response to loading a media item.
@@ -19,4 +19,3 @@ To be notified about events related to loading a media player resource, register
 >[!NOTE]
 >
 >Also see `onLoadInfo (loadInfo)` under QoS events.
-

@@ -1,8 +1,8 @@
 ---
 description: When playback reaches an ad break, passes an ad break, or ends in an ad break, TVSDK defines some default behavior for the positioning of the current playhead.
 title: Customize playback with ads
+exl-id: edee2f6d-dbb1-4d54-8f69-82bf303ce6fc
 ---
-
 # Overview {#customize-playback-with-ads-overview}
 
 When playback reaches an ad break, passes an ad break, or ends in an ad break, TVSDK defines some default behavior for the positioning of the current playhead.

@@ -1,8 +1,8 @@
 ---
 description: This guide provides information about how to develop video player applications by using TVSDK for Android, which is implemented in Java.
 title: Product overview, audience, and this guide
+exl-id: 85d7ff0f-a024-4cde-84e6-35f5b7adae86
 ---
-
 # Overview {#audience}
 
 This guide provides information about how to develop video player applications by using TVSDK for Android, which is implemented in Java.

@@ -1,8 +1,8 @@
 ---
 description: You can implement your own content resolvers based on the default resolvers.
 title: Implement a custom content resolver
+exl-id: 1f442e2b-65fc-4040-ada2-7a49e488bdef
 ---
-
 # Implement a custom content resolver {#implement-a-custom-content-resolver}
 
 You can implement your own content resolvers based on the default resolvers.
@@ -168,4 +168,3 @@ public class CustomContentResolver extends ContentResolver {
 } 
 
 ```
-

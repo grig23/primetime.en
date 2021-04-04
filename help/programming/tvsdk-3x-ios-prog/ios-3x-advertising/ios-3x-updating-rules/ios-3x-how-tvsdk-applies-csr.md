@@ -3,8 +3,8 @@ keywords: creative selection rules;AdobeTVSDKConfig
 title: Apply creative selection rules
 description: Apply creative selection rules
 copied-description: yes
+exl-id: 7918e58d-7783-403c-a12c-8982b26a1555
 ---
-
 # Apply creative selection rules {#apply-creative-selection-rules}
 
 TVSDK applies creative selection rules in the following ways:

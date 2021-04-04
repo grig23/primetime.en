@@ -1,8 +1,8 @@
 ---
 description: Set up a single place to handle errors.
 title: Set up error handling
+exl-id: 2d0e0d08-d932-4b6e-8f95-494a2e666827
 ---
-
 # Set up error handling{#set-up-error-handling}
 
 Set up a single place to handle errors.
@@ -30,4 +30,3 @@ mediaPlayer.addEventListener(
     } 
 });
 ```
-

@@ -1,8 +1,8 @@
 ---
 description: The following new APIs allow you to define DRM callbacks.
 title: Implementing DRM callbacks
+exl-id: 3aaa502d-9273-4320-a022-642fee75dafd
 ---
-
 # Implementing DRM callbacks{#implementing-drm-callbacks}
 
 The following new APIs allow you to define DRM callbacks.
@@ -130,4 +130,4 @@ In Protection data, the new **[!UICONTROL certificateResponseType]** field is us
 }
 ```
 
-Using the `certificateResponseType` field is optional. If it is not used, the value is assumed to be `ArrayBuffer`. 
+Using the `certificateResponseType` field is optional. If it is not used, the value is assumed to be `ArrayBuffer`.

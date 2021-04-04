@@ -1,8 +1,8 @@
 ---
 description: The behavior of media playback is affected by seeking, pausing, fast forward or rewind (trick play mode), and the inclusion of advertising.
 title: Default and customized playback behavior with ads
+exl-id: 56544683-28a3-4720-bfd8-946cb09880aa
 ---
-
 # Default and customized playback behavior with ads{#default-and-customized-playback-behavior-with-ads}
 
 The behavior of media playback is affected by seeking, pausing, fast forward or rewind (trick play mode), and the inclusion of advertising.
@@ -73,4 +73,4 @@ The following table describes how Browser TVSDK handles ads and ad breaks during
 
 ## Setting up custom ad behaviors {#section_custom_ad_behaviors}
 
-You can set your preferred behavior in the ad content factory in `retrieveAdPolicySelectorCallbackFunc` method. You can use the `selectPolicyForAdBreak`, `selectWatchedPolicyForAdBreak`, `selectPolicyForSeekIntoAd`, and `selectAdBreaksToPlay` methods in the content factory to select a policy. 
+You can set your preferred behavior in the ad content factory in `retrieveAdPolicySelectorCallbackFunc` method. You can use the `selectPolicyForAdBreak`, `selectWatchedPolicyForAdBreak`, `selectPolicyForSeekIntoAd`, and `selectAdBreaksToPlay` methods in the content factory to select a policy.

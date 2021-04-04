@@ -1,8 +1,8 @@
 ---
 description: The TVSDK can play videos that have multiple profiles with different bit rates, switching between them to provide more than one quality level based on the available bandwidth.
 title: Multiple bit rates
+exl-id: 5f71d69e-993a-4985-accd-7ce2104f837e
 ---
-
 # Multiple bit rates {#multiple-bit-rates}
 
 The TVSDK can play videos that have multiple profiles with different bit rates, switching between them to provide more than one quality level based on the available bandwidth.

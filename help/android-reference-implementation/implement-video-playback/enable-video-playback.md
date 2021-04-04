@@ -1,8 +1,8 @@
 ---
 description: Create a PlaybackManager that handles the HLS stream setup and playback operation. No other configuration is required.
 title: Enable video playback
+exl-id: b53f602b-5752-4471-9905-2e4351dfc8d3
 ---
-
 # Enable video playback {#enable-video-playback}
 
 Create a PlaybackManager that handles the HLS stream setup and playback operation. No other configuration is required.

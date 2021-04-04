@@ -1,8 +1,8 @@
 ---
 description: When content is playing, Browser TVSDK can display ads and pass information about ads when creating the MediaResource object.
 title: Ads
+exl-id: a44ad0fa-841f-474b-89f4-39666190231f
 ---
-
 # Overview {#ads-overview}
 
 When content is playing, Browser TVSDK can display ads and pass information about ads when creating the MediaResource object.

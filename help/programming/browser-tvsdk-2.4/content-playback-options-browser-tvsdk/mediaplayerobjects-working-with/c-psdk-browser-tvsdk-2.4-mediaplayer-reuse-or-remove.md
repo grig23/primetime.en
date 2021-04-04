@@ -1,8 +1,8 @@
 ---
 description: You can reset, reuse, or release a MediaPlayer instance that you no longer need.
 title: Reuse or remove a MediaPlayer instance
+exl-id: 2403e6dd-74c4-43fb-913a-d04e61041628
 ---
-
 # Reuse or remove a MediaPlayer instance{#reuse-or-remove-a-mediaplayer-instance}
 
 You can reset, reuse, or release a MediaPlayer instance that you no longer need.
@@ -61,4 +61,3 @@ Here are some reasons to release a `MediaPlayer`:
   >[!NOTE]
   >
   >After the `MediaPlayer` instance is released, you can no longer use it. If any method of the `MediaPlayer` interface is called after it is released, an `IllegalStateException` is thrown.
-

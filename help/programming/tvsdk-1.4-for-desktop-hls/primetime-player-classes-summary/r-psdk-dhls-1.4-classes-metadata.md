@@ -1,8 +1,8 @@
 ---
 description: These classes provide metadata for advertising, namespaces, and tracking.
 title: Metadata classes
+exl-id: 4014b496-7fc4-4fa9-98da-28350668d35f
 ---
-
 # Metadata classes {#metadata-classes}
 
 These classes provide metadata for advertising, namespaces, and tracking.

@@ -2,8 +2,8 @@
 title: Remote and local iOS key delivery
 description: Remote and local iOS key delivery
 copied-description: yes
+exl-id: becc2d3f-39f3-40ee-b980-7dfbbe6f569d
 ---
-
 # Remote and local iOS key delivery {#remote-and-local-ios-key-delivery}
 
 Adobe Primetime supports the following options for key delivery to iOS clients:
@@ -17,4 +17,3 @@ The remote key delivery is enabled through the Primetime DRM policy that is used
 >[!NOTE]
 >
 >The Key delivery selection only impacts iOS clients. All other devices that use HLS content , such as Android and Primetime on Desktop (Flash Player), always use `Local` key delivery, even if `Remote` has been specified.
-

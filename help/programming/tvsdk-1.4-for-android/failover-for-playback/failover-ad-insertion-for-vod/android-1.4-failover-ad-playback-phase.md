@@ -1,8 +1,8 @@
 ---
 description: TVSDK downloads the ad segments and renders them on the device's screen.
 title: Ad-playback phase
+exl-id: c12dcf84-0daa-4bc2-8e17-fdf47a760296
 ---
-
 # Ad-playback phase{#ad-playback-phase}
 
 TVSDK downloads the ad segments and renders them on the device's screen.
@@ -23,4 +23,4 @@ For all three error classes, TVSDK forwards triggered events to your application
 
   Your application needs to take the appropriate action.
 
-Whether or not errors occur, TVSDK calls onAdBreakComplete for each `onAdBreakStart` and `onAdComplete` for every `onAdStart`. However, if segments could not be downloaded, there might be gaps in the timeline. When the gaps are large enough, the values in the playhead position and the reported ad progress might exhibit discontinuities. 
+Whether or not errors occur, TVSDK calls onAdBreakComplete for each `onAdBreakStart` and `onAdComplete` for every `onAdStart`. However, if segments could not be downloaded, there might be gaps in the timeline. When the gaps are large enough, the values in the playhead position and the reported ad progress might exhibit discontinuities.

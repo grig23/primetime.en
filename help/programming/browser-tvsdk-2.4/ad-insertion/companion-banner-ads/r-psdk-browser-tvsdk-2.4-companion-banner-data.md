@@ -1,8 +1,8 @@
 ---
 description: The content of an AdBannerAsset describes a companion banner.
 title: Companion banner data
+exl-id: 94954233-4357-43be-a61f-6d8010c930ca
 ---
-
 # Companion banner data{#companion-banner-data}
 
 The content of an AdBannerAsset describes a companion banner.
@@ -50,4 +50,3 @@ Each `AdBannerAsset` provides information about displaying the asset.
   </tr> 
  </tbody> 
 </table>
-

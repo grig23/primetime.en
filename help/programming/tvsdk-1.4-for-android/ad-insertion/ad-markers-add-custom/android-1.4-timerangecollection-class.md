@@ -1,8 +1,8 @@
 ---
 description: The TimeRangeCollection utility class abstracts the notion of an ordered collection of TimeRange specifications and provides services to translate itself into a Metadata instance.
 title: TimeRangeCollection class
+exl-id: 1af41267-c222-43ac-84ca-0bf37b6a59de
 ---
-
 # TimeRangeCollection class{#timerangecollection-class}
 
 The TimeRangeCollection utility class abstracts the notion of an ordered collection of TimeRange specifications and provides services to translate itself into a Metadata instance.
@@ -26,4 +26,4 @@ public final class TimeRangeCollection {
 
 ```
 
-The `type` parameter, which is the first positional parameter in the signature of the constructor methods, is an instance of the `TimeRangeCollection#Type` enumeration. This is part of the `TimeRangeCollection` class. The values that are currently defined by this enumeration are `MARK_RANGES`, `DELETE_RANGES`, and `REPLACE_RANGES`. You can create `TimeRangeCollection` objects using these three types. 
+The `type` parameter, which is the first positional parameter in the signature of the constructor methods, is an instance of the `TimeRangeCollection#Type` enumeration. This is part of the `TimeRangeCollection` class. The values that are currently defined by this enumeration are `MARK_RANGES`, `DELETE_RANGES`, and `REPLACE_RANGES`. You can create `TimeRangeCollection` objects using these three types.

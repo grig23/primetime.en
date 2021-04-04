@@ -1,8 +1,8 @@
 ---
 description: The Primetime player supports Primetime DRM integration as custom DRM workflows. This means that your application must implement the DRM authentication workflows before playing the stream.
 title: DRM content protection
+exl-id: c1904d15-023f-49fb-95f9-d157d17b3516
 ---
-
 # DRM content protection {#drm-content-protection}
 
 The Primetime player supports Primetime DRM integration as custom DRM workflows. This means that your application must implement the DRM authentication workflows before playing the stream.

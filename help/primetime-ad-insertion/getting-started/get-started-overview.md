@@ -1,8 +1,8 @@
 ---
 title: Get started with Adobe Primetime Ad Insertion
 description: Getting started with Adobe Primetime Ad Insertion
+exl-id: 629ea2a5-1b50-4451-a478-95d02f192145
 ---
-
 # Get started with Adobe Primetime Ad Insertion {#ptai-get-started}
 
 Primetime Ad Insertion co-ordinates the systems that provide content and ads to create personalized, in-stream ad experiences and then track ad playback for your advertisers.

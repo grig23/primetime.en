@@ -2,8 +2,8 @@
 title: Process Adobe Primetime DRM requests
 description: Process Adobe Primetime DRM requests
 copied-description: yes
+exl-id: ca9c2ccc-b848-4271-88bc-e7e3ced135ce
 ---
-
 # Process Adobe Primetime DRM requests {#process-adobe-primetime-drm-requests}
 
 The general approach to managing requests is to create a handler, parse the request, set the response data or error code, and close the handler.

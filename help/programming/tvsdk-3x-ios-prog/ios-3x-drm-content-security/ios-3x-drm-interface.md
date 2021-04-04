@@ -2,8 +2,8 @@
 description: You can use the features of the Primetime Digital Rights Management (DRM) system to provide secure access to your video content. Alternatively, you can use third-party DRM solutions as an alternative to Adobe's integrated Primetime DRM solution.
 keywords: DRM;DASH;HLS
 title: Primetime DRM interface overview
+exl-id: e07c1551-5a9b-4907-94ea-6b7536918b91
 ---
-
 # Primetime DRM interface overview {#primetime-drm-interface-overview}
 
 You can use the features of the Primetime Digital Rights Management (DRM) system to provide secure access to your video content. Alternatively, you can use third-party DRM solutions as an alternative to Adobe's integrated Primetime DRM solution.

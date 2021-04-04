@@ -1,8 +1,8 @@
 ---
 description: Events from TVSDK indicate the state of the player, errors that occur, the completion of actions that you have requested, such as a video starting to play, or actions that occur implicitly, such as an ad completing.
 title: Listen for Primetime Player events
+exl-id: f5289340-f49f-40e9-887e-34b42e1205cf
 ---
-
 # Overview {#listen-for-primetime-player-events-overview}
 
 Events from TVSDK indicate the state of the player, errors that occur, the completion of actions that you have requested, such as a video starting to play, or actions that occur implicitly, such as an ad completing.
@@ -18,4 +18,3 @@ Here is some additional information about events:
 * Your application generally initiates non-blocking operations, such as requesting that a video start playing.
 
   TVSDK communicates asynchronously with your application by dispatching events, such as when the video starts playing and an event when the video finishes. Other events can indicate status changes in your player and error conditions. Your event handlers take appropriate actions.
-

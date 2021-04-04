@@ -1,8 +1,8 @@
 ---
 description: These classes provide information about ads that occur within a timeline.
 title: Timeline advertising classes
+exl-id: fb31a235-6578-4da1-b732-713a2f9b24be
 ---
-
 # Timeline advertising classes{#timeline-advertising-classes}
 
 These classes provide information about ads that occur within a timeline.
