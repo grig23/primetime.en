@@ -1,8 +1,7 @@
 ---
 title: Delivery and storage
-description:
-exl-id: 84ccc140-02e6-4293-b087-13f87aee355b
-exl-id: 8af58261-9277-4f46-9349-10b641238e1d
+description: 
+exl-id: 84ccc140-02e6-4293-b087-13f87aee355b,8af58261-9277-4f46-9349-10b641238e1d
 ---
 # Delivery and storage {#delivery-and-storage}
 
