@@ -1,6 +1,7 @@
 ---
 title: Best practices
-description:
+description: Best practices
+copied-description: yes
 exl-id: 2dae6032-5e22-4274-a5a2-02960fcbcf19
 ---
 # Best practices {#best-practices}

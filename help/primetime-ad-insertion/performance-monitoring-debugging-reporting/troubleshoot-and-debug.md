@@ -1,6 +1,7 @@
 ---
 title: Troubleshoot and debug
-description:
+description: Troubleshoot and debug
+copied-description: yes
 exl-id: 1fcacd29-627d-4536-a746-16ddcfc8bc34
 ---
 # Troubleshoot and debug {#troubleshooting-debugging}

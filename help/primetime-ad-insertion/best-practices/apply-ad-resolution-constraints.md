@@ -1,6 +1,7 @@
 ---
 title: Apply Ad Resolution Constraints
-description:
+description: Apply Ad Resolution Constraints
+copied-description: yes
 exl-id: aae17be8-d23c-4c5c-90fd-7ee6fba69e9a
 ---
 # Apply Ad Resolution Constraints {#apply-ad-resolution-constraints}

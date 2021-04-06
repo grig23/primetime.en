@@ -1,6 +1,7 @@
 ---
 title: Live Event Monitoring
-description:
+description: Live Event Monitoring
+copied-description: yes
 exl-id: 004672c9-d064-46b7-8c8f-b4411b96e7cb
 ---
 # Live Event Monitoring {#live-event-monitoring}

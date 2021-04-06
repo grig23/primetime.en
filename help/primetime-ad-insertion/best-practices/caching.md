@@ -1,6 +1,7 @@
 ---
 title: Caching
-description:
+description: Caching
+copied-description: yes
 exl-id: c12c2345-db55-468a-b4b5-5a9e1364a46d
 ---
 # HTTP Caching {#caching}

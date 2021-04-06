@@ -1,6 +1,7 @@
 ---
 title: Analyze performance
-description:
+description: Analyze performance
+copied-description: yes
 exl-id: bef14bc2-30dc-44e5-bdfe-8b79f3af2cec
 ---
 # Analyze performance {#analyze-performnce}

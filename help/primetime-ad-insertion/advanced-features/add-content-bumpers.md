@@ -1,6 +1,7 @@
 ---
-title: Add content `Bumpers`
-description:
+title: Add content Bumpers
+description: Add content Bumpers
+copied-description: yes
 exl-id: 45d465fa-4156-4574-a34c-e58824f5e569
 ---
 # Add content 'Bumpers' {#adding-content-bumpers}

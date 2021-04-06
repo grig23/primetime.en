@@ -1,6 +1,7 @@
 ---
 title: Monitor, debug, and report
-description:
+description: Monitor, debug, and report
+copied-description: yes
 exl-id: 4ad8baa2-f112-4efc-956b-6557cbf079ae
 ---
 # Monitor, debug, and report {#monitoring-debugging-and-reporting}

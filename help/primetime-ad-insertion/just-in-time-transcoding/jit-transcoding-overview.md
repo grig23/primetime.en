@@ -1,6 +1,7 @@
 ---
 title: Just-in-Time Transcoding
-description:
+description: Just-in-Time Transcoding
+copied-description: yes
 exl-id: 9577e1d5-1462-49d6-9d24-94e74dc9c019
 ---
 # Just-in-Time Transcoding {#just-in-time-transcoding}

@@ -1,6 +1,7 @@
 ---
 title: Performance monitoring
-description:
+description: Performance monitoring
+copied-description: yes
 exl-id: 6fe66f77-2663-4674-81a1-6402db7db943
 ---
 # Performance monitoring {#monitoring-performance}

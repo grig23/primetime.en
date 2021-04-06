@@ -1,6 +1,7 @@
 ---
 title: Advanced Telemetry
-description:
+description: Advanced Telemetry
+copied-description: yes
 exl-id: 3a030dc8-c3e5-4bf5-9d69-58cfa880bf6a
 ---
 # Advanced Telemetry {#advanced-telemetry}

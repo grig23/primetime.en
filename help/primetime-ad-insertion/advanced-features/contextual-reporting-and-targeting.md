@@ -1,6 +1,7 @@
 ---
 title: Contextual reporting and targeting
-description:
+description: Contextual reporting and targeting
+copied-description: yes
 exl-id: 6d6c1f48-95ca-4055-a369-97ff27782ff0
 ---
 # Contextual reporting and targeting {#contextual-reporting-and-targeting}

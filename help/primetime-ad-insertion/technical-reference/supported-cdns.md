@@ -1,6 +1,7 @@
 ---
 title: Supported CDNs
-description:
+description: Supported CDNs
+copied-description: yes
 exl-id: 4620c84d-965d-4ecd-b17e-e21c74427282
 ---
 # Supported CDNs {#cdn-supported}

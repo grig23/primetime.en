@@ -1,6 +1,7 @@
 ---
 title: Transcoding and Normalization
-description:
+description: Transcoding and Normalization
+copied-description: yes
 exl-id: 48d9d971-4b15-4f1b-8740-c21983a3e835
 ---
 # Transcoding and Normalization {#transcoding-and-normalization}

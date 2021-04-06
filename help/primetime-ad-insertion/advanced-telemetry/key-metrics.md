@@ -1,6 +1,7 @@
 ---
 title: Key metrics and data dimensions
-description:
+description: Key metrics and data dimensions
+copied-description: yes
 exl-id: 71da0c5e-646e-4238-88ee-b6e0b068f6e3
 ---
 # Key metrics and data dimensions {#key-metrics-data-dimensions}

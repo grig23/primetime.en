@@ -1,6 +1,7 @@
 ---
 title: Optimize Ad experiences
-description:
+description: Optimize Ad experiences
+copied-description: yes
 exl-id: 0cdfbfe5-95f2-4509-8a67-623b77febbc8
 ---
 # Optimize Ad experiences {#optimizing-ad-experiences}

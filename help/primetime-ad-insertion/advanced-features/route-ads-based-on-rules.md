@@ -1,6 +1,7 @@
 ---
 title: Routing Ads Based on Rules
-description:
+description: Routing Ads Based on Rules
+copied-description: yes
 exl-id: e057e53d-a6c0-4e24-b6c7-29850f7cde60
 ---
 # Routing Ads Based on Rules {#routing-ads-based-on-rules}

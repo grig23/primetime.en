@@ -1,6 +1,7 @@
 ---
 title: Reporting & Billing
-description:
+description: Reporting & Billing
+copied-description: yes
 exl-id: efe91d97-a429-448a-9b7f-cac50b850f35
 ---
 # Reporting and Billing {#reporting-and-billing}
