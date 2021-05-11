@@ -89,6 +89,7 @@ To configure video tracking in your player:
 
    1. Create an instance of the Video Analytics metadata.
       This instance contains all of the configuration information that is needed to enable video heartbeat tracking. For example:
+
       ```js
       function getVideoAnalyticsMetadata() {
           var vaObj = new AdobePSDK.VA.VideoAnalyticsMetadata();
@@ -126,6 +127,7 @@ To configure video tracking in your player:
           videoAnalyticsProvider.detachMediaPlayer();
           videoAnalyticsProvider = null;
       ```
+
    4. Manually mark the Live/Linear stream as complete.
       If you have various episodes on one live stream, you can manually mark an episode as complete by using the complete API. This ends the video tracking session for the current video episode, and you can start a new tracking session for the next episode.
       >[!TIP]
@@ -139,5 +141,5 @@ To configure video tracking in your player:
       videoAnalyticsProvider.detachMediaPlayer();
       videoAnalyticsProvider = null;
       // Create a new instance of VideoAnalyticsProvider to continue tracking.
-      } 
+      }
       ```
