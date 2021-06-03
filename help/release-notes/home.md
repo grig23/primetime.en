@@ -8,15 +8,17 @@ exl-id: 29087a3e-f16e-4510-8d3a-ed2229700899
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
+## Enhancements and fixes in PTAI 21.5.1
+
+The release includes new telemetry for upcoming dashboard changes, and support for deprecated segmentation type 0x01 (UPID) for SCTE-based cue formats.
+
+For other fixes and details, see [Ad Insertion Release Notes](/help/release-notes/ptai-21x-release-notes.md)
+
 ## Enhancements and fixes in TVSDK 3.13 iOS
 
 The release introduces support for DEMUXED 'HLS/CMAF' (preroll, midroll, and postroll) ads for LIVE, VOD, and FER streams.
 
 For other fixes and details, see [TVSDK for iOS Release Notes](../release-notes/tvsdk-3x-ios.md)
-
-## Enhancements and fixes in PTAI 21.2.2
-
-The release includes support for EXT-X-IMAGE-STREAM-INF stream insertion/synchronization in HLS streams. The feature is enabled through a server-side configuration. Contact your technical account representative to enable the feature..
 
 ## Fixes in TVSDK 3.13 Android
 
@@ -25,12 +27,6 @@ This release provides a workaround to the issue about the Widevine DRM stream fr
 To resolve the issue, set the API `MediaPlayer.flushVideoDecoderOnHeaderChange(true)` for the specified Fire TV devices before initiating playback. The default value is false.
 
 Check out the [TVSDK for Android Release Notes](../release-notes/tvsdk-3x-android.md) for more information.
-
-## Enhancements and fixes in TVSDK 3.12 iOS Release Notes
-
-The release focused on resolving top customer issues.
-
-Check out for more information about the current released version for [iOS](../release-notes/tvsdk-3x-ios.md).
 
 ## See also
 

@@ -9,20 +9,22 @@ Primetime Ad Insertion 21.x.x release notes describe what is new or changed, iss
 
 ## What's new in PTAI 21.5.1
 
-When:  Wednesday, May 26, 2021 from 3:30 AM to 06:30 AM EASTERN
+When:  Wednesday, May 26, 2021 from 3:30 AM to 06:30 AM Eastern Time
 
 * Added support for deprecated segmentation type 0x01 (UPID) for SCTE-based cue formats.
-* Added new telemetry for upcoming dashboard changes. 
+
+* Added new telemetry for upcoming dashboard changes.
 
 ## Enhancements and fixes in previous release versions
 
 ### Version 21.4.1
 
-**When:** Thursday, April 22, 2021 from 2:00 AM to 5:00 AM EASTERN
+**When:** Thursday, April 22, 2021 from 2:00 AM to 5:00 AM Eastern Time
 
 **Changes**
 
 * Session request limiting will be enabled to protect against potential DDOS attacks. Sessions will be limited to 10 requests per second, with a ceiling of 100 queued requests. We do not anticipate any impact to players that behave according to HLS/DASH specifications.
+
 * Other maintenance and security enhancements
 
 ### Version 21.2.2
