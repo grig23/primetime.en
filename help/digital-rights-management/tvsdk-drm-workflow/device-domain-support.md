@@ -26,6 +26,6 @@ To play encrypted content using Primetime DRM , perform the following steps:
    1. Invoke `DRMManager.addToDeviceGroup()`
 1. Get the license for the content by performing one of the following tasks:
    1. Use the `DRMManager.loadVoucher()` method.
-   1. Obtain the license from a different device registered in the same device group, and provide the license to the ` DRMManager` through the `DRMManager.storeVoucher()` method.
+   1. Obtain the license from a different device registered in the same device group, and provide the license to the `DRMManager` through the `DRMManager.storeVoucher()` method.
 1. Play the encrypted content using the `Primetime.play()` method.
 To export the license for the content, any of the devices can provide the license's raw bytes using the `DRMVoucher.toByteArray()` method after obtaining the license from the Primetime DRM license server. Content providers typically limit the number of devices in a device group. If the limit is reached, you may need to call the `DRMManager.removeFromDeviceGroup()` method on an unused device before registering the current device.

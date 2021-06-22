@@ -102,7 +102,7 @@ TVSDK notifies you when events, to which your application must respond, occur. E
 
 * **Event code** `BUFFERING_END`
 
-`BufferPreparedEventListener``  
+`BufferPreparedEventListener`
 
 * **Meaning** The buffer is prepared.
 
