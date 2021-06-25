@@ -9,7 +9,7 @@ You can display the duration of the currently active content.
 
 Implement a video-duration display using the following sample code:
 
-The `PTMediaPlayer` property, ` [seekableRange](https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTMediaPlayer.html#//api/name/seekableRange)`, contains the current seekable window range:
+The `PTMediaPlayer` property, [seekableRange](https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTMediaPlayer.html#//api/name/seekableRange), contains the current seekable window range:
 
 * For VOD, this range is the entire VOD content range, including ads. 
 * For live/linear, this range represents the seekable window.
