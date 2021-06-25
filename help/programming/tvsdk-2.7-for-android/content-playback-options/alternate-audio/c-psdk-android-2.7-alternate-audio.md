@@ -1,11 +1,8 @@
 ---
 description: Alternate audio allows you to switch among available audio tracks for a video track. Users can select their preferred language track when the video is played.
-seo-description: Alternate audio allows you to switch among available audio tracks for a video track. Users can select their preferred language track when the video is played.
-seo-title: Alternate audio
 title: Alternate audio
-uuid: 86aa5393-6a9e-49db-807b-7299e6b4ab2b
+exl-id: c2eb10dc-3fe0-472b-8450-2fbfc6b09487
 ---
-
 # Overview {#alternate-audio-overview}
 
 Alternate audio allows you to switch among available audio tracks for a video track. Users can select their preferred language track when the video is played.
@@ -74,4 +71,3 @@ private void onPrepared() {
 } 
 
 ```
-

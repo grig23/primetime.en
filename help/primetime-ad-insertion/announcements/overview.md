@@ -1,15 +1,13 @@
 ---
 title: Adobe Primetime Ad Insertion Announcements
-seo-title: Adobe Primetime Ad Insertion Announcements
 description: Announcements about recent feature releases and other related news about Primetime Ad Insertion
-seo-description: Announcements about recent feature releases and other related news about Primetime Ad Insertion
+exl-id: 7d85d3a2-6786-47bd-8d45-ec162aea0ab3
 ---
-
 # Primetime Ad Insertion Announcements
 
 ## Reducing Programmatic Ad Errors via Ad Resolution Timeouts
 
-Published December 1, 2000
+Published December 1, 2020
 
 Adobe is focused on helping our Primetime Ad Insertion customers maximize the monetization of their ad inventory. We pay particular attention to reducing the complexities of fulfilling programmatic demand, which accounts for over three-quarters of US digital video ad spend according to eMarketer. Programmatic selling enables publishers to maximize demand for their ad inventory, leading to higher fill rates and yield. But it also increases exposure to ad errors like malformed VAST responses, HTTP errors and others that can lead to lost revenue and/or poor viewer experiences. 
 

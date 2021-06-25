@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Partial Ad break insertion
 title: Partial Ad break insertion
-uuid: a81295b8-77fe-4475-a472-080ee7804d7a
+description: Partial Ad break insertion
+copied-description: yes
+exl-id: c86f1e99-7f1e-4a1e-b285-568ad6659f45
 ---
-
 # Partial Ad-break insertion {#partial-ad-break-insertion}
 
 You can enable a TV-like experience of being able to join in the middle of an ad, in live streams. The Partial Ad break feature allows you to mimic a TV-like experience where, if the client starts a live stream inside a midroll, it will start within that midroll. It is similar to switching to a TV channel and the commercials run seamlessly.

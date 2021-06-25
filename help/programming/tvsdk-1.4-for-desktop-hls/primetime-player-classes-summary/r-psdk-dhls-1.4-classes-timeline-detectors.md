@@ -1,11 +1,8 @@
 ---
 description: These classes assist in detecting ad opportunities in the timeline.
-seo-description: These classes assist in detecting ad opportunities in the timeline.
-seo-title: Timeline detectors classes
 title: Timeline detectors classes
-uuid: 73452e8a-5f33-4004-b93a-e77a09a66add
+exl-id: c6a39ac5-53bb-4a5b-802b-eeb18ca6a7bc
 ---
-
 # Timeline detectors classes{#timeline-detectors-classes}
 
 These classes assist in detecting ad opportunities in the timeline.

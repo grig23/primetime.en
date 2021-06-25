@@ -1,11 +1,8 @@
 ---
 description: The reference implementation uses a JSON-based input file.
-seo-description: The reference implementation uses a JSON-based input file.
-seo-title: Example JSON feed format
 title: Example JSON feed format
-uuid: a7419aab-36c0-45d1-9bb7-ac2bd64b0bbc
+exl-id: a04d5501-74dc-4ae3-880e-72da7718fe1b
 ---
-
 # Example JSON feed format {#example-json-feed-format}
 
 The reference implementation uses a JSON-based input file.

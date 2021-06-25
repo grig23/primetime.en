@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Prepare passwords using Ant
 title: Prepare passwords using Ant
-uuid: 9419ab0d-b448-4881-9d26-35c00f0b13bc
+description: Prepare passwords using Ant
+copied-description: yes
+exl-id: 78f00fd7-ca9c-49a9-9e4b-6d1e2daf9241
 ---
-
 # Prepare passwords using Ant{#prepare-passwords-using-ant}
 
 Use Ant to encrypt your password: 
@@ -17,4 +15,3 @@ Use Ant to encrypt your password:
    ```
    ant -f build-refimpl.xml
    ```
-

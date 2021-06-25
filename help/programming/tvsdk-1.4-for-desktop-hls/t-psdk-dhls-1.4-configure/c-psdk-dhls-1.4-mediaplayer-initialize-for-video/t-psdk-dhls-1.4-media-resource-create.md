@@ -1,11 +1,8 @@
 ---
 description: The MediaResource class represents the content to be loaded by the MediaPlayer instance.
-seo-description: The MediaResource class represents the content to be loaded by the MediaPlayer instance.
-seo-title: Create a media resource
 title: Create a media resource
-uuid: 3d03d92f-69b3-4da8-9b16-25a264115ae5
+exl-id: 20515e90-cbe4-4945-823a-fe882ed460db
 ---
-
 # Create a media resource {#create-a-media-resource}
 
 For each new video content, initialize a MediaResource instance with information about the video content and load the media resource.
@@ -67,4 +64,3 @@ The MediaResource class represents the content to be loaded by the MediaPlayer i
 
       For more information, see [Load a media resource in the Mediaplayer](../../../tvsdk-1.4-for-desktop-hls/t-psdk-dhls-1.4-configure/c-psdk-dhls-1.4-mediaplayer-initialize-for-video/t-psdk-dhls-1.4-media-resource-load.md). 
     * A `MediaPlayerItemLoader` For more information, see [Load a media resource in the Mediaplayer](../../../tvsdk-1.4-for-desktop-hls/t-psdk-dhls-1.4-configure/c-psdk-dhls-1.4-mediaplayer-initialize-for-video/t-psdk-dhls-1.4-media-resource-load.md).
-

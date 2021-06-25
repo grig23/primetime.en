@@ -1,11 +1,8 @@
 ---
 description: To provide a smoother viewing experience, TVSDK sometimes buffers the video stream. You can configure the way the player buffers.
-seo-description: To provide a smoother viewing experience, TVSDK sometimes buffers the video stream. You can configure the way the player buffers.
-seo-title: Buffering time policies
 title: Buffering time policies
-uuid: 8d3ce9be-cca4-485e-ba66-d2f2aa6822dd
+exl-id: 78f1bb9f-3d10-4f05-90dd-5b52eee0feec
 ---
-
 # Buffering time policies {#buffering-time-policies}
 
 To provide a smoother viewing experience, TVSDK sometimes buffers the video stream. You can configure the way the player buffers.
@@ -25,4 +22,3 @@ While the video is being rendered, TVSDK continues to buffer new fragments until
 >[!TIP]
 >
 >If the initial buffer value is high, it might give your user a long initial buffering time before starting. That might provide smooth playback for a longer time; however, if network conditions are poor, initial playback could be delayed.
-

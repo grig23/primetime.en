@@ -1,9 +1,6 @@
 ---
 description: The ad timeline appropriate to one playing of VOD content may be inappropriate for subsequent plays. You can replace a VOD timeline without changing the content.
-seo-description: The ad timeline appropriate to one playing of VOD content may be inappropriate for subsequent plays. You can replace a VOD timeline without changing the content.
-seo-title: Changes to VOD
 title: Changes to VOD
-uuid: e734aacd-b42e-4c8e-a16a-c7a0739a0492
 ---
 
 # Changes to VOD {#changes-to-vod}

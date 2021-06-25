@@ -1,11 +1,8 @@
 ---
 description: Adobe provides a Cloud DRM service to Adobe Primetime DRM customers who do not wish to develop and maintain their own Primetime DRM License Server. By utilizing this service, customers can reduce the operational and development complexity around DRM license issuance. Primetime Cloud DRM can issue DRM licenses to all devices capable of running a Primetime Browser TVSDK-enabled video application, such as iOS, Android, Desktops, and Xbox360. This DRM service is hosted and maintained by Adobe, with 24/7 uptime.
-seo-description: Adobe provides a Cloud DRM service to Adobe Primetime DRM customers who do not wish to develop and maintain their own Primetime DRM License Server. By utilizing this service, customers can reduce the operational and development complexity around DRM license issuance. Primetime Cloud DRM can issue DRM licenses to all devices capable of running a Primetime Browser TVSDK-enabled video application, such as iOS, Android, Desktops, and Xbox360. This DRM service is hosted and maintained by Adobe, with 24/7 uptime.
-seo-title: Background
 title: Background
-uuid: 11a5b9ea-ebd2-47e0-b078-af2a3e1f7bf6
+exl-id: bb5ad080-5b1d-43a6-8d0e-9b5735c82d96
 ---
-
 # Background {#background}
 
 Adobe provides a Cloud DRM service to Adobe Primetime DRM customers who do not wish to develop and maintain their own Primetime DRM License Server. By utilizing this service, customers can reduce the operational and development complexity around DRM license issuance. Primetime Cloud DRM can issue DRM licenses to all devices capable of running a Primetime Browser TVSDK-enabled video application, such as iOS, Android, Desktops, and Xbox360. This DRM service is hosted and maintained by Adobe, with 24/7 uptime.
@@ -33,4 +30,3 @@ Adobe provides a Cloud DRM service to Adobe Primetime DRM customers who do not w
 
 * Adobe Policy Manager tool to create additional DRM policies 
 * Sample video content to use for packaging
-

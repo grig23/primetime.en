@@ -1,11 +1,8 @@
 ---
 description: You can remove TimeRanges between begin and end in localTime from the timeline.
-seo-description: You can remove TimeRanges between begin and end in localTime from the timeline.
-seo-title: Delete ranges
 title: Delete ranges
-uuid: 637829a7-efa8-4b83-9a04-ef01c043621f
+exl-id: a91cd7ac-d60f-43bb-a783-ccc1b9b9e7fd
 ---
-
 # Delete ranges{#delete-ranges}
 
 You can remove TimeRanges between begin and end in localTime from the timeline.
@@ -73,4 +70,3 @@ The ad map must be used as defined by the ad server.
    },
    
    ```
-

@@ -1,9 +1,9 @@
 ---
-seo-title: Running the DRM Server for Protected Streaming
 title: Running the DRM Server for Protected Streaming
-uuid: 9bbe211d-268b-43c2-9e55-7ce62de40d30
+description: Running the DRM Server for Protected Streaming
+copied-description: yes
+exl-id: 05dc4c55-a97e-4bdc-aea8-32741299454c
 ---
-
 # Running the DRM Server for Protected Streaming {#running-the-drm-server-for-protected-streaming}
 
 Before you can start the Adobe Primetime DRM Server for Protected Streaming, it is recommended that you verify the validity of the settings in the configuration files.

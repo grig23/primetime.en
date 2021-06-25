@@ -1,11 +1,8 @@
 ---
 description: You can use the Primetime Player API to customize the behavior of the player.
-seo-description: You can use the Primetime Player API to customize the behavior of the player.
-seo-title: Mediacore classes
 title: Mediacore classes
-uuid: 2d4e41e6-e689-4f79-9021-1ab8ce0fe40d
+exl-id: fdbe9cd3-a5ca-4935-b9b3-8a6c04aed9ab
 ---
-
 # Mediacore classes {#mediacore-classes}
 
 You can use the Primetime Player API to customize the behavior of the player.

@@ -1,9 +1,9 @@
 ---
-seo-title: Configure Tomcat
 title: Configure Tomcat
-uuid: 5f23aa33-29d7-4b41-87a4-59dc5b433de4
+description: Configure Tomcat
+copied-description: yes
+exl-id: 766b66dd-6070-4b0d-a860-a426fca05e56
 ---
-
 # Configure Tomcat{#configure-tomcat}
 
 On the Individualization server, modify Tomcat's [!DNL conf/server.xml] file to include additional information in the access log. You can use this information for reporting purposes. 
@@ -26,4 +26,3 @@ On the Individualization server, modify Tomcat's [!DNL conf/server.xml] file to 
 >[!NOTE]
 >
 >Future DRM clients will require you to enable and configure the CORS (Cross-Origin Resource Sharing) filter that is available for Tomcat. Currently, no DRM clients have this requirement.
-

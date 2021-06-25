@@ -1,11 +1,8 @@
 ---
 description: Events from TVSDK indicate the state of the player, errors that occur, the completion of actions that you have requested, such as a video starting to play, or actions that occur implicitly, such as an ad completing.
-seo-description: Events from TVSDK indicate the state of the player, errors that occur, the completion of actions that you have requested, such as a video starting to play, or actions that occur implicitly, such as an ad completing.
-seo-title: Listen for Primetime Player events
 title: Listen for Primetime Player events
-uuid: e72782bf-9d26-4285-85e4-fd4d803c1bbe
+exl-id: 3a740245-a9e1-4e36-8761-f9f4b4e85b93
 ---
-
 # Overview {#implement-event-listeners-and-callbacks-overview}
 
 Event handlers allow TVSDK to respond to events. When an event occurs, TVSDK's event mechanism calls your registered event handler and passes the event information to the handler.
@@ -52,5 +49,3 @@ For a complete list of the events for video analytics, see [Track Core Video Pla
      MediaPlayerStatusChangeEvent.STATUS_CHANGED,  
      onStatusChanged);
    ```
-
-

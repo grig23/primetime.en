@@ -1,11 +1,8 @@
 ---
 description: These classes describe events that the TVSDK dispatches to your media player in response to various activities.
-seo-description: These classes describe events that the TVSDK dispatches to your media player in response to various activities.
-seo-title: Events classes
 title: Events classes
-uuid: 5e63d43c-6112-4958-b8cd-ccf123affd08
+exl-id: a349984a-5e47-4895-a56f-ef25eb372c79
 ---
-
 # Events classes {#events-classes}
 
 These classes describe events that the TVSDK dispatches to your media player in response to various activities.

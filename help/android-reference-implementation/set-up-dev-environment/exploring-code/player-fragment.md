@@ -1,11 +1,8 @@
 ---
 description: The PlayerFragment class is where you edit the code to create the fully-enabled feature managers.
-seo-description: The PlayerFragment class is where you edit the code to create the fully-enabled feature managers.
-seo-title: PlayerFragment
 title: PlayerFragment
-uuid: 83f02c31-f3b1-4d16-97c8-5b391e8c999a
+exl-id: 9060f0f5-9148-48cd-b89b-718607dd70bc
 ---
-
 # PlayerFragment {#playerfragment}
 
 The PlayerFragment class is where you edit the code to create the fully-enabled feature managers.

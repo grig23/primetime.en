@@ -1,12 +1,9 @@
 ---
 description: When TVSDK encounters a broken VMAP in an ad server response, it dispatches an 1109 (NETWORK_AD_URL_FAILED) error.
 keywords: 1109;NETWORK_AD_URL_FAILED;broken VMAP
-seo-description: When TVSDK encounters a broken VMAP in an ad server response, it dispatches an 1109 (NETWORK_AD_URL_FAILED) error.
-seo-title: Client error handling for broken VMAP
 title: Client error handling for broken VMAP
-uuid: ab2c567d-d945-4ebe-b65a-c1f13518a576
+exl-id: e0ca36e7-ac88-44b8-bbdd-bcf29467417b
 ---
-
 # Client error handling for broken VMAP {#client-error-handling-for-broken-vmap}
 
 When TVSDK encounters a broken VMAP in an ad server response, it dispatches an 1109 (NETWORK_AD_URL_FAILED) error.

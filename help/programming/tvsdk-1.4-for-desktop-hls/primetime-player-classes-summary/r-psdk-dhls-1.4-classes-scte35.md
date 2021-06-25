@@ -1,11 +1,8 @@
 ---
 description: These classes enable the TVSDK to include SCTE 35 splices.
-seo-description: These classes enable the TVSDK to include SCTE 35 splices.
-seo-title: SCTE 35 classes
 title: SCTE 35 classes
-uuid: 7f3754fd-90f1-4457-9e31-d40740435489
+exl-id: 8ea2c269-925a-4489-a538-a88d17134f9b
 ---
-
 # SCTE 35 classes {#scte-classes}
 
 These classes enable the TVSDK to include SCTE 35 splices.
@@ -21,4 +18,3 @@ These classes enable the TVSDK to include SCTE 35 splices.
 | [com.adobe.mediacore.utils.scte35.commands](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/utils/scte35/commands/package-detail.html)  | Contains classes that provide instructions to the TVSDK for including SCTE 35 data.  |
 | [com.adobe.mediacore.utils.scte35.data](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/utils/scte35/data/package-detail.html)  | Contains classes that define structures and components.  |
 | [com.adobe.mediacore.utils.scte35.descriptors](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/utils/scte35/descriptors/package-detail.html)  | Contains classes such as enumerations and command extensions.  |
-

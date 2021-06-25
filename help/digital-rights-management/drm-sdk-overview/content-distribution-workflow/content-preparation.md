@@ -1,11 +1,8 @@
 ---
 description: Any use of Adobe Primetime DRM consists of two key steps at different points of the workflow. Content preparation must be done once per asset, and results in creating protected content. Content acquisition is done multiple times, once for every consumer that wants to watch that protected asset.
-seo-description: Any use of Adobe Primetime DRM consists of two key steps at different points of the workflow. Content preparation must be done once per asset, and results in creating protected content. Content acquisition is done multiple times, once for every consumer that wants to watch that protected asset.
-seo-title: Content preparation
 title: Content preparation
-uuid: edb633f0-b623-41ea-a52a-19017d45fb18
+exl-id: 6ec8e5a1-3cf4-498b-9cbb-760c525fb9c7
 ---
-
 # Content preparation{#content-preparation}
 
 Any use of Adobe Primetime DRM consists of two key steps at different points of the workflow. Content preparation must be done once per asset, and results in creating protected content. Content acquisition is done multiple times, once for every consumer that wants to watch that protected asset.
@@ -29,5 +26,4 @@ The steps to encode, package, and distribute content are as follows:
 
 1. Make the protected content available for distribution to consumers.
 
-   The protected content is typically distributed using a content distribution network (CDN). The CDN can use any mechanism supported by the client runtime, such as Flash Media Server, Adobe HTTP Dynamic Streaming for multiple bitrate streaming, or an HTTP Web Server for progressive download. 
-
+   The protected content is typically distributed using a content distribution network (CDN). The CDN can use any mechanism supported by the client runtime, such as Flash Media Server, Adobe HTTP Dynamic Streaming for multiple bitrate streaming, or an HTTP Web Server for progressive download.

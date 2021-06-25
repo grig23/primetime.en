@@ -1,11 +1,8 @@
 ---
 description: You can set up a user interface control for sound volume.
-seo-description: You can set up a user interface control for sound volume.
-seo-title: Provide volume control
 title: Provide volume control
-uuid: 5f2f69cc-3969-4ca2-8ab9-5713fdf5cdb8
+exl-id: 5c446081-5491-46b6-9259-293131af80cb
 ---
-
 # Provide volume control{#provide-volume-control}
 
 You can set up a user interface control for sound volume.
@@ -20,4 +17,3 @@ You can set up a user interface control for sound volume.
    ```
 
    The value for the volume represents the requested volume expressed as a proportion of the maximum volume, where 0 is silent and is the maximum volume.
-

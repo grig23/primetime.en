@@ -1,9 +1,9 @@
 ---
-seo-title: Configuration
 title: Configuration
-uuid: 2a7f4b9e-72d0-4ec0-ab32-831fb5bc9b19
+description: Configuration
+copied-description: yes
+exl-id: 5a047586-96a1-449d-b3f5-911d734ef12f
 ---
-
 # Configuration {#configuration}
 
-You will need to configure the server properties files, watched folder properties, set up the database, and configure the HSM. 
+You will need to configure the server properties files, watched folder properties, set up the database, and configure the HSM.

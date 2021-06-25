@@ -1,11 +1,8 @@
 ---
 description: You can use multiple content resolvers to handle different timeline operations.
-seo-description: You can use multiple content resolvers to handle different timeline operations.
-seo-title: Content resolvers for ad deletion / replacement
 title: Content resolvers for ad deletion / replacement
-uuid: d43d54be-e04a-49dd-a695-e4e8f981ccb4
+exl-id: e215ae64-894a-41db-a407-6be0e7464a82
 ---
-
 # Content resolvers for ad deletion / replacement {#content-resolvers-for-ad-deletion-replacement}
 
 You can use multiple content resolvers to handle different timeline operations.

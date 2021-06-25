@@ -1,11 +1,8 @@
 ---
 description: You can implement your own content resolvers based on the default resolvers.
-seo-description: You can implement your own content resolvers based on the default resolvers.
-seo-title: Implement a custom content resolver
 title: Implement a custom content resolver
-uuid: 1714fcd9-45e0-48be-97f3-f702265128a4
+exl-id: abe967a5-ced3-4e23-8671-065e256974d3
 ---
-
 # Implement a custom content resolver{#implement-a-custom-content-resolver}
 
 You can implement your own content resolvers based on the default resolvers.
@@ -134,4 +131,3 @@ You can implement your own content resolvers based on the default resolvers.
 
    player.replaceCurrentResource(mediaResource, mediaPlayerItemConfig);
    ```
-

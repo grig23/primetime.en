@@ -1,9 +1,9 @@
 ---
-seo-title: Output protection controls
 title: Output protection controls
-uuid: 1f4cc617-7f14-4952-8e61-6acbdf01d10e
+description: Output protection controls
+copied-description: yes
+exl-id: e27e49f9-9bc3-493f-a9ba-efe623694942
 ---
-
 # Output protection controls {#output-protection-controls}
 
 **Control whether output to external rendering devices is protected. Specify analog and digital outputs independently.**
@@ -72,4 +72,4 @@ Example use case: Some content might enforce output protection controls, and the
 
 If “Required” is specified and playback is attempted on Linux, the client does not play back content on any devices because it is not possible to differentiate between internal and external devices.
 
-If you specify “Use if available”, output protection is turned on where possible. For example, on Windows machines that support the Certified Output Protection Protocol (COPP), the content is passed with output protection to an external display. This example is sometimes known as “selectable output control”. 
+If you specify “Use if available”, output protection is turned on where possible. For example, on Windows machines that support the Certified Output Protection Protocol (COPP), the content is passed with output protection to an external display. This example is sometimes known as “selectable output control”.

@@ -1,11 +1,8 @@
 ---
 description: To receive notifications about tags in the manifest, implement the appropriate event listener(s).
-seo-description: To receive notifications about tags in the manifest, implement the appropriate event listener(s).
-seo-title: Add listeners for timed metadata notifications
 title: Add listeners for timed metadata notifications
-uuid: cd7a5936-d63a-4711-ac16-2d79bac099a3
+exl-id: febf354b-2a25-4108-abd9-6ff1e09cee39
 ---
-
 # Add listeners for timed metadata notifications {#add-listeners-for-timed-metadata-notifications}
 
 To receive notifications about tags in the manifest, implement the appropriate event listener(s).
@@ -41,4 +38,4 @@ You can monitor timed metadata by listening for the following events, which noti
    
    ```
 
-ID3 metadata uses the same onTimedMetadata listener to indicate the presence of an ID3 tag. This should not cause any confusion, however, because you can use a `TimedMetadata` object's `type` property to differentiate between TAG and ID3. For more information about ID3 tags, see [ID3 tags](../../../tvsdk-1.4-for-android/notification-system/android-1.4-id3-metadata-retrieve.md). 
+ID3 metadata uses the same onTimedMetadata listener to indicate the presence of an ID3 tag. This should not cause any confusion, however, because you can use a `TimedMetadata` object's `type` property to differentiate between TAG and ID3. For more information about ID3 tags, see [ID3 tags](../../../tvsdk-1.4-for-android/notification-system/android-1.4-id3-metadata-retrieve.md).

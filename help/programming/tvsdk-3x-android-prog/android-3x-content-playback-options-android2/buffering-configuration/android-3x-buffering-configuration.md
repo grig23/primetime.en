@@ -1,11 +1,8 @@
 ---
 description: To provide a smoother viewing experience, TVSDK sometimes buffers the video stream. You can configure how the player buffers.
-seo-description: To provide a smoother viewing experience, TVSDK sometimes buffers the video stream. You can configure how the player buffers.
-seo-title: Buffering
 title: Buffering
-uuid: c84b98ed-0070-4a86-a409-d7702e5be23c
+exl-id: 3b706420-878d-487a-8db7-cff2a12c2660
 ---
-
 # Overview {#buffering-overview}
 
 To provide a smoother viewing experience, TVSDK sometimes buffers the video stream. You can configure how the player buffers.

@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Limitations and behavior for trick play
 title: Limitations and behavior for trick play
-uuid: c28cc8db-3f45-488e-ab72-b102b3a1fab2
+description: Limitations and behavior for trick play
+copied-description: yes
+exl-id: 5acd91e6-6022-4365-be2b-e84f0a0a91d1
 ---
-
 # Limitations and behavior for trick play {#limitations-and-behavior-for-trick-play}
 
 <!--<a id="section_2BC43539C5C142E085D06A7E35C76726"></a>-->

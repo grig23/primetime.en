@@ -1,11 +1,8 @@
 ---
 description: For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
-seo-description: For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
-seo-title: Implementing an early ad break return
 title: Implementing an early ad break return
-uuid: 984b6ed0-c929-49a3-9553-e30d1a7758ed
+exl-id: 584e870e-1408-41a9-bb6f-e82b921fe99e
 ---
-
 # Implementing an early ad break return{#implementing-an-early-ad-break-return}
 
 For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
@@ -83,4 +80,3 @@ For example, here are two separate markers:
 #EXTINF:6.006000,no-desc
 /live/hls/nbc-fer/QualityLevels(2200000)/Fragments(video=14332589330665811,format=m3u8-aapl-v4)
 ```
-

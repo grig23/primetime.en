@@ -1,9 +1,9 @@
 ---
-seo-title: Install Tomcat
 title: Install Tomcat
-uuid: f7663eda-ad18-4a6e-bb9f-01c74721b047
+description: Install Tomcat
+copied-description: yes
+exl-id: aed8fc1c-0d75-47ca-bbd4-c0934a66e284
 ---
-
 # Install Tomcat {#install-tomcat}
 
  You must install Tomcat on both of your servers. 

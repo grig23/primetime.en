@@ -1,11 +1,8 @@
 ---
 description: TVSDK dispatches playback events when media playback operations occur, such as a video starting to play.
-seo-description: TVSDK dispatches playback events when media playback operations occur, such as a video starting to play.
-seo-title: Playback events
 title: Playback events
-uuid: 809a8e0e-f4d8-4013-b04a-49fb93d7ca8a
+exl-id: 675dd444-d58c-4316-9d62-b64e6433b650
 ---
-
 # Playback events{#playback-events}
 
 TVSDK dispatches playback events when media playback operations occur, such as a video starting to play.

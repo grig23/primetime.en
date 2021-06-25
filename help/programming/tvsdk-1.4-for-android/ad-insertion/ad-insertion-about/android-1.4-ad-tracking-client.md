@@ -1,11 +1,8 @@
 ---
 description: TVSDK automatically tracks ads for VOD and live/linear streaming.
-seo-description: TVSDK automatically tracks ads for VOD and live/linear streaming.
-seo-title: Client ad tracking
 title: Client ad tracking
-uuid: 09a3a2b5-8c73-4070-a47b-b7ab490b1139
+exl-id: eebe576c-3854-4718-9bff-341f660dd0b7
 ---
-
 # Track client ad {#client-ad-tracking}
 
 TVSDK automatically tracks ads for VOD and live/linear streaming.

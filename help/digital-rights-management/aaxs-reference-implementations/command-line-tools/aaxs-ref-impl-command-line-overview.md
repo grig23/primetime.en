@@ -1,9 +1,9 @@
 ---
-seo-title: Command line tools for packaging content and creating revocations lists 
 title: Command line tools for packaging content and creating revocations lists 
-uuid: 2c740521-2004-4320-88e1-118b84e80e31
+description: Command line tools for packaging content and creating revocations lists 
+copied-description: yes
+exl-id: 34305dab-a2f0-41c2-9a59-3261e8dea7e2
 ---
-
 # Command line tools for packaging content and creating revocations lists {#command-line-tools-for-packaging-content-revocation-lists}
 
 The reference implementation includes the following command line tools:
@@ -44,4 +44,4 @@ Set values for properties in the configuration file before you run the tools. Fo
 
 You can copy the files you need from the [!DNL \Reference Implementation\Command Line Tools] directory on the DVD, which contains the default [!DNL flashaccesstools.properties] configuration file, and a [!DNL libs] directory, which contains the JAR files for the tools.
 
-The [!DNL samples] directory contains several sample Java source files demonstrating usage of the Adobe Access SDK APIs. To build and run the samples, use the [!DNL build-samples.xml] Ant script. 
+The [!DNL samples] directory contains several sample Java source files demonstrating usage of the Adobe Access SDK APIs. To build and run the samples, use the [!DNL build-samples.xml] Ant script.

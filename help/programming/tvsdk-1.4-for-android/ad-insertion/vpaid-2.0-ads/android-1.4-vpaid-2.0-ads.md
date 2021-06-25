@@ -1,11 +1,8 @@
 ---
 description: Video Player Ad-Serving Interface Definition (VPAID) 2.0 provides a common interface to play video ads. It provides a rich media experience for users and allows publishers to better target ads, track ad impressions, and monetize video content.
-seo-description: Video Player Ad-Serving Interface Definition (VPAID) 2.0 provides a common interface to play video ads. It provides a rich media experience for users and allows publishers to better target ads, track ad impressions, and monetize video content.
-seo-title: VPAID 2.0 ad support
 title: VPAID 2.0 ad support
-uuid: 7168a6e4-9c5e-4d3a-8710-867cf98e4445
+exl-id: ee3e0cd9-463e-4de9-a94f-292e968b6f08
 ---
-
 # VPAID 2.0 ad support {#vpaid-ad-support}
 
 Video Player Ad-Serving Interface Definition (VPAID) 2.0 provides a common interface to play video ads. It provides a rich media experience for users and allows publishers to better target ads, track ad impressions, and monetize video content.

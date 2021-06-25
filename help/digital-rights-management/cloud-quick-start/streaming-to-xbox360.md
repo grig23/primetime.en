@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Set the XSTS token in your player
 title: Set the XSTS token in your player
-uuid: 8995e029-deee-4e23-9cda-a50de8c4f2c0
+description: Set the XSTS token in your player
+copied-description: yes
+exl-id: 1b83baac-e6a6-4e84-8ea5-07bd7e4afd9d
 ---
-
 # Streaming to Xbox360 (Optional) {#streaming-to-xboc360} 
 
 Primetime DRM is available on the Xbox360 platform. However, only the Protected Streaming use case is supported, not the full suite of DRM policy rights. Non-streaming DRM policy rights, such as Device Domain Groups, are not supported. The Xbox360 ignores unsupported rights when attempting to play content.

@@ -1,11 +1,8 @@
 ---
 description: TVSDK provides APIs and sample code for handling blackout periods.
-seo-description: TVSDK provides APIs and sample code for handling blackout periods.
-seo-title: Implement blackout handling
 title: Implement blackout handling
-uuid: db7f831c-5069-4426-bfe3-5fc51fec7930
+exl-id: 9b23674d-76d5-4879-b595-3a6e368c45cd
 ---
-
 # Implement blackout handling{#implement-blackout-handling}
 
 TVSDK provides APIs and sample code for handling blackout periods.
@@ -206,4 +203,3 @@ To implement blackout handling including providing alternate content during the 
        nonSeekableRanges.removeAll(rangesToRemove); 
    }
    ```
-

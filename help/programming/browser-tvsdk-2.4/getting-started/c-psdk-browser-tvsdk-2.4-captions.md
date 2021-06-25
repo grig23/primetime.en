@@ -1,11 +1,8 @@
 ---
 description: You can display captions when playing video content.
-seo-description: You can display captions when playing video content.
-seo-title: Captions
 title: Captions
-uuid: 4dedcedc-50e5-4983-bb09-3f316337117e
+exl-id: 2144a6b2-0b9a-49ea-ad44-997adf36cbe6
 ---
-
 # Captions{#captions}
 
 You can display captions when playing video content.

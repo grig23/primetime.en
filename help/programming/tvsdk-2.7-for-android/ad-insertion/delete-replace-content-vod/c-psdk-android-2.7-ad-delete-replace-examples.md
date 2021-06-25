@@ -1,11 +1,8 @@
 ---
 description: Here are some examples of the process to delete and replace ads.
-seo-description: Here are some examples of the process to delete and replace ads.
-seo-title: Examples to delete and replace ads
 title: Examples to delete and replace ads
-uuid: 31ceb39a-aa30-472e-908a-3ba57559045f
+exl-id: a6fdb86e-507e-4a65-bb32-928e216c6e9a
 ---
-
 # Examples to delete and replace ads {#examples-to-delete-and-replace-ads}
 
 Here are some examples of the process to delete and replace ads.
@@ -72,4 +69,3 @@ config.setCustomRangeMetadata(customRangeMetadata);
 // prepare the content for playback by calling replaceCurrentResource 
 mediaPlayer.replaceCurrentResource(mediaResource, config);
 ```
-

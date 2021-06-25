@@ -1,11 +1,8 @@
 ---
 description: You can override the default behavior for how TVSDK seeks over ads when using custom ad markers.
-seo-description: You can override the default behavior for how TVSDK seeks over ads when using custom ad markers.
-seo-title: Control playback behavior for seeking over custom ad markers
 title: Control playback behavior for seeking over custom ad markers
-uuid: cf973caf-be29-46ce-bfa4-651e7653f8d4
+exl-id: 83faa5a4-4416-499e-8cf2-d016cd9a379d
 ---
-
 # Control playback behavior for seeking over custom ad markers{#control-playback-behavior-for-seeking-over-custom-ad-markers}
 
 You can override the default behavior for how TVSDK seeks over ads when using custom ad markers.
@@ -28,4 +25,3 @@ You can tell TVSDK to reposition the playhead to the beginning of the most recen
      MediaResource.createFromUrl("www.example.com/video/test_video.m3u8", 
                                  timeRanges.toMetadata(metadata));
    ```
-

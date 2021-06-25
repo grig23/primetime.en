@@ -1,11 +1,8 @@
 ---
 description: Complete the following steps to create a basic player using the Browser TVSDK.
-seo-description: Complete the following steps to create a basic player using the Browser TVSDK.
-seo-title: Create a basic player using TVSDK
 title: Create a basic player using TVSDK
-uuid: ec15cf53-197f-4190-a6b2-600a57815390
+exl-id: ea7485e0-5d15-469b-b8b6-f9604d283492
 ---
-
 # Create a basic player using TVSDK{#create-a-basic-player-using-tvsdk}
 
 Complete the following steps to create a basic player using the Browser TVSDK.
@@ -169,4 +166,3 @@ Complete the following steps to create a basic player using the Browser TVSDK.
     player.play(); 
     break;
    ```
-

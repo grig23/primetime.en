@@ -1,9 +1,9 @@
 ---
-seo-title: Using the DRMErrorEvent class overview
 title: Using the DRMErrorEvent class overview
-uuid: cbb9c1a7-3c50-479d-b7e5-63010a696dfa
+description: Using the DRMErrorEvent class overview
+copied-description: yes
+exl-id: c651cdcf-f8f8-4085-a88e-d82030f90f11
 ---
-
 # Using the DRMErrorEvent class {#using-the-drmerrorevent-class}
 
 Primetime dispatches a `DRMErrorEvent` object when a Primetime object, trying to play protected content, encounters a [DRM-related error](https://help.adobe.com/en_US/primetime/drm/index.html#reference-DRM_Client_Error_Messages). If user credentials are invalid, the `DRMAuthenticateEvent` object repeatedly dispatches until the user enters valid credentials or the application denies further attempts. The application is responsible for listening to any other DRM error events to detect, identify, and handle the [DRM-related errors](https://help.adobe.com/en_US/primetime/drm/index.html#reference-DRM_Client_Error_Messages).

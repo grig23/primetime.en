@@ -1,9 +1,9 @@
 ---
-seo-title: Working with DRM policies overview
 title: Working with DRM policies overview
-uuid: 32423448-013c-4183-bea8-e14b6690abdb
+description: Working with DRM policies overview
+copied-description: yes
+exl-id: 734d0be3-2abe-400c-bc34-00046ec52f4c
 ---
-
 # Overview {#working-with-drm-policies-overview}
 
 Content providers can apply DRM policies to media files using the Primetime DRM SDK. Administrators can then create, view details of, and update DRM policies using policy management APIs.
@@ -26,4 +26,4 @@ You can complete the following tasks with the Primetime DRM policy management AP
 
 See the *Primetime DRM API Reference* for details about the Java API.
 
-See the *Using the Primetime DRM Reference Implementations* guide for information about the Primetime DRM Policy Manager. 
+See the *Using the Primetime DRM Reference Implementations* guide for information about the Primetime DRM Policy Manager.

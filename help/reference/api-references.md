@@ -1,12 +1,13 @@
 ---
 title: Adobe Primetime API references
-seo-title: Adobe Primetime API references
 description: The APIs help you to create a functional application or integration quickly and easily.
-seo-description: The APIs help you to create a functional application or integration quickly and easily.
 topic-tags: API-references
+exl-id: 6862764e-c1d8-413a-a0c0-66b31eac8e53
 ---
-
 # Adobe Primetime API references {#api-references}
+
++ Primetime Dynamic Ad Insertion {#server-side}
+  + [Bootstrap API Reference](../primetime-ad-insertion/technical-reference/bootstrap-api.md)
 
 + TVSDK 3.12 {#tvsdk-312}
   + [TVSDK 3.12 for Android](https://help.adobe.com/en_US/primetime/api/psdk/javadoc3.12/index.html)

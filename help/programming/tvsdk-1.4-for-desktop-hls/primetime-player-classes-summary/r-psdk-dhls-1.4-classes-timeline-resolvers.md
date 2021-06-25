@@ -1,11 +1,8 @@
 ---
 description: These classes assist in resolving content, such as ads, to place on the timeline.
-seo-description: These classes assist in resolving content, such as ads, to place on the timeline.
-seo-title: Timeline resolvers classes
 title: Timeline resolvers classes
-uuid: a36349b2-23ee-4774-99b2-7e1cd9168686
+exl-id: 8135214b-5c0c-48ac-b1a4-21825e10f293
 ---
-
 # Timeline resolvers classes{#timeline-resolvers-classes}
 
 These classes assist in resolving content, such as ads, to place on the timeline.

@@ -1,9 +1,9 @@
 ---
-seo-title: Troubleshooting
 title: Troubleshooting
-uuid: db76d6a4-c285-4d86-95a1-4f1a85ed3743
+description: Troubleshooting
+copied-description: yes
+exl-id: 4af7b625-63d3-48b6-98a5-b8894dd0c67f
 ---
-
 # Troubleshooting {#troubleshooting}
 
 Listed below are common problems and solutions for deployment:
@@ -32,4 +32,3 @@ Listed below are common problems and solutions for deployment:
   ```
 
   Make sure you used the password scrambler class provided with the Reference Implementation (this scrambler utility is different from the one provided with the Adobe® Access™ Server for Protected Streaming).
-

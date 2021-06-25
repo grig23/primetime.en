@@ -1,11 +1,8 @@
 ---
 description: You can enable FairPlay for Safari when working with Primetime DRM Cloud, powered by ExpressPlay.
-seo-description: You can enable FairPlay for Safari when working with Primetime DRM Cloud, powered by ExpressPlay.
-seo-title: Enable FairPlay for Safari HLS
 title: Enable FairPlay for Safari HLS
-uuid: 6a250a31-cc4b-4c4b-b1e9-893ee3ca5d78
+exl-id: 761c7cb8-3068-44c9-8ceb-6411c509c0a7
 ---
-
 # Enable FairPlay for Safari HLS {#enable-fairplay-for-safari-hls}
 
 You can enable FairPlay for Safari when working with Primetime DRM Cloud, powered by ExpressPlay.
@@ -84,4 +81,3 @@ To modify your FairPlay / Safari app:
        console.log("severProcessSPCPAth = " + serverProcessSPCPath); return link.hostname;  
    }
    ```
-

@@ -1,9 +1,9 @@
 ---
-seo-title: Configuration file properties
 title: Configuration file properties
-uuid: f0d36240-e5fa-4bf9-9a82-7e963d03cdd0
+description: Configuration file properties
+copied-description: yes
+exl-id: eec6a53d-d831-4ec4-a90c-8b3e7997f330
 ---
-
 # Configuration file properties {#configuration-file-properties}
 
 Before you run Media Packager, specify values for the Media Packager properties. The configuration file specifies the following properties. For property names that include* n*, *n* represents an integer starting with 1 and increasing for each instance of the property. 
@@ -90,4 +90,3 @@ Before you run Media Packager, specify values for the Media Packager properties.
   </tr> 
  </tbody> 
 </table>
-

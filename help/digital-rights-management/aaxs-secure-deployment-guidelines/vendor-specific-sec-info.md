@@ -1,9 +1,9 @@
 ---
-seo-title: Vendor-specific security information
 title: Vendor-specific security information
-uuid: 23186770-c73a-4802-bc30-fa9e4b47d9ba
+description: Vendor-specific security information
+copied-description: yes
+exl-id: 668321c5-b2c7-4bb3-9f68-2dba622a54de
 ---
-
 # Vendor-specific security information{#vendor-specific-security-information}
 
 This section contains security-related information about operating systems and application servers that are incorporated into your Adobe Access solution.
@@ -76,4 +76,3 @@ When securing your application server, you must implement the measures that are 
 * Closing unneeded ports 
 * Limiting administrative interfaces by IP addresses or domains 
 * Using the Java™ Security Manager
-

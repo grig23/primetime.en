@@ -1,11 +1,8 @@
 ---
 description: Your application must use the appropriate TimedMetadata objects at the appropriate times.
-seo-description: Your application must use the appropriate TimedMetadata objects at the appropriate times.
-seo-title: Store timed metadata objects as they are dispatched
 title: Store timed metadata objects as they are dispatched
-uuid: 3d0ed022-829d-474e-83a9-152caeb5b317
+exl-id: 0a5cceee-d990-4bb2-ac85-da3ab47aa745
 ---
-
 # Store timed metadata objects as they are dispatched {#store-timed-metadata-objects-as-they-are-dispatched}
 
 Your application must use the appropriate TimedMetadata objects at the appropriate times.
@@ -37,4 +34,3 @@ To store timed metadata objects as they are dispatched:
        ... 
    }
    ```
-

@@ -1,11 +1,8 @@
 ---
 description: You can handle blackouts in live video streams and provide alternate content during a blackout.
-seo-description: You can handle blackouts in live video streams and provide alternate content during a blackout.
-seo-title: Blackout API elements
 title: Blackout API elements
-uuid: 263a8987-0c85-493a-9352-9605c877ba65
+exl-id: 8e4f1dc3-f2f6-4db9-b9d0-3e79d21032e9
 ---
-
 # Blackout API elements{#blackout-api-elements}
 
 You can handle blackouts in live video streams and provide alternate content during a blackout.

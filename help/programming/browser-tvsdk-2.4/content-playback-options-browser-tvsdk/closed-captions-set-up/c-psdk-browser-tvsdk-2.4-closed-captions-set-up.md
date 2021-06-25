@@ -1,11 +1,8 @@
 ---
 description: Closed captioning displays the audio portion of a video as text on the screen when the sound is inaudible or the viewer is hard of hearing.
-seo-description: Closed captioning displays the audio portion of a video as text on the screen when the sound is inaudible or the viewer is hard of hearing.
-seo-title: Work with closed captions
 title: Work with closed captions
-uuid: bc069e04-3ea3-4cdf-a8a6-d8aef91ece91
+exl-id: 523e384f-4f45-41cc-b0a1-27c0c1adf2b7
 ---
-
 # Work with closed captions{#work-with-closed-captions}
 
 Closed captioning displays the audio portion of a video as text on the screen when the sound is inaudible or the viewer is hard of hearing.
@@ -22,4 +19,3 @@ You can:
 * Select an available caption track to be the current track and listen for events that indicate additional available tracks. 
 * Switch closed captioning on or off (visible or not visible) by using the `MediaPlayer` interface. 
 * Select styling options that dictate how closed captions are rendered by the underlying video engine. Use the `MediaPlayerItem` interface to select formats such as the font or font color.
-

@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Anonymous domain logic
 title: Anonymous domain logic
-uuid: bd0e8e51-27dc-4ccf-b285-a80c2ab9e260
+description: Anonymous domain logic
+copied-description: yes
+exl-id: 4a6c3485-cde7-403f-89d8-f6420df3539a
 ---
-
 # Anonymous domain logic{#anonymous-domain-logic}
 
 ## Domain registration logic {#section_C91DCD49D7D44570AF98C2D7B8A283F9}
@@ -53,4 +51,4 @@ The reference implementation applies the following logic for anonymous domain de
 
 1. If this is not a preview request, delete the entry from `DomainMembership`, and in `DomainServerInfo`, set the `Key Rollover Required` flag.
 
-Because a large number of machines may join the domain, you cannot simply match the machine ID. Instead, the random machine GUID that is assigned to the machine during individualization is applied. 
+Because a large number of machines may join the domain, you cannot simply match the machine ID. Instead, the random machine GUID that is assigned to the machine during individualization is applied.

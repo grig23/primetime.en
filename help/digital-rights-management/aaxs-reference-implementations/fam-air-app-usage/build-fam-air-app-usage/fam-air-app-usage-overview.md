@@ -1,9 +1,9 @@
 ---
-seo-title: Building the Packager Server and AIR Application
 title: Building the Packager Server and AIR Application
-uuid: ed7a1f11-1b7d-41d6-9b15-95c304992fc9
+description: Building the Packager Server and AIR Application
+copied-description: yes
+exl-id: 7f2333ef-bd6b-414a-834f-5c6a9e2b6610
 ---
-
 # Building the Packager Server and AIR Application {#building-the-packager-server-and-air-application}
 
 There are two components required to use the Flash Access Manager:
@@ -11,4 +11,4 @@ There are two components required to use the Flash Access Manager:
 * The Flash Access Manager AIR application 
 * The Packager Server ( [!DNL flashaccess-packager.war])
 
-Both components are distributed in both source and binary forms with the Reference Implementation. 
+Both components are distributed in both source and binary forms with the Reference Implementation.

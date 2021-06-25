@@ -1,5 +1,4 @@
 ---
-cloud: experience-cloud
 product: primetime
 audience: end-user
 user-guide-title: Primetime Reference Implementation Help

@@ -1,8 +1,8 @@
 ---
 title: Use Ad Insertion in Live/Linear stream
 description: Using Ad Insertion in Live/Linear stream
+exl-id: d56ed723-ec72-4bbd-befc-6858c7c9d800
 ---
-
 # Use Ad Insertion in Live/Linear stream {#ad-insertion-live-linear-stream}
 
 Primetime Ad Insertion gives publishers the ability to handle standard and complex ad insertion situations that occur during live/linear streams.

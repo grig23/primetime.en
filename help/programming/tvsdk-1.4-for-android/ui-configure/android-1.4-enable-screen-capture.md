@@ -1,12 +1,10 @@
 ---
-description: null
 keywords: setSecure;VideoEngineView
-seo-description: null
-seo-title: Enable screen capture
 title: Enable screen capture
-uuid: f3d18729-e13e-47f9-b4b8-f93a2874ef16
+description: Enable screen capture
+copied-description: yes
+exl-id: 5dd1bf4e-ab50-4b57-89e4-eacc291a9fe3
 ---
-
 # Enable screen capture{#enable-screen-capture}
 
  TVSDK disallows screen capture by default. The player calls `setSecure(true)` on the `com.adobe.ave.VideoEngineView` object at construction time. You have access to this object, as you have to construct a `VideoEngineView` object and supply it to the `VideoEngine` object.

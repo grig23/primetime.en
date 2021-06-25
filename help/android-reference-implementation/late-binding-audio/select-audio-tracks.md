@@ -1,9 +1,9 @@
 ---
-seo-title: Select the audio tracks
 title: Select the audio tracks
-uuid: a827f426-956b-4a5f-90ba-db12010aa7c7
+description: Select the audio tracks
+copied-description: yes
+exl-id: d4a7260a-82dd-4b57-8037-b91815d9b954
 ---
-
 # Select the audio tracks{#select-the-audio-tracks}
 
 To select audio tracks for late-binding audio, implement [IAAConfig](https://help.adobe.com/en_US/primetime/api/reference_implementation/android/javadoc/com/adobe/primetime/reference/config/IAAConfig.html).

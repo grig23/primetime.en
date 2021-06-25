@@ -1,9 +1,9 @@
 ---
-seo-title: Preparing passwords for the Server properties files
 title: Preparing passwords for the Server properties files
-uuid: 2d876eb0-b1a5-4c30-ae96-0a22f6a03910
+description: Preparing passwords for the Server properties files
+copied-description: yes
+exl-id: 70f75640-7075-450a-8191-dc348bd269b8
 ---
-
 # Preparing passwords for the Server properties files {#preparing-passwords-for-the-server-properties-files}
 
 To ensure the security of your credential's password, a tool is provided to encrypt the password before it is entered into the [!DNL flashaccess-refimpl.properties] or [!DNL flashaccess-refimpl-packager.properties] file.

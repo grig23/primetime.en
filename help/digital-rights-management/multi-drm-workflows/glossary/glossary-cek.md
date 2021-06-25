@@ -1,7 +1,8 @@
 ---
-uuid: 2d927ae8-4c4b-4b64-88b8-9c86430e226c
+title: Glossary
+description: Frequently-used terms that require special definition.
+exl-id: 4e7874f7-c5c0-4f2c-ada2-a0da3ed4d4bf
 ---
-
 # Glossary {#glossary}
 
 Frequently-used terms that require special definition.

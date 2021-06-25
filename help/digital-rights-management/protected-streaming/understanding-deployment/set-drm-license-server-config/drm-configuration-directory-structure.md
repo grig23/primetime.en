@@ -1,9 +1,9 @@
 ---
-seo-title: Configuration Directory Structure
 title: Configuration Directory Structure
-uuid: 90ddd205-9dc6-4be1-ab10-ac37d93192c2
+description: Configuration Directory Structure
+copied-description: yes
+exl-id: e24d3df0-f723-4dad-84d5-984f3350353a
 ---
-
 # Configuration Directory Structure{#configuration-directory-structure}
 
 The configuration directories have the following structure:
@@ -31,4 +31,3 @@ The configuration directories have the following structure:
  </i class="+ topic> 
 </i class="+ topic>
 ```
-

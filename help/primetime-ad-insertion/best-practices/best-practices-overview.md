@@ -1,8 +1,9 @@
 ---
 title: Best practices
-description:
+description: Best practices
+copied-description: yes
+exl-id: 2dae6032-5e22-4274-a5a2-02960fcbcf19
 ---
-
 # Best practices {#best-practices}
 
 For optimal performance and start-up time for your video streams, refer to the following best practices to analyze and optimize your ad and content workflows.

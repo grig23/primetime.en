@@ -1,11 +1,8 @@
 ---
 description: You can provide styling information for closed caption tracks using the TextFormat class, which sets the style for closed captions that are displayed by your player.
-seo-description: You can provide styling information for closed caption tracks using the TextFormat class, which sets the style for closed captions that are displayed by your player.
-seo-title: Control closed-caption styling
 title: Control closed-caption styling
-uuid: fa4f637f-f13c-465d-8eee-5e66a6dd9db2
+exl-id: fa96f9f5-f709-4749-90c8-cf237cf074c0
 ---
-
 # Control closed-caption styling {#control-closed-caption-styling}
 
 You can provide styling information for closed caption tracks using the TextFormat class, which sets the style for closed captions that are displayed by your player.

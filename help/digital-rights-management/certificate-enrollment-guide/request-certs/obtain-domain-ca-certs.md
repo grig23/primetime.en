@@ -1,9 +1,9 @@
 ---
-seo-title: Obtain Domain CA certificates
 title: Obtain Domain CA certificates
-uuid: 41bbe02b-363a-47f4-9cc0-350730b6c787
+description: Obtain Domain CA certificates
+copied-description: yes
+exl-id: cad233e0-41f7-4897-ab5f-d5a098c37306
 ---
-
 # Obtain Domain CA certificates{#obtain-domain-ca-certificates}
 
 Unlike the License Server, Packager or Transport certificate, the Domain CA certificate is not issued by Adobe. You can obtain this certificate from a Certificate Authority, or you can generate a self-signed certificate to use for this purpose.
@@ -54,4 +54,3 @@ For example, using OpenSSL, a self-signed CA certificate can be generated as fol
    openssl pkcs12 -export -inkey domain-ca.key \ 
    -in domain-ca.cer -out domain-ca.pfx
    ```
-

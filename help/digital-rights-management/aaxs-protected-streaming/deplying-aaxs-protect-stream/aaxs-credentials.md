@@ -1,9 +1,9 @@
 ---
-seo-title: Adobe Access credentials
 title: Adobe Access credentials
-uuid: d28b0236-1a16-4df0-896c-afb0c54323e5
+description: Adobe Access credentials
+copied-description: yes
+exl-id: 1492824a-c76a-45ef-a18a-cc0217846c0b
 ---
-
 # Adobe Access credentials {#adobe-access-credentials}
 
 To issue valid licenses accepted by a Adobe Access client, the Adobe Access Server for Protected Streaming must be configured with a set of credentials issued by Adobe. These credentials can either be stored in PKCS#12 (.pfx) files or on an HSM.

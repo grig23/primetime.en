@@ -1,11 +1,8 @@
 ---
 description: The term instant on refers to preloading one or more channels so that a user selecting a channel or switching channels sees content playing immediately. The buffering is already done by the time the user starts watching.
-seo-description: The term instant on refers to preloading one or more channels so that a user selecting a channel or switching channels sees content playing immediately. The buffering is already done by the time the user starts watching.
-seo-title: Instant on
 title: Instant on
-uuid: 4cb4d221-170f-46e8-af26-32f259377617
+exl-id: f640f208-d1b3-467a-be97-38690e10b7ed
 ---
-
 # Instant on {#instant-on}
 
 The term instant on refers to preloading one or more channels so that a user selecting a channel or switching channels sees content playing immediately. The buffering is already done by the time the user starts watching.

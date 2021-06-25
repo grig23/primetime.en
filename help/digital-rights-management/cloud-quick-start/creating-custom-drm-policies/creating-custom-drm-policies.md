@@ -1,9 +1,9 @@
 ---
-seo-title: Create custom DRM policies (Optional)
 title: Create custom DRM policies (Optional)
-uuid: 701b51d9-6dde-4c21-bc5b-09e612582968
+description: Create custom DRM policies (Optional)
+copied-description: yes
+exl-id: a74f60b1-96a0-4fc4-bbf2-5db78f343562
 ---
-
 # Create custom DRM policies (Optional){#create-custom-drm-policies-optional}
 
 The Primetime Cloud DRM Protection Kit comes with a few pre-configured policies that can be used during packaging. If additional policy configurations are desired, for example, a specific SWF-allow listing right, the included Primetime DRM Policy Manager can be used to generate custom policies.

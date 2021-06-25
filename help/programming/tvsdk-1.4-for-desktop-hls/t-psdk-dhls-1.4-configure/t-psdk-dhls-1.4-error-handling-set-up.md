@@ -1,11 +1,8 @@
 ---
 description: Set up a single place to handle errors.
-seo-description: Set up a single place to handle errors.
-seo-title: Set up error handling
 title: Set up error handling
-uuid: ff56180d-aa74-4b7c-a24c-e536d874c2e6
+exl-id: ce4a2954-0166-43af-afdf-0aa24659f1ae
 ---
-
 # Set up error handling{#set-up-error-handling}
 
 Set up a single place to handle errors.
@@ -34,4 +31,3 @@ private void onStatusChanged(event:MediaPlayerStatusChangeEvent):void {
 } 
 
 ```
-

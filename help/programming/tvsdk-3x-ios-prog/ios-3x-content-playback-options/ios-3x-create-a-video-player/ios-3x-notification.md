@@ -1,11 +1,8 @@
 ---
 description: The player can listen for a range of events that indicate the state of the player.
-seo-description: The player can listen for a range of events that indicate the state of the player.
-seo-title: Set up notifications
 title: Set up notifications
-uuid: b178b2eb-da40-456b-997a-46ae18d635fa
+exl-id: 52039895-5529-4fc3-8e58-13309de12e80
 ---
-
 # Set up notifications {#set-up-notifications}
 
 The player can listen for a range of events that indicate the state of the player.

@@ -1,11 +1,8 @@
 ---
 description: A MediaResource represents the content that is about to be loaded by the MediaPlayer instance.
-seo-description: A MediaResource represents the content that is about to be loaded by the MediaPlayer instance.
-seo-title: MediaPlayer and MediaResource classes
 title: MediaPlayer and MediaResource classes
-uuid: dcc747d2-8340-45e3-8cdb-a79d4f9360dc
+exl-id: c4219dff-de75-4b8a-ad33-e0a721c38de7
 ---
-
 # MediaPlayer and MediaResource classes {#mediaplayer-and-mediaresource-classes}
 
 A MediaResource represents the content that is about to be loaded by the MediaPlayer instance.
@@ -16,4 +13,3 @@ TVSDK provides the means to load and prepare content for playback by using the `
 
 * For more details see  mediaplayer-reuse-or-remove . 
 * For details of `MediaPlayerResource`, see  media-resource-create
-

@@ -1,9 +1,9 @@
 ---
-seo-title: Out-of-band licenses overview
 title: Out-of-band licenses overview
-uuid: 82e4529a-ee1b-4c0c-8885-e0e68319d1a0
+description: Out-of-band licenses overview
+copied-description: yes
+exl-id: 31a9f097-74e8-41d0-9b9a-1c2a08d3e63a
 ---
-
 # Out-of-band licenses {#out-of-band-licenses}
 
 Licenses can also be obtained out-of-band (without contacting a Primetime DRM license Server) by storing the license on disk and in memory using the `storeVoucher()` method.

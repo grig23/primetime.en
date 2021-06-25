@@ -1,11 +1,8 @@
 ---
 description: When a user clicks an ad, your application should pause playback of the main video content.
-seo-description: When a user clicks an ad, your application should pause playback of the main video content.
-seo-title: Pause and resume playback
 title: Pause and resume playback
-uuid: 229e2499-e30e-458c-bd6d-d035588c21cf
+exl-id: 99db31ff-37f1-41f9-84a4-73dfaac8a93a
 ---
-
 # Pause and resume playback {#pause-and-resume-playback}
 
 When a user clicks an ad, your application should pause playback of the main video content.
@@ -41,4 +38,3 @@ When a user clicks an ad, your application should pause playback of the main vid
    abandonAudioFocus(); 
    
    ```
-

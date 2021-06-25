@@ -1,11 +1,8 @@
 ---
 description: The PlayReady license token interface provides production and test services.
-seo-description: The PlayReady license token interface provides production and test services.
-seo-title: PlayReady license token request / response
 title: PlayReady license token request / response
-uuid: 20ebd582-ebb9-4716-8c1e-df3e58d6ec14
+exl-id: 12f925f7-336b-42b2-95a9-e806801bab8c
 ---
-
 # PlayReady license token request / response {#playready-license-token-request-response}
 
 The PlayReady license token interface provides production and test services.

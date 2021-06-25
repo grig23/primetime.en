@@ -1,9 +1,9 @@
 ---
-seo-title: Prerequisites
 title: Prerequisites
-uuid: 59a51ef8-ab54-4254-a160-2a8103a920b2
+description: Prerequisites
+copied-description: yes
+exl-id: 1550bade-5ee5-4af3-8529-31332c6d993b
 ---
-
 # Prerequisites {#prerequisites}
 
 To use the Certificate Enrollment site to request certificates you need to know the following:

@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Determining if Reference Implementation License Server runs properly
 title: Determining if Reference Implementation License Server runs properly
-uuid: afd82d6d-a11c-48ff-b48c-8f81d4b406a0
+description: Determining if Reference Implementation License Server runs properly
+copied-description: yes
+exl-id: 97ca0b6c-2661-4cdc-b8d0-dcc545f009f6
 ---
-
 # Determining if Reference Implementation License Server runs properly {#determining-if-reference-implementation-license-server-runs-properly}
 
 There are several ways to determine whether your Reference Implementation License Server has started correctly. You can view the [!DNL catalina.log] logs may not be sufficient, as the license server logs to its own log files. Follow the steps below to ensure your Reference Implementation has started up properly.
@@ -58,4 +56,3 @@ The following procedure describes this process:
 1. If the video fails to play, check if any error codes are displayed in the logging pane of the Sample Video Player or added to the [!DNL AdobeFlashAccess.log] file.
 
    You can now search for the location of the [!DNL AdobeFlashAccess.log] log file in the log4j.xml file and then modify it. By default, the log file is copied into the working directory where you run catalina.
-

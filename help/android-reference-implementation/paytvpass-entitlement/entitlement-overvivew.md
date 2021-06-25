@@ -1,11 +1,8 @@
 ---
 description: The Entitlement Manager is the feature manager that supports the Primetime authentication implementation.
-seo-description: The Entitlement Manager is the feature manager that supports the Primetime authentication implementation.
-seo-title: Entitlement Manager Overview
 title: Entitlement Manager Overview
-uuid: b33dfae3-a132-4215-9992-80cbf4c87a61
+exl-id: a66e131e-283f-4378-b834-7cfa887b3ec9
 ---
-
 # Entitlement Manager Overview {#entitlement-manager-overview}
 
 The Entitlement Manager is the feature manager that supports the Primetime authentication implementation.
@@ -41,4 +38,3 @@ Within the `CatalogView`, new icons are displayed on top of the content's icon t
 ### Content Playback
 
 Video playback now requires an authorization check by the `EntitlementManager`. The call to `EntitlementManager.getAuthorization()` occurs within `CatalogView`. If the video requires authorization and the user is authorized, the `PlayerActivity` is started from the `CatalogActivity`.
-

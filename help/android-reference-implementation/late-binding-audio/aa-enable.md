@@ -1,11 +1,8 @@
 ---
 description: You can integrate late-binding or alternate audio streams into your player by creating an alternate audio feature manager.
-seo-description: You can integrate late-binding or alternate audio streams into your player by creating an alternate audio feature manager.
-seo-title: Integrate late-binding audio
 title: Integrate late-binding audio
-uuid: cd2e259a-2af4-4d7b-a856-79bd087e8ca6
+exl-id: 43be9042-d547-4646-a920-cdd2a5dbb1fb
 ---
-
 # Integrate late-binding audio {#integrate-late-binding-audio}
 
 You can integrate late-binding or alternate audio streams into your player by creating an alternate audio feature manager.
@@ -29,4 +26,3 @@ You can integrate late-binding or alternate audio streams into your player by cr
   aaManager = ManagerFactory.getAAManager( 
   <b>false</b>,config, mediaPlayer);
   ```
-

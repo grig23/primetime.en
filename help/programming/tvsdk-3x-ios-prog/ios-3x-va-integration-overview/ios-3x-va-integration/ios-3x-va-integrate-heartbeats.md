@@ -1,11 +1,8 @@
 ---
 description: You can configure your player to track and analyze video use.
-seo-description: You can configure your player to track and analyze video use.
-seo-title: Initialize and configure video analytics
 title: Initialize and configure video analytics
-uuid: d1dc9425-e67c-4e13-aee7-302149352506
+exl-id: 3f108ca4-2562-4400-b4e2-10933bde3254
 ---
-
 # Initialize and configure video analytics {#initialize-and-configure-video-analytics}
 
 You can configure your player to track and analyze video use.

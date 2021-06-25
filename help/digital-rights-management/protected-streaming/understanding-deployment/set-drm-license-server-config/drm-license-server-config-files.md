@@ -1,9 +1,9 @@
 ---
-seo-title: License server configuration files
 title: License server configuration files
-uuid: 7c7e0f76-2ced-45af-9542-99e06ec31cda
+description: License server configuration files
+copied-description: yes
+exl-id: d48e88a4-caae-4f4e-b870-38da4f3a715e
 ---
-
 # License server configuration files{#license-server-configuration-files}
 
 The Adobe Primetime DRM Server for Protected Streaming requires the following types of configuration files:
@@ -17,4 +17,4 @@ See *Configuration Validator*.
 
 If you want to avoid making passwords available in clear text in the configuration files, then you must encrypt all passwords that you have specified in the global and tenant configuration files by using the Scrambler tool that Adobe has provided.
 
-See *Password Scrambler* for more information on how to encrypt passwords. 
+See *Password Scrambler* for more information on how to encrypt passwords.

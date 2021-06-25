@@ -1,11 +1,8 @@
 ---
 description: To display banner ads, you need to create banner instances and allow Browser TVSDK to listen for ad-related events.
-seo-description: To display banner ads, you need to create banner instances and allow Browser TVSDK to listen for ad-related events.
-seo-title: Display banner ads
 title: Display banner ads
-uuid: aabc126e-b3aa-42dd-ab50-a7db8e324c50
+exl-id: 331c10a4-ae31-4d3b-aaca-9497e2970ecf
 ---
-
 # Display banner ads {#display-banner-ads}
 
 To display banner ads, you need to create banner instances and allow Browser TVSDK to listen for ad-related events.
@@ -71,4 +68,3 @@ Add a listener for the event `AdobePSDK.PSDKEventType.AD_STARTED` that does the 
           } 
       }
       ```
-

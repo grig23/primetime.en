@@ -1,9 +1,9 @@
 ---
-seo-title: Set a custom start time in the reference implementation
 title: Set a custom start time in the reference implementation
-uuid: ec404e61-9dce-4bd3-ac48-c2dbd834b6f8
+description: Set a custom start time in the reference implementation
+copied-description: yes
+exl-id: efa2560e-d6f5-44e9-9422-a72947616f61
 ---
-
 # Set a custom start time in the reference implementation {#set-a-custom-start-time-in-the-reference-implementation}
 
 You can use the DVR controls panel in the Settings interface to enable and edit the start position in the reference implementation. When you edit these parameters, the configuration in SharedPreferences is updated and the player is updated. 

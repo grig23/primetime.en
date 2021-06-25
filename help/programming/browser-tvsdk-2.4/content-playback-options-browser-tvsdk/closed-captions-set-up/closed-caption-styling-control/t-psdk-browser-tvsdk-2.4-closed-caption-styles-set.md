@@ -1,11 +1,8 @@
 ---
 description: You can set the format, such as font, size, color, edge, and opacity for closed-caption text.
-seo-description: You can set the format, such as font, size, color, edge, and opacity for closed-caption text.
-seo-title: Set closed-caption styles
 title: Set closed-caption styles
-uuid: 906ed22c-e673-4211-a14b-d95d176aad21
+exl-id: 7ece68ce-0dc5-4899-9834-39940bbd0332
 ---
-
 # Set closed-caption styles{#set-closed-caption-styles}
 
 You can set the format, such as font, size, color, edge, and opacity for closed-caption text.
@@ -54,4 +51,3 @@ You can set the format, such as font, size, color, edge, and opacity for closed-
    >[!TIP]
    >
    >Setting the closed-caption style is asynchronous, so it might take a few seconds for the changes to appear on the screen.
-

@@ -1,11 +1,8 @@
 ---
 description: You can customize or override ad behaviors.
-seo-description: You can customize or override ad behaviors.
-seo-title: Set up customized playback
 title: Set up customized playback
-uuid: 9cbf0bcf-7932-409e-a690-e79f284eaf74
+exl-id: aaa4d1c2-c425-4a2e-8377-0a3072f3fb18
 ---
-
 # Set-up customized playback {#cset-up-customized-playback}
 
 You can customize or override ad behaviorr by registering the ad policy instance with TVSDK.

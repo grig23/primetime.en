@@ -1,9 +1,9 @@
 ---
-seo-title: Packaging content
 title: Packaging content
-uuid: 5d1d4b9d-f241-4291-9577-e9de5a8b92be
+description: Packaging content
+copied-description: yes
+exl-id: 85950028-d58d-45b3-9337-9fcabe7cc4c0
 ---
-
 # Packaging content{#packaging-content}
 
 When packaging content, the license server URL must be specified. The Adobe Access Server URL has the format:

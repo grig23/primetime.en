@@ -1,11 +1,8 @@
 ---
 description: TVSDK dispatches events/notifications in generally expected sequences. Your player can implement actions based on events in the expected sequence.
-seo-description: TVSDK dispatches events/notifications in generally expected sequences. Your player can implement actions based on events in the expected sequence.
-seo-title: Order of playback events
 title: Order of playback events
-uuid: 4a9ea66b-a383-46ff-9ab8-983b1dd7f935
+exl-id: d03692f6-04b9-4962-92d1-fad671d06665
 ---
-
 # Order of playback events{#order-of-playback-events}
 
 TVSDK dispatches events/notifications in generally expected sequences. Your player can implement actions based on events in the expected sequence.
@@ -64,4 +61,3 @@ public function onTimeChanged(event:TimeChangeEvent):void {
     ... 
 }
 ```
-

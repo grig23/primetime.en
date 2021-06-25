@@ -1,9 +1,9 @@
 ---
-seo-title: Log directory structure
 title: Log directory structure
-uuid: 230c6a97-1bdc-47b7-9cd9-3ebeea1c3906
+description: Log directory structure
+copied-description: yes
+exl-id: 8c52fd85-cc46-41da-b5a1-41b5d61da6ad
 ---
-
 # Log directory structure{#log-directory-structure}
 
 The log directory has the following structure:
@@ -22,4 +22,3 @@ The log directory has the following structure:
  </i class="+ topic>
 </i class="+ topic>
 ```
-

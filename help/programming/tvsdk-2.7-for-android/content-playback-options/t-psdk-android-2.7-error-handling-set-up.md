@@ -1,11 +1,8 @@
 ---
 description: You can set up one lace to handle errors.
-seo-description: You can set up one lace to handle errors.
-seo-title: Set up error handling
 title: Set up error handling
-uuid: fde47fa5-5ca5-4be5-a7e7-3227c5e4c670
+exl-id: 594cd9b8-491f-4972-990a-5657f87c7f89
 ---
-
 # Set up error handling {#set-up-error-handling}
 
 You can set up one lace to handle errors.
@@ -33,4 +30,3 @@ mediaPlayer.addEventListener(MediaPlayerEvent.STATUS_CHANGED,
     } 
 });
 ```
-

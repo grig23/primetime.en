@@ -1,11 +1,8 @@
 ---
 description: To receive notifications about tags in the manifest, implement the appropriate notification listener(s).
-seo-description: To receive notifications about tags in the manifest, implement the appropriate notification listener(s).
-seo-title: Add listeners for timed metadata notifications
 title: Add listeners for timed metadata notifications
-uuid: dcd1bd92-0617-4eab-8b06-7301aaff42f3
+exl-id: 259af856-797b-4a50-9add-f72132831ba1
 ---
-
 # Add listeners for timed metadata notifications {#add-listeners-for-timed-metadata-notifications}
 
 To receive notifications about tags in the manifest, implement the appropriate notification listener(s).
@@ -35,4 +32,3 @@ You can monitor timed metadata by listening for the following events, which noti
       ```
 
     * Access the `timedMetadataCollection` property of `PTMediaPlayerItem`, which consists of all the `PTTimedMetadata` objects that have been notified so far.
-

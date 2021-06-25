@@ -1,9 +1,9 @@
 ---
-seo-title: Implementing the usage models overview
 title: Implementing the usage models overview
-uuid: 1041bb84-9996-4284-b2a0-d6fc6d4b73d9
+description: Implementing the usage models overview
+copied-description: yes
+exl-id: 48e7db54-484f-4c46-9a4e-a51bae7c84b4
 ---
-
 # Implementing the usage models overview {#implementing-the-usage-models-overview}
 
 The Reference Implementation includes business logic for demonstrating how to enable the following four different usage models for a piece of packaged content:
@@ -60,4 +60,3 @@ RefImpl.UsageModelDemo.Policy.Subscribe=sub-policy.pol
 # Policy file name for Ad Supported (free) usage  
 RefImpl.UsageModelDemo.Policy.Free=ad-policy.pol
 ```
-

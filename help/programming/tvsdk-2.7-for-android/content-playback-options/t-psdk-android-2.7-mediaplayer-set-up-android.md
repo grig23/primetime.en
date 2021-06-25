@@ -1,11 +1,8 @@
 ---
 description: Instantiate a MediaPlayer and place a view of it into a frame layout.
-seo-description: Instantiate a MediaPlayer and place a view of it into a frame layout.
-seo-title: Set up the MediaPlayer
 title: Set up the MediaPlayer
-uuid: 49c3edb9-b6e2-49f8-b4aa-f230af7de6b0
+exl-id: e8fb6527-154b-4f7e-a128-525b5a3b3474
 ---
-
 # Set up the MediaPlayer {#set-up-the-mediaplayer}
 
 TVSDK provides tools for creating an advanced video player application (your Primetime player), that you can integrate with other Primetime components. It also provides a number of features designed to maximize the quality of video playback.

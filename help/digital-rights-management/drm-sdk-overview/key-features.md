@@ -1,9 +1,9 @@
 ---
-seo-title: Key features
 title: Key features
-uuid: bee91fd7-a335-4881-abad-8972f28630d5
+description: Key features
+copied-description: yes
+exl-id: 3d9af53c-97ab-425d-9a01-128e0f112ec1
 ---
-
 # Key features{#key-features}
 
 Adobe Primetime DRM provides these key features:

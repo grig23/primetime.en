@@ -1,11 +1,8 @@
 ---
 description: You can remove TimeRanges between begin and end in localTime from the timeline.
-seo-description: You can remove TimeRanges between begin and end in localTime from the timeline.
-seo-title: Delete ranges
 title: Delete ranges
-uuid: 2f4afa0d-69e3-4929-8dbd-b553c8a64d96
+exl-id: 1c0f7718-8a40-4fc8-b70b-f751d8ff40a4
 ---
-
 # Delete ranges{#delete-ranges}
 
 You can remove TimeRanges between begin and end in localTime from the timeline.
@@ -73,4 +70,3 @@ You can remove TimeRanges between begin and end in localTime from the timeline.
    }
    
    ```
-

@@ -1,11 +1,8 @@
 ---
 description: You can insert ads into VOD content.
-seo-description: You can insert ads into VOD content.
-seo-title: Replace time ranges with an ad
 title: Replace time ranges with an ad
-uuid: 8f09560c-bca3-4662-bc58-6c9cd0892476
+exl-id: f6675108-07a7-4d30-8a95-6029afe06ac5
 ---
-
 # Replace time ranges with an ad {#replace-time-ranges-with-an-ad}
 
 You can insert ads into VOD content.
@@ -76,4 +73,3 @@ The `TimeRanges` between the `begin` and `end` in `localTime` are removed from t
        "id": "vod_003"
    }
    ```
-

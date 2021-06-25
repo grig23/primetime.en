@@ -1,9 +1,9 @@
 ---
-seo-title: About ECI Files
 title: About ECI Files
-uuid: 124d8ab1-933b-4a1b-992a-919f3d799460
+description: About ECI Files
+copied-description: yes
+exl-id: ac452897-3c64-4481-a3b7-4b69ef6edb61
 ---
-
 # About ECI Files{#about-eci-files}
 
 In addition to the CRLs, you also need to periodically update Embedded Common Interface (ECI) files. Whenever Adobe adds support for a new Primetime DRM client platform (for example: iOS, Android, Windows FlashPlayer, etc.), a new ECI record is created. In order to support the individualization of this client, a corresponding ECI record needs to be present on the Individualization Server.
@@ -58,4 +58,3 @@ Perform the following process for installation after download:
 1. Unzip the [!DNL ECI] directory. 
 1. Replace the old ECI directory with the new one. 
 1. Restart the Individualization server.
-

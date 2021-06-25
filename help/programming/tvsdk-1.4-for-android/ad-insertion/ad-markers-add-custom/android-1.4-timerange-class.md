@@ -1,11 +1,8 @@
 ---
 description: Custom ad markers allow you to pass a set of TimeRange specifications that represent timeline segments to TVSDK.
-seo-description: Custom ad markers allow you to pass a set of TimeRange specifications that represent timeline segments to TVSDK.
-seo-title: TimeRange class
 title: TimeRange class
-uuid: adf4f1ad-6b3b-48ac-a388-ee1fd54f770b
+exl-id: 7451c4f6-40df-48b2-a2c7-6d7826724716
 ---
-
 # TimeRange class{#timerange-class}
 
 Custom ad markers allow you to pass a set of TimeRange specifications that represent timeline segments to TVSDK.
@@ -33,4 +30,3 @@ public final class TimeRange {
     public long getDuration() {...}
 }
 ```
-

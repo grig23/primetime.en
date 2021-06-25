@@ -1,9 +1,9 @@
 ---
-seo-title: Anonymous Domains
 title: Anonymous Domains
-uuid: ee29ae4d-65b2-48de-b441-18c8cf55de32
+description: Anonymous Domains
+copied-description: yes
+exl-id: a9358582-ad25-4016-94d2-cd82b4c00573
 ---
-
 # Anonymous Domains {#anonymous-domains}
 
 In this use case, a large number of devices belong to a single domain, and authentication may not be required. To use this type of domain with the reference implementation, create the policy specifying that the domain registration is required. Specify the domain server URL as `https:// host:port/flashaccess/domainserver/domainname/` and specify anonymous authentication.
@@ -37,4 +37,4 @@ The reference implementation implements the following logic for domain de-regist
 
 1. If this is not a preview request, delete the entry from `DomainMembership` and set the `Key Rollover Required` flag in `DomainServerInfo`.
 
-In this use case, since a large number of machines could join the domain, completely matching the machine ID is not possible. Instead, the random machine GUID assigned to the machine during individualization is used. 
+In this use case, since a large number of machines could join the domain, completely matching the machine ID is not possible. Instead, the random machine GUID assigned to the machine during individualization is used.

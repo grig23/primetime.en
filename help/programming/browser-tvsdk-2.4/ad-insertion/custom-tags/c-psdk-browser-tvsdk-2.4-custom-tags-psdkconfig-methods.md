@@ -1,11 +1,8 @@
 ---
 description: You can configure custom tag names in a stream with the MediaPlayerItemConfig class.
-seo-description: You can configure custom tag names in a stream with the MediaPlayerItemConfig class.
-seo-title: Config class methods for tags
 title: Config class methods for tags
-uuid: 222a0349-58d5-4bf3-9d03-e5920610faf5
+exl-id: 864d5c35-2b26-447b-8134-414e82096f18
 ---
-
 # Config class methods for tags{#config-class-methods-for-tags}
 
 You can configure custom tag names in a stream with the MediaPlayerItemConfig class.
@@ -66,4 +63,3 @@ Remember the following:
   For example, `#EXT-X-ASSET` is a correct custom tag name, but `EXT-X-ASSET` is incorrect. 
 
 * You cannot change the configuration after the media stream has been loaded.
-

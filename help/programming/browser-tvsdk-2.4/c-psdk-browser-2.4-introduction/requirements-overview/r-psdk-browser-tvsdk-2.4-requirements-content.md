@@ -1,11 +1,8 @@
 ---
 description: Check the restrictions and requirements for streams and playlists (manifests).
-seo-description: Check the restrictions and requirements for streams and playlists (manifests).
-seo-title: Content and manifest requirements
 title: Content and manifest requirements
-uuid: 22ee7d02-b06d-4162-a8a4-a2391658fdb3
+exl-id: 53fdd771-06ea-496f-9591-6ed4d5011f8d
 ---
-
 # Content and manifest requirements{#content-and-manifest-requirements}
 
 Check the restrictions and requirements for streams and playlists (manifests).
@@ -47,4 +44,3 @@ Check the restrictions and requirements for streams and playlists (manifests).
   </tr> 
  </tbody> 
 </table>
-

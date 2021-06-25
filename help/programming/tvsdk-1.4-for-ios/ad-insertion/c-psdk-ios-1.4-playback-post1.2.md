@@ -1,11 +1,8 @@
 ---
 description: The behavior of media playback is affected by seeking, pausing, and the inclusion of advertising.
-seo-description: The behavior of media playback is affected by seeking, pausing, and the inclusion of advertising.
-seo-title: Default and customized playback behavior with ads
 title: Default and customized playback behavior with ads
-uuid: cc996e5c-bee2-451b-96cb-088df1694188
+exl-id: bd92b58a-fc71-41de-a80e-19002d66246f
 ---
-
 # Default and customized playback behavior with ads{#default-and-customized-playback-behavior-with-ads}
 
 The behavior of media playback is affected by seeking, pausing, and the inclusion of advertising.
@@ -73,4 +70,3 @@ The following table describes how TVSDK handles ads and ad breaks during playbac
   </tr> 
  </tbody> 
 </table>
-

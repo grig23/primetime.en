@@ -1,9 +1,9 @@
 ---
-seo-title: Generate a certificate signing request (Requester)
 title: Generate a certificate signing request (Requester)
-uuid: 04abd5d2-77ac-4f89-8bea-31d389159aee
+description: Generate a certificate signing request (Requester)
+copied-description: yes
+exl-id: 4f8dae3d-da56-453d-b3c4-e67fe4f37064
 ---
-
 # Generate a certificate signing request (Requester) {#generate-a-certificate-signing-request-requester}
 
 1. Generate a key pair. To use a utility such as OpenSSL, open a Command Window and enter the following:
@@ -40,4 +40,3 @@ uuid: 04abd5d2-77ac-4f89-8bea-31d389159aee
    >[!NOTE]
    >
    >Adobe recommends using an HSM to protect your private key and password.
-

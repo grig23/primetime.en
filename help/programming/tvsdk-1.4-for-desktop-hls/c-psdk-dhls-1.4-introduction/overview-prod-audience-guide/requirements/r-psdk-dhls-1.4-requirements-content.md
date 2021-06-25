@@ -1,11 +1,8 @@
 ---
 description: Check the restrictions and requirements for streams and playlists (manifests), including DRM encryption keys.
-seo-description: Check the restrictions and requirements for streams and playlists (manifests), including DRM encryption keys.
-seo-title: Content and manifest requirements
 title: Content and manifest requirements
-uuid: 53cc570a-be33-4488-95e8-43f91b559b13
+exl-id: 96b2b245-558b-4606-87c0-22140430c326
 ---
-
 # Content and manifest requirements {#content-and-manifest-requirements}
 
 Check the restrictions and requirements for streams and playlists (manifests), including DRM encryption keys.

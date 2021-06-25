@@ -1,11 +1,8 @@
 ---
 description: You can configure custom tag names in TVSDK globally with the PTSDKConfig class.
-seo-description: You can configure custom tag names in TVSDK globally with the PTSDKConfig class.
-seo-title: Config class methods for tags
 title: Config class methods for tags
-uuid: 1d3651a0-3b70-4d3a-8ced-663a9dad7205
+exl-id: b23bba25-ddab-4700-bae6-db1ee833eea2
 ---
-
 # Config class methods for tags{#config-class-methods-for-tags}
 
 You can configure custom tag names in TVSDK globally with the PTSDKConfig class.
@@ -29,4 +26,3 @@ Remember the following:
 
   For example, #EXT-X-ASSET is a correct custom tag name, but EXT-X-ASSET is incorrect. 
 * You cannot change the configuration after the media stream has been loaded.
-

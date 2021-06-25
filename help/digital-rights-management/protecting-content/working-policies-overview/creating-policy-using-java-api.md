@@ -1,9 +1,9 @@
 ---
-seo-title: Creating a DRM policy with the Java API
 title: Creating a DRM policy with the Java API
-uuid: 1672a6d0-e38c-4330-97b0-02147f99db47
+description: Creating a DRM policy with the Java API
+copied-description: yes
+exl-id: fcae76c3-4e51-449d-b6d5-2138bf1c583e
 ---
-
 # Creating a DRM policy with the Java API {#creating-a-drm-policy-with-the-java-api}
 
 To create a DRM policy with the Java API:
@@ -60,4 +60,4 @@ To create a DRM policy with the Java API:
    
    ```
 
-See [!DNL com.adobe.flashaccess.samples.policy.CreatePolicy] in the Reference Implementation Command Line Tools [!DNL samples] directory for the complete source of this sample code. 
+See [!DNL com.adobe.flashaccess.samples.policy.CreatePolicy] in the Reference Implementation Command Line Tools [!DNL samples] directory for the complete source of this sample code.

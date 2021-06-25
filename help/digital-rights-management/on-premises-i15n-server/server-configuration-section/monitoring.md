@@ -1,9 +1,9 @@
 ---
-seo-title: Monitoring
 title: Monitoring
-uuid: ee62c55f-0d44-40f4-a2c7-39456f4d3d99
+description: Monitoring
+copied-description: yes
+exl-id: edf62298-4082-4ac1-b2b7-8d0e0959ed04
 ---
-
 # Monitoring{#monitoring}
 
 The Individualization server and Key Generation server each have a status page, which you can use to determine the health of the servers.
@@ -27,4 +27,3 @@ The Individualization server and Key Generation server each have a status page, 
 
     * Includes statistics about the Key Generation server, such as the number of requests served and the number of key files available on disk 
     * All Key Generation URLs must only be accessible internally
-

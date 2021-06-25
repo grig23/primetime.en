@@ -1,11 +1,8 @@
 ---
 description: These classes provide information about ads that occur within a timeline.
-seo-description: These classes provide information about ads that occur within a timeline.
-seo-title: Timeline advertising classes
 title: Timeline advertising classes
-uuid: df970e8f-4bf8-4367-9d70-42ebcb11c025
+exl-id: 4411c86d-8c40-457b-bfc1-40fbea77154e
 ---
-
 # Timeline advertising classes {#timeline-advertising-classes}
 
 These classes provide information about ads that occur within a timeline.

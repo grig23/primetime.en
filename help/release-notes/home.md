@@ -1,29 +1,32 @@
 ---
 title: Primetime Release Notes
-seo-title: Adobe Primetime Release Notes
-description: null
-seo-description: null
+description: Primetime Release Notes
+copied-description: yes
+exl-id: 29087a3e-f16e-4510-8d3a-ed2229700899
 ---
-
 # Primetime Release Notes
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-## Enhancements and fixes in PTAI 21.2.2
+## Enhancements and fixes in PTAI 21.5.1
 
-The release includes support for EXT-X-IMAGE-STREAM-INF stream insertion/synchronization in HLS streams. The feature is enabled through a server-side configuration. Contact your technical account representative to enable the feature..
+The release includes new telemetry for upcoming dashboard changes, and support for deprecated segmentation type 0x01 (UPID) for SCTE-based cue formats.
 
-## Fixes in TVSDK 3.12 Android
+For other fixes and details, see [Ad Insertion Release Notes](/help/release-notes/ptai-21x-release-notes.md)
 
-The release focused on updating Primetime Reference application’s gradle version to version 5.6.4.
+## Enhancements and fixes in TVSDK 3.13 iOS
 
-Check out for more information about the current released version for [Android](../release-notes/tvsdk-3x-android.md).
+The release introduces support for DEMUXED 'HLS/CMAF' (preroll, midroll, and postroll) ads for LIVE, VOD, and FER streams.
 
-## Enhancements and fixes in TVSDK 3.12 iOS Release Notes
+For other fixes and details, see [TVSDK for iOS Release Notes](../release-notes/tvsdk-3x-ios.md)
 
-The release focused on resolving top customer issues.
+## Fixes in TVSDK 3.13 Android
 
-Check out for more information about the current released version for [iOS](../release-notes/tvsdk-3x-ios.md).
+This release provides a workaround to the issue about the Widevine DRM stream freezing or showing black frames on ABR switch on FireTV devices, which include Fire TV 3rd generation Pendant and Fire TV Cube 1st and 2nd generation devices.
+
+To resolve the issue, set the API `MediaPlayer.flushVideoDecoderOnHeaderChange(true)` for the specified Fire TV devices before initiating playback. The default value is false.
+
+Check out the [TVSDK for Android Release Notes](../release-notes/tvsdk-3x-android.md) for more information.
 
 ## See also
 

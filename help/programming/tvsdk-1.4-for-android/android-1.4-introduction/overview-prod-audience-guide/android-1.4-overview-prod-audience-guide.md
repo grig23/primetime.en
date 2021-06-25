@@ -1,11 +1,8 @@
 ---
 description: This guide provides information about how to develop video player applications by using TVSDK for Android, which is implemented in Java.
-seo-description: This guide provides information about how to develop video player applications by using TVSDK for Android, which is implemented in Java.
-seo-title: Overview
 title: Overview
-uuid: 9c320389-e327-4e5f-888c-e2e5728365ca
+exl-id: 21d224fe-a843-4200-ad13-9b8eba52d74f
 ---
-
 # Overview {#overview}
 
 This guide provides information about how to develop video player applications by using TVSDK for Android, which is implemented in Java.
@@ -31,4 +28,3 @@ This guide provides information that allows you to incorporate TVSDK features in
 >The TVSDK API namespace prefix `com.adobe.mediacore` is omitted for brevity. 
 >
 >Many API elements are referred to without their parent class designator if the context is clear.
-

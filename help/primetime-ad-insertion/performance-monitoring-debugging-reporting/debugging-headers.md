@@ -1,8 +1,9 @@
 ---
 title: Debugging headers
-description: 
+description: Debugging headers
+copied-description: yes
+exl-id: 42c19089-2c61-4622-b53a-c28b8d495ef8
 ---
-
 # Debugging Headers (X-ADBE-AI-X1) {#debugging-headers}
 
 SSAI sends HTTP headers that can be used to gather information and determine performance for production sessions, located in the X-ADBE-AI-X1 header.

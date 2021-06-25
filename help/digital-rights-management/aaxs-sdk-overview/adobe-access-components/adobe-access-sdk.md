@@ -1,11 +1,8 @@
 ---
 description: The main components of Adobe Access consist of a Java SDK, and the Flash Player and Adobe AIR client runtime environments.
-seo-description: The main components of Adobe Access consist of a Java SDK, and the Flash Player and Adobe AIR client runtime environments.
-seo-title: Java SDK, Flash Player and Adobe AIR client
 title: Java SDK, Flash Player and Adobe AIR client
-uuid: 6b6c5aa2-56ee-4476-a05b-dcbbe3b9001e
+exl-id: 2df4da13-8df9-442b-8638-317c41d62fbe
 ---
-
 # Adobe Access components{#adobe-access-components}
 
 The main components of Adobe Access consist of a Java SDK, and the Flash Player and Adobe AIR client runtime environments.
@@ -80,4 +77,4 @@ For more information on Adobe AIR, visit: [www.adobe.com/go/air](https://www.ado
 
 Native iOS and Android Applications Available only to Adobe Primetime customers, Adobe Access DRM 4.0 and higher can be used to protect video that is consumed within native (non-Flash) applications on mobile devices. In order for an application to consume this protected content, it must be implemented using the Adobe Primetime Client libraries.
 
-For more information on Adobe Primetime, visit: [https://www.adobe.com/solutions/primetime.html](https://www.adobe.com/solutions/primetime.html) 
+For more information on Adobe Primetime, visit: [https://www.adobe.com/solutions/primetime.html](https://www.adobe.com/solutions/primetime.html)

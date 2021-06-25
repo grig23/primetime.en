@@ -1,9 +1,9 @@
 ---
-seo-title: Terminology and core concepts
 title: Terminology and core concepts
-uuid: 89a9e4b0-f5e1-4dc2-9cf8-0c8d7e9b7d62
+description: Terminology and core concepts
+copied-description: yes
+exl-id: 29d83bf8-5f4e-4651-a523-4472942c09a7
 ---
-
 # Terminology and core concepts {#terminology-and-core-concepts}
 
 The following terms and concepts are used throughout this document:
@@ -70,4 +70,4 @@ Policies are created using Adobe Access SDK.
 
 **Retailers**
 
-See the entry for *distributors* earlier in this section. 
+See the entry for *distributors* earlier in this section.

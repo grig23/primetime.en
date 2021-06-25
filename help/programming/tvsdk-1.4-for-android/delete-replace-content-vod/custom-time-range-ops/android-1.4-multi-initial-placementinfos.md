@@ -1,11 +1,8 @@
 ---
 description: TVSDK can set up multiple initial PlacementInformations.
-seo-description: TVSDK can set up multiple initial PlacementInformations.
-seo-title: Multiple initial PlacementInformations
 title: Multiple initial PlacementInformations
-uuid: e0f549d7-3092-45e9-bd67-ee41d01075b5
+exl-id: 104e981e-7246-4e4a-9c14-dac6ee2624f6
 ---
-
 # Multiple initial PlacementInformations{#multiple-initial-placementinformations}
 
 TVSDK can set up multiple initial PlacementInformations.
@@ -44,4 +41,3 @@ else if (customRangeHelper.hasRanges() == CustomRangeHelper.REPLACE_RANGE) {
 } 
 return  placementInformations;
 ```
-

@@ -1,11 +1,8 @@
 ---
 description: You should release a MediaPlayer instance and resources when you no longer need the MediaResource.
-seo-description: You should release a MediaPlayer instance and resources when you no longer need the MediaResource.
-seo-title: Release a MediaPlayer instance and resources
 title: Release a MediaPlayer instance and resources
-uuid: e7b2112e-8add-4789-9345-5f829d39d639
+exl-id: 2a802754-5c51-4e5f-8c36-843074b487b5
 ---
-
 # Release a MediaPlayer instance and resources{#release-a-mediaplayer-instance-and-resources}
 
 You should release a MediaPlayer instance and resources when you no longer need the MediaResource.

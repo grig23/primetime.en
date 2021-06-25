@@ -1,11 +1,8 @@
 ---
 description: When TVSDK detects a subscribed tag in the playlist/manifest, the player automatically tries to process the tag and expose it in the form of a TimedMetadata object.
-seo-description: When TVSDK detects a subscribed tag in the playlist/manifest, the player automatically tries to process the tag and expose it in the form of a TimedMetadata object.
-seo-title: Timed metadata class
 title: Timed metadata class
-uuid: 3debfad4-084f-4fb5-b699-ea5e8fd1ed51
+exl-id: d45e304a-703e-45f4-b3f5-756fc6a614cb
 ---
-
 # Timed metadata class{#timed-metadata-class}
 
 When TVSDK detects a subscribed tag in the playlist/manifest, the player automatically tries to process the tag and expose it in the form of a TimedMetadata object.
@@ -80,4 +77,3 @@ Remember the following:
 |  `public Type getType();`  | Returns the type of the timed metadata.  |
 |  `public long getId();`  | Returns the ID extracted from the cue/tag attributes. Otherwise, a unique random value is provided.  |
 |  `public String getName();`  | Returns the name of the cue, which is usually the HLS tag name.  |
-

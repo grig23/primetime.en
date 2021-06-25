@@ -1,11 +1,8 @@
 ---
 description: The video-on-demand (VOD) ad-insertion process consists of the ad resolving, ad insertion, and ad playback phases. For ad tracking, TVSDK must inform a remote tracking server about the playback progress of each ad. When unexpected situations arise, TVSDK takes appropriate action.
-seo-description: The video-on-demand (VOD) ad-insertion process consists of the ad resolving, ad insertion, and ad playback phases. For ad tracking, TVSDK must inform a remote tracking server about the playback progress of each ad. When unexpected situations arise, TVSDK takes appropriate action.
-seo-title: Advertising insertion and failover for VOD
 title: Advertising insertion and failover for VOD
-uuid: 1f813065-9310-4495-9fbb-d90eda8ac8bd
+exl-id: d0bb720e-3309-4346-88fe-053b0291ad64
 ---
-
 # Advertising insertion and failover for VOD {#advertising-insertion-and-failover-for-vod}
 
 The video-on-demand (VOD) ad-insertion process consists of the ad resolving, ad insertion, and ad playback phases. For ad tracking, TVSDK must inform a remote tracking server about the playback progress of each ad. When unexpected situations arise, TVSDK takes appropriate action.
@@ -65,4 +62,4 @@ TVSDK forwards the triggered events to your application, including notification 
 
   Your application needs to take the appropriate action.
 
-Regardless of whether errors occur, TVSDK calls `onAdBreakComplete` for each `onAdBreakStart` and `onAdComplete` for every `onAdStart`. However, if segments could not be downloaded, there might be gaps in the timeline. When the gaps are large enough, the values in the playhead position and the reported ad progress might exhibit discontinuities. 
+Regardless of whether errors occur, TVSDK calls `onAdBreakComplete` for each `onAdBreakStart` and `onAdComplete` for every `onAdStart`. However, if segments could not be downloaded, there might be gaps in the timeline. When the gaps are large enough, the values in the playhead position and the reported ad progress might exhibit discontinuities.

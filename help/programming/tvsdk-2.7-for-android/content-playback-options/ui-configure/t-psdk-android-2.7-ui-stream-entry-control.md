@@ -1,11 +1,8 @@
 ---
 description: By default, when starting playback, VOD media starts at 0 and live media starts at the client live point (MediaPlayer.LIVE_POINT). You can override the default behavior.
-seo-description: By default, when starting playback, VOD media starts at 0 and live media starts at the client live point (MediaPlayer.LIVE_POINT). You can override the default behavior.
-seo-title: Enter a stream at a specific time
 title: Enter a stream at a specific time
-uuid: 65a19192-b890-4d69-9cb1-582a22988d2b
+exl-id: 2914d837-c773-42db-b744-42793e80cb95
 ---
-
 # Enter a stream at a specific time {#enter-a-stream-at-a-specific-time}
 
 By default, when starting playback, VOD media starts at 0 and live media starts at the client live point (MediaPlayer.LIVE_POINT). You can override the default behavior.
@@ -30,4 +27,3 @@ By default, when starting playback, VOD media starts at 0 and live media starts 
        } 
    }
    ```
-

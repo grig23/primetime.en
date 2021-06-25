@@ -1,11 +1,8 @@
 ---
 description: You can specify several caption styling options, and these options override the style options in the original captions.
-seo-description: You can specify several caption styling options, and these options override the style options in the original captions.
-seo-title: Closed caption styling options
 title: Closed caption styling options
-uuid: 0e2fd9f3-e569-4b5d-9b78-86f8ee6230ee
+exl-id: df5377c2-741b-4239-b345-145753896c6b
 ---
-
 # Closed caption styling options{#closed-caption-styling-options}
 
 You can specify several caption styling options, and these options override the style options in the original captions.
@@ -74,4 +71,3 @@ new TextFormat(
   </tr> 
  </tbody> 
 </table>
-

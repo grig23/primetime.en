@@ -1,11 +1,8 @@
 ---
 description: TVSDK features are driven by configuration and implemented through the MediaPlayer.
-seo-description: TVSDK features are driven by configuration and implemented through the MediaPlayer.
-seo-title: Creating feature managers by passing configuration information to the MediaPlayer
 title: Creating feature managers by passing configuration information to the MediaPlayer
-uuid: 106ececd-a670-4360-b000-a31fec65233c
+exl-id: 47377ceb-ed3e-4dca-9b55-82e4fe6b0194
 ---
-
 # Creating feature managers by passing configuration information to the MediaPlayer {#creating-feature-managers-by-passing-configuration-information-to-the-mediaplayer}
 
 TVSDK features are driven by configuration and implemented through the MediaPlayer.

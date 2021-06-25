@@ -1,11 +1,8 @@
 ---
 description: TVSDK requires specific properties for media content, manifest content, and software versions.
-seo-description: TVSDK requires specific properties for media content, manifest content, and software versions.
-seo-title: Requirements
 title: Requirements
-uuid: 7e5fb176-4c3f-4c12-9080-3afced28627b
+exl-id: 2b81ae19-7907-4038-80e1-f579a8c04540
 ---
-
 # Requirements {#requirements}
 
 TVSDK requires specific properties for media content, manifest content, and software versions.

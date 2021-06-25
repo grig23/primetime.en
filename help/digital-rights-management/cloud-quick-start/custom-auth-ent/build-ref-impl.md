@@ -1,9 +1,9 @@
 ---
-seo-title: Build the BEES reference implementation
 title: Build the BEES reference implementation
-uuid: c9358188-e626-4f99-a02c-4928b06d6ae2
+description: Build the BEES reference implementation
+copied-description: yes
+exl-id: 330c14de-fe4e-4cc8-b0a5-8f7c74417adf
 ---
-
 # Build the BEES reference implementation {#build-the-bees-reference-implementation}
 
  Ensure you are using Java 1.6.0_24 or later. 

@@ -1,11 +1,8 @@
 ---
 description: You can display the current and remaining time of the content that is being played.
-seo-description: You can display the current and remaining time of the content that is being played.
-seo-title: Display a seek scrub bar with the current playback time position
 title: Display a seek scrub bar with the current playback time position
-uuid: db57eb6f-3c67-4a64-a0f4-7e39027eb3e0
+exl-id: a8b34cf4-4dfd-4799-9408-87c4d60eff4c
 ---
-
 # Display a seek scrub bar with the current playback time position {#display-a-seek-scrub-bar-with-the-current-playback-time-position}
 
 You can display the current and remaining time of the content that is being played.

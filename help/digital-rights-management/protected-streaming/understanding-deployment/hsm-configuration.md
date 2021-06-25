@@ -1,11 +1,8 @@
 ---
 description: If you select an HSM to store your server credentials, you must load the private keys and certificates onto the HSM and create a pkcs11.cfg configuration file.
-seo-description: If you select an HSM to store your server credentials, you must load the private keys and certificates onto the HSM and create a pkcs11.cfg configuration file.
-seo-title: HSM configuration
 title: HSM configuration
-uuid: 3610840b-082e-4a73-8aa5-5065f9232e0b
+exl-id: 4c4423ea-b7af-4a30-99ac-f5b74a1e1168
 ---
-
 # HSM configuration{#hsm-configuration}
 
 If you select an HSM to store your server credentials, you must load the private keys and certificates onto the HSM and create a pkcs11.cfg configuration file.
@@ -23,4 +20,4 @@ keytool -keystore NONE -storetype PKCS11 -providerClass sun.security.pkcs11.SunP
   -providerArg pkcs11.cfg -list
 ```
 
-If you can view your credentials in the list, then the HSM is correctly configured and the license server can now access the credentials. 
+If you can view your credentials in the list, then the HSM is correctly configured and the license server can now access the credentials.

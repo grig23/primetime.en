@@ -1,11 +1,8 @@
 ---
 description: Information about packaging and protection of content allows you to protect your content.
-seo-description: Information about packaging and protection of content allows you to protect your content.
-seo-title: Packaging and protecting comtent
 title: Packaging and protecting comtent
-uuid: 9bf89f86-082e-40f9-8deb-c9774a9d8e02
+exl-id: f33d382b-07d7-4630-9e44-820d6249fee4
 ---
-
 # Packaging and protecting content {#packaging-protecting-content}
 
 Information about packaging and protection of content allows you to protect your content.

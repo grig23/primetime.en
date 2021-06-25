@@ -1,9 +1,9 @@
 ---
-seo-title: UltraViolet media and Adobe Primetime DRM
 title: UltraViolet media and Adobe Primetime DRM
-uuid: 7076c0f9-e092-48e4-9118-8a414bd03c7a
+description: UltraViolet media and Adobe Primetime DRM
+copied-description: yes
+exl-id: 03b01a29-e8e0-4fb5-a685-63a745a6417c
 ---
-
 # UltraViolet media and Adobe Primetime DRM {#ultraviolet-media-and-adobe-primetime-drm}
 
 Adobe Primetime DRM can be used with other third-party content streaming solutions to set up a complete and secure DRM-based media distribution ecosystem.

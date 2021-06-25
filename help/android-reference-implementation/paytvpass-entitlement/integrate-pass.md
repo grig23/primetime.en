@@ -1,11 +1,8 @@
 ---
 description: Customize your reference implementation to integrate Adobe Primetime authentication for your production environment.
-seo-description: Customize your reference implementation to integrate Adobe Primetime authentication for your production environment.
-seo-title: Integrate Primetime authentication
 title: Integrate Primetime authentication
-uuid: 34cdf1da-261e-462c-a194-4fcb439e5dfb
+exl-id: ef6dc75d-d00f-481f-a620-4ec402cbebb6
 ---
-
 # Integrate Primetime authentication {#integrate-primetime-authentication}
 
 Customize your reference implementation to integrate Adobe Primetime authentication for your production environment.

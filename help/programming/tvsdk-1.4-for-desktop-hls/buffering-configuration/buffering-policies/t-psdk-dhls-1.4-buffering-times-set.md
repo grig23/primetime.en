@@ -1,11 +1,8 @@
 ---
 description: The MediaPlayer provides methods to set and get the initial buffering time and playback buffering time.
-seo-description: The MediaPlayer provides methods to set and get the initial buffering time and playback buffering time.
-seo-title: Set buffering times
 title: Set buffering times
-uuid: 25142b01-5381-49c9-b89a-24c858faaf13
+exl-id: d2fbae05-2190-4acc-ae63-561db030608a
 ---
-
 # Set buffering times{#set-buffering-times}
 
 The MediaPlayer provides methods to set and get the initial buffering time and playback buffering time.
@@ -56,4 +53,4 @@ For example, to set the initial buffer to 2 seconds and the playback buffer time
 mediaPlayer.bufferControlParameters = BufferControlParameters.createDual(2000, 30000); 
 ```
 
-The `psdkdemo` demonstrates this feature; use the application's settings to set the buffer values. 
+The `psdkdemo` demonstrates this feature; use the application's settings to set the buffer values.

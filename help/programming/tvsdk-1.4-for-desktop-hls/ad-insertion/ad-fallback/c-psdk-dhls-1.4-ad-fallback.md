@@ -1,11 +1,8 @@
 ---
 description: For Digital Video Ad Serving Template (VAST) ads (or creatives) that have the fallback rule enabled, TVSDK treats an ad with an invalid media type as an empty ad and attempts to use fallback ads in its place. You can configure some aspects of fallback behavior.
-seo-description: For Digital Video Ad Serving Template (VAST) ads (or creatives) that have the fallback rule enabled, TVSDK treats an ad with an invalid media type as an empty ad and attempts to use fallback ads in its place. You can configure some aspects of fallback behavior.
-seo-title: Ad fallback for VAST and VMAP ads
 title: Ad fallback for VAST and VMAP ads
-uuid: 7b44abf9-50cf-4e39-b594-ceb52208a865
+exl-id: 6575c08f-3a6a-4de5-b333-bceabbe00460
 ---
-
 # Ad fallback for VAST and VMAP ads {#ad-fallback-for-vast-and-vmap-ads}
 
 For Digital Video Ad Serving Template (VAST) ads (or creatives) that have the fallback rule enabled, TVSDK treats an ad with an invalid media type as an empty ad and attempts to use fallback ads in its place. You can configure some aspects of fallback behavior.

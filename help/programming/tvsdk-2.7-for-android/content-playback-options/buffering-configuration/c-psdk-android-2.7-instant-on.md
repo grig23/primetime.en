@@ -1,11 +1,8 @@
 ---
 description: Enabling instant on means that one or more channels are preloaded. When users select a channel or switch channels, the content plays immediately. The buffering is complete by the time the user starts watching.
-seo-description: Enabling instant on means that one or more channels are preloaded. When users select a channel or switch channels, the content plays immediately. The buffering is complete by the time the user starts watching.
-seo-title: Instant On
 title: Instant On
-uuid: 7e14b779-2a36-4ff4-a365-9ac49a836ff3
+exl-id: a9c0b9d0-ef2b-4113-bd08-e2b2792b04fb
 ---
-
 # Instant On {#instant-on}
 
 Enabling instant on means that one or more channels are preloaded. When users select a channel or switch channels, the content plays immediately. The buffering is complete by the time the user starts watching.
@@ -79,4 +76,3 @@ TVSDK provides methods and statuses to allow you use Instant On with a media res
    >[!NOTE]
    >
    >If you call `play`, playback should begin immediately.
-

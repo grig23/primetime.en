@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Add Advertising
 title: Add Advertising
-uuid: 7762506f-b55e-445d-b8a2-c1208358a370
+description: Add Advertising
+copied-description: yes
+exl-id: 72f875ea-80ae-482b-94be-41116fff3614
 ---
-
 # Add Advertising {#add-advertising}
 
 1. Define the advertising metadata.

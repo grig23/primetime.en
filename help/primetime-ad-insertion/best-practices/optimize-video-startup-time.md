@@ -1,8 +1,8 @@
 ---
 title: Optimize video start-up times
 description: Optimizing video start-up times
+exl-id: 5a89c774-0fed-4378-9cf8-98c4c843ae0d
 ---
-
 # Optimize video start-up times overview {#optimize-video-start-up-times}
 
 Primetime Ad Insertion provides several features to optimize video start-up time, such as caching and rules for route/protocol optimization. Here are some other recommendations to ensure faster video start-up times when using Primetime Ad Insertion:

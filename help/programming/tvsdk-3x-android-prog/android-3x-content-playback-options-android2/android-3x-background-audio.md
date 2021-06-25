@@ -1,9 +1,9 @@
 ---
-seo-title: Enable background audio
 title: Enable background audio
-uuid: aa6dc934-e85c-4db1-901b-9777f47106e6
+description: Enable background audio
+copied-description: yes
+exl-id: 5bb72233-27d0-4968-b32c-c8d5ac5ac8c8
 ---
-
 # Enable background audio {#enable-background-audio}
 
 To enable audio playback when app is in background, app should call `enableAudioPlaybackInBackground` API of MediaPlayer with true as argument when player is in PREPARED state.

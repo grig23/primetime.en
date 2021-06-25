@@ -1,9 +1,9 @@
 ---
-seo-title: Command line usage
 title: Command line usage
-uuid: 72117619-a723-49d3-9aa9-5eefcf5b0916
+description: Command line usage
+copied-description: yes
+exl-id: 51b11ef8-438e-4747-be3e-e1774dc9f31a
 ---
-
 # Command line usage {#command-line-usage}
 
 To embed a license, use the following syntax:
@@ -46,4 +46,3 @@ The following table describes the command line options that can be specified alo
   </tr> 
  </tbody> 
 </table>
-

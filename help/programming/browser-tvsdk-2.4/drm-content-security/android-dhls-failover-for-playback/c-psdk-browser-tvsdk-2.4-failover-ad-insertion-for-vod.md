@@ -1,11 +1,8 @@
 ---
 description: The video-on-demand (VOD) ad-insertion process consists of the ad resolving, ad insertion, and ad playback phases. For ad tracking, Browser TVSDK must inform a remote tracking server about the playback progress of each ad. When unexpected situations arise, it takes appropriate action.
-seo-description: The video-on-demand (VOD) ad-insertion process consists of the ad resolving, ad insertion, and ad playback phases. For ad tracking, Browser TVSDK must inform a remote tracking server about the playback progress of each ad. When unexpected situations arise, it takes appropriate action.
-seo-title: Advertising insertion and failover for VOD
 title: Advertising insertion and failover for VOD
-uuid: 33f7aad5-fc4f-459d-8c29-01ba1353dfcc
+exl-id: 62b82f56-e8c7-4c44-8b70-f204908777c5
 ---
-
 # Advertising insertion and failover for VOD{#advertising-insertion-and-failover-for-vod}
 
 The video-on-demand (VOD) ad-insertion process consists of the ad resolving, ad insertion, and ad playback phases. For ad tracking, Browser TVSDK must inform a remote tracking server about the playback progress of each ad. When unexpected situations arise, it takes appropriate action.
@@ -62,4 +59,4 @@ For all three error classes, Browser TVSDK forwards triggered events to your app
 
   Your application needs to take the appropriate action.
 
-Whether or not errors occur, Browser TVSDK notifies you when an ad break starts and when it completes. However, if segments could not be downloaded, there might be gaps in the timeline. When the gaps are large enough, the values in the playhead position and the reported ad progress might exhibit discontinuities. 
+Whether or not errors occur, Browser TVSDK notifies you when an ad break starts and when it completes. However, if segments could not be downloaded, there might be gaps in the timeline. When the gaps are large enough, the values in the playhead position and the reported ad progress might exhibit discontinuities.

@@ -1,11 +1,8 @@
 ---
 description: You can set ABR control values only with ABRControlParameters, but you can construct a new one at any time.
-seo-description: You can set ABR control values only with ABRControlParameters, but you can construct a new one at any time.
-seo-title: Configure adaptive bit rates using ABRControlParameters
 title: Configure adaptive bit rates using ABRControlParameters
-uuid: 99b7a463-327b-48bf-8244-e41467072b44
+exl-id: 53ca8516-b449-46c8-baa9-9d0d5800b3c8
 ---
-
 # Configure adaptive bit rates using ABRControlParameters{#configure-adaptive-bit-rates-using-abrcontrolparameters}
 
 You can set ABR control values only with ABRControlParameters, but you can construct a new one at any time.
@@ -32,4 +29,3 @@ You can set ABR control values only with ABRControlParameters, but you can const
    abrParams.abrPolicy = eABRPolicy; 
    player.abrControlParameters = abrParams;
    ```
-

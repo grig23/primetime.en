@@ -1,15 +1,11 @@
 ---
 title: TVSDK 2.1 PlayStation 4 Release Notes
-seo-title: TVSDK 2.1 PlayStation 4 Release Notes
 description: TVSDK 2.1 for PlayStation 4 Release Notes describe the supported features and the known issues in TVSDK 2.1 PlayStation 4 .
-seo-description: TVSDK 2.1 for PlayStation 4 Release Notes describe the supported features and the known issues in TVSDK 2.1 PlayStation 4 .
-uuid: 494569cf-07e2-476a-b88e-e46c9cca4cdc
 contentOwner: dekalra
 topic-tags: release-notes
 products: SG_PRIMETIME
-discoiquuid: ebfc8819-f5a9-47a2-b454-0e4e6f9e4640
+exl-id: 32af3fe4-c730-41f6-a558-987bd14c9bae
 ---
-
 # TVSDK 2.1 PlayStation 4 Release Notes {#tvsdk-playstation-release-notes}
 
 TVSDK 2.1 for PlayStation 4 Release Notes describe the supported features and the known issues in TVSDK 2.1 PlayStation 4 .

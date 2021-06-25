@@ -1,11 +1,8 @@
 ---
 description: Primetime DRM is integrated into TVSDK, which simplifies implementing content protection in a TVSDK application.
-seo-description: Primetime DRM is integrated into TVSDK, which simplifies implementing content protection in a TVSDK application.
-seo-title: Implementing Primetime DRM in a TSVDK application
 title: Implementing Primetime DRM in a TSVDK application
-uuid: 57f9d7ac-1148-4f69-9c9e-aa218d869f3e
+exl-id: 28400b9f-96fd-4748-b27a-60350d3558ff
 ---
-
 # Implementing Primetime DRM in a TSVDK application {#implementing-primetime-drm-in-a-tsvdk-application}
 
 Primetime DRM is integrated into TVSDK, which simplifies implementing content protection in a TVSDK application.

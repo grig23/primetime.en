@@ -1,11 +1,8 @@
 ---
 description: In some analytics implementations, the client application might want to provide a different playhead position than the position that is reported by the TVSDK's localTime value. For example, during a linear stream playback, each program's playhead can be provided relative to its start time.
-seo-description: In some analytics implementations, the client application might want to provide a different playhead position than the position that is reported by the TVSDK's localTime value. For example, during a linear stream playback, each program's playhead can be provided relative to its start time.
-seo-title: Implement custom time updates
 title: Implement custom time updates
-uuid: 174937ca-3c26-4385-a298-8a01fc93ea20
+exl-id: df35d422-d9dc-496d-8f6f-cf34d82ab046
 ---
-
 # Implement custom time updates {#implement-custom-time-updates}
 
 In some analytics implementations, the client application might want to provide a different playhead position than the position that is reported by the TVSDK's localTime value. For example, during a linear stream playback, each program's playhead can be provided relative to its start time.

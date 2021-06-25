@@ -1,9 +1,9 @@
 ---
-seo-title: Handling authentication requests
 title: Handling authentication requests
-uuid: 036582d4-611c-4772-b247-81a3144fd5d6
+description: Handling authentication requests
+copied-description: yes
+exl-id: c1d46ec0-e053-4824-b3b1-20320e259fbe
 ---
-
 # Handling authentication requests{#handling-authentication-requests}
 
 The `AuthenticationHandler` class is used to process authentication requests. It is used only for username/password authentication.
@@ -15,4 +15,3 @@ The handler reads an authentication request and parses the request message when 
 * The request handler class is `com.adobe.flashaccess.sdk.protocol.authentication.AuthenticationHandler` 
 * The request message class is `com.adobe.flashaccess.sdk.protocol.authentication.AuthenticationRequestMessage` 
 * If both the client and server support protocol version 5, the request URL is "License Server URL in metadata: + "/flashaccess/authn/v4". If protocol version 3 is the maximum supported by either the client or server, Adobe Access clients will send authentication requests to “License Server URL in metadata” + “/flashaccess/authn/v3”. Otherwise, authentication requests are sent to “License Server URL in metadata” + “/flashaccess/authn/v1”
-

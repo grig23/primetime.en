@@ -1,9 +1,6 @@
 ---
 description: Client requests for ad insertion typically specify more than one bit rate in the variant M3U8-formatted playlist. The manifest server generates and returns a new variant M3U8 file containing a separate M3U8 link for each bit rate. It also generates a unique group ID to tie these M3U8s together.
-seo-description: Client requests for ad insertion typically specify more than one bit rate in the variant M3U8-formatted playlist. The manifest server generates and returns a new variant M3U8 file containing a separate M3U8 link for each bit rate. It also generates a unique group ID to tie these M3U8s together.
-seo-title: Multiple bit rate streams
 title: Multiple bit rate streams
-uuid: f59cb765-e000-43e0-8d3a-8149a3c5b96e
 ---
 
 # Multiple bit rate streams {#multiple-bit-rate-streams}

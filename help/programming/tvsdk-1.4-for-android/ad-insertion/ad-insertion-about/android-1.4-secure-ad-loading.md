@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Secure Ad loading over HTTPS
 title: Secure Ad loading over HTTPS
-uuid: 0d680fef-a372-4157-a89b-d9f10003c768
+description: Secure Ad loading over HTTPS
+copied-description: yes
+exl-id: e12cb9d4-05d4-485e-b629-1af680b83e04
 ---
-
 # Secure Ad loading over HTTPS{#secure-ad-loading-over-https}
 
 Adobe Primetime provides an option to request first call to the Primetime ad server and CRS related calls over HTTPS.
@@ -16,4 +14,3 @@ The feature is not enabled by default. Use the following to enable secure ad loa
 AuditudeSettings auditudeSettings = new AuditudeSettings(); 
 auditudeSettings. getForceHttpsConfiguration().setAdServerCalls(true);
 ```
-

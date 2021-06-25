@@ -1,9 +1,9 @@
 ---
-seo-title: Configuration file properties
 title: Configuration file properties
-uuid: aec5fee7-4d77-4299-8d85-3e9042b2bbd1
+description: Configuration file properties
+copied-description: yes
+exl-id: 6405126d-4cf2-4ffc-821d-fbfdc00b60ef
 ---
-
 # Configuration file properties {#configuration-file-properties}
 
 The configuration file specifies the following properties. For property names that include `n`, `n` represents an integer starting with 1 and increasing for each instance of the property. 
@@ -154,4 +154,3 @@ The configuration file specifies the following properties. For property names th
   </tr> 
  </tbody> 
 </table>
-

@@ -1,11 +1,8 @@
 ---
 description: To receive notifications about tags in the manifest, listen for AdobePSDK.TimedMetadataEvent.
-seo-description: To receive notifications about tags in the manifest, listen for AdobePSDK.TimedMetadataEvent.
-seo-title: Add listeners for timed-metadata notifications
 title: Add listeners for timed-metadata notifications
-uuid: c82c5549-0ab6-4343-a766-5176e784d4cb
+exl-id: eea2505f-595c-4bbe-9b68-ae395943c888
 ---
-
 # Add listeners for timed-metadata notifications{#add-listeners-for-timed-metadata-notifications}
 
 To receive notifications about tags in the manifest, listen for AdobePSDK.TimedMetadataEvent.
@@ -29,4 +26,3 @@ When a new `TimedMetadata` object is created, the MediaPlayer dispatches `AdobeP
    ```
 
 ID3 metadata is dispatched through the same `Events.TimedMetadataEvent`. You can use the `timedMetadata.type` property to distinguish between TAG and ID3.
-

@@ -1,11 +1,8 @@
 ---
 description: Licensing is the primary mechanism by which users are allowed or denied the ability to play a piece of protected video content. A legitimate (entitled) user can be issued a license (a key) to decrypt and play a specific piece of their content provider's encrypted content.
-seo-description: Licensing is the primary mechanism by which users are allowed or denied the ability to play a piece of protected video content. A legitimate (entitled) user can be issued a license (a key) to decrypt and play a specific piece of their content provider's encrypted content.
-seo-title: Licensing
 title: Licensing
-uuid: 9f433d62-5609-4d88-95fd-c1e7c0f6aa75
+exl-id: 60aa3e77-f821-41b3-ba0e-1a2c05b2bb1a
 ---
-
 # Licensing{#licensing}
 
 Licensing is the primary mechanism by which users are allowed or denied the ability to play a piece of protected video content. A legitimate (entitled) user can be issued a license (a key) to decrypt and play a specific piece of their content provider's encrypted content.

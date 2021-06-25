@@ -1,11 +1,8 @@
 ---
-seo-title: JSON object for direct ad breaks
 title: JSON object for direct ad breaks
-uuid: ffb901f4-0a8b-40fe-b6ba-5ffebc324cf2
 description: Details the JSON object when the type value is direct ad breaks
-seo-description: Details the JSON object when the type value is direct ad breaks
+exl-id: d5e3ddd5-b963-4e7d-b04b-087d4fe96faf
 ---
-
 # JSON object for direct ad breaks{#json-object-for-direct-ad-breaks}
 
 The following code block defines the details JSON object when the type value is direct ad breaks.
@@ -75,4 +72,3 @@ The following code block defines the JSON object for the ads-list array.
 |  `url`  | The URL to the ad content, maps to the url field in `com.adobe.mediacore.timeline.advertising.Ad`.  |
 |  `duration`  | The duration of the ad, maps to the duration field in `com.adobe.mediacore.timeline.advertising.Ad`.  |
 |  `tag`  | A description string.  |
-

@@ -1,9 +1,9 @@
 ---
-seo-title: Partial encryption level
 title: Partial encryption level
-uuid: dbd9ce92-c829-4cad-9ac4-c57bd4f70345
+description: Partial encryption level
+copied-description: yes
+exl-id: 47bcd5e1-f45a-44b8-8a00-209a6d0abd0d
 ---
-
 # Partial encryption level {#partial-encryption-level}
 
 This packaging option specifies whether all frames, or only a subset of frames, should be encrypted. There are three levels of encryption: low, medium and high.
@@ -22,4 +22,4 @@ Due to the nature of video encoding, it is not necessary to encrypt 100% of vide
 
 These settings were designed using the following rule: Any content that is encrypted at the low setting is also encrypted at the medium setting. This ensures that the same piece of content distributed at low encryption by one party and distributed at medium encryption by another party does not compromise the protection of the content.
 
-Example use case: Reducing the encryption level decreases the decryption overhead on the client and improves playback performance on low-end machines. 
+Example use case: Reducing the encryption level decreases the decryption overhead on the client and improves playback performance on low-end machines.

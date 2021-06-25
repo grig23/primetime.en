@@ -1,11 +1,8 @@
 ---
 description: This release includes players and supports a wide range of browsers.
-seo-description: This release includes players and supports a wide range of browsers.
-seo-title: Requirements
 title: Requirements
-uuid: 9726b083-f52a-410c-8ab4-47b4913d5172
+exl-id: 3157a86b-bf93-41d9-be82-0b702d69c69e
 ---
-
 # Overview {#requirements-overview}
 
 Browser TVSDK requires specific properties for media content, manifest content, and software versions.

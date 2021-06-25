@@ -1,11 +1,8 @@
 ---
 description: You can invoke custom authorization logic during license acquisition to decide if a license should be issued to the requesting client.
-seo-description: You can invoke custom authorization logic during license acquisition to decide if a license should be issued to the requesting client.
-seo-title: Custom authorization extensions
 title: Custom authorization extensions
-uuid: 588b05e5-3402-4586-bbd4-58b7e9a58ee4
+exl-id: dbdda9c6-32bf-4904-981f-0029bf0a82f0
 ---
-
 # Custom authorization extensions{#custom-authorization-extensions}
 
 You can invoke custom authorization logic during license acquisition to decide if a license should be issued to the requesting client.
@@ -16,4 +13,4 @@ If you want to build your own extension, you need to implement the `com.adobe.fl
 
 If you want to deploy your extension, you need to copy the jar or class files to *LicenseServer.ConfigRoot* [!DNL /flashaccessserver/libs].
 
-If you want to update the jar or class files, you need to restart the server before the updated version can be used. You also must add the authorizer class name to the tenant configuration file. 
+If you want to update the jar or class files, you need to restart the server before the updated version can be used. You also must add the authorizer class name to the tenant configuration file.

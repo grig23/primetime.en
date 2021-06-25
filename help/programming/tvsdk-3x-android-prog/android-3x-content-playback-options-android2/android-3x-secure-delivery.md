@@ -1,10 +1,8 @@
 ---
 description: TVSDK introduces secure delivery over HTTPS.
-seo-description: TVSDK introduces secure delivery over HTTPS.
-seo-title: Secure Delivery over HTTPS
 title: Secure Delivery over HTTPS
+exl-id: 41e2c925-2145-4dfd-909a-aec57dbae9cd
 ---
-
 # Secure Delivery over HTTPS {#secure-delivery-https}
 
 Adobe Primetime TVSDK provides support for HTTPS delivery for all the calls originating from TVSDK, which include

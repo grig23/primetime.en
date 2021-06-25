@@ -1,11 +1,8 @@
 ---
 description: While the AES-128 encryption method encrypts the entire transport stream (TS) container including headers, the SAMPLE-AES encryption only encrypts the audio and part of the video data.
-seo-description: While the AES-128 encryption method encrypts the entire transport stream (TS) container including headers, the SAMPLE-AES encryption only encrypts the audio and part of the video data.
-seo-title: Sample AES encrypted HLS streams
 title: Sample AES encrypted HLS streams
-uuid: 32c1f87b-eb81-4e1c-92ea-ec37260a7ecb
+exl-id: 04bda50f-5ca4-4a00-bb5a-97259a2cb005
 ---
-
 # Sample AES encrypted HLS streams{#sample-aes-encrypted-hls-streams}
 
 While the AES-128 encryption method encrypts the entire transport stream (TS) container including headers, the SAMPLE-AES encryption only encrypts the audio and part of the video data.
@@ -22,4 +19,3 @@ The following codecs are supported:
 
 * For video, H.264 is supported. 
 * For audio, sample-AES is supported only for AAC.
-

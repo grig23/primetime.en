@@ -1,9 +1,9 @@
 ---
-seo-title: Server properties files
 title: Server properties files
-uuid: 3d3a0ee3-009f-4d62-9587-7e487ecdcafd
+description: Server properties files
+copied-description: yes
+exl-id: c42fde8f-e438-4497-bd15-ebd0f6e2eed7
 ---
-
 # Server properties files {#server-properties-files}
 
 The server requires two configuration files, one for the license server and one for the packager. Both files must be placed on the classpath. The properties files contain the location of the credentials issued by Adobe. These credentials can be specified as a .pfx file and password or by providing an alias and password for a credential stored on an HSM.
@@ -32,4 +32,4 @@ To properly prepare your credential's password:
 >
 >The previous example uses a semicolon (;) as the delimiter. For platforms other than Microsoft Windows, use a colon (:) as the delimiter.
 
-The utility outputs the encrypted password, which you must copy to the [!DNL .properties] file. 
+The utility outputs the encrypted password, which you must copy to the [!DNL .properties] file.

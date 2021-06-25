@@ -1,11 +1,8 @@
 ---
 description: Load a resource by directly instantiating a MediaResource and loading the video content to be played. This is one way of loading a media resource.
-seo-description: Load a resource by directly instantiating a MediaResource and loading the video content to be played. This is one way of loading a media resource.
-seo-title: Load a media resource in the MediaPlayer
 title: Load a media resource in the MediaPlayer
-uuid: 8af3e8d1-359d-483c-b394-b95054f7265a
+exl-id: 8258c45e-f8bf-434d-9621-88c189e1530d
 ---
-
 # Load a media resource in the MediaPlayer{#load-a-media-resource-in-the-mediaplayer}
 
 Load a resource by directly instantiating a MediaResource and loading the video content to be played. This is one way of loading a media resource.

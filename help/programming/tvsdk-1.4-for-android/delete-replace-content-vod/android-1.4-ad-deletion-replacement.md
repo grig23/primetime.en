@@ -1,11 +1,8 @@
 ---
 description: These changes in the Android TVSDK API support ad deletion and replacement.
-seo-description: These changes in the Android TVSDK API support ad deletion and replacement.
-seo-title: Ad deletion and replacement API changes
 title: Ad deletion and replacement API changes
-uuid: 2bb8a331-6851-4442-99de-b01500a0e1e2
+exl-id: bde8bd6e-0afe-42d0-b716-f33f75de757e
 ---
-
 # Ad deletion and replacement API changes{#ad-deletion-and-replacement-api-changes}
 
 These changes in the Android TVSDK API support ad deletion and replacement.
@@ -98,4 +95,3 @@ These changes in the Android TVSDK API support ad deletion and replacement.
     * New `removeContentByLocalTime(long begin, long end)`: Removes content by local time given `begin` and `end`.
 
 * `DefaultOpportunityDetectorFactory` Modified `createOpportunityDetector`: For VOD streams, only return a new `SpliceOutOpportunityDetector` if there are no MARK or REPLACE ranges (as those ranges have priority over the signaling mode).
-

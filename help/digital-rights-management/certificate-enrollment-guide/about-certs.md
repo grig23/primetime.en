@@ -1,9 +1,9 @@
 ---
-seo-title: About certificates
 title: About certificates
-uuid: 0b7818b4-bd6a-4f2e-94c2-565e0d735bf8
+description: About certificates
+copied-description: yes
+exl-id: 24ca19bb-a71e-461a-9c3c-558d650e2d99
 ---
-
 # About certificates {#about-certificates}
 
 The Adobe Primetime DRM SDK is available in the following configurations:
@@ -32,4 +32,3 @@ To allow maximum flexibility and enhanced security in your deployment options, t
 >[!NOTE]
 >
 >For the Evaluation SDK and the Trial SDK, the License Server, Packager, and Transport certificates are combined into a single certificate.
-

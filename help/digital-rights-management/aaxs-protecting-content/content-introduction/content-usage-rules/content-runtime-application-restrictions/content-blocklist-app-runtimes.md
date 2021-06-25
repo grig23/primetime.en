@@ -1,9 +1,9 @@
 ---
-seo-title: Block list of application runtimes restricted from accessing protected content
 title: Block list of application runtimes restricted from accessing protected content
-uuid: 462a2c09-b335-4768-bd0e-1359db169d69
+description: Block list of application runtimes restricted from accessing protected content
+copied-description: yes
+exl-id: 7c9d9e31-1a8d-4c76-9f2c-fcda58de1a42
 ---
-
 # Block list of application runtimes restricted from accessing protected content {#blocklist-of-application-runtimes-restricted-from-accessing-protected-content}
 
 Specifies the version of the Primetime or Flash Runtime that cannot access content. Specify the restricted runtime (Flash Player, AIR, or iOS), platform, and version.

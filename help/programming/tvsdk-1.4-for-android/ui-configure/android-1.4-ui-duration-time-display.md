@@ -1,11 +1,8 @@
 ---
 description: You can use TVSDK to retrieve information about the media that you can display on the seek bar.
-seo-description: You can use TVSDK to retrieve information about the media that you can display on the seek bar.
-seo-title: Display the duration, current time, and remaining time of the video
 title: Display the duration, current time, and remaining time of the video
-uuid: afb43169-2d82-4137-ba38-27caef3d8c21
+exl-id: 58288501-7d61-4cf3-ae62-d92b83c73a58
 ---
-
 # Display the duration, current time, and remaining time of the video{#display-the-duration-current-time-and-remaining-time-of-the-video}
 
 You can use TVSDK to retrieve information about the media that you can display on the seek bar.
@@ -106,4 +103,3 @@ You can use TVSDK to retrieve information about the media that you can display o
    } 
    }
    ```
-

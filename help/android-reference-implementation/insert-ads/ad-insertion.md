@@ -1,11 +1,8 @@
 ---
 description: The reference implementation illustrates how to set up the player for ads, which includes setting up video metadata for ad insertion and resolving the pre-, mid-, and post-roll ads into VOD or live/linear video streams. It also illustrates how to handle clickable ads.
-seo-description: The reference implementation illustrates how to set up the player for ads, which includes setting up video metadata for ad insertion and resolving the pre-, mid-, and post-roll ads into VOD or live/linear video streams. It also illustrates how to handle clickable ads.
-seo-title: Ad insertion
 title: Ad insertion
-uuid: 75c1d77a-a7ff-4cb6-ad7f-7c83a950b7cb
+exl-id: 3c2d8fca-2a0e-4577-81f3-7b390f6396e1
 ---
-
 # Ad insertion {#ad-insertion}
 
 The reference implementation illustrates how to set up the player for ads, which includes setting up video metadata for ad insertion and resolving the pre-, mid-, and post-roll ads into VOD or live/linear video streams. It also illustrates how to handle clickable ads.

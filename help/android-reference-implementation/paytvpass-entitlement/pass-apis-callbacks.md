@@ -1,11 +1,8 @@
 ---
 description: The Entitlement Manager exposes these classes to integrate Adobe Primetime authentication in your player.
-seo-description: The Entitlement Manager exposes these classes to integrate Adobe Primetime authentication in your player.
-seo-title: Related API documentation
 title: Related API documentation
-uuid: 7b37b965-6048-45e9-ad5a-2026a5a9e105
+exl-id: 29a6b88b-1152-4a27-badb-85b06de0dcbc
 ---
-
 # Related API documentation {#related-api-documentation}
 
 The Entitlement Manager exposes these classes to integrate Adobe Primetime authentication in your player.

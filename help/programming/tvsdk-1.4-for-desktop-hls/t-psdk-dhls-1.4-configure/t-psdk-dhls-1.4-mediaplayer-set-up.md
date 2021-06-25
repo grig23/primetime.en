@@ -1,11 +1,8 @@
 ---
 description: The MediaPlayer interface encapsulates the functionality and behavior of a media player.
-seo-description: The MediaPlayer interface encapsulates the functionality and behavior of a media player.
-seo-title: Set up the MediaPlayer
 title: Set up the MediaPlayer
-uuid: 4b27643c-9ccd-4abb-9793-475d06ee2a88
+exl-id: eec51f3e-4779-4fb5-b735-d5be412de64e
 ---
-
 # Set up the MediaPlayer {#set-up-the-mediaplayer}
 
 TVSDK provides tools for creating an advanced video player application (your Primetime player), which you can integrate with other Primetime components.

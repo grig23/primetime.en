@@ -1,11 +1,8 @@
 ---
 description: You can obtain a description of the timeline associated with the currently selected item being played by TVSDK. This is most useful when your application displays a custom scrub-bar control in which the content sections that correspond to ad content are identified.
-seo-description: You can obtain a description of the timeline associated with the currently selected item being played by TVSDK. This is most useful when your application displays a custom scrub-bar control in which the content sections that correspond to ad content are identified.
-seo-title: Inspect the playback timeline
 title: Inspect the playback timeline
-uuid: 2f903493-2d88-4af2-ac71-36300b49735b
+exl-id: 38b5ce0e-5554-462e-986f-f3864f7cf879
 ---
-
 # Inspect the playback timeline{#inspect-the-playback-timeline}
 
 You can obtain a description of the timeline associated with the currently selected item being played by TVSDK. This is most useful when your application displays a custom scrub-bar control in which the content sections that correspond to ad content are identified.
@@ -47,4 +44,3 @@ markers.forEach(function(item:TimelineMarker,
     // draw the marker on the scrub-bar 
 }
 ```
-

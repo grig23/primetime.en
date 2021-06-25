@@ -1,9 +1,9 @@
 ---
-seo-title: Block list of DRM Clients restricted from accessing protected content
 title: Block list of DRM Clients restricted from accessing protected content
-uuid: c05aa6f8-32d9-42aa-a9c5-0d0629d49778
+description: Block list of DRM Clients restricted from accessing protected content
+copied-description: yes
+exl-id: 74ddb5ed-4e68-4570-9cd5-bfc699609972
 ---
-
 # Block list of DRM Clients restricted from accessing protected content {#blocklist-of-drm-clients-restricted-from-accessing-protected-content}
 
 **Adobe Access DRM module versions restricted from accessing protected content.**
@@ -28,4 +28,3 @@ A DRM client version may be identified by the attributes specified in the follow
 >[!NOTE]
 >
 >When specifying an entry in the block list, values may be set for one or more of the attributes mentioned in the previous table. Any attribute that is not specified is treated as a wildcard. If the DRM client matches all the values specified in a block list entry, protected content may not be accessed by that client.
-

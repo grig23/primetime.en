@@ -1,11 +1,8 @@
 ---
 description: The version of #EXT-X-VERSION in the .m3u8 file affects what features are available to your application and what EXT tags are valid in your playlist/manifest.
-seo-description: The version of #EXT-X-VERSION in the .m3u8 file affects what features are available to your application and what EXT tags are valid in your playlist/manifest.
-seo-title: #EXT-X-VERSION requirements
 title: #EXT-X-VERSION requirements
-uuid: 8d22930f-4faf-4a40-b1f0-507886cd8938
+exl-id: 1b7c205b-c6b1-416f-885a-d1cd23d8e803
 ---
-
 # #EXT-X-VERSION requirements{#ext-x-version-requirements}
 
 The version of #EXT-X-VERSION in the .m3u8 file affects what features are available to your application and what EXT tags are valid in your playlist/manifest.
@@ -44,4 +41,3 @@ Here is some information about the `#EXT-X-VERSION` tag, which specifies the HLS
   </tr> 
  </tbody> 
 </table>
-

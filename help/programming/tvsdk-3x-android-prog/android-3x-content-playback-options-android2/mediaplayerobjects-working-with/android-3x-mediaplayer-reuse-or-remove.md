@@ -1,11 +1,8 @@
 ---
 description: You can reset, reuse, or release a MediaPlayer instance that you no longer need.
-seo-description: You can reset, reuse, or release a MediaPlayer instance that you no longer need.
-seo-title: Reuse or remove a MediaPlayer instance
 title: Reuse or remove a MediaPlayer instance
-uuid: 74a46689-1708-4d26-9a4e-a4cdb0e55451
+exl-id: 8b84c7f1-713a-46b4-8eb7-d699a79e74b7
 ---
-
 # Reuse or remove a MediaPlayer instance {#reuse-or-remove-a-mediaplayer-instance}
 
 You can reset, reuse, or release a MediaPlayer instance that you no longer need.

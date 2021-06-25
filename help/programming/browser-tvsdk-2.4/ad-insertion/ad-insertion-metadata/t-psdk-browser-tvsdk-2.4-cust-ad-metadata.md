@@ -1,11 +1,8 @@
 ---
 description: You can customize ad insertion metadata.
-seo-description: You can customize ad insertion metadata.
-seo-title: Customize ad insertion metadata
 title: Customize ad insertion metadata
-uuid: 047470d3-45bd-48be-82ce-4e9d9fe6ea10
+exl-id: 4881ace6-e97b-448d-8fb4-64e7b69517f1
 ---
-
 # Customize ad insertion metadata{#customize-ad-insertion-metadata}
 
 You can customize ad insertion metadata.
@@ -33,4 +30,3 @@ You can customize ad insertion metadata.
    ```js
    player.replaceCurrentResource(mediaResource, config);
    ```
-

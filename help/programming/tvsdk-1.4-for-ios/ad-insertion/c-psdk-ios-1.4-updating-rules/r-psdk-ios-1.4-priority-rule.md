@@ -1,12 +1,9 @@
 ---
 description: The priority rule defines the priority order of the ad creatives that will be selected for playback from a VAST/VMAP response.
 keywords: priority rule;creative selection rules
-seo-description: The priority rule defines the priority order of the ad creatives that will be selected for playback from a VAST/VMAP response.
-seo-title: Priority rules
 title: Priority rules
-uuid: a0924b3e-45cb-45ca-8a98-ed7d42aaed14
+exl-id: 927815fc-1910-43cc-9e83-e57e9659dd23
 ---
-
 # Priority rules{#priority-rules}
 
 The priority rule defines the priority order of the ad creatives that will be selected for playback from a VAST/VMAP response.
@@ -101,4 +98,3 @@ The priority rule defines the priority order of the ad creatives that will be se
 }
 
 ```
-

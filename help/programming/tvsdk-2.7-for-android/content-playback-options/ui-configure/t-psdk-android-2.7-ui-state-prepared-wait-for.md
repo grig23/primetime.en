@@ -1,11 +1,8 @@
 ---
 description: Before you can use most of the TVSDK player methods, the player must be in a valid status.
-seo-description: Before you can use most of the TVSDK player methods, the player must be in a valid status.
-seo-title: Wait for a valid status
 title: Wait for a valid status
-uuid: ffa63ad6-84d3-4eb2-aa99-026418d86528
+exl-id: fddb6696-9226-408d-be3c-58d4ce7db55d
 ---
-
 # Wait for a valid state {#wait-for-a-valid-state}
 
 With TVSDK, you can control the basic playback experience for live and video on demand (VOD). TVSDK provides methods and properties on the player instance that you can use to configure the player user interface.

@@ -1,11 +1,8 @@
 ---
 description: The content of an AdAsset describes a companion banner.
-seo-description: The content of an AdAsset describes a companion banner.
-seo-title: Companion banner data
 title: Companion banner data
-uuid: 4a5d78e1-5abe-45a8-b50f-14f73fdcc879
+exl-id: 922577fd-bc58-4669-b051-fe54b197a5f5
 ---
-
 # Companion banner data {#companion-banner-data}
 
 The content of an AdAsset describes a companion banner.
@@ -44,4 +41,3 @@ Each `AdAsset` provides information about displaying the asset.
   </tr> 
  </tbody> 
 </table>
-

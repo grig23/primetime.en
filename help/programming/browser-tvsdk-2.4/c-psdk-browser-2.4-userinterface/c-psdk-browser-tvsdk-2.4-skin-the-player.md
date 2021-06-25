@@ -1,11 +1,8 @@
 ---
 description: You can use the following information to help you skin your player. For each visual construct, the corresponding behaviors is mentioned in default behavior.
-seo-description: You can use the following information to help you skin your player. For each visual construct, the corresponding behaviors is mentioned in default behavior.
-seo-title: Skinning the player
 title: Skinning the player
-uuid: 516ff846-d76d-4062-b64b-3032f7a70470
+exl-id: 4ad50f96-d174-401f-a731-21e5fbfdbe31
 ---
-
 # Skinning the player {#skinning-the-player}
 
 You can use the following information to help you skin your player. For each visual construct, the corresponding behaviors is mentioned in default behavior.

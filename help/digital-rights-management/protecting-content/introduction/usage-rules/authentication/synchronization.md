@@ -1,9 +1,9 @@
 ---
-seo-title: Requirements for synchronization
 title: Requirements for synchronization
-uuid: 19a6ee7e-9580-48bb-a3a6-ff2cedcc796a
+description: Requirements for synchronization
+copied-description: yes
+exl-id: 0368e363-893f-4b51-a317-00791d0ab54f
 ---
-
 # Requirements for Synchronization {#requirements-for-synchronization}
 
 Requirements for synchronization specifies the frequency with which the client synchronize its state with the server. If the client has been issued an out-of-band license (without a license server being contacted), usage rules may specify that the client must send synchronization messages to the server in order to synchronize the client's secure time, and report client state to the server.

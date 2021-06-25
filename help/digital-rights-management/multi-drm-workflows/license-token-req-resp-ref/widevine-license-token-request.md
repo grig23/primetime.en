@@ -1,11 +1,8 @@
 ---
 description: The Widevine license token interface provides production and test services.
-seo-description: The Widevine license token interface provides production and test services.
-seo-title: Widevine license token request / response
 title: Widevine license token request / response
-uuid: a3522422-7075-49a7-bc55-137ef84ee430
+exl-id: f8d71f63-7783-44f9-8b1b-4b5646dca339
 ---
-
 # Widevine license token request / response {#widevine-license-token-request-response}
 
 The Widevine license token interface provides production and test services.

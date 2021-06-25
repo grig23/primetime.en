@@ -1,11 +1,8 @@
 ---
 description: You can implement your own logging system.
-seo-description: You can implement your own logging system.
-seo-title: Customized logging
 title: Customized logging
-uuid: c5bdf266-4266-4896-b6e0-47710ce64e67
+exl-id: 7e10e2bd-24cc-4fe7-ad95-d466cb4baa42
 ---
-
 # Customized logging {#customized-logging}
 
 You can implement your own logging system.

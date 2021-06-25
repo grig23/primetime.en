@@ -1,11 +1,8 @@
 ---
 description: You can enable and build controls for late binding audio.
-seo-description: You can enable and build controls for late binding audio.
-seo-title: Overview
 title: Overview
-uuid: 7656f930-f426-426e-bcd4-dfa9d39e7ae4
+exl-id: be3b41c5-1c30-430c-9baa-06b6496aceb4
 ---
-
 # Overview {#overview}
 
 You can enable and build controls for late binding audio.
@@ -18,4 +15,3 @@ You can implement various workflows, depending on your player user interface. Th
 1. When the user taps the Settings button on the UI, the audio track options are displayed.
 1. When an audio track is selected, the track becomes the active audio track. 
 1. The end user can tap the Settings button to switch back to the original audio track.
-

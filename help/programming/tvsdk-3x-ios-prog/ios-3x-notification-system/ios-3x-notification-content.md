@@ -1,11 +1,8 @@
 ---
 description: PTNotification objects provide information about changes in player status, warnings, and errors. Errors that stop the playback of the video also cause a change in the status of the player.
-seo-description: PTNotification objects provide information about changes in player status, warnings, and errors. Errors that stop the playback of the video also cause a change in the status of the player.
-seo-title: Notification content
 title: Notification content
-uuid: d42d2e89-1bdd-4be0-8a69-821fec6bbc75
+exl-id: 62423718-b154-4105-82b2-f6e389105ec8
 ---
-
 # Notifications for player status, activity, errors, and logging {#notifications-player-status-activity-errors-logging}
 
 `PTNotification` objects provide information about changes in player status, warnings, and errors. Errors that stop the playback of the video also cause a change in the status of the player.

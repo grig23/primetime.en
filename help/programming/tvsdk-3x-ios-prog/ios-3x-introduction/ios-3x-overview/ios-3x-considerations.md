@@ -1,11 +1,8 @@
 ---
 description: To use TVSDK most effectively, you should consider certain details of its operation and follow certain best practices.
-seo-description: To use TVSDK most effectively, you should consider certain details of its operation and follow certain best practices.
-seo-title: Considerations and best practices
 title: Considerations and best practices
-uuid: a65c9739-ed83-4519-8ae5-7ba4c8f1ca49
+exl-id: f5d3e0ff-675f-4bd4-bfda-71988d25c85d
 ---
-
 # Considerations and best practices {#considerations-and-best-practices}
 
 To use TVSDK most effectively, you should consider certain details of its operation and follow certain best practices.

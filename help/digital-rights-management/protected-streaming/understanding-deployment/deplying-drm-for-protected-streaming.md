@@ -1,9 +1,9 @@
 ---
-seo-title: Deploying the Adobe Primetime DRM Server for Protected Streaming
 title: Deploying the Adobe Primetime DRM Server for Protected Streaming
-uuid: 83ef8237-0026-4677-b42b-ea4b6de19630
+description: Deploying the Adobe Primetime DRM Server for Protected Streaming
+copied-description: yes
+exl-id: 814c08e6-5d09-495b-b529-cedc9b9c02a7
 ---
-
 # Deploying the Adobe Primetime DRM Server for Protected Streaming{#deploying-the-adobe-primetime-drm-server-for-protected-streaming}
 
 Before you can deploy the Adobe Primetime DRM Server for Protected Streaming, you must have installed the versions of Java and Tomcat as listed in the Requirements topic.
@@ -24,4 +24,3 @@ The server optionally uses a platform-specific library ( [!DNL jsafe.dll] on Mic
 >[!NOTE]
 >
 >You should only use the 64-bit version if both the operating system and the JDK support 64 bit. Otherwise you need to use the 32-bit version.
-

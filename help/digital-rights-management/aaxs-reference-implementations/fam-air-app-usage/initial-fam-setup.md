@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Initial Flash Access Manager setup
 title: Initial Flash Access Manager setup
-uuid: e9041f7c-b098-4121-88bf-ff3e6369e01b
+description: Initial Flash Access Manager setup
+copied-description: yes
+exl-id: 880822f3-0d21-42fc-889e-7375a2aab11a
 ---
-
 # Initial Flash Access Manager setup {#initial-flash-access-manager-setup}
 
 Use the following procedure to set up Flash Access Manager:
@@ -22,4 +20,3 @@ Use the following procedure to set up Flash Access Manager:
    If your server is running somewhere other than `https://localhost:8080*`, you see errors stating that the application cannot connect to the server. Dismiss the error dialog and fill in the correct URL for the Packager Server URL in the Preferences Tab. If the server is running at the specified URL and the properties file is on the classpath, the Preferences screen will be populated with the values in the properties file. After you set the packager server URL, the AIR application remembers this setting, and you will not have to enter it the next time you launch the application.
 1. Fill in the values in the Preferences tab and click **[!UICONTROL Save]**. 
 1. If you want to use the Watched Folders, you will need to restart the server to recover from the errors you saw in Step 3. If the preferences are configured properly, no errors should appear during startup.
-

@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Approve a certificate (Account or Secondary Administrator)
 title: Approve a certificate (Account or Secondary Administrator)
-uuid: 5b95e2e8-abe9-4aef-bcb4-9b98ba6604d1
+description: Approve a certificate (Account or Secondary Administrator)
+copied-description: yes
+exl-id: 71e647a8-e325-4095-a0ac-775fb5898e9e
 ---
-
 # Approve a certificate (Account or Secondary Administrator){#approve-a-certificate-account-or-secondary-administrator}
 
 1. Log onto the Certificate Enrollment site.
@@ -34,4 +32,3 @@ The Requester can copy the PKCS#7 content from the e-mail body and save it to a 
 >[!NOTE]
 >
 >The file sent to the Requester contains only the certificate. The file does not contain private key information.
-

@@ -1,11 +1,8 @@
 ---
 description: To allow the ad resolver to work, ad providers, such as Adobe Primetime ad decisioning, require configuration values to enable your connection to the provider.
-seo-description: To allow the ad resolver to work, ad providers, such as Adobe Primetime ad decisioning, require configuration values to enable your connection to the provider.
-seo-title: Ad insertion metadata
 title: Ad insertion metadata
-uuid: 676e81b9-4c2b-487e-bc68-74879ca2966b
+exl-id: 839527db-fcf1-4657-9a56-af5b00171754
 ---
-
 # Overview {#ad-nsertion-metadata-overview}
 
 To allow the ad resolver to work, ad providers, such as Adobe Primetime ad decisioning, require configuration values to enable your connection to the provider.

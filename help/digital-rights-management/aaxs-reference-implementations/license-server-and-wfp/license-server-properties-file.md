@@ -1,9 +1,9 @@
 ---
-seo-title: License server properties file
 title: License server properties file
-uuid: bede307a-2060-451f-baf5-d058702c0a7e
+description: License server properties file
+copied-description: yes
+exl-id: ac105ea6-b5a4-4416-bf17-f619abcf7cd5
 ---
-
 # License server properties file {#license-server-properties-file}
 
 Use the [!DNL flashaccess-refimpl.properties] file to configure the License Server component of the reference implementation. At a minimum, be sure to configure the properties related to the Transport Credential and the License Server Credential. The locations of the credential files must be specified relative to the directory specified by the `config.resourcesDirectory` property. This file also contains several properties related to packaging content: these properties are only used for Flash Media Rights Management Server 1.x metadata conversion. If you modify any of the values in this property file, you need to restart the license server for the changes to take effect.
@@ -30,4 +30,3 @@ The following properties have been added in Adobe Access:
   </tr> 
  </tbody> 
 </table>
-

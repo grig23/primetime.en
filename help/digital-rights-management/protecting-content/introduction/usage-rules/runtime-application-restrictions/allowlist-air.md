@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Allow list for Primetime DRM applications allowed to play protected content
 title: Allow list for Primetime DRM applications allowed to play protected content
-uuid: 23dd4faf-7992-4ee9-97ce-c6004ee995c2
+description: Allow list for Primetime DRM applications allowed to play protected content
+copied-description: yes
+exl-id: c5aced0f-2c38-4ae7-9a33-44877e57a993
 ---
-
 # Allow list for Primetime DRM applications allowed to play protected content {#allowlist-for-primetime-drm-applications-allowed-to-play-protected-content}
 
 A allow list specifies the AIR, iOS, and Android applications that are allowed to play content. It also specifies AIR and iOS application IDs, minimum version, maximum version, and publisher ID.

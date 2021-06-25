@@ -1,11 +1,8 @@
 ---
 description: The key client-side element of the Primetime digital rights management (DRM) system is the DRM Manager.
-seo-description: The key client-side element of the Primetime digital rights management (DRM) system is the DRM Manager.
-seo-title: Primetime DRM interface overview
 title: Primetime DRM interface overview
-uuid: 01714ee6-a937-4ca3-b535-6a6ef681ee6d
+exl-id: 8d6b9416-5d8a-4d1e-b8e6-47c43389f079
 ---
-
 # Primetime DRM interface overview{#primetime-drm-interface-overview}
 
 The key client-side element of the Primetime digital rights management (DRM) system is the DRM Manager.
@@ -37,4 +34,4 @@ Additional relevant API elements:
 
 <!--<a id="section_F58941D68EB94A5EBD1C7454D2A1B17A"></a>-->
 
-For more information about DRM, see the Adobe Primetime DRM documentation. 
+For more information about DRM, see the Adobe Primetime DRM documentation.

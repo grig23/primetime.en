@@ -1,9 +1,9 @@
 ---
-seo-title: Revoking machine credentials
 title: Revoking machine credentials
-uuid: 3647c843-5f1a-457e-949d-10a6278b1c29
+description: Revoking machine credentials
+copied-description: yes
+exl-id: 4f49a94c-1bd9-4a7a-ac92-4da0b7fe4ae4
 ---
-
 # Revoking machine credentials {#revoking-machine-credentials}
 
 Adobe maintains a CRL for revoking machine credentials that are known to be compromised. This CRL is automatically enforced by the SDK. If there are additional machines to which you do not want your license server to issue licenses, you may create a machine revocation list and add the issuer name and serial number of the machine tokens you want to exclude (use `MachineToken.getMachineTokenId()` to retrieve the issuer name and serial number of the machine certificate).
@@ -23,4 +23,4 @@ Revoking machine credentials involves the usage of a `RevocationListFactory` obj
 
 To add additional entries to an existing `RevocationList`, load an existing revocation list. Create a new `RevocationListFactory` instance, and be sure to increment the CRL number. Call `RevocationListFactioryEntries.addRevocationEntries` to add all the entries from the old list to the new list. Call `RevocationListFactory.addRevocationEntry` to add any new revocation entries to the RevocationList.
 
-For sample code demonstrating how to create a revocation list, load an existing revocation list, and check whether a machine token has been revoked, see `com.adobe.flashaccess.samples.revocation.CreateRevocationList` in the Reference Implementation Command Line Tools [!DNL samples] directory. 
+For sample code demonstrating how to create a revocation list, load an existing revocation list, and check whether a machine token has been revoked, see `com.adobe.flashaccess.samples.revocation.CreateRevocationList` in the Reference Implementation Command Line Tools [!DNL samples] directory.

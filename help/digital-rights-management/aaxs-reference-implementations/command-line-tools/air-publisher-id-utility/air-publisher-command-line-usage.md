@@ -1,9 +1,9 @@
 ---
-seo-title: Command line usage
 title: Command line usage
-uuid: 54b1e867-c6cc-4355-b8e6-a7ec910bd33d
+description: Command line usage
+copied-description: yes
+exl-id: 67056085-beb5-4f54-8962-369bc32d7907
 ---
-
 # Command line usage {#command-line-usage}
 
 To run the tool, use the following syntax:
@@ -28,4 +28,3 @@ java -jar AdobePublisherIDUtility.jar
 >[!NOTE]
 >
 >To determine the publisher ID for an iOS application, use the `-s` option and specify the certificate used to sign the iOS application. ***Adobe Primetime is required to build iOS applications that can play Access-protected content***.
-

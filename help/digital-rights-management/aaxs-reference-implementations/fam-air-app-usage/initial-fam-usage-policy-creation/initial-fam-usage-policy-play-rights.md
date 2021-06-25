@@ -1,9 +1,9 @@
 ---
-seo-title: Play Rights
 title: Play Rights
-uuid: 90f2a7a6-6637-4d10-9afe-6d2e77fc4185
+description: Play Rights
+copied-description: yes
+exl-id: a4fda537-dbcc-496b-8f15-c13b25fe87b0
 ---
-
 # Play Rights {#play-rights}
 
 The following table describes the Play Rights preferences: 
@@ -24,4 +24,4 @@ The following table describes the Play Rights preferences:
 
 Flash Access Manager supports policies containing multiple Play Rights. To create a policy with more than one Play Right, use the "Add additional Play Right" button, and fill in the desired attributes for each Play Right.
 
-When consuming a license, the client uses the first Play Right for which it meets all the requirements. Multiple play rights may be used to specify different restrictions for different operating systems. For example, it is possible to specify one right with Output Protection required for Windows (by block listing DRM versions on Macintosh and Linux) and to specify a second right with Output Protection "Use if available" on other platforms (by block listing DRM versions on Windows). 
+When consuming a license, the client uses the first Play Right for which it meets all the requirements. Multiple play rights may be used to specify different restrictions for different operating systems. For example, it is possible to specify one right with Output Protection required for Windows (by block listing DRM versions on Macintosh and Linux) and to specify a second right with Output Protection "Use if available" on other platforms (by block listing DRM versions on Windows).

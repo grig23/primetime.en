@@ -1,11 +1,8 @@
 ---
 description: TVSDK supports seeking to a specific position (time) where the stream is a sliding-window playlist, in both video on demand (VOD) and live streams.
-seo-description: TVSDK supports seeking to a specific position (time) where the stream is a sliding-window playlist, in both video on demand (VOD) and live streams.
-seo-title: Display a seek scrub bar with the current playback position
 title: Display a seek scrub bar with the current playback position
-uuid: a9f4dd6c-78cf-455c-8c31-b2f7b740d84a
+exl-id: 8076521b-579d-491f-97de-c7b57daa9b2e
 ---
-
 # Display a seek scrub bar with the current playback position {#display-a-seek-scrub-bar-with-the-current-playback-position}
 
 TVSDK supports seeking to a specific position (time) where the stream is a sliding-window playlist, in both video on demand (VOD) and live streams.
@@ -76,4 +73,3 @@ seekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
 }; 
 
 ```
-

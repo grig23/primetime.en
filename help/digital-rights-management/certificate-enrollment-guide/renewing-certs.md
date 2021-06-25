@@ -1,9 +1,9 @@
 ---
-seo-title: Renew certificates
 title: Renew certificates
-uuid: 12a560b0-966b-424e-bfe5-22e9c10d8667
+description: Renew certificates
+copied-description: yes
+exl-id: db130ca5-4e26-447f-b2f4-4eee0838fd56
 ---
-
 # Renew certificates{#renew-certificates}
 
 You should be aware of the following certificate renewal restrictions that are based on your Adobe Primetime DRM SDK configuration:
@@ -30,4 +30,3 @@ To specify old certificates, use the following properties:
 * `#HandlerConfiguration.AdditionalServerTransportCredential.1.password=[password]` 
 * `#AsymmetricKeyRetrieval.ServerCredential.1=license_server.pfx` 
 * `#AsymmetricKeyRetrieval.ServerCredential.1.password=[password]`
-

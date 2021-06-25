@@ -1,11 +1,8 @@
 ---
 description: From the moment that you create the MediaPlayer instance to the moment when you terminate (reuse or remove) it, this instance completes a series of transitions between statuses.
-seo-description: From the moment that you create the MediaPlayer instance to the moment when you terminate (reuse or remove) it, this instance completes a series of transitions between statuses.
-seo-title: MediaPlayer object lifecycle
 title: MediaPlayer object lifecycle
-uuid: 1452ae3a-7ce9-439e-951c-9d3db63b1d20
+exl-id: 0f2f3699-b745-4b14-8b7e-68696960ccab
 ---
-
 # MediaPlayer object lifecycle{#mediaplayer-object-lifecycle}
 
 From the moment that you create the MediaPlayer instance to the moment when you terminate (reuse or remove) it, this instance completes a series of transitions between statuses.
@@ -87,4 +84,3 @@ The following table provides additional details:
 >[!TIP]
 >
 >You can use the status to provide feedback on the process (for example, a spinner while waiting for the next status change) or to take the next step in playing the media, such as waiting for the appropriate status before calling the next method.
-

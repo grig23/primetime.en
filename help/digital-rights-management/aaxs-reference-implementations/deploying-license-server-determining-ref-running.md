@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Determining if Reference Implementation License Server is running properly
 title: Determining if Reference Implementation License Server is running properly
-uuid: 84d32c94-7594-464e-a883-5338b52de2bf
+description: Determining if Reference Implementation License Server is running properly
+copied-description: yes
+exl-id: ef28e169-f8d2-4c7f-b606-aa4e811aae9b
 ---
-
 # Determining if Reference Implementation License Server is running properly {#determining-if-reference-implementation-license-server-is-running-properly}
 
 There are several ways to determine whether your server has started correctly. Viewing the [!DNL catalina.log] logs may not be sufficient, as the license server logs to its own log files. Follow the steps below to ensure your Reference Implementation has started up properly.

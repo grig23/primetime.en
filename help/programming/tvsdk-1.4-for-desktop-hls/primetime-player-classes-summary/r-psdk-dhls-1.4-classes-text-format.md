@@ -1,11 +1,8 @@
 ---
 description: These classes specify formatting for text.
-seo-description: These classes specify formatting for text.
-seo-title: Text format classes
 title: Text format classes
-uuid: ef0a5098-d6a0-42f4-91f6-eb944eae5c2a
+exl-id: 885de6f1-6c1a-4862-ab57-3854a3d5ebaf
 ---
-
 # Text format classes{#text-format-classes}
 
 These classes specify formatting for text.
@@ -18,4 +15,3 @@ Package: [com.adobe.mediacore.textformat](https://help.adobe.com/en_US/primetime
 | [Font](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/textformat/Font.html) | Class. Provides a text font.  |
 | [FontEdge](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/textformat/FontEdge.html) | Class. Specifies the desired font edge.  |
 | [Size](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/textformat/Size.html) | Class. Provides a value for the font size.  |
-

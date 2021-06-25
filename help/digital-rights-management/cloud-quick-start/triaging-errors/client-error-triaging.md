@@ -1,11 +1,8 @@
 ---
 description: Occasionally, there will be times when content cannot be played back. Any number of situations may cause this, including errors in the browser network stack, transport layer, Operating System, Flash Player runtime, or Primetime DRM system.
-seo-description: Occasionally, there will be times when content cannot be played back. Any number of situations may cause this, including errors in the browser network stack, transport layer, Operating System, Flash Player runtime, or Primetime DRM system.
-seo-title: Triaging errors overview
 title: Triaging errors overview
-uuid: 44b4ab0e-5f08-44b0-bcb5-a869f6add69b
+exl-id: fe94d0a4-4f3c-4b0e-b830-a7a83bac1e85
 ---
-
 # Triaging errors {#triaging-errors}
 
 Occasionally, there will be times when content cannot be played back. Any number of situations may cause this, including errors in the browser network stack, transport layer, Operating System, Flash Player runtime, or Primetime DRM system.
@@ -20,4 +17,3 @@ If content does not play, please examine the right-side panel of the Sample Vide
 
 * [DRM Client Error Message Reference](https://help.adobe.com/en_US/primetime/drm/index.html#reference-DRM_Client_Error_Messages); or 
 * [AS3 Flash Runtime Errors](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/runtimeErrors.html) (DRM issues start at 3300)
-

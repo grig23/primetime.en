@@ -1,11 +1,8 @@
 ---
 description: You can implement your own opportunity generator by extending the OpportunityGenerator interface.
-seo-description: You can implement your own opportunity generator by extending the OpportunityGenerator interface.
-seo-title: Implement a custom opportunity generator
 title: Implement a custom opportunity generator
-uuid: b80da2da-32d5-41f7-86ca-936d6f25b015
+exl-id: 45f9ed89-94c4-4e74-b20a-4789a25bd9b3
 ---
-
 # Implement a custom opportunity generator{#implement-a-custom-opportunity-generator}
 
 You can implement your own opportunity generator by extending the OpportunityGenerator interface.
@@ -82,4 +79,3 @@ You can implement your own opportunity generator by extending the OpportunityGen
    }); 
    
    ```
-

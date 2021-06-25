@@ -1,11 +1,8 @@
 ---
 description: These classes provide information about the timeline of the particular media, including the placement of ads.
-seo-description: These classes provide information about the timeline of the particular media, including the placement of ads.
-seo-title: Timeline classes
 title: Timeline classes
-uuid: 9c06fec1-d725-4fe8-9cf5-1e3ade2b7d27
+exl-id: 8382fff2-0f10-4a8c-9c0c-66d26fe18938
 ---
-
 # Timeline classes{#timeline-classes}
 
 These classes provide information about the timeline of the particular media, including the placement of ads.
@@ -58,4 +55,3 @@ These classes provide information about the timeline of the particular media, in
   </tr> 
  </tbody> 
 </table>
-

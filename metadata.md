@@ -1,12 +1,8 @@
 ---
-cloud: experience-cloud
-solution-title: Learn & Support
-solution-hub-url: https://helpx.adobe.com/support/primetime.html
-solution-image: https://www.adobe.com
-getting-started-title: Getting Started
-getting-started-url: https://www.adobe.com/devnet/primetime.html
-tutorials-title: Tutorials
-tutorials-url: https://www.adobe.com/devnet/primetime.html
+cloud: Experience Cloud
+type: Documentation
+product: adobe primetime
+solution: Primetime
 git-repo: https://github.com/AdobeDocs/primetime.en
 index: y
 ---

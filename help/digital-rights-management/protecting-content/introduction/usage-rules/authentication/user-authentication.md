@@ -1,9 +1,9 @@
 ---
-seo-title: Usage rules
 title: Usage rules
-uuid: 19a6ee7e-9580-48bb-a3a6-ff2cedcc796a
+description: Usage rules
+copied-description: yes
+exl-id: cd547e4b-659d-4012-9c22-90ba34230af3
 ---
-
 # Usage rules {#usage-rules}
 
 The following topics describe the usage rules that you can specify in an Adobe Primetime DRM policy.

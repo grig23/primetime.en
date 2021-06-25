@@ -1,11 +1,8 @@
 ---
 description: Media streams can carry additional metadata in the form of tags in the Media Presentation Description (MPD) file, and this file indicates the placement of advertising. You can specify custom tag names and be notified when certain tags appear in the manifest file.
-seo-description: Media streams can carry additional metadata in the form of tags in the Media Presentation Description (MPD) file, and this file indicates the placement of advertising. You can specify custom tag names and be notified when certain tags appear in the manifest file.
-seo-title: Custom tags
 title: Custom tags
-uuid: d1e34288-545b-440f-a262-2fb853f0e3c4
+exl-id: 9e6343b5-ade7-467a-b2a1-8f8d69492a1a
 ---
-
 # Overview {#custom-tags-overview}
 
 Media streams can carry additional metadata in the form of tags in the Media Presentation Description (MPD) file, and this file indicates the placement of advertising. You can specify custom tag names and be notified when certain tags appear in the manifest file.
@@ -76,4 +73,4 @@ DASH has two ways of signalling events:
 
   Inband events are multiplexed with representations by adding the event messages as part of the segments. A representation is a list of video and audio segments that are played in sequence. The inband event data is embedded in these segments.
 
-These events are notified as `TimedMetadata` events to the application as soon as they are parsed by Browser TVSDK. Once an event is notified, it will not be notified again. 
+These events are notified as `TimedMetadata` events to the application as soon as they are parsed by Browser TVSDK. Once an event is notified, it will not be notified again.

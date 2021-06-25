@@ -1,11 +1,8 @@
 ---
 description: Browser TVSDK supports companion banner ads, which are ads that accompany a linear ad and often remain on the page after the linear ad ends. Your application is responsible for displaying the companion banners that are provided with a linear ad.
-seo-description: Browser TVSDK supports companion banner ads, which are ads that accompany a linear ad and often remain on the page after the linear ad ends. Your application is responsible for displaying the companion banners that are provided with a linear ad.
-seo-title: Companion banner ads
 title: Companion banner ads
-uuid: 5655c348-268d-42d6-92c2-f5de39ff666f
+exl-id: 73b5c9b0-abac-47ed-a21d-3f8f90cc5b55
 ---
-
 # Overview {#companion-banner-ads-overview}
 
 Browser TVSDK supports companion banner ads, which are ads that accompany a linear ad and often remain on the page after the linear ad ends. Your application is responsible for displaying the companion banners that are provided with a linear ad.
@@ -24,4 +21,3 @@ When displaying companion ads, follow these recommendations:
 * Continue to display companion banners after the ad ends.
 
   The standard is to display each companion banner until you have a replacement for this banner.
-

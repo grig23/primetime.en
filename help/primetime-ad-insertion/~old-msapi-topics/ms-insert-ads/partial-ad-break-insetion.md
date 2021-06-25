@@ -1,9 +1,6 @@
 ---
 description: The Partial Ad Break Insertion (PABI) feature mimics a TV like experience in which if the user joins a live stream inside a mid-roll break, the user is shown mid-roll ads instead of a pre-roll ad or slate.
-seo-description: The Partial Ad Break Insertion (PABI) feature mimics a TV like experience in which if the user joins a live stream inside a mid-roll break, the user is shown mid-roll ads instead of a pre-roll ad or slate.
-seo-title: Partial Ad Break Insertion
 title: Partial Ad Break Insertion
-uuid: a0c1ae34-0f8d-4401-97fe-45a2ea40d08d
 ---
 
 # Partial Ad Break Insertion {#partial-ad-break-insertion}

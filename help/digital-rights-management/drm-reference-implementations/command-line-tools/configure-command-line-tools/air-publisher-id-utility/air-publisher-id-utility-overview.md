@@ -1,9 +1,9 @@
 ---
-seo-title: Overview
 title: Overview
-uuid: f45c6b58-53c5-41e0-be3d-590231dd214a
+description: Overview
+copied-description: yes
+exl-id: 07f2ef0b-c6aa-4574-a3ae-18685a090cf2
 ---
-
 # AIR Publisher ID utility {#air-publisher-id-utility}
 
 When you build an AIR file, the AIR Developer Tool (ADT) automatically generates a Publisher ID. The AIR Publisher ID utility ( [!DNL AdobePublisherIDUtility.jar]) computes the Publisher ID for an AIR application.

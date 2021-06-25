@@ -1,11 +1,8 @@
 ---
 description: Any use of Adobe Access consists of two key steps at different points of the workflow. Content preparation must be done once per asset, and results in creating protected content. Content acquisition is done multiple times, once for every consumer that wants to watch that protected asset.
-seo-description: Any use of Adobe Access consists of two key steps at different points of the workflow. Content preparation must be done once per asset, and results in creating protected content. Content acquisition is done multiple times, once for every consumer that wants to watch that protected asset.
-seo-title: Content preparation
 title: Content preparation
-uuid: 7a3562c6-6033-4e28-8f0a-18e3cb8987b9
+exl-id: c658c7e9-2583-4d74-a94b-800023cf5196
 ---
-
 # Content preparation {#content-preparation}
 
 Any use of Adobe Access consists of two key steps at different points of the workflow. Content preparation must be done once per asset, and results in creating protected content. Content acquisition is done multiple times, once for every consumer that wants to watch that protected asset.
@@ -29,5 +26,4 @@ The steps to encode, package, and distribute content are as follows:
 
 1. Make the protected content available for distribution to consumers.
 
-   The protected content is typically distributed using a content distribution network (CDN). The CDN can use any mechanism supported by the client runtime, such as Flash Media Server, Adobe HTTP Dynamic Streaming for multiple bitrate streaming, or an HTTP Web Server for progressive download. 
-
+   The protected content is typically distributed using a content distribution network (CDN). The CDN can use any mechanism supported by the client runtime, such as Flash Media Server, Adobe HTTP Dynamic Streaming for multiple bitrate streaming, or an HTTP Web Server for progressive download.

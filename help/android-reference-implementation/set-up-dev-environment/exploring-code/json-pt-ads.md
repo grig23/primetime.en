@@ -1,11 +1,8 @@
 ---
-seo-title: JSON object for Primetime ads
 title: JSON object for Primetime ads
-uuid: acf968d2-9856-4ed6-a046-1ac17d176571
 description: The code block below defines the details JSON object when the type value is Primetime ads.
-seo-description: The code block below defines the details JSON object when the type value is Primetime ads.
+exl-id: b1392781-2dfb-4934-b1ce-1c761cbfb22d
 ---
-
 # JSON object for Primetime ads {#json-object-for-primetime-ads}
 
 The code block below defines the details JSON object when the type value is Primetime ads.

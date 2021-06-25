@@ -1,11 +1,8 @@
 ---
 description: TVSDK has specific requirements for media content, manifest content, DRM, and software versions.
-seo-description: TVSDK has specific requirements for media content, manifest content, DRM, and software versions.
-seo-title: Requirements
 title: Requirements
-uuid: aa51fb78-31d1-4403-8808-2d54a87f6153
+exl-id: 8c252761-eee3-4fec-a85f-a38c1d9be9cb
 ---
-
 # Requirements {#requirements}
 
 TVSDK has specific requirements for media content, manifest content, DRM, and software versions.

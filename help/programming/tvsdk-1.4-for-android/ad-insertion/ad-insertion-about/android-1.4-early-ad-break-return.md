@@ -1,11 +1,8 @@
 ---
 description: For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
-seo-description: For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
-seo-title: Implement an early ad break return
 title: Implement an early ad break return
-uuid: 41b70ee1-290b-4732-899e-32b234ec1d9a
+exl-id: 38386ab7-0e3b-4628-84eb-470d585eb929
 ---
-
 # Implement an early ad break return {#implement-an-early-ad-break-return}
 
 For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
@@ -40,4 +37,3 @@ For example, the duration of the ad break in certain sports events might not be 
    contentResolvers.add(new SpliceInCustomResolver()); 
    return contentResolvers;
    ```
-

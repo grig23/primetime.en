@@ -1,9 +1,9 @@
 ---
-seo-title: Updating DRM policies
 title: Updating DRM policies
-uuid: 6f7a1432-88e4-499b-a008-6c8cf0e9c09b
+description: Updating DRM policies
+copied-description: yes
+exl-id: 27dc35d2-134c-4b88-9251-c6bb04a48f13
 ---
-
 # Updating DRM policies {#updating-drm-policies}
 
 If DRM policies are updated after the content is packaged, provide the updated DRM policies to the license server so the updated version can be used when issuing a license. If a license server has access to a database for storing DRM policies, you can retrieve the updated DRM policy from the database and call `LicenseRequestMessage.setSelectedPolicy()` to provide the new version of the DRM policy.

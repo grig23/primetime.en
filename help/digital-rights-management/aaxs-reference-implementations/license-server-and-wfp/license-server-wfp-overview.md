@@ -1,9 +1,9 @@
 ---
-seo-title: License server and watched folder packager overview
 title: License server and watched folder packager overview
-uuid: 3dd6f699-a5c0-44c4-897a-34e06abe3d71
+description: License server and watched folder packager overview
+copied-description: yes
+exl-id: 1a355068-7ad6-4cc2-8447-49251dae3ff8
 ---
-
 # License server and watched folder packager overview {#license-server-and-watched-folder-packager-overview}
 
 The reference implementation server can help you create a license server using the Adobe Access SDK. In this implementation, users are authenticated based on user entries in a database. The server includes demonstration business logic for issuing licenses. It also implements compatibility support for Flash Media Rights Management Server 1.0 and 1.5.
@@ -46,4 +46,3 @@ The Reference Implementation sample code demonstrates the following features:
     * Using an HSM or PKCS12 file to store credentials 
     * Encrypting passwords specified in properties file 
     * Configuring the packager, creating policies, and creating policy update lists using an AIR application
-

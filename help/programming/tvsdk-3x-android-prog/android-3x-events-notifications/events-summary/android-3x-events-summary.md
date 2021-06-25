@@ -1,11 +1,8 @@
 ---
 description: Your application can monitor the activity in your player and the changing status of the player by listening for the events that are dispatched by TVSDK.
-seo-description: Your application can monitor the activity in your player and the changing status of the player by listening for the events that are dispatched by TVSDK.
-seo-title: Primetime player events summary
 title: Primetime player events summary
-uuid: b2ff74f2-c373-42da-a717-2f0550cbcb7f
+exl-id: 3912f140-1600-41fb-9dc4-306646b7cd85
 ---
-
 # Primetime player events summary {#primetime-player-events-summary}
 
 Your application can monitor the activity in your player and the changing status of the player by listening for the events that are dispatched by TVSDK.
@@ -105,7 +102,7 @@ TVSDK notifies you when events, to which your application must respond, occur. E
 
 * **Event code** `BUFFERING_END`
 
-`BufferPreparedEventListener``  
+`BufferPreparedEventListener`
 
 * **Meaning** The buffer is prepared.
 

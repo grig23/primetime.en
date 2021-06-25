@@ -1,11 +1,8 @@
 ---
 description: You might need to know whether the media content is live or video on demand (VOD).
-seo-description: You might need to know whether the media content is live or video on demand (VOD).
-seo-title: Identify whether the content is live or VOD
 title: Identify whether the content is live or VOD
-uuid: d49315ee-8cec-4b79-adbd-a49c2a527424
+exl-id: 756d4f04-d354-4194-80c9-c2ea6198a566
 ---
-
 # Identify whether the content is live or VOD {#identify-whether-the-content-is-live-or-vod}
 
 You might need to know whether the media content is live or video on demand (VOD).

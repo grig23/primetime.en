@@ -1,7 +1,7 @@
 ---
-seo-title: Obtain Individualization Server Certificates
 title: Obtain Individualization Server Certificates
-uuid: ae1e848e-0a19-4ec3-8419-ce5fd783c279
+description: Obtain Individualization Server Certificates
+copied-description: yes
 ---
 
 # Obtain Individualization Server Certificates{#obtain-individualization-server-certificates}

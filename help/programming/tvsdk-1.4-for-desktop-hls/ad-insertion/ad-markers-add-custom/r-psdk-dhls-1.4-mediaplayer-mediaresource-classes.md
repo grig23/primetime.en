@@ -1,11 +1,8 @@
 ---
 description: A MediaResource represents the content that is about to be loaded by the MediaPlayer instance.
-seo-description: A MediaResource represents the content that is about to be loaded by the MediaPlayer instance.
-seo-title: MediaPlayer and MediaResource classes
 title: MediaPlayer and MediaResource classes
-uuid: 36ef75f3-08f7-4fc5-88a7-9bab9198b917
+exl-id: c431c9f9-98a3-402c-b799-450f30f668dd
 ---
-
 # MediaPlayer and MediaResource classes{#mediaplayer-and-mediaresource-classes}
 
 A MediaResource represents the content that is about to be loaded by the MediaPlayer instance.
@@ -22,4 +19,4 @@ The TVSDK library provides a simple means to load and prepare content for playba
 
   This dictionary-like structure might contain additional information about the content that is about to be loaded, such as information about the alternate/ad content that should be placed in the main content.
 
-The metadata is the medium through which information that is related to alternate content is passed to TVSDK. The `Metadata` interface defines the API for a generic key-value store, where both the key and the value are plain strings. 
+The metadata is the medium through which information that is related to alternate content is passed to TVSDK. The `Metadata` interface defines the API for a generic key-value store, where both the key and the value are plain strings.

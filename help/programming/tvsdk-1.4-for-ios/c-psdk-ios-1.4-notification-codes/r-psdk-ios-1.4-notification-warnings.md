@@ -1,11 +1,8 @@
 ---
 description: This table proves detailed information about WARN type notifications.
-seo-description: This table proves detailed information about WARN type notifications.
-seo-title: WARNING notification codes
 title: WARNING notification codes
-uuid: 136b5a65-b842-40fd-8ddd-efe01d73c388
+exl-id: 15f99d89-6f68-476e-a5d3-09c579486920
 ---
-
 # WARNING notification codes{#warning-notification-codes}
 
 This table proves detailed information about WARN type notifications.
@@ -164,4 +161,4 @@ Most warnings contain relevant metadata, for example, the URL of the resource th
 
  >[!NOTE]
  >
- >adID and source (URL) can be retrieved through the PTAdAsset in the notification metadata with the `AD_ASSET` key. 
+ >adID and source (URL) can be retrieved through the PTAdAsset in the notification metadata with the `AD_ASSET` key.

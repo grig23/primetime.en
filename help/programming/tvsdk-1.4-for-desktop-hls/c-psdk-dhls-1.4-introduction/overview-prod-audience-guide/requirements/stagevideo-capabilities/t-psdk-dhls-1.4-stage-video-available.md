@@ -1,11 +1,8 @@
 ---
 description: If StageVideo is unavailable, and your application tries to use StageVideo, the TVSDK does not issue an error. Your application can determine whether StageVideo is available by listening for the StageVideoAvailabilityEvent.
-seo-description: If StageVideo is unavailable, and your application tries to use StageVideo, the TVSDK does not issue an error. Your application can determine whether StageVideo is available by listening for the StageVideoAvailabilityEvent.
-seo-title: Check whether StageVideo is available
 title: Check whether StageVideo is available
-uuid: 09c39442-cb9a-4892-af99-3d3d9bf1d4a7
+exl-id: 24136a14-8d7d-4569-9911-fac4e2de3227
 ---
-
 # Check whether StageVideo is available{#check-whether-stagevideo-is-available}
 
 If StageVideo is unavailable, and your application tries to use StageVideo, the TVSDK does not issue an error. Your application can determine whether StageVideo is available by listening for the StageVideoAvailabilityEvent.

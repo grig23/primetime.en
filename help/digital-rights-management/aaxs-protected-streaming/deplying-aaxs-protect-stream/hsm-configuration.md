@@ -1,9 +1,9 @@
 ---
-seo-title: HSM configuration
 title: HSM configuration
-uuid: da4d7118-65a8-460d-a796-b7bf5c28b208
+description: HSM configuration
+copied-description: yes
+exl-id: a3e5759e-1419-4519-bcd7-de83364a48f8
 ---
-
 # HSM configuration {#hsm-configuration}
 
 If you choose to use an HSM to store your server credentials, you must load the private keys and certificates onto the HSM and create a [!DNL pkcs11.cfg] configuration file. This file must be located in the *LicenseServer.ConfigRoot* directory. See the [!DNL Adobe Access Server for Protected Streaming/configs] directory on the Adobe Access DVD for an example PKCS11 configuration file. For information on the format of [!DNL pkcs11.cfg], see the Sun PKCS11 provider documentation.

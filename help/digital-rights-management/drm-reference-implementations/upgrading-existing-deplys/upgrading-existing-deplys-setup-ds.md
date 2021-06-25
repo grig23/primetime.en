@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Set up a domain server
 title: Set up a domain server
-uuid: bf85305e-9a00-4bc0-ba36-c870979456e4
+description: Set up a domain server
+copied-description: yes
+exl-id: eeb0d39d-58a4-4414-9123-2cf1b27b73de
 ---
-
 # Set up a domain server{#set-up-a-domain-server}
 
 To configure a domain server on an existing license server installation: 

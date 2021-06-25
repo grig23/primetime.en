@@ -1,11 +1,8 @@
 ---
 description: The Video Analytics Manager exposes these classes to implement video tracking in your player.
-seo-description: The Video Analytics Manager exposes these classes to implement video tracking in your player.
-seo-title: Related API documentation
 title: Related API documentation
-uuid: 2dbb01c7-f8e0-47c7-baaa-84b8d54c03a6
+exl-id: ad806952-5f51-4f43-8ca3-cbd416789a43
 ---
-
 # Related API documentation {#related-api-documentation}
 
 The Video Analytics Manager exposes these classes to implement video tracking in your player.

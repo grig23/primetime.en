@@ -1,11 +1,8 @@
 ---
 description: TVSDK prepares TimedMetadata objects for subscribed tags each time these objects are encountered in the content manifest.
-seo-description: TVSDK prepares TimedMetadata objects for subscribed tags each time these objects are encountered in the content manifest.
-seo-title: Subscribe to custom tags
 title: Subscribe to custom tags
-uuid: fe8ba34d-66fc-43bb-b98e-659c1702d1e0
+exl-id: 7f1f86ca-eeba-43c3-ac2a-c493d05ad73a
 ---
-
 # Subscribe to custom tags{#subscribe-to-custom-tags}
 
 TVSDK prepares TimedMetadata objects for subscribed tags each time these objects are encountered in the content manifest.
@@ -28,4 +25,3 @@ To be notified about custom tags in HLS manifests:
    array[2] = "#EXT-OATCLS-SCTE35"; 
    MediaPlayerItemConfig.setSubscribedTags(array);
    ```
-

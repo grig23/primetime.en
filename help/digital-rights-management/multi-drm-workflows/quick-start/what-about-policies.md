@@ -1,11 +1,8 @@
 ---
 description: Setting policies is the process of specifying conditions for when and how a user is allowed to play protected video content.
-seo-description: Setting policies is the process of specifying conditions for when and how a user is allowed to play protected video content.
-seo-title: Setting policies
 title: Setting policies
-uuid: 2d2672ce-5ed4-4868-aa5e-0a9e21a809b3
+exl-id: ab7295c8-88f2-4d4a-a7f1-3332df7bb735
 ---
-
 # Setting policies{#setting-policies}
 
 Setting policies is the process of specifying conditions for when and how a user is allowed to play protected video content.
@@ -17,4 +14,3 @@ Once a customer's server-side code has determined that it will issue a license (
 >[!NOTE]
 >
 >Adobe provides a sample reference server that shows how to implement your own entitlement server / storefront: [Reference Server: Sample ExpressPlay Entitlement Server (SEES)](../../multi-drm-workflows/feature-topics/sees-reference-server.md)
-

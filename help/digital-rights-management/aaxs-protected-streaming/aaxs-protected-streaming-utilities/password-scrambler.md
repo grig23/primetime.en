@@ -1,9 +1,9 @@
 ---
-seo-title: Password Scrambler
 title: Password Scrambler
-uuid: e488babc-cd50-41b9-acb8-490e8e42e8bc
+description: Password Scrambler
+copied-description: yes
+exl-id: ceedd61e-918b-453f-8d21-628b2d8713ff
 ---
-
 # Password Scrambler {#password-scrambler}
 
 The Password Scrambler utility encrypts a password so that it can be used in the Adobe Access Server for Protected Streaming configuration files. To run the scrambler, run the command:
@@ -29,4 +29,3 @@ All passwords specified in flashaccess-global.xml and flashaccess-tenant.xml mus
 >[!NOTE]
 >
 >The Password Scrambler utility in the Adobe Access Server for Protected Streaming is not interchangeable with the scrambler provided with the Reference Implementation License Server.
-

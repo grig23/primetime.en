@@ -1,9 +1,9 @@
 ---
-seo-title: Ad-funded
 title: Ad-funded
-uuid: 5cbef309-3dc0-4403-abe1-78a9f80804fd
+description: Ad-funded
+copied-description: yes
+exl-id: ecb14487-0bd4-4cdd-b613-4bd4393b37b0
 ---
-
 # Ad-funded {#ad-funded}
 
-Content is monetized by including advertising as part of the experience. With this model, content can be distributed without requiring user authentication. 
+Content is monetized by including advertising as part of the experience. With this model, content can be distributed without requiring user authentication.

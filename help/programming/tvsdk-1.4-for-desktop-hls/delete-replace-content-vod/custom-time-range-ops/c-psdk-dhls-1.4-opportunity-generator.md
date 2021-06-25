@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Opportunity Generator
 title: Opportunity Generator
-uuid: 26f4dcab-6c6b-4d27-a073-017673bf098f
+description: Opportunity Generator
+copied-description: yes
+exl-id: ee8d239f-7c52-44ea-a238-cc46d46cf128
 ---
-
 # Opportunity Generatorr{#opportunity-generator}
 
 ```

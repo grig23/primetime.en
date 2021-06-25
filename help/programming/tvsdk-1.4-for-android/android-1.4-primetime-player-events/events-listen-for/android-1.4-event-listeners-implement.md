@@ -1,11 +1,8 @@
 ---
 description: Event handlers allow TVSDK to respond to events.
-seo-description: Event handlers allow TVSDK to respond to events.
-seo-title: Implement event listeners and callbacks
 title: Implement event listeners and callbacks
-uuid: 6b7859a4-55f9-48b1-b1f1-7b79bc92610a
+exl-id: eda5cd4e-4ee8-4b37-a179-242e8697f61f
 ---
-
 # Implement event listeners and callbacks{#implement-event-listeners-and-callbacks}
 
 Event handlers allow TVSDK to respond to events.
@@ -226,4 +223,3 @@ Your player can implement actions based on the following events:
 |---|---|
 |  `onLoadComplete (mediaPlayerItem playerItem)`  | Media resource loading completed successfully.  |
 |  `onError`  | A problem occurred with media resource loading.  |
-

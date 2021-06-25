@@ -1,9 +1,9 @@
 ---
-seo-title: Configuration Validator
 title: Configuration Validator
-uuid: 60ebd35c-290a-4f08-9bd0-178903857149
+description: Configuration Validator
+copied-description: yes
+exl-id: 9b73e107-6ab7-4089-b415-0af8c9f86995
 ---
-
 # Configuration Validator {#configuration-validator}
 
 Adobe recommends running the Configuration Validator utility before starting the server any time changes are made to the configuration file. This utility can detect most configuration errors early, before they cause failures during request processing.
@@ -45,4 +45,3 @@ Validator --root-path-to-LicenseServer.ConfigRoot -d flashaccessserver/tenant1 -
 ```
 Validator --root-path-to-LicenseServer.ConfigRoot -g 
 ```
-

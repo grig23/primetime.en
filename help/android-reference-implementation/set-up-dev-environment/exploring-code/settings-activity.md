@@ -1,11 +1,8 @@
 ---
 description: The SettingsActivity.java file is the file that controls handling configuration updates in the SharedPreferences, where we store the feature manager configuration.
-seo-description: The SettingsActivity.java file is the file that controls handling configuration updates in the SharedPreferences, where we store the feature manager configuration.
-seo-title: SettingsActivity
 title: SettingsActivity
-uuid: 1914967c-f55d-42cc-ade5-5a01e2df389a
+exl-id: 2b059d39-801c-4fea-91d8-019e349ca3aa
 ---
-
 # SettingsActivity {#settingsactivity}
 
 The SettingsActivity.java file is the file that controls handling configuration updates in the SharedPreferences, where we store the feature manager configuration.

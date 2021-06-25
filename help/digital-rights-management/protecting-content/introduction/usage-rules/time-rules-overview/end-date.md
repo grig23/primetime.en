@@ -1,7 +1,7 @@
 ---
-seo-title: End date
 title: End date
-uuid: be9bbad7-5ec7-4012-ae2b-91de965cbc64
+description: End date
+copied-description: yes
 ---
 
 # End date{#end-date}

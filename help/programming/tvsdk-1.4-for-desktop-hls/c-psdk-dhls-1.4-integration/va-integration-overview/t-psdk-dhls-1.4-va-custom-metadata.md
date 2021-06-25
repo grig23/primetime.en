@@ -1,11 +1,8 @@
 ---
 description: You can provide custom metadata on content, ads, and chapter tracking calls by using callback functions.
-seo-description: You can provide custom metadata on content, ads, and chapter tracking calls by using callback functions.
-seo-title: Implement custom metadata support
 title: Implement custom metadata support
-uuid: 2186db58-10b0-43a6-840f-53ab289843ee
+exl-id: 56580338-5104-4121-b441-5d92ba6f4610
 ---
-
 # Implement custom metadata support{#implement-custom-metadata-support}
 
 You can provide custom metadata on content, ads, and chapter tracking calls by using callback functions.
@@ -30,4 +27,3 @@ Callback functions are invoked just before the tracking call is made, so your ap
        return {"mychapterid":"chapter-1234", "mychapter-sdkversion":Version.version} 
    };
    ```
-

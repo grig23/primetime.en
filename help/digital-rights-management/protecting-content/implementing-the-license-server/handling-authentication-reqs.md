@@ -1,9 +1,9 @@
 ---
-seo-title: Handle authentication requests
 title: Handle authentication requests
-uuid: abcb9cf6-668e-405c-9659-9ed1bcc33024
+description: Handle authentication requests
+copied-description: yes
+exl-id: 64d23db0-254d-46b1-8317-ba0381509b44
 ---
-
 # Handle authentication requests {#handle-authentication-requests}
 
 The `AuthenticationHandler` class is used to process authentication requests. It is used only for username/password authentication.
@@ -15,4 +15,3 @@ The handler reads an authentication request and parses the request message when 
 * The request handler class is `com.adobe.flashaccess.sdk.protocol.authentication.AuthenticationHandler` 
 * The request message class is `com.adobe.flashaccess.sdk.protocol.authentication.AuthenticationRequestMessage` 
 * If both the client and server support protocol version 5, the request URL is "License Server URL in metadata: + " [!DNL /flashaccess/authn/v4]". If protocol version 3 is the maximum supported by either the client or server, Adobe Primetime DRM clients thensend authentication requests to “License Server URL in metadata” + " [!DNL /flashaccess/authn/v3]". Otherwise, authentication requests are sent to “License Server URL in metadata” + " [!DNL /flashaccess/authn/v1]"
-

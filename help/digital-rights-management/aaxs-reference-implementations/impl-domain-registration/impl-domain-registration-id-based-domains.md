@@ -1,9 +1,9 @@
 ---
-seo-title: Identity-based domains
 title: Identity-based domains
-uuid: 34cad19b-1adb-4e0c-ac59-50632f6988f7
+description: Identity-based domains
+copied-description: yes
+exl-id: de7b6c8a-5227-4679-933a-3278921903d7
 ---
-
 # Identity-based domains {#identity-based-domains}
 
 In this use case, each authenticated user has his own domain, and a certain number of devices are allowed to join the domain. To use this type of domain with the reference implementation, create a policy specifying domain registration is required. Specify your server's host and port for the domain server URL and specify username/password authentication is required.
@@ -32,4 +32,4 @@ The reference implementation, implements the following logic for domain de-regis
 
 1. If this is not a preview request, delete the entry from `UserDomainRefCount` table. If there are no more entries in that table for the machine, delete the entry from `UserDomainMembership` and set the “Key Rollover Required” flag in `DomainServerInfo`.
 
-In this use case, each user is allowed to register a small number of machines, so we can use the full machine ID and the `matches()` method to accurately count machines. However, since the user could register multiple times on this machine (through multiple AIR applications or Players in different browsers), the server also needs to maintain a reference count, so that the de-registration can be counted accurately. The de-registration cannot be considered complete, until all the domain tokens on the machine are surrendered. 
+In this use case, each user is allowed to register a small number of machines, so we can use the full machine ID and the `matches()` method to accurately count machines. However, since the user could register multiple times on this machine (through multiple AIR applications or Players in different browsers), the server also needs to maintain a reference count, so that the de-registration can be counted accurately. The de-registration cannot be considered complete, until all the domain tokens on the machine are surrendered.

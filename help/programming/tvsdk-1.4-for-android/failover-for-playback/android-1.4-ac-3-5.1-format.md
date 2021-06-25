@@ -1,11 +1,8 @@
 ---
 description: Streaming over the Internet requires a constant and stable connection to play a stream from a remote server. However, the variability of a viewer's Internet connection or streaming playback means that remote playback might not have the quality of media played locally.
-seo-description: Streaming over the Internet requires a constant and stable connection to play a stream from a remote server. However, the variability of a viewer's Internet connection or streaming playback means that remote playback might not have the quality of media played locally.
-seo-title: AC-3 5.1 format
 title: AC-3 5.1 format
-uuid: d5e77bb5-ed51-4f9f-b34f-e9082f5ee4de
+exl-id: dcc43c1b-b9ce-44a1-a4c9-50ccfc5d572d
 ---
-
 # AC-3 5.1 format{#ac-format}
 
 Streaming over the Internet requires a constant and stable connection to play a stream from a remote server. However, the variability of a viewer's Internet connection or streaming playback means that remote playback might not have the quality of media played locally.
@@ -60,4 +57,3 @@ While processing AC-3 media, if an Android device is connected to the speaker sy
 |---|---|---|
 |  Device configuration Dolby on (or auto)  | Device configuration Dolby on (or auto)  | Stereo mode  |
 |  Device configuration Dolby off  | Stereo mode  | Stereo mode  |
-

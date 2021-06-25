@@ -1,8 +1,8 @@
 ---
 title: Bootstrap API
-description: Bootstrap API 
+description: Bootstrap API
+exl-id: bc7fe244-8664-43ac-b9a1-3967ea8749b1
 ---
-
 # Bootstrap API {#bootstrap-api}
 
 The Bootstrap API is typically the URL that is sent to the client/video playback APIs.  For options and parameters that can be configured, refer to the [Bootstrap API parameters](#bootstrap-api-parameters).

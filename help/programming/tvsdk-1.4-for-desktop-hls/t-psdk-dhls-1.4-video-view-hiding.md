@@ -1,11 +1,8 @@
 ---
 description: After a MediaPlayer view has been used to play video, you can hide it and display it again by using a TVSDK method or manually.
-seo-description: After a MediaPlayer view has been used to play video, you can hide it and display it again by using a TVSDK method or manually.
-seo-title: Hide a video view
 title: Hide a video view
-uuid: 7cc02bf4-41ee-4af0-98ba-df070b50b88d
+exl-id: 92354cd3-f0ed-4434-a7af-a3545e0e2460
 ---
-
 # Hide a video view{#hide-a-video-view}
 
 After a MediaPlayer view has been used to play video, you can hide it and display it again by using a TVSDK method or manually.

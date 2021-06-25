@@ -1,9 +1,9 @@
 ---
-seo-title: Server Properties Reference
 title: Server Properties Reference
-uuid: 24a187fe-9b7d-411f-a358-d10c70a5dd0e
+description: Server Properties Reference
+copied-description: yes
+exl-id: 8724d097-7cba-4ca9-b597-df56f80b2e9c
 ---
-
 # Server Properties Reference{#server-properties-reference}
 
 <!--<a id="section_EC8810492A454BDBA6013FE376360F4E"></a>-->

@@ -1,11 +1,8 @@
 ---
 description: The player can listen for a range of events that indicate the state of the player.
-seo-description: The player can listen for a range of events that indicate the state of the player.
-seo-title: Set up notifications
 title: Set up notifications
-uuid: 77cc5b45-f91f-4b71-9a67-5d17cda81da3
+exl-id: 591513af-c50c-42a9-8ea7-8d5dd1f51aa5
 ---
-
 # Set up notifications{#set-up-notifications}
 
 The player can listen for a range of events that indicate the state of the player.
@@ -204,4 +201,3 @@ Fetch the `PTAd` instance using `PTMediaPlayerAdKey`:
 } 
 
 ```
-

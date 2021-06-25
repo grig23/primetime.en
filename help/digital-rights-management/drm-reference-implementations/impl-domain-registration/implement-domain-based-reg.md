@@ -1,9 +1,9 @@
 ---
-seo-title: Implement identity-based domain registration
 title: Implement identity-based domain registration
-uuid: 4a71b2e0-d1a2-4d63-9cbd-980a292774ab
+description: Implement identity-based domain registration
+copied-description: yes
+exl-id: e2f826a8-eea5-4d5f-ac4d-401d7a6c5373
 ---
-
 # Implement identity-based domain registration{#implement-identity-based-domain-registration}
 
 1. Create a DRM policy with mandatory domain registration.

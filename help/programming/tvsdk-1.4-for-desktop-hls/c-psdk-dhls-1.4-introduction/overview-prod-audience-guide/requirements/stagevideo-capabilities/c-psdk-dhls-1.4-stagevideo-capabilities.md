@@ -1,11 +1,8 @@
 ---
 description: On devices that support GPU (hardware) acceleration, you can use a flash.media.StageVideo object to process video on the device hardware. The availability of StageVideo depends upon the versions and capabilities of different parts of your system including Flash Player, video hardware, OS, drivers, browser, network connection, and viewing context.
-seo-description: On devices that support GPU (hardware) acceleration, you can use a flash.media.StageVideo object to process video on the device hardware. The availability of StageVideo depends upon the versions and capabilities of different parts of your system including Flash Player, video hardware, OS, drivers, browser, network connection, and viewing context.
-seo-title: StageVideo capabilities and restrictions
 title: StageVideo capabilities and restrictions
-uuid: 7556f30b-4b9f-4258-beb6-2a4ce8f05d1a
+exl-id: 228ea2d0-5950-43f5-8cfd-640d1c482b05
 ---
-
 # Overview {#stagevideo-capabilities-and-restrictions-overview}
 
 On devices that support GPU (hardware) acceleration, you can use a flash.media.StageVideo object to process video on the device hardware. The availability of StageVideo depends upon the versions and capabilities of different parts of your system including Flash Player, video hardware, OS, drivers, browser, network connection, and viewing context.
@@ -33,4 +30,3 @@ The `StageVideo` class lets you take advantage of hardware acceleration to prese
     * *Flash 15 and later* - `StageVideo` is available with all available `wmode` settings. However, if you set `wmode` to a setting other than `direct`, performance will be lower. 
     
     * *Flash 14 and earlier* - If you set `wmode` to a setting other than `direct`, `StageVideo` is not available in all browsers.
-

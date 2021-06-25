@@ -1,11 +1,8 @@
 ---
 description: To display banner ads, you need to create banner instances and allow TVSDK to listen for ad-related events.
-seo-description: To display banner ads, you need to create banner instances and allow TVSDK to listen for ad-related events.
-seo-title: Display banner ads
 title: Display banner ads
-uuid: 7246dfab-860f-4b55-9554-49738a483406
+exl-id: 04c4ef1c-bc3b-4f8a-b5af-ba23baf2a6c8
 ---
-
 # Display banner ads {#display-banner-ads}
 
 To display banner ads, you need to create banner instances and allow TVSDK to listen for ad-related events.
@@ -32,4 +29,3 @@ For each companion ad, TVSDK indicates which types are available for your applic
     * Sends the banner information to a function on your page that displays the banners in an appropriate location.
 
       This is usually a `div`, and your function uses the `div ID` to display the banner.
-

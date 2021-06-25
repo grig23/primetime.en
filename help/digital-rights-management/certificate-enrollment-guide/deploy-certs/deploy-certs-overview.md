@@ -1,9 +1,9 @@
 ---
-seo-title: Deploy certificates overview
 title: Deploy certificates overview
-uuid: e6413f9f-69a5-4881-bb13-47a80cf32a48
+description: Deploy certificates overview
+copied-description: yes
+exl-id: 45a4bc7e-f987-4b9a-885d-d989d09566c5
 ---
-
 # Overview {#deploy-certificates-overview}
 
 To add certificates to the Adobe Primetime DRM properties files, convert the PKCS#7 file to a PFX file using the private key and generate either a PEM file or a DER file.

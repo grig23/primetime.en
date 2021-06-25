@@ -1,11 +1,8 @@
 ---
 description: To use TVSDK most effectively, you should consider certain details of its operation and follow certain best practices.
-seo-description: To use TVSDK most effectively, you should consider certain details of its operation and follow certain best practices.
-seo-title: Considerations and best practices
 title: Considerations and best practices
-uuid: b37a5710-e811-4c3e-be8c-7c34ee5944e5
+exl-id: d10532a5-bf96-4233-86f1-b135f6e1c0f5
 ---
-
 # Considerations and best practices{#considerations-and-best-practices}
 
 To use TVSDK most effectively, you should consider certain details of its operation and follow certain best practices.
@@ -45,4 +42,3 @@ Here are recommended practices for TVSDK:
   >[!IMPORTANT]
   >
   >Requests to third-party domains such as Ad Tracking pixels, Content and Ad URLs, and similar requests are not modified. It is the responsibility of the content providers and ad servers to provide URLs that are supported through HTTPS.
-

@@ -1,11 +1,8 @@
 ---
 description: These changes in TVSDK support ad deletion and replacement.
-seo-description: These changes in TVSDK support ad deletion and replacement.
-seo-title: Ad deletion and replacement API changes
 title: Ad deletion and replacement API changes
-uuid: 9d208d3b-6459-4aaf-bc56-53c405ccc1b6
+exl-id: 3cf63353-741b-41f4-93fd-609b69f7c3af
 ---
-
 # Ad deletion and replacement API changes {#ad-deletion-and-replacement-api-changes}
 
 These changes in TVSDK support ad deletion and replacement.
@@ -124,4 +121,3 @@ These changes in TVSDK support ad deletion and replacement.
 * `AuditudeResolver` The `canBePacked()` method was changed to allow packing 
 
 * `CustomAdResolver` The `timeRange` extraction functions have been removed. We get one placement at a time, and turn that into a `AdBreakPlacement timelineOperation`.
-

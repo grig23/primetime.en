@@ -1,11 +1,8 @@
 ---
 description: These classes provide metadata for advertising, namespaces, and tracking.
-seo-description: These classes provide metadata for advertising, namespaces, and tracking.
-seo-title: Metadata classes
 title: Metadata classes
-uuid: 16ad4f00-170b-4bcc-ad22-fe6b9ef9c013
+exl-id: 15b7548f-bd9c-42cb-b9f3-477fc4415f8d
 ---
-
 # Metadata classes{#metadata-classes}
 
 These classes provide metadata for advertising, namespaces, and tracking.
@@ -17,4 +14,3 @@ These classes provide metadata for advertising, namespaces, and tracking.
 | [PTMetadata](https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTMetadata.html)  | Defines the base class for configuring all available metadata for your player and additional objects. |
 | [PTTimedMetadata](https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTTimedMetadata.html)  | Class that represents a custom HLS tag in the stream.  |
 | [PTTrackingMetadata](https://help.adobe.com/en_US/primetime/api/psdk/appledoc/Classes/PTTrackingMetadata.html)  | Defines a base class for all tracking and analytics related metadata.  |
-

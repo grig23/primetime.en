@@ -1,11 +1,8 @@
 ---
 description: There are several Java System properties that you can configure on the license server to control the location of configuration and log files.
-seo-description: There are several Java System properties that you can configure on the license server to control the location of configuration and log files.
-seo-title: Java system properties
 title: Java system properties
-uuid: d8c72359-bf61-47e0-9cd5-b21225d5fe49
+exl-id: 08fe6910-9d58-41c3-91d3-514406bedf05
 ---
-
 # Java system properties{#java-system-properties}
 
 There are several Java System properties that you can configure on the license server to control the location of configuration and log files.
@@ -26,4 +23,3 @@ For example, you can configure the `JAVA_OPTS` environment variable as follows:
 JAVA_OPTS=-DLicenseServer.ConfigRoot="absolute-path-to-config-folder" 
   -DLicenseServer.LogRoot="absolute-path-to-log-folder"
 ```
-

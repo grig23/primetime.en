@@ -1,11 +1,8 @@
 ---
 description: The Primetime reference implementation uses a JSON-based feed format for responses. This format is parsed using an implementation of the IFeedItemAdapter interface.
-seo-description: The Primetime reference implementation uses a JSON-based feed format for responses. This format is parsed using an implementation of the IFeedItemAdapter interface.
-seo-title: Catalog format
 title: Catalog format
-uuid: 6e1a526f-c0bb-403d-a792-666caf5479a5
+exl-id: faaeb647-9c01-4290-be1e-2b8461c8ad27
 ---
-
 # Catalog format {#catalog-format}
 
 The Primetime reference implementation uses a JSON-based feed format for responses. This format is parsed using an implementation of the IFeedItemAdapter interface.
@@ -141,4 +138,3 @@ The following code block defines the **metadata object**:
 |details|Includes the ad metadata attributes. Both types of ad metadata have their own set of attributes defined below. For the built-in types, the attributes included define the data expected by the PSDK for that type.|
 |entitlement|Entitlement related metadata|
 |id|Media resource ID used for authorization requests against the Adobe Primetime pay-TV pass service. The ID may be either a text string or a HTML-encoded mRSS string. Any media content which requires authorization must contain a valid resource ID.|
-

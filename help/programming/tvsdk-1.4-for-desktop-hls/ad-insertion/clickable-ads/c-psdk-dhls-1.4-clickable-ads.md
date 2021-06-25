@@ -1,11 +1,8 @@
 ---
 description: TVSDK provides you with information so that you can act on click-through ads. As you create your player UI, you must decide how to respond when a user clicks on a clickable ad.
-seo-description: TVSDK provides you with information so that you can act on click-through ads. As you create your player UI, you must decide how to respond when a user clicks on a clickable ad.
-seo-title: Clickable ads
 title: Clickable ads
-uuid: edefbc66-2d30-441d-9c30-256588504463
+exl-id: 50c74c82-c5d8-43f6-accf-8330a426a7bd
 ---
-
 # Clickable ads {#clickable-ads}
 
 TVSDK provides you with information so that you can act on click-through ads. As you create your player UI, you must decide how to respond when a user clicks on a clickable ad.

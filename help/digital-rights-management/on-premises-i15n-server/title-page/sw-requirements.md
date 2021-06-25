@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Software Requirements
 title: Software Requirements
-uuid: 9faa229b-1abf-4b55-b293-247777bcb1db
+description: Software Requirements
+copied-description: yes
+exl-id: aa2ae6ac-7c2a-4cc3-a3a4-b7f92e478d23
 ---
-
 # Software Requirements {#software-requirements}
 
 * Tomcat 6

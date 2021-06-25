@@ -1,8 +1,8 @@
 ---
 title: Set up Ad Tracking
 description: Setting up Ad Tracking
+exl-id: b5ebad0f-4e20-456a-892d-4c981ab26e51
 ---
-
 # Set up Ad Tracking {#ser-up-ad-tracking}
 
 Most advertisers require information about when, for how long, and how successfully their ads were viewed. Primetime Ad Insertion supports client-side, server-side and hybrid ad tracking to provide flexibility in collecting this information.

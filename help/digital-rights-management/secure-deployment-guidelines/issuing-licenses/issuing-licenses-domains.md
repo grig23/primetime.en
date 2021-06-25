@@ -1,11 +1,8 @@
 ---
 description: To prevent users from backing up and restoring files to bypass domain de-registration, you must implement some domain management approaches.
-seo-description: To prevent users from backing up and restoring files to bypass domain de-registration, you must implement some domain management approaches.
-seo-title: Managing Domains
 title: Managing Domains
-uuid: 30b73e38-d6ed-43c6-89ba-ae8616383779
+exl-id: cbf745d2-ba6e-4144-9608-23870bdfe16d
 ---
-
 # Managing Domains {#managing-domains}
 
 To prevent users from backing up and restoring files to bypass domain de-registration, you must implement some domain management approaches.
@@ -21,4 +18,3 @@ Here are some domain management approaches:
 * If the domain server is the same as the license server, the server can use the rollback counter to detect a backup and restore.
 
   For more information, see [Processing Adobe Primetime DRM requests](../../protecting-content/implementing-the-license-server/processing-drm-requests.md).
-

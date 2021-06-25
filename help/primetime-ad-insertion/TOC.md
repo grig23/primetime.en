@@ -1,5 +1,4 @@
 ---
-cloud: experience-cloud
 product: adobe primetime
 audience: end-user
 user-guide-title: Primetime Ad Insertion Help
@@ -10,7 +9,7 @@ user-guide-title: Primetime Ad Insertion Help
 + [Adobe Primetime Ad Insertion](home.md)
 + Primetime Ad Insertion Announcements{#announcements}
   + [Announcements](announcements/overview.md) 
-  + [Release notes](/help/release-notes/ptai-21x-release-notes.md) 
+  + [Release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/ptai/ptai-21x-release-notes.html) 
 + Get started with Primetime Ad Insertion{#get-started}
   + [Overview](getting-started/get-started-overview.md)
   + [Prepare to use Primetime Ad Insertion](getting-started/setup-ptai.md)
@@ -22,7 +21,7 @@ user-guide-title: Primetime Ad Insertion Help
 + Just-in-Time Transcoding{#just-in-time-transcoding}
   + [Overview](just-in-time-transcoding/jit-transcoding-overview.md)
   + [Transcoding and normalization](just-in-time-transcoding/transcoding-and-normalization.md)
-  + [Delivery and storage](just-in-time-transcoding/delivery-and-storage.md)
+  + [Delivery and storage](https://experienceleague.adobe.com/docs/primetime/ad-insertion/technical-reference/delivery-and-storage.html)
   + [Pre-transcoding API](just-in-time-transcoding/pre-transcoding-api.md)
   + [ID3 Injection Support](just-in-time-transcoding/id3-injection-support.md)
 + Advanced features{#advanced-features}

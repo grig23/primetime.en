@@ -1,15 +1,11 @@
 ---
 title: TVSDK Conversion - 1.3 to 2.0 For JavaScript
-seo-title: TVSDK Conversion - 1.3 to 2.0 For JavaScript
 description: Many method signatures and API element names have changed for 2.0. Review these tables to see all API change details.
-seo-description: Many method signatures and API element names have changed for 2.0. Review these tables to see all API change details.
-uuid: d2d1742d-c90c-43f5-94fc-8c4a57cb8ed4
 contentOwner: asgupta
 products: SG_PRIMETIME
 topic-tags: migration
-discoiquuid: c732f54d-116c-43f3-bec4-5e71af208426
+exl-id: 4b251e26-cee6-4d96-bb55-6c47195da4d0
 ---
-
 # TVSDK Conversion - 1.3 to 2.0 For JavaScript {#tvsdk-conversion-to-for-javascript}
 
 Many method signatures and API element names have changed for 2.0. Review these tables to see all API change details.

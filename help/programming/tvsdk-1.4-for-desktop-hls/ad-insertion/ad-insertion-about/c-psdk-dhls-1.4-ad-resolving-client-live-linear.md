@@ -1,11 +1,8 @@
 ---
 description: For live/linear content, TVSDK replaces a chunk of the main stream content with an ad break of the same duration, so that the timeline duration remains the same.
-seo-description: For live/linear content, TVSDK replaces a chunk of the main stream content with an ad break of the same duration, so that the timeline duration remains the same.
-seo-title: Live/linear ad resolving and insertion
 title: Live/linear ad resolving and insertion
-uuid: 69f287aa-b707-442b-8e07-16f81b242c4b
+exl-id: b0fbdddf-8529-4f7a-aef2-1764320307f1
 ---
-
 # Live/linear ad resolving and insertion{#live-linear-ad-resolving-and-insertion}
 
 For live/linear content, TVSDK replaces a chunk of the main stream content with an ad break of the same duration, so that the timeline duration remains the same.
@@ -27,4 +24,4 @@ TVSDK accepts the ad break even if the duration is longer or shorter than the cu
 >
 >When implementing a customary `AdPolicySelector`, a different policy can be given to pre-roll, mid-roll, and post-roll `AdBreakTimelineItem`s in `AdPolicyInfo`, which is based on the type of the `AdBreakTimelineItem`s. For example, you can keep mid-roll content after it has played but remove pre-roll content after it is played.
 
-After playback starts, the video engine periodically refreshes the manifest file. TVSDK resolves any new ads and inserts the ads when a cue point is encountered in the live or linear stream that was defined in the manifest. After ads are resolved and inserted, TVSDK computes the virtual timeline again and dispatches a `TimelineEvent.TIMELINE_UPDATED` event. 
+After playback starts, the video engine periodically refreshes the manifest file. TVSDK resolves any new ads and inserts the ads when a cue point is encountered in the live or linear stream that was defined in the manifest. After ads are resolved and inserted, TVSDK computes the virtual timeline again and dispatches a `TimelineEvent.TIMELINE_UPDATED` event.

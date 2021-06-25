@@ -1,14 +1,10 @@
 ---
 title: TVSDK 2.7 for Android Release Notes
-seo-title: TVSDK 2.7 for Android Release Notes
 description: TVSDK 2.7 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 2.7
-seo-description: TVSDK 2.7 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 2.7
-uuid: 4013b97d-29f9-435b-8772-b19df7054282
 products: SG_PRIMETIME
 topic-tags: release-notes
-discoiquuid: bab78e9f-f9ba-4e1c-b778-0936ae704037
+exl-id: d64f0ef2-60a9-43a1-b2f9-44764a570538
 ---
-
 # TVSDK 2.7 for Android Release Notes {#tvsdk-for-android-release-notes}
 
 TVSDK 2.7 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 2.7

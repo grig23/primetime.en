@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Best practices for companion banner ads
 title: Best practices for companion banner ads
-uuid: d844babb-20ab-4380-9487-eb1c24b58877
+description: Best practices for companion banner ads
+copied-description: yes
+exl-id: 9a335dfc-3de2-45bf-b17e-0330a5d50606
 ---
-
 # Companion banner ads {#companion-banner-ads}
 
 TVSDK supports companion banner ads, which are ads that accompany a linear ad and often remain on the page after the linear ad ends. Your application is responsible for displaying the companion banners that are provided with a linear ad.
@@ -26,4 +24,3 @@ When displaying companion ads, follow these recommendations:
 * You can display companion banners after the ad ends.
 
   The standard practice is to display each companion banner until you have a replacement for the ad.
-

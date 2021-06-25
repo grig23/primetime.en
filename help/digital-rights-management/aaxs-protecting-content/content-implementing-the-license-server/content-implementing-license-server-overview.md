@@ -1,9 +1,9 @@
 ---
-seo-title: Overview
 title: Overview
-uuid: f4ae10ca-6e2a-4313-80a0-4c7377dba000
+description: Overview
+copied-description: yes
+exl-id: 7327386b-e796-4fa5-bda4-cacc612a9d1f
 ---
-
 # Overview{#overview}
 
 In order to issue licenses to clients, you must deploy an Adobe Access license server. The license server uses the Adobe® Access™ SDK to perform these tasks:
@@ -17,4 +17,4 @@ In order to issue licenses to clients, you must deploy an Adobe Access license s
 
 In addition, the server needs to provide business logic for authenticating users, determining if users are authorized to view content, and optionally track license usage.
 
-For details about the Java API discussed in this chapter, see *Adobe Access API Reference*. 
+For details about the Java API discussed in this chapter, see *Adobe Access API Reference*.

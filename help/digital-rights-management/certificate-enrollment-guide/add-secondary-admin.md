@@ -1,9 +1,9 @@
 ---
-seo-title: Create a Secondary Administrator
 title: Create a Secondary Administrator
-uuid: 2a360226-2fcb-432f-bdeb-3fa9ef0019ee
+description: Create a Secondary Administrator
+copied-description: yes
+exl-id: c3c58361-d173-425c-b59d-ab4427640cdf
 ---
-
 # Create a Secondary Administrator{#create-a-secondary-administrator}
 
 The Account Administrator can create a Secondary Administrator. There can be only one Secondary Administrator. The Account Administrator can promote the Secondary Administrator to Account Administrator. This action demotes the Account Administrator to the role of Secondary Administrator. 
@@ -60,4 +60,3 @@ The Account Administrator can create a Secondary Administrator. There can be onl
     1. Click Save.
 
        The user receives an e-mail stating that their Primetime DRM account registration has been completed.
-

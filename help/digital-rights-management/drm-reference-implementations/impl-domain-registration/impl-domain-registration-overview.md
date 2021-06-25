@@ -1,9 +1,9 @@
 ---
-seo-title: Overview
 title: Overview
-uuid: 578e749f-ee11-4682-9159-95a17982f3c4
+description: Overview
+copied-description: yes
+exl-id: 75c8c180-e843-4796-954a-3acff064765a
 ---
-
 # Overview {#implement-domain-registration-overview}
 
 The reference implementation license server demonstrates two variations on domain registration business logic:

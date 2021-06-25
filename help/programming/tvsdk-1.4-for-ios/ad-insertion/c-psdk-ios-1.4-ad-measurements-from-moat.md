@@ -1,11 +1,8 @@
 ---
 description: TVSDK takes information from FreeWheel and other adservers providing VAST responses. FreeWheel provides, within VAST responses, information from the Moat service. The Moat service counts ad impressions with an accuracy that better shows that creatives capture or neglect an audience's interests.
-seo-description: TVSDK takes information from FreeWheel and other adservers providing VAST responses. FreeWheel provides, within VAST responses, information from the Moat service. The Moat service counts ad impressions with an accuracy that better shows that creatives capture or neglect an audience's interests.
-seo-title: Ad measurements from Moat
 title: Ad measurements from Moat
-uuid: 76fa9ca0-58bd-44fe-82ce-72fdf6fcc28c
+exl-id: f8f68e0b-985c-43bb-878e-e24fed54e0c3
 ---
-
 # Ad measurements from Moat{#ad-measurements-from-moat}
 
 TVSDK takes information from FreeWheel and other adservers providing VAST responses. FreeWheel provides, within VAST responses, information from the Moat service. The Moat service counts ad impressions with an accuracy that better shows that creatives capture or neglect an audience's interests.
@@ -43,4 +40,4 @@ Freewheel can also set the id property in the Ad element, as shown in the sample
 <Ad id="118566" sequence="1">
 ```
 
-Refer to the API documentation for the class `PTNetworkAdInfo` in `PTAdAsset`. 
+Refer to the API documentation for the class `PTNetworkAdInfo` in `PTAdAsset`.

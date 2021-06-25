@@ -1,11 +1,8 @@
 ---
 description: You can control the position and size of the video view using the MediaPlayerView object.
-seo-description: You can control the position and size of the video view using the MediaPlayerView object.
-seo-title: Control the position and size of the video view
 title: Control the position and size of the video view
-uuid: d09dbc18-1ec0-4336-bf3f-7ff6c265c443
+exl-id: ab88a90f-4493-4f05-8da0-703ab3cf159e
 ---
-
 # Control the position and size of the video view{#control-the-position-and-size-of-the-video-view}
 
 You can control the position and size of the video view using the MediaPlayerView object.
@@ -98,4 +95,3 @@ var view = new AdobePSDK.MediaPlayerView(videoDiv);
 view.scalePolicy = new MediaPlayerViewCustomScalePolicy (); 
 mediaPlayer.view = view;
 ```
-

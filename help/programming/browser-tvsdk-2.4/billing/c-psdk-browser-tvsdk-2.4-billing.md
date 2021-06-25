@@ -1,11 +1,8 @@
 ---
 description: To accommodate customers who want to pay only for what they use, rather than a fixed rate regardless of actual use, Adobe collects usage metrics and uses these metrics to determine how much to bill the customers.
-seo-description: To accommodate customers who want to pay only for what they use, rather than a fixed rate regardless of actual use, Adobe collects usage metrics and uses these metrics to determine how much to bill the customers.
-seo-title: Billing metrics
 title: Billing metrics
-uuid: e09b77b3-89d3-44d6-be4e-e1612fbf89fc
+exl-id: f4200573-571f-4ed3-be8c-08b72d4f9e0e
 ---
-
 # Overview {#billing-metrics-overview}
 
 To accommodate customers who want to pay only for what they use, rather than a fixed rate regardless of actual use, Adobe collects usage metrics and uses these metrics to determine how much to bill the customers.
@@ -23,4 +20,4 @@ The messages contain the following information:
 
 Adobe pre-configures this arrangement, but if you want to change the arrangement, work with your Adobe Enablement representative.
 
-To monitor the statistics that Browser TVSDK sends to Adobe, obtain the URL from your Adobe Enablement representative, and use a network capture tool, for example, Charles, to see the data. 
+To monitor the statistics that Browser TVSDK sends to Adobe, obtain the URL from your Adobe Enablement representative, and use a network capture tool, for example, Charles, to see the data.

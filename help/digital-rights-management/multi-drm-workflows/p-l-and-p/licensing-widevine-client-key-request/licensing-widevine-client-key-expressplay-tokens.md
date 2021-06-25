@@ -1,11 +1,8 @@
 ---
 description: You can generate Expressplay tokens for their encrypted content by sending token requests to the appropriate Expressplay token server.
-seo-description: You can generate Expressplay tokens for their encrypted content by sending token requests to the appropriate Expressplay token server.
-seo-title: Expressplay tokens
 title: Expressplay tokens
-uuid: 6103e1b2-127d-4758-a589-15f0f3c73db1
+exl-id: 38faba06-6737-4dec-ac97-27db3124b993
 ---
-
 # Expressplay tokens {#expressplay-tokens}
 
 You can generate Expressplay tokens for their encrypted content by sending token requests to the appropriate Expressplay token server.

@@ -1,9 +1,9 @@
 ---
-seo-title: JSON object for custom ad markers
 title: JSON object for custom ad markers
-uuid: 2c05d9ce-a22f-4829-bfea-9dcf0dc7cd6d
+description: JSON object for custom ad markers
+copied-description: yes
+exl-id: 85bcf306-703c-4a0d-b125-df9316fadf69
 ---
-
 # JSON object for custom ad markers {#json-object-for-custom-ad-markers}
 
 The code block below defines the "details" JSON object when the type is custom ad markers.
@@ -41,4 +41,4 @@ The MetadataNode returned by IFeedItemAdapter:getStreamMetadata() contains 2 ent
 |  time-ranges.begin  | Value in ms indicating the start time of the ad marker.  |
 |  time-ranges.end  | Value in ms indicating the end time of the ad marker.  |
 
-Refer to the TVSDK documentation for further information on how custom ad markers work. 
+Refer to the TVSDK documentation for further information on how custom ad markers work.

@@ -1,11 +1,8 @@
 ---
 description: Physically securing your Adobe Primetime DRM environment is crucial to preventing unauthorized access.
-seo-description: Physically securing your Adobe Primetime DRM environment is crucial to preventing unauthorized access.
-seo-title: Physical security and access
 title: Physical security and access
-uuid: a5b00012-f2e5-4afa-8c59-46910fa325da
+exl-id: ecfe6036-8068-4936-892b-174cf7d4f480
 ---
-
 # Physical security and access{#physical-security-and-access}
 
 Physically securing your Adobe Primetime DRM environment is crucial to preventing unauthorized access.
@@ -16,4 +13,4 @@ Your Primetime DRM environment should be in a secure server room where access is
 
 To implement an extremely high level of security, the protection must extend to the power supply, uninterruptible power supply (UPS), network equipment, and other related equipment. Disruptions to these items affects the server, especially if the server must be up and running at all times. There must be two-part access, such as badge and PIN or badge and fingerprint. Also, anti-tailgating devices must be installed on the door to prevent authorized people from allowing unauthorized people to enter.
 
-For general information and recommendations about physical security standards, see [https://www.iso.org/frequently-asked-questions-faqs.html](https://www.iso.org/frequently-asked-questions-faqs.html). 
+For general information and recommendations about physical security standards, see [https://www.iso.org/frequently-asked-questions-faqs.html](https://www.iso.org/frequently-asked-questions-faqs.html).

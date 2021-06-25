@@ -1,9 +1,9 @@
 ---
-seo-title: Deploy Adobe Access
 title: Deploy Adobe Access
-uuid: 9f9a9931-f607-4b1a-9209-0236a4c197ca
+description: Deploy Adobe Access
+copied-description: yes
+exl-id: bebf02d5-897e-4007-8c5c-1c91186fdc51
 ---
-
 # Deploy Adobe Access {#deploy-adobe-access}
 
 A key advantage to Adobe Access SDK is that you can install it on any Java™ application server or servlet container, such as Tomcat. You also need JDK™ 1.5 or higher. For more information on software requirements, see Adobe Access SDK platform requirements: [: https://www.adobe.com/products/flashaccess/systemreqs/](https://www.adobe.com/products/flashaccess/systemreqs/).

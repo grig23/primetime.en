@@ -1,11 +1,8 @@
 ---
 description: Your application can monitor the activity in your player and the changing state of the player by listening for events dispatched by TVSDK.
-seo-description: Your application can monitor the activity in your player and the changing state of the player by listening for events dispatched by TVSDK.
-seo-title: Playback events
 title: Playback events
-uuid: 6d6491d7-cf25-4130-8388-68b8c028bb71
+exl-id: 9fb77b57-be6c-4dab-b779-d8c606938e46
 ---
-
 # Playback events {#playback-events}
 
 Your application can monitor the activity in your player and the changing state of the player by listening for events dispatched by TVSDK.
@@ -82,4 +79,3 @@ TVSDK dispatches playback events when media playback operations occur, such as a
   </tr> 
  </tbody> 
 </table>
-

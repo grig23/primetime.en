@@ -1,8 +1,8 @@
 ---
 title: Facilitate HLS player switching to failover/backup streams
 description: Apple HLS stack supports switching to failover/backup streams if it cannot retrieve any streams of the primary set. For Apple HLS devices, to facilitate failover, you can signal manifest server to treat primary and failover streams identified in the master playlist as disjoined sets (with their own UUIDs).
+exl-id: 58c7a490-403f-41b2-bdbd-6f93e27083b0
 ---
-
 # Facilitate HLS player switching to failover/backup streams {#facilitating-hls-player-switching-to-failover-backup-streams}
 
 Apple HLS stack supports switching to failover/backup streams if it cannot retrieve any streams of the primary set. For Apple HLS devices, to facilitate failover, you can signal manifest server to treat primary and failover streams identified in the master playlist as disjoined sets (with their own UUIDs).

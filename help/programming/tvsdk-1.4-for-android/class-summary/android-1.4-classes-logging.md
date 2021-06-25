@@ -1,11 +1,8 @@
 ---
 description: These classes enable you to customize logging.
-seo-description: These classes enable you to customize logging.
-seo-title: Logging classes
 title: Logging classes
-uuid: 8b07472e-b529-4c35-b49b-a499debfcff0
+exl-id: e420f557-eb4f-4adf-9b87-1cffc6b36d53
 ---
-
 # Logging classes{#logging-classes}
 
 These classes enable you to customize logging.

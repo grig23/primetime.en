@@ -1,11 +1,8 @@
 ---
 description: Event handlers allow Browser TVSDK to respond to events.
-seo-description: Event handlers allow Browser TVSDK to respond to events.
-seo-title: Implement event listeners and callbacks
 title: Implement event listeners and callbacks
-uuid: 63f62c60-505e-4f83-bc0d-58895d85a75a
+exl-id: 2ab33c03-4df6-48e5-825c-95aeef8855d2
 ---
-
 # Implement event listeners and callbacks{#implement-event-listeners-and-callbacks}
 
 Event handlers allow Browser TVSDK to respond to events.

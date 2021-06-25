@@ -1,11 +1,8 @@
 ---
 description: There are some APIs that can help you use the Adobe Flash Player.
-seo-description: There are some APIs that can help you use the Adobe Flash Player.
-seo-title: Helpful APIs for the Adobe Flash Player
 title: Helpful APIs for the Adobe Flash Player
-uuid: eae314c0-fd9e-480f-ae1c-9b5f3eb4db4b
+exl-id: 3a80088b-382e-4624-bbaa-6d7e9f0126e2
 ---
-
 # Helpful APIs for the Adobe Flash Player{#helpful-apis-for-the-adobe-flash-player}
 
 There are some APIs that can help you use the Adobe Flash Player.
@@ -66,4 +63,3 @@ AdobePSDK.setAuthorizationTokenFilename(authorizationTokenFilename);
 AdobePSDK.setAuthorizationTokenType(authorizationTokenType);
 
 ```
-

@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Identity-based domain registration logic
 title: Identity-based domain registration logic
-uuid: bc13f7c2-9a20-4f80-b96f-05f7a0fcc343
+description: Identity-based domain registration logic
+copied-description: yes
+exl-id: 6e391fce-00b4-45cf-b785-3b0ec734a11e
 ---
-
 # Identity-based domain registration logic{#identity-based-domain-registration-logic}
 
 ## Domain registration logic {#section_149C247458954877AF158B4A09A8526B}
@@ -65,4 +63,3 @@ Each user can register a small number of machines, so you can use the full machi
 >[!NOTE]
 >
 >De-registration is not complete until all of the domain tokens on the machine are surrendered.
-

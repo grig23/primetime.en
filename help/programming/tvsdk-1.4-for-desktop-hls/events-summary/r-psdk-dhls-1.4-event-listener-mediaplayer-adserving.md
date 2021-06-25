@@ -1,11 +1,8 @@
 ---
 description: TVSDK dispatches ad-serving events in response to timed metadata operations.
-seo-description: TVSDK dispatches ad-serving events in response to timed metadata operations.
-seo-title: Ad serving/timed metadata events
 title: Ad serving/timed metadata events
-uuid: fd50a937-0c9b-4c47-acb2-1ffc0592ad54
+exl-id: 875afa2a-a5cc-4192-91e2-5ba7b61abd57
 ---
-
 # Ad serving/timed metadata events{#ad-serving-timed-metadata-events}
 
 TVSDK dispatches ad-serving events in response to timed metadata operations.

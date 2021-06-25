@@ -1,9 +1,9 @@
 ---
-seo-title: Encrypting content
 title: Encrypting content
-uuid: 03f33473-bcd4-4e06-a823-e944897cb28e
+description: Encrypting content
+copied-description: yes
+exl-id: c6b5d8c7-eda4-40c0-a609-0ebfeba90c04
 ---
-
 # Encrypting content{#encrypting-content}
 
 You encrypt video content with the `MediaEncrypter` object. You can encrypt media files that include only audio tracks. You can also apply only partial encryption; for example, to improve performance when you encrypt H.264 content for lower-end devices.
@@ -21,4 +21,4 @@ To encrypt media files using the Java API:
 
 1. Encrypt the content by passing the input and output files and encryption options to the `MediaEncrypter.encryptContent` method.
 
-For sample code that shows how to encrypt content, see `com.adobe.flashaccess.samples.mediapackager.EncryptContent` in the Reference Implementation Command Line Tools [!DNL samples/] directory. 
+For sample code that shows how to encrypt content, see `com.adobe.flashaccess.samples.mediapackager.EncryptContent` in the Reference Implementation Command Line Tools [!DNL samples/] directory.

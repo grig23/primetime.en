@@ -1,11 +1,8 @@
 ---
 description: You can use the TVSDK configuration file (AdobeTVSDKConfig.json) to update the priorities for ad creative selection on VAST/VMAP responses. You can also use this configuration file to define the source URL transformation rules for ad creatives.
-seo-description: You can use the TVSDK configuration file (AdobeTVSDKConfig.json) to update the priorities for ad creative selection on VAST/VMAP responses. You can also use this configuration file to define the source URL transformation rules for ad creatives.
-seo-title: Updating ad creative selection rules
 title: Updating ad creative selection rules
-uuid: 9eb4ccc2-425f-4c01-a095-f2043df4e25c
+exl-id: 6664c120-2d4d-4cc0-8d9d-4bd8a66a5e88
 ---
-
 # Overview {#updating-ad-creative-selection-rules}
 
 You can use the TVSDK configuration file (AdobeTVSDKConfig.json) to update the priorities for ad creative selection on VAST/VMAP responses. You can also use this configuration file to define the source URL transformation rules for ad creatives.
@@ -18,4 +15,4 @@ When your video player makes a request to an ad server, the VAST/VMAP response u
 >* This file should be hosted on your content delivery network (CDN). 
 >
 
-You can specify two types of rules in [!DNL AdobeTVSDKConfig.json]: *Priority* rules and *Normalize* rules. 
+You can specify two types of rules in [!DNL AdobeTVSDKConfig.json]: *Priority* rules and *Normalize* rules.

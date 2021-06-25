@@ -1,11 +1,8 @@
 ---
 description: Video Player Ad-Serving Interface Definition (VPAID) provides a common interface to play video ads. VPAID provides a rich media experience for users and allows publishers to better target ads, track ad impressions, and monetize video content.
-seo-description: Video Player Ad-Serving Interface Definition (VPAID) provides a common interface to play video ads. VPAID provides a rich media experience for users and allows publishers to better target ads, track ad impressions, and monetize video content.
-seo-title: Custom ad requirements
 title: Custom ad requirements
-uuid: 6d4ba87b-ffe5-467d-8ab5-9795928c2f69
+exl-id: c13748d6-23f1-4f34-95b4-7b532db6e536
 ---
-
 # Custom ad requirements {#custom-ad-requirements}
 
 The TVSDK player can play digital Video Player Ad-Interface Definition (VPAID) ads and display the ad loading status. If there are errors in the ad, or ads are taking too long to load, TVSDK ignores these ads.
@@ -49,4 +46,4 @@ After the `AdStopped` event, the TVSDK resumes the video content.
 
 If the ad takes too long to load or there are errors in the ad, the TVSDK can ignore the ad, and the next ad in the ad pod is automatically played.
 
-If the `AuditudeSettings.customAdLoadTimeout` setting specifies a number of seconds greater than zero, the TVSDK attempts to load the ad to the specified duration. If it cannot load the ad, the ad is skipped. For example, if you configure `AuditudeSettings.customAdLoadTimeout:5`, the TVSDK attempts to load the ad for a maximum of 5 seconds. If the ad still does not load, it is ignored. 
+If the `AuditudeSettings.customAdLoadTimeout` setting specifies a number of seconds greater than zero, the TVSDK attempts to load the ad to the specified duration. If it cannot load the ad, the ad is skipped. For example, if you configure `AuditudeSettings.customAdLoadTimeout:5`, the TVSDK attempts to load the ad for a maximum of 5 seconds. If the ad still does not load, it is ignored.

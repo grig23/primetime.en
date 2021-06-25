@@ -1,9 +1,9 @@
 ---
-seo-title: Network topology overview
 title: Network topology overview
-uuid: b8b072dc-8dc0-46ba-bb01-1e9b58af2681
+description: Network topology overview
+copied-description: yes
+exl-id: a4737ea3-407a-48fd-ae3e-4df56a4c1812
 ---
-
 # Overview {#network-topology-overview}
 
 After you successfully deploy Adobe Primetime DRM, you must maintain the security of the Primetime DRM production server.

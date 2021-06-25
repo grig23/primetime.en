@@ -1,11 +1,8 @@
 ---
 description: You can override the default behavior for how TVSDK handles seeks over ads when using custom ad markers.
-seo-description: You can override the default behavior for how TVSDK handles seeks over ads when using custom ad markers.
-seo-title: Control playback behavior for seeking over custom ad markers
 title: Control playback behavior for seeking over custom ad markers
-uuid: 248e914e-81b7-4aa5-a4d5-06ca2666e006
+exl-id: 5c17809b-f78b-49f7-85a4-9072502f4a24
 ---
-
 # Control playback behavior for seeking over custom ad markers {#control-playback-behavior-for-seeking-over-custom-ad-markers}
 
 You can override the default behavior for how TVSDK handles seeks over ads when using custom ad markers.
@@ -28,4 +25,3 @@ By default, when a user seeks into or past ad sections that result from the plac
    mediaPlayer.replaceCurrentResource(mediaResource, config); 
    
    ```
-

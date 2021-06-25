@@ -1,11 +1,8 @@
 ---
 description: One way to coordinate licensing and policy enforcement is to build these functions in to an entitlement server. Adobe provides the SEES reference entitlement server that you can work with to build your own server.
-seo-description: One way to coordinate licensing and policy enforcement is to build these functions in to an entitlement server. Adobe provides the SEES reference entitlement server that you can work with to build your own server.
-seo-title: Reference Server  Sample ExpressPlay Entitlement Server (SEES)
 title: Reference Server  Sample ExpressPlay Entitlement Server (SEES)
-uuid: 99e42f76-7730-42fc-a9a9-f6396ac12c02
+exl-id: aa5b63f4-dffc-4808-8aa6-6b8f63df592c
 ---
-
 # Reference Server: Sample ExpressPlay Entitlement Server (SEES) {#reference-server-sample-expressplay-entitlement-server-sees}
 
 One way to coordinate licensing and policy enforcement is to build these functions in to an entitlement server. Adobe provides the SEES reference entitlement server that you can work with to build your own server.

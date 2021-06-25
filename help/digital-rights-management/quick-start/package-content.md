@@ -1,9 +1,9 @@
 ---
-seo-title: Package encrypted content
 title: Package encrypted content
-uuid: 1e271167-107d-41df-8a7c-3075cb3acc0c
+description: Package encrypted content
+copied-description: yes
+exl-id: e5792917-8172-48b0-8792-7a7e942596c5
 ---
-
 # Package encrypted content{#package-encrypted-content}
 
 1. Copy the `<Primetime DRM DVD>\Reference Implementation\Command Line Tools\` directory to your local filesystem.

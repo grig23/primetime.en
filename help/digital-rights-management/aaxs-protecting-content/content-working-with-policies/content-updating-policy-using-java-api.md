@@ -1,9 +1,9 @@
 ---
-seo-title: Updating a policy using the Java API
 title: Updating a policy using the Java API
-uuid: 23c50f05-799e-4f5a-869b-4b5e29a36ce1
+description: Updating a policy using the Java API
+copied-description: yes
+exl-id: 1b03f033-0d29-46cc-ae14-d6fef96fe970
 ---
-
 # Updating a policy using the Java API {#updating-a-policy-using-the-java-api}
 
 To update a policy by using the Java API, perform the following steps:
@@ -54,4 +54,4 @@ To update a policy by using the Java API, perform the following steps:
       out.close(); 
    ```
 
-For the full source of this sample code, see `com.adobe.flashaccess.samples.policy.UpdatePolicy` in the Reference Implementation Command Line Tools "samples" directory. 
+For the full source of this sample code, see `com.adobe.flashaccess.samples.policy.UpdatePolicy` in the Reference Implementation Command Line Tools "samples" directory.

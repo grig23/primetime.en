@@ -1,7 +1,7 @@
 ---
-seo-title: Xbox Live XSTS token validation
 title: Xbox Live XSTS token validation
-uuid: 9647f8ee-32d6-4bed-bae2-8b36a72d04ce
+description: Xbox Live XSTS token validation
+copied-description: yes
 ---
 
 # Xbox Live XSTS token validation{#xbox-live-xsts-token-validation}

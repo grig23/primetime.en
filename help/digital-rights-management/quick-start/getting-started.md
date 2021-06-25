@@ -1,9 +1,9 @@
 ---
-seo-title: Getting Started
 title: Getting Started
-uuid: 2002cf94-c8a7-4820-a560-6d9f7f33ee97
+description: Getting Started
+copied-description: yes
+exl-id: d29d141e-913c-4b9d-979c-91c486414071
 ---
-
 # Getting Started {#getting-started}
 
 This document provides the steps for a quick setup and deployment of an Adobe Primetime DRM ecosystem that uses Progressive Download to distribute content, and the Primetime DRM Server for Protected Streaming for license distribution. Additional details on each step is provided in the following guides:

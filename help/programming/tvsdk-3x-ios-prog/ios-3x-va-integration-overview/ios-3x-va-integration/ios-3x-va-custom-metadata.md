@@ -1,11 +1,8 @@
 ---
 description: You can provide custom metadata on content, ads, and chapter tracking calls by using callback functions.
-seo-description: You can provide custom metadata on content, ads, and chapter tracking calls by using callback functions.
-seo-title: Implement custom metadata support
 title: Implement custom metadata support
-uuid: 229681f5-ff77-4321-8022-b8ccf2928fb3
+exl-id: d5d8b476-0f7c-434c-9386-d060a6eb99f9
 ---
-
 # Implement custom metadata support {#implement-custom-metadata-support}
 
 You can provide custom metadata on content, ads, and chapter tracking calls by using callback functions.

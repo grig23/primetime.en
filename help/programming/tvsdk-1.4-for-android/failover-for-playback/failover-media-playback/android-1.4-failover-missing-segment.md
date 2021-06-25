@@ -1,11 +1,8 @@
 ---
 description: When a segment is missing, for example when a particular segment fails to download, attempts to recover through a variety of failover attempts. If it cannot recover, it issues an error.
-seo-description: When a segment is missing, for example when a particular segment fails to download, attempts to recover through a variety of failover attempts. If it cannot recover, it issues an error.
-seo-title: Missing segment failover
 title: Missing segment failover
-uuid: 17ee1221-e1eb-4f64-a406-4d7eff1d7555
+exl-id: e941008a-99a5-4fff-ac88-133abcf9380d
 ---
-
 # Missing segment failover{#missing-segment-failover}
 
 When a segment is missing, for example when a particular segment fails to download, attempts to recover through a variety of failover attempts. If it cannot recover, it issues an error.
@@ -26,4 +23,3 @@ If the video engine is continuously unable to obtain segments, it limits continu
 >The adaptive bit rate (ABR) control parameters are not taken into consideration when a failover occurs. This is because the failover mechanism is designed to use any of the currently available playlists, regardless of their bit-rate profile, as backup streams. 
 >
 >During a failover operation, there can be a profile switch. If an error occurs during the download of one of the playlist segments, ABR control parameters such as min/max allowed bit rate are ignored.
-

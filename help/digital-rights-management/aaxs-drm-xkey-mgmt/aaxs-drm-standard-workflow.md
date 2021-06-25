@@ -1,11 +1,8 @@
 ---
-seo-title: Standard AAXS DRM Workflow
 title: Standard AAXS DRM Workflow
 description: Standard AAXS DRM Workflow
-seo-description: Standard AAXS DRM Workflow
-uuid: b996eb2c-8e37-4a29-a972-e09c69d2461d
+exl-id: 3bc6aa6a-cda6-4c83-af08-f27eb103a47a
 ---
-
 # Standard AAXS DRM Workflow{#standard-aaxs-drm-workflow}
 
 1. (Package) The AAXS Java SDK generates a random CEK.

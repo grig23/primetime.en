@@ -1,11 +1,8 @@
 ---
 description: You can allow list your iOS apps by using Adobe's machotools tool.
-seo-description: You can allow list your iOS apps by using Adobe's machotools tool.
-seo-title: Allow list your iOS application
 title: Allow list your iOS application
-uuid: 52ce1dd7-5f10-418e-9916-cec60eae874e
+exl-id: ff647647-6c5f-4a10-9040-8600f6103b99
 ---
-
 # Allow list your iOS application {#allowlist-your-ios-application}
 
 You can allow list your iOS apps by using Adobe's machotools tool.

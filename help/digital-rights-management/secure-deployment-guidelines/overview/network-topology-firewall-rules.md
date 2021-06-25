@@ -1,11 +1,8 @@
 ---
 description: When determining your firewall rules, consider the following types of URLs 
-seo-description: When determining your firewall rules, consider the following types of URLs 
-seo-title: Firewall rules
 title: Firewall rules
-uuid: 309b35b5-8c0a-4cd7-9289-b6b035955697
+exl-id: 3f6f6d1a-5759-43b3-9f62-6feb02e0a5c5
 ---
-
 # Firewall rules {#firewall-rules}
 
 When determining your firewall rules, consider the following types of URLs:
@@ -113,4 +110,3 @@ Here is a list of the outgoing URLs that you can use:
 * `https://crl2.adobe.com/Adobe/FlashAccessIntermediateCA.crl` 
 * `https://crl3.adobe.com/AdobeSystemsIncorporatedFlashAccessRuntime/LatestCRL.crl` 
 * `https://crl2.adobe.com/Adobe/FlashAccessIndividualizationCA.crl`
-

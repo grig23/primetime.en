@@ -1,11 +1,8 @@
 ---
 description: When TVSDK detects a subscribed tag in the playlist/manifest, the player automatically tries to process and expose the tag in the form of a TimedMetadata object.
-seo-description: When TVSDK detects a subscribed tag in the playlist/manifest, the player automatically tries to process and expose the tag in the form of a TimedMetadata object.
-seo-title: Timed metadata class
 title: Timed metadata class
-uuid: c7b1c1d7-48b3-43c7-aa21-f800d894976d
+exl-id: abb552d0-42f9-495e-a307-1f03d6a0b965
 ---
-
 # Timed metadata class {#timed-metadata-class}
 
 When TVSDK detects a subscribed tag in the playlist/manifest, the player automatically tries to process and expose the tag in the form of a TimedMetadata object.

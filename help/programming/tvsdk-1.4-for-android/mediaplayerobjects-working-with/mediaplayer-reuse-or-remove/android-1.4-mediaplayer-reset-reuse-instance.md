@@ -1,11 +1,8 @@
 ---
 description: When you reset a MediaPlayer instance, it is returned to its uninitialized IDLE state as defined in MediaPlayerState.
-seo-description: When you reset a MediaPlayer instance, it is returned to its uninitialized IDLE state as defined in MediaPlayerState.
-seo-title: Reset or reuse a MediaPlayer instance
 title: Reset or reuse a MediaPlayer instance
-uuid: 72cc4511-8ab0-44e5-b93c-b36f0321bba8
+exl-id: db8264f7-2f33-4441-86db-bb985edf7c3c
 ---
-
 # Reset, reuse or remove a MediaPlayer instance {#reset-or-reuse-a-mediaplayer-instance}
 
 You can reset, reuse, or release a MediaPlayer instance that you no longer need.

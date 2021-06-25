@@ -1,11 +1,8 @@
 ---
 description: These classes assist in performing operations that affect the timeline.
-seo-description: These classes assist in performing operations that affect the timeline.
-seo-title: Timeline operations classes
 title: Timeline operations classes
-uuid: ecf0f27c-b2f2-46a9-b57c-1401f6ce934e
+exl-id: 56e4b745-c340-4986-a61b-d41d2156482e
 ---
-
 # Timeline operations classes{#timeline-operations-classes}
 
 These classes assist in performing operations that affect the timeline.

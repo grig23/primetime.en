@@ -1,11 +1,8 @@
 ---
 description: TVSDK includes methods, properties, and events to determine valid rates, current rates, whether trick play is supported, and other functionality that are related to fast forward and rewind.
-seo-description: TVSDK includes methods, properties, and events to determine valid rates, current rates, whether trick play is supported, and other functionality that are related to fast forward and rewind.
-seo-title: Rate-change API elements
 title: Rate-change API elements
-uuid: 3554bf45-9419-4740-8a0e-484fc14c7436
+exl-id: deb8c1cb-c6b2-4328-a5e1-cca893ea066f
 ---
-
 # Rate-change API elements {#rate-change-api-elements}
 
 TVSDK includes methods, properties, and events to determine valid rates, current rates, whether trick play is supported, and other functionality that are related to fast forward and rewind.
@@ -26,4 +23,3 @@ Use the following API elements to change play rates:
 |  -2.0, -4.0, -8.0, -16.0, -32.0, -64.0 , -128.0  | Switches to fast-rewind mode  |
 |  1.0  | Switches to normal play mode (calling `play` is the same as setting the rate property to 1.0)  |
 |  0.0  | Pauses (calling `pause` is the same as setting the rate property to 0.0)  |
-

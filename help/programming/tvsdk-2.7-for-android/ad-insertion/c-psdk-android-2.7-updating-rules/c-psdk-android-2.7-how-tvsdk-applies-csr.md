@@ -1,12 +1,10 @@
 ---
-description: null
 keywords: creative selection rules;AdobeTVSDKConfig
-seo-description: null
-seo-title: Apply creative selection rules
 title: Apply creative selection rules
-uuid: 75109483-ea60-43a8-92e7-4bcba48986bc
+description: Apply creative selection rules
+copied-description: yes
+exl-id: 17d540f3-1eea-4d12-a4b4-66e7c639591f
 ---
-
 # Apply creative selection rules {#apply-creative-selection-rules}
 
 TVSDK applies creative selection rules in the following ways:
@@ -28,4 +26,3 @@ In Android 2.5 API docs, I see a
 <span class="codeph"> getValidMimeTypes</span>.
 
  -->
-

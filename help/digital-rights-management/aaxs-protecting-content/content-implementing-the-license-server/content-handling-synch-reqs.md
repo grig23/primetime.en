@@ -1,9 +1,9 @@
 ---
-seo-title: Handling synchronization requests
 title: Handling synchronization requests
-uuid: 37b2db09-4c09-4216-874b-b570a84569b6
+description: Handling synchronization requests
+copied-description: yes
+exl-id: bbfc6096-72df-4597-96b3-8f67a640ea8f
 ---
-
 # Handling synchronization requests{#handling-synchronization-requests}
 
 . If a license specifies synchronization requirements ([Requirements for Synchronization](../../aaxs-protecting-content/content-introduction/content-usage-rules/content-time-based-rules/content-time-based-rules-defining.md#requirements-for-synchronization)), the client will periodically send synchronization requests to the server, based on the frequency specified in the license. To enable synchronization messages, set SyncFrequencyRequirements in a PlayRight.

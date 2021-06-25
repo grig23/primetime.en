@@ -1,10 +1,8 @@
 ---
 description: This table provides detailed information about Revenue Optimization notifications. 
-seo-description: This table provides detailed information about Revenue Optimization notifications. 
-seo-title: REVENUE Optimization code
 title: REVENUE Optimization code
+exl-id: 3657ba70-ec35-495b-ae7b-4198429bdf6a
 ---
-
 # REVENUE Optimization code {#revenue-optimization-code}
 
 This table provides detailed information about REVENUE OPTIMIZATION notifications.

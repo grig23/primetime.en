@@ -1,11 +1,8 @@
 ---
 description: The TVSDK notification system produces various error, warning, and informational notices that provide diagnostic metadata.
-seo-description: The TVSDK notification system produces various error, warning, and informational notices that provide diagnostic metadata.
-seo-title: TVSDK notification system
 title: TVSDK notification system
-uuid: cace3b4d-ac2b-4fb2-854e-ce6db17544f5
+exl-id: 9e8ff9bb-78e8-460e-8625-ff8af996d21f
 ---
-
 # TVSDK notification system {#tvsdk-notification-system}
 
 The TVSDK notification system produces various error, warning, and informational notices that provide diagnostic metadata.

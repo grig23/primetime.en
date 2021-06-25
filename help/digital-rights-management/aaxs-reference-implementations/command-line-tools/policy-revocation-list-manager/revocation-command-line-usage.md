@@ -1,9 +1,9 @@
 ---
-seo-title: Command line usage
 title: Command line usage
-uuid: 273e9d3b-efeb-46fa-a4b1-f13247b4e498
+description: Command line usage
+copied-description: yes
+exl-id: b9e51bab-7bef-459f-bb4d-13ccc4add37a
 ---
-
 # Command line usage {#command-line-usage}
 
 Revocation List Manager is in the \Reference Implementation\Command Line Tools directory on the DVD. To run the tool, use one of the following syntaxes:
@@ -68,4 +68,3 @@ The following table contains descriptions of the command line options shown in t
   </tr> 
  </tbody> 
 </table>
-

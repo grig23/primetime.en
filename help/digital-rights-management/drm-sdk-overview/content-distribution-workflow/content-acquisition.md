@@ -1,11 +1,8 @@
 ---
 description: When a consumer acquires a protected content file from a website or CDN, the consumer must also acquire a license that contains a key to decrypt the video before it can be played. The following steps illustrate a common workflow for how protected content is accessed by a computer running Flash Player or Adobe AIR 
-seo-description: When a consumer acquires a protected content file from a website or CDN, the consumer must also acquire a license that contains a key to decrypt the video before it can be played. The following steps illustrate a common workflow for how protected content is accessed by a computer running Flash Player or Adobe AIR 
-seo-title: Content acquisition
 title: Content acquisition
-uuid: 80253746-bc31-43f0-b28b-7a1aa7fe34a7
+exl-id: 92d51928-6021-4284-9310-4e6ce758bffc
 ---
-
 # Content acquisition{#content-acquisition}
 
 When a consumer acquires a protected content file from a website or CDN, the consumer must also acquire a license that contains a key to decrypt the video before it can be played. The following steps illustrate a common workflow for how protected content is accessed by a computer running Flash Player or Adobe AIR:
@@ -37,5 +34,4 @@ When a consumer acquires a protected content file from a website or CDN, the con
 
    ![](assets/FMRMS_fig01_web.png)
 
-   The previous example shows just one possible workflow. Alternatively, you might use a workflow with a proactive download of content where the license acquisition happens much later. Another option is to implement a pre-order workflow where the license acquisition occurs before the content is accessed. 
-
+   The previous example shows just one possible workflow. Alternatively, you might use a workflow with a proactive download of content where the license acquisition happens much later. Another option is to implement a pre-order workflow where the license acquisition occurs before the content is accessed.

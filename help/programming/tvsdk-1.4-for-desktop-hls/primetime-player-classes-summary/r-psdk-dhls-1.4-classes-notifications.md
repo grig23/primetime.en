@@ -1,11 +1,8 @@
 ---
 description: These classes describe messages about errors, warnings, and some activities that the issues for logging and debugging purposes.
-seo-description: These classes describe messages about errors, warnings, and some activities that the issues for logging and debugging purposes.
-seo-title: Notification classes
 title: Notification classes
-uuid: 3befc64b-4abd-47df-9c45-215b49029757
+exl-id: d8af783f-1e80-4e50-89b8-97643ff6670b
 ---
-
 # Notification classes {#notification-classes}
 
 These classes describe messages about errors, warnings, and some activities that the issues for logging and debugging purposes.
@@ -19,4 +16,3 @@ These classes describe messages about errors, warnings, and some activities that
 | [NotificationHistory](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/notifications/NotificationHistory.html)  |Class that stores a log of notification objects. A circular list of [NotificationHistoryItem](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/notifications/NotificationHistoryItem.html) objects that provides access to a notification events history list. That is, it maintains a list of elements, each element containing a separate instance of the [Notification](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/notifications/Notification.html) class.  |
 | [NotificationHistoryItem](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/notifications/NotificationHistoryItem.html)  |Class that defines an entry in the circular list in [NotificationHistory](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/notifications/NotificationHistory.html) and holds the notification and its timestamp.  |
 | [NotificationType](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/notifications/NotificationType.html)  | Class that contains the supported notifications types.  |
-

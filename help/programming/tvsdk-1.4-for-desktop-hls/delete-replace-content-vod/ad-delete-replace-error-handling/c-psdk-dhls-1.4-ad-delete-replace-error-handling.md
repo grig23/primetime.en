@@ -1,11 +1,8 @@
 ---
 description: TVSDK handles time range errors according to the specific problem, either merging or reordering the improperly defined time ranges.
-seo-description: TVSDK handles time range errors according to the specific problem, either merging or reordering the improperly defined time ranges.
-seo-title: Ad deletion and replacement error handling
 title: Ad deletion and replacement error handling
-uuid: ab153591-0011-44b4-87f9-be0302c2295e
+exl-id: 86970989-82e0-4e6f-81fb-beee70870c69
 ---
-
 # Ad deletion and replacement error handling {#ad-deletion-and-replacement-error-handling}
 
 TVSDK handles time range errors according to the specific problem, either merging or reordering the improperly defined time ranges.

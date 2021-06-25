@@ -1,11 +1,8 @@
 ---
 description: Alternate, or late-binding, audio allows you to switch among available audio tracks for a video track. This way, users can select a language track when the video is played.
-seo-description: Alternate, or late-binding, audio allows you to switch among available audio tracks for a video track. This way, users can select a language track when the video is played.
-seo-title: Alternate audio tracks in the playlist
 title: Alternate audio tracks in the playlist
-uuid: 6241d3e4-6e07-44fb-bc0e-5d49d1a76824
+exl-id: d8d8c122-5837-4f0e-934f-a3d6e1b037c8
 ---
-
 # Alternate audio tracks in the playlist {#section_BC8C1C74A5A24A8CA68C1E7E721EE742}
 
 The playlist for a video can specify an unlimited number of alternative audio tracks for the main video content. For example, you might want to add different languages to your video content or allow the user to switch between different tracks on their device while the content is playing.

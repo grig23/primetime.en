@@ -1,11 +1,8 @@
 ---
 description: The com.adobe.mediacore.timeline.TimelineMarker interface now contains a new method 
-seo-description: The com.adobe.mediacore.timeline.TimelineMarker interface now contains a new method 
-seo-title: Upgrading from 2.5.x Lazy Ad Resolving to 3.0.0 Lazy Ad Resolving (API/Workflow changes) 
-title: Upgrading from 2.5.x Lazy Ad Resolving to 3.0.0 Lazy Ad Resolving (API/Workflow changes) 
-uuid: 5870ceb4-93a8-4c8b-b716-673396122644
+title: Upgrading from 2.5.x Lazy Ad Resolving to 3.0.0 Lazy Ad Resolving (API/Workflow changes)
+exl-id: 403ccb25-99a9-4545-9d17-3b71583bc6d8
 ---
-
 # Upgrading from 2.5.x Lazy Ad Resolving to 3.x Lazy Ad Resolving (API/Workflow changes):{#upgrading-from-x-lazy-ad-resolving-to-lazy-ad-resolving-api-workflow-changes}
 
 The com.adobe.mediacore.timeline.TimelineMarker interface now contains a new method:

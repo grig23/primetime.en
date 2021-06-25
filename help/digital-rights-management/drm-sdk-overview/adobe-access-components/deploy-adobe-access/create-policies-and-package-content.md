@@ -1,7 +1,7 @@
 ---
-seo-title: Create policies and package content
 title: Create policies and package content
-uuid: ecf9bdd8-0bd2-4616-a6e5-a46bb55d16ab
+description: Create policies and package content
+copied-description: yes
 ---
 
 # Create policies and package content{#create-policies-and-package-content}

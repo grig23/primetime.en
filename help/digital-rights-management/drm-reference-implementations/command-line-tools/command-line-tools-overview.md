@@ -1,9 +1,9 @@
 ---
-seo-title: Overview
 title: Overview
-uuid: effb6c5e-afce-4a96-8c95-041b2f183690
+description: Overview
+copied-description: yes
+exl-id: c7e2ab2b-4085-4f85-97c9-95c442885ff1
 ---
-
 # Overview {#overview}
 
 The Adobe Primetime DRM reference implementations command-line tools enable you to perform a variety of DRM-related tasks directly from the command line.

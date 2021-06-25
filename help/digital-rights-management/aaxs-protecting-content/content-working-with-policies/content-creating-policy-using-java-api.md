@@ -1,9 +1,9 @@
 ---
-seo-title: Creating a policy using the Java API
 title: Creating a policy using the Java API
-uuid: c653548d-4abf-46b9-8669-d68b966da359
+description: Creating a policy using the Java API
+copied-description: yes
+exl-id: 60e26fd6-1b72-413c-a35b-b317389cd9ed
 ---
-
 # Creating a policy using the Java API {#creating-a-policy-using-the-java-api}
 
 To create a policy by using the Java API, perform the following steps:
@@ -59,4 +59,4 @@ To create a policy by using the Java API, perform the following steps:
      out.close();
    ```
 
-For the full source of this sample code, see *com.adobe.flashaccess.samples.policy.CreatePolicy* in the Reference Implementation Command Line Tools “ [!DNL samples]” directory. 
+For the full source of this sample code, see *com.adobe.flashaccess.samples.policy.CreatePolicy* in the Reference Implementation Command Line Tools “ [!DNL samples]” directory.

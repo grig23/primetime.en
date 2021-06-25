@@ -1,11 +1,8 @@
 ---
 description: This procedure is an example of how to create a button that allows a user to select a closed caption track.
-seo-description: This procedure is an example of how to create a button that allows a user to select a closed caption track.
-seo-title: Allow users to change the caption track
 title: Allow users to change the caption track
-uuid: 043dc492-1dd4-4b7f-8541-d60a1d3d7c4a
+exl-id: b8c058ef-384c-4ad4-a289-dfd6bf3dfbdb
 ---
-
 # Allow users to change the caption track {#allow-users-to-change-the-caption-track}
 
 This procedure is an example of how to create a button that allows a user to select a closed caption track.
@@ -86,4 +83,3 @@ This procedure is an example of how to create a button that allows a user to sel
    } 
    
    ```
-

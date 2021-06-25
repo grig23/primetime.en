@@ -1,9 +1,9 @@
 ---
-seo-title: Key features
 title: Key features
-uuid: b1bded0f-4e45-4ff8-a7ce-dac3d3ec0ab0
+description: Key features
+copied-description: yes
+exl-id: e17b7ce8-a408-4731-b63e-9d25feac2cdc
 ---
-
 # Key features {#key-features}
 
 Adobe Access provides these key features:
@@ -44,4 +44,3 @@ Adobe Access provides these key features:
 * **Application allow list:** Allows the client runtime to ensure that protected content only plays within an authorized SWF or AIR application. 
 * **Revocation of compromised clients: **Compromised client software can be revoked. If the Flash Player or Adobe AIR runtime is determined to have been compromised, service can be refused to those clients until they upgrade to a newer and more secure version of the client software. 
 * **Multiple policies for the same video file: **A single piece of video content can have multiple policies embedded during packaging. When issuing a license, the License Server may decide which of the policies to use, enabling a content distributor to use the same protected file for different business models (such as rental and electronic sell-through).
-

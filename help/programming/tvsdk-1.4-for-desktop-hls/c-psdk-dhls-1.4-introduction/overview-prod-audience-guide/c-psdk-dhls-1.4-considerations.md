@@ -1,11 +1,8 @@
 ---
 description: To use TVSDK most effectively, you should consider certain details of its operation and follow certain best practices.
-seo-description: To use TVSDK most effectively, you should consider certain details of its operation and follow certain best practices.
-seo-title: Considerations and best practices
 title: Considerations and best practices
-uuid: 62a5d641-6f37-4e4d-bbc2-414bf3681d9c
+exl-id: 5e1e09e1-f22e-4797-807a-14dbf50bb835
 ---
-
 # Considerations and best practices{#considerations-and-best-practices}
 
 To use TVSDK most effectively, you should consider certain details of its operation and follow certain best practices.
@@ -40,4 +37,3 @@ Here are the recommended practices for TVSDK:
 * For TVSDK 1.4 for DHLS, lazy ad loading is enabled by default.
 
   For content with no pre-roll or mid-roll, you can use `AdvertisingMetadata.delayAdLoading` to accelerate content loading even more.
-

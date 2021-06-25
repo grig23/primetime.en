@@ -1,11 +1,8 @@
 ---
 description: You can use TVSDK to retrieve information about the player's position in the media and display it on the seek bar.
-seo-description: You can use TVSDK to retrieve information about the player's position in the media and display it on the seek bar.
-seo-title: Display the duration, current time, and remaining time of the video
 title: Display the duration, current time, and remaining time of the video
-uuid: 13627fa2-8cd8-4336-bc4b-7e3226330389
+exl-id: d9832f19-c2d1-413a-b094-091052912c96
 ---
-
 # Display the duration, current time, and remaining time of the video {#display-the-duration-current-time-and-remaining-time-of-the-video}
 
 You can use TVSDK to retrieve information about the player's position in the media and display it on the seek bar.
@@ -105,4 +102,3 @@ You can use TVSDK to retrieve information about the player's position in the med
    } 
    
    ```
-

@@ -1,11 +1,8 @@
 ---
 description: These classes provide the interface between the TVSDK and Adobe Video Analytics.
-seo-description: These classes provide the interface between the TVSDK and Adobe Video Analytics.
-seo-title: Video Analytics classes
 title: Video Analytics classes
-uuid: ec66dea3-47ae-4c80-a2cb-b1c7cce1b94f
+exl-id: 980d8e36-cfd1-45d4-8c40-f3c53e29b6f6
 ---
-
 # Video Analytics classes{#video-analytics-classes}
 
 These classes provide the interface between the TVSDK and Adobe Video Analytics.

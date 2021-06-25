@@ -1,11 +1,8 @@
 ---
 description: This provide information about Digital Rights Management (DRM) activity.
-seo-description: This provide information about Digital Rights Management (DRM) activity.
-seo-title: Digital Rights Management classes
 title: Digital Rights Management classes
-uuid: 6ed54e4b-47c7-4e49-8d11-00fc346b43f8
+exl-id: 97a81f00-4e64-4981-a02c-8723a53cfca2
 ---
-
 # Digital Rights Management classes {#digital-rights-management-classes}
 
 This provide information about Digital Rights Management (DRM) activity.

@@ -1,11 +1,8 @@
 ---
 description: Adobe Primetime DRM is an advanced Digital Rights Management (DRM) and content protection solution for high-value audiovisual content. In applications that support the creation of Java APIs, you can use the Primetime DRM SDK to specify DRM policies, apply those policies to content, and encrypt that content.
-seo-description: Adobe Primetime DRM is an advanced Digital Rights Management (DRM) and content protection solution for high-value audiovisual content. In applications that support the creation of Java APIs, you can use the Primetime DRM SDK to specify DRM policies, apply those policies to content, and encrypt that content.
-seo-title: What is new in Adobe Primetime DRM
 title: What is new in Adobe Primetime DRM
-uuid: 3c8da594-a231-4496-bffc-130775ecae50
+exl-id: 998dae80-b3d3-419e-8fd3-d925a83d8b53
 ---
-
 # What is new in Adobe Primetime DRM{#what-is-new-in-adobe-primetime-drm}
 
 Adobe Primetime DRM is an advanced Digital Rights Management (DRM) and content protection solution for high-value audiovisual content. In applications that support the creation of Java APIs, you can use the Primetime DRM SDK to specify DRM policies, apply those policies to content, and encrypt that content.
@@ -36,4 +33,3 @@ The features described below are new in this release.
 * **Hard Stop -** You can specify whether playback stops or continues at the end of a playback window. 
 * **Resolution dependent output controls -** You can specify output constraints based on pixel resolutions. 
 * **Anonymization of License Server Responses -** To enhance the privacy with Primetime DRM License Server protocols, the transport certificate serial number will be zeroed for license server responses to supporting clients.
-

@@ -1,11 +1,8 @@
 ---
 description: Failover handling occurs when a variant playlist has multiple renditions for the same bit rate, and one of the renditions stops working. The TVSDK switches between renditions.
-seo-description: Failover handling occurs when a variant playlist has multiple renditions for the same bit rate, and one of the renditions stops working. The TVSDK switches between renditions.
-seo-title: Failover
 title: Failover
-uuid: 53cf611f-59e6-4728-a287-b98907d7f7bb
+exl-id: 8c215e2b-e601-4991-a66f-0e810176a511
 ---
-
 # Failover{#failover}
 
 Failover handling occurs when a variant playlist has multiple renditions for the same bit rate, and one of the renditions stops working. The TVSDK switches between renditions.
@@ -31,4 +28,3 @@ Failover occurs only at the M3U8 level, which means:
 >[!TIP]
 >
 >TVSDK, rather than the Apple AV Foundation player, provides failover handling.
-

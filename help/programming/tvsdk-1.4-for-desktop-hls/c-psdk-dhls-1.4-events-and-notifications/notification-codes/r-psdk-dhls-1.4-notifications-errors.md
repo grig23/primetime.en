@@ -1,11 +1,8 @@
 ---
 description: This table provides detailed information about ERROR type notifications.
-seo-description: This table provides detailed information about ERROR type notifications.
-seo-title: ERROR notification codes
 title: ERROR notification codes
-uuid: 50624782-3d0b-4ac4-b883-355c1f7e9bff
+exl-id: 4f8882b5-2c2b-4f17-a9c9-834816265e1f
 ---
-
 # ERROR notification codes{#error-notification-codes}
 
 This table provides detailed information about ERROR type notifications.
@@ -253,4 +250,3 @@ Most errors contain relevant metadata, for example, the URL of the resource that
   </tr> 
  </tbody> 
 </table>
-

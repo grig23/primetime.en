@@ -1,11 +1,8 @@
 ---
 description: Closed captioning displays the audio portion of a video as text on the screen when the sound is inaudible or the viewer is hard of hearing.
-seo-description: Closed captioning displays the audio portion of a video as text on the screen when the sound is inaudible or the viewer is hard of hearing.
-seo-title: Select a current caption track from among available tracks
 title: Select a current caption track from among available tracks
-uuid: 637a70c9-9bef-4b13-8b1f-62f22f983e80
+exl-id: ff3e0c59-bcd9-4831-804c-35e13d96f499
 ---
-
 # Overview {#work-with-closed-captions}
 
 Closed captioning displays the audio portion of a video as text on the screen when the sound is inaudible or the viewer is hard of hearing.

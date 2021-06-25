@@ -1,9 +1,9 @@
 ---
-seo-title: Overview
 title: Overview
-uuid: 2bbf0aa1-df35-429d-84df-db357fa53e47
+description: Overview
+copied-description: yes
+exl-id: 267188d0-83f8-42dc-88e3-78b52945cb6c
 ---
-
 # Overview {#overview}
 
 To obtain a license, clients form a request from the metadata embedded in packaged content, then submit that request to the license server. The license server uses information extracted from the content metadata for generating a license.
@@ -19,4 +19,4 @@ A device may have multiple licenses for the same content (same License ID), but 
 
 Licenses and errors are sent at one time when the `LicenseHandler.close()` method is called.
 
-See the [DRM Server API reference documentation](https://help.adobe.com/en_US/primetime/api/drm-apis/server/javadocs-flashaccess-pro/overview-summary.html) for details. 
+See the [DRM Server API reference documentation](https://help.adobe.com/en_US/primetime/api/drm-apis/server/javadocs-flashaccess-pro/overview-summary.html) for details.

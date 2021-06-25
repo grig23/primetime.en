@@ -1,11 +1,8 @@
 ---
 description: You can configure visuals to notify the user that content is buffering.
-seo-description: You can configure visuals to notify the user that content is buffering.
-seo-title: Buffering
 title: Buffering
-uuid: da9498ee-c736-4093-97a2-250d3ad56d49
+exl-id: 1b2f32b4-1839-4256-82d6-b262569aa751
 ---
-
 # Buffering{#buffering}
 
 You can configure visuals to notify the user that content is buffering.
@@ -56,4 +53,3 @@ Here is what the result DOM looks like:
 </div> 
 
 ```
-

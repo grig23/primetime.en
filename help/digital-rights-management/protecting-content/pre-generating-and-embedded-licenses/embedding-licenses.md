@@ -1,9 +1,9 @@
 ---
-seo-title: Embedding licenses
 title: Embedding licenses
-uuid: e3d55376-07de-479c-9a53-04bc8071ced4
+description: Embedding licenses
+copied-description: yes
+exl-id: 8cd58808-73fb-4635-9a75-0520430f6b3a
 ---
-
 # Embedding licenses {#embedding-licenses}
 
 Once content has been encrypted and a license has been pre-generated, the license may be embedded into the encrypted content.
@@ -15,4 +15,3 @@ See `com.adobe.flashaccess.samples.licenseembedder.EmbedLicense` in the Referenc
 >[!NOTE]
 >
 >An Adobe Primetime DRM 2.0 client ignores any licenses that are embedded in the content and then attempts to obtain a license from the license server that is specified in the metadata. However, if the metadata indicates that no license server is available, a Primetime DRM 2.0 client needs to be upgraded before you can view the content.
-

@@ -1,11 +1,8 @@
 ---
 description: If your system has access to hardware-assisted decoding, you can achieve smoother trick play than with the pure software TVSDK implementation by using iFrame format.
-seo-description: If your system has access to hardware-assisted decoding, you can achieve smoother trick play than with the pure software TVSDK implementation by using iFrame format.
-seo-title: Smoother trick play operations
 title: Smoother trick play operations
-uuid: 959d6c67-b64f-4666-8de7-54d247459fd1
+exl-id: f69bf480-122b-474d-8f35-31655ea87c70
 ---
-
 # Smoother trick play operations {#smoother-trick-play-operations}
 
 If your system has access to hardware-assisted decoding, you can achieve smoother trick play than with the pure software TVSDK implementation by using iFrame format.

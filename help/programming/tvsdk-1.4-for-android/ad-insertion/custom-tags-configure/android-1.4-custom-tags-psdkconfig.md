@@ -1,11 +1,8 @@
 ---
 description: You can configure custom tag names in TVSDK globally with the MediaPlayerItemConfig class.
-seo-description: You can configure custom tag names in TVSDK globally with the MediaPlayerItemConfig class.
-seo-title: Config class methods for tags
 title: Config class methods for tags
-uuid: f2758085-8e49-4eaf-82bb-4a2e4dd8accb
+exl-id: 6b3e344f-1d50-4743-9cc4-bd0bc82a0b9c
 ---
-
 # Config class methods for tags{#config-class-methods-for-tags}
 
 You can configure custom tag names in TVSDK globally with the MediaPlayerItemConfig class.
@@ -52,4 +49,3 @@ Remember the following:
 
   For example, `#EXT-X-ASSET` is a correct custom tag name, but `EXT-X-ASSET` is incorrect. 
 * You cannot change the configuration after the media stream has been loaded.
-

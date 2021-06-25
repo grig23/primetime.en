@@ -1,9 +1,9 @@
 ---
-seo-title: Create an authentication UI
 title: Create an authentication UI
-uuid: 4744bac0-c36e-4b0a-b3fb-d81c7f2e7617
+description: Create an authentication UI
+copied-description: yes
+exl-id: 54853dcf-2241-44e6-9565-7eca94cc84cc
 ---
-
 # Create an authentication UI {#create-an-authentication-ui}
 
 1. Create a user interface to retrieve the user's authentication credentials.
@@ -129,4 +129,3 @@ uuid: 4744bac0-c36e-4b0a-b3fb-d81c7f2e7617
    </mx:WindowedApplication> 
    
    ```
-

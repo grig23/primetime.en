@@ -1,11 +1,8 @@
 ---
 description: You can override the default behavior for how TVSDK seeks over ads when using custom ad markers.
-seo-description: You can override the default behavior for how TVSDK seeks over ads when using custom ad markers.
-seo-title: Control playback behavior for seeking over custom ad markers
 title: Control playback behavior for seeking over custom ad markers
-uuid: 926299c6-9c23-457d-b836-08432e4e169e
+exl-id: c821e0be-1490-4b5f-8f9f-bffdfb1a982d
 ---
-
 # Control playback behavior for seeking over custom ad markers{#control-playback-behavior-for-seeking-over-custom-ad-markers}
 
 You can override the default behavior for how TVSDK seeks over ads when using custom ad markers.
@@ -17,4 +14,3 @@ You can tell TVSDK to reposition the playhead to the beginning of the most recen
 1. Configure a Metadata instance with the `DefaultMetadataKeys.METADATA_KEY_ADJUST_SEEK_ENABLED` enumeration set to the string value "true" (not as a Boolean `true`).
 
 1. Create and configure a `MediaResource` instance, passing the additional configuration options to `TimeRangeCollection.toMetadata`. This method receives additional configuration options via another generic metadata structure.
-

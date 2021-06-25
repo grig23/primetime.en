@@ -1,9 +1,9 @@
 ---
-seo-title: Package media
 title: Package media
-uuid: f6e877be-d916-4766-bc44-99891a3df3a8
+description: Package media
+copied-description: yes
+exl-id: fc2d1f12-8fab-4e62-8d4c-527911be347f
 ---
-
 # Package media {#package-media}
 
 Use the Package Media tab to package content. The Packager Properties section displays the Packager settings that were entered in the Preferences tab. To modify these settings, go to the Preferences tab, change the settings, and Save.
@@ -28,4 +28,4 @@ The following table describes the Package Media preferences:
 |  Encrypt Script  | Select this checkbox to encrypt script data (FLV only)  |
 |  Custom Properties  | Specify custom properties to include in the packaged content. These properties will be available to the license server when issuing a license. (Optional)  |
 
-After the packaging options are selected, click the **[!UICONTROL Package Media]** button to begin packaging the files. 
+After the packaging options are selected, click the **[!UICONTROL Package Media]** button to begin packaging the files.

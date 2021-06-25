@@ -1,8 +1,8 @@
 ---
 title: Adobe Primetime Ad Insertion
 description: Adobe Primetime Ad Insertion Help
+exl-id: e758044e-a1f5-498a-a809-b6a351dfe8f0
 ---
-
 # Overview {#ptai-overview}
 
 Primetime Ad Insertion is a server-side monetization solution with client-side ad tracking capabilities that helps publishers create next generation TV experiences in live, linear, and VOD streams.

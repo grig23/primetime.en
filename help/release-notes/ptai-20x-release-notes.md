@@ -1,8 +1,8 @@
 ---
 title:  PTAI 20.12.1 release notes
 description: The PTAI release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2020.
+exl-id: 47e36e42-b6a0-408c-93da-f63c929396b5
 ---
-
 # Primetime Ad Insertion 20.12.1 Release Notes
 
 Primetime Ad Insertion 20.12.1 release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2020.

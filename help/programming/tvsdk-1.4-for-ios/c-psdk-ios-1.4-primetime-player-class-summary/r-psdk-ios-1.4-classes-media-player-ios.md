@@ -1,11 +1,8 @@
 ---
 description: These classes describe your media player and its resources.
-seo-description: These classes describe your media player and its resources.
-seo-title: Media player classes
 title: Media player classes
-uuid: 6b59dcff-9722-4a84-9049-f6f10f7b3e82
+exl-id: de7f7488-2026-43b4-b74d-feff67bdc69a
 ---
-
 # Media player classes {#media-player-classes}
 
 You can use the Primetime Player Objective-C API to customize the behavior of the player.
@@ -82,4 +79,3 @@ These classes describe your media player and its resources.
   </tr> 
  </tbody> 
 </table>
-

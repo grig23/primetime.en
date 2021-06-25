@@ -1,9 +1,9 @@
 ---
-seo-title: Details for the NATIVE_ERROR notification
 title: Details for the NATIVE_ERROR notification
-uuid: 18c4da57-59de-41a8-a2ea-fef800565207
+description: Details for the NATIVE_ERROR notification
+copied-description: yes
+exl-id: 3819b932-47a2-4adb-830b-0a95a5fec70b
 ---
-
 # Details for the NATIVE_ERROR notification {#details-for-the-native-error-notification}
 
 When TVSDK handles a native error, it sets some or all of the following metadata key values.  

@@ -1,11 +1,8 @@
 ---
 description: You can set up one lace to handle errors.
-seo-description: You can set up one lace to handle errors.
-seo-title: Set up error handling
 title: Set up error handling
-uuid: 7c122830-6259-4e95-882e-fb1700454e6e
+exl-id: 9b83b47e-6d30-452b-87c3-1e3a139f2e69
 ---
-
 # Set up error handling {#set-up-error-handling}
 
 You can set up one lace to handle errors.

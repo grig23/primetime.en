@@ -1,11 +1,8 @@
 ---
 description: You can implement your resolvers based on the default resolvers.
-seo-description: You can implement your resolvers based on the default resolvers.
-seo-title: Implement a custom opportunity/content resolver
 title: Implement a custom opportunity/content resolver
-uuid: 0023f516-12f3-4548-93de-b0934789053b
+exl-id: a73f62e1-7e6e-4b16-9bf8-118ec0381c41
 ---
-
 # Implement a custom opportunity/content resolver {#implement-a-custom-opportunity-content-resolver}
 
 You can implement your resolvers based on the default resolvers.

@@ -1,11 +1,8 @@
 ---
 description: You can select a track from a list of currently available closed-caption tracks. This becomes the current track, which is displayed when visibility is on. Some tracks might not be available initially, so listen for the event that indicates that more have become available.
-seo-description: You can select a track from a list of currently available closed-caption tracks. This becomes the current track, which is displayed when visibility is on. Some tracks might not be available initially, so listen for the event that indicates that more have become available.
-seo-title: Select a current caption track from among available tracks
 title: Select a current caption track from among available tracks
-uuid: ee2bda5e-e398-4d09-bc5c-5a6adbf5f603
+exl-id: 9f1a0f7e-44f8-4595-8879-568ab237ca1c
 ---
-
 # Select a current caption track from among available tracks {#select-a-current-caption-track-from-among-available-tracks}
 
 You can select a track from a list of currently available closed-caption tracks. This becomes the current track, which is displayed when visibility is on. Some tracks might not be available initially, so listen for the event that indicates that more have become available.

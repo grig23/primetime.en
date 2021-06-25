@@ -1,11 +1,8 @@
 ---
 description: You can turn on this feature and check for related events.
-seo-description: You can turn on this feature and check for related events.
-seo-title: Use live master-manifest update
 title: Use live master-manifest update
-uuid: 4ec665ab-b7ce-4a45-a251-13a07eb4d789
+exl-id: 02cb3116-cc30-4139-841b-8d6297214b8b
 ---
-
 # Use live master-manifest update{#use-live-master-manifest-update}
 
 You can turn on this feature and check for related events.

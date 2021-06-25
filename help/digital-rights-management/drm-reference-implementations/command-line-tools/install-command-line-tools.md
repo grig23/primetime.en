@@ -1,9 +1,9 @@
 ---
-seo-title: Install the command-line tools
 title: Install the command-line tools
-uuid: 42fe7d55-7b8e-4f44-8714-ddae6c086d6a
+description: Install the command-line tools
+copied-description: yes
+exl-id: a4775d96-3a3b-4896-bdfb-c7bc51347166
 ---
-
 # Install the command-line tools {#install-the-command-line-tools}
 
 1. Copy the contents of the [DRM SDK DVD]\Reference Implementation\Command Line Tools\ directory to a working directory on your system.

@@ -1,11 +1,8 @@
 ---
 description: You can complete Digital Rights Management (DRM)-specific workflows.
-seo-description: You can complete Digital Rights Management (DRM)-specific workflows.
-seo-title: Digital Rights Management
 title: Digital Rights Management
-uuid: 011605c7-50c4-4ad5-9961-8cd92d0e6fd8
+exl-id: 5a40252b-2917-4341-bc64-8642432ddda9
 ---
-
 # Digital Rights Management {#digital-rights-management}
 
 You can complete Digital Rights Management (DRM)-specific workflows.

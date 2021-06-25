@@ -1,11 +1,8 @@
 ---
 description: In some cases you may want to restrict end users from playing content on multiple devices when the content is purchased or rented. If the customer is using Expressplay, this can be done by using the Expressplay APIs to bind the user's Expressplay token to the user's machine.
-seo-description: In some cases you may want to restrict end users from playing content on multiple devices when the content is purchased or rented. If the customer is using Expressplay, this can be done by using the Expressplay APIs to bind the user's Expressplay token to the user's machine.
-seo-title: Device Binding
 title: Device Binding
-uuid: 351fa33c-4226-4ed5-829c-56b563166fec
+exl-id: 96ead794-e3eb-4059-91d3-a2c351a17ea3
 ---
-
 # Device Binding{#device-binding}
 
 In some cases you may want to restrict end users from playing content on multiple devices when the content is purchased or rented. If the customer is using Expressplay, this can be done by using the Expressplay APIs to bind the user's Expressplay token to the user's machine.
@@ -25,4 +22,4 @@ You can use the APIs in the following way.
 
      This process generates a token for the content bound to the user's device_id. When the user's machine sends out a license request with this token, the Expressplay back-end will cross check the token's device_id with the license request's device_id.
 
-     A sample Expressplay entitlement server implements this workflow. 
+     A sample Expressplay entitlement server implements this workflow.

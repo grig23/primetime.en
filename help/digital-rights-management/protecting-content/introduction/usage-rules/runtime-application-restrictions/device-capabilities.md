@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Device capabilities required to play protected content
 title: Device capabilities required to play protected content
-uuid: 1490711b-65d9-4716-8779-ae1da7d2c82c
+description: Device capabilities required to play protected content
+copied-description: yes
+exl-id: 540fbb53-ec1a-43be-b51b-9937ed31e384
 ---
-
 # Device capabilities required to play protected content {#device-capabilities-required-to-play-protected-content}
 
 Device capabilities required specifies the hardware capabilities required to access content. Information about the hardware capabilities is available for devices that use the porting kit.
@@ -40,4 +38,3 @@ The following attributes can identify the device capabilities:
 >This usage rule is supported by Adobe Primetime DRM clients version 2.0.2 and later. The behavior on older clients depends on the minimum client version supported by the license server. 
 >
 >See [Minimum Client Version](../../../../protecting-content/setting-up-the-sdk/setup-dev-env.md).
-

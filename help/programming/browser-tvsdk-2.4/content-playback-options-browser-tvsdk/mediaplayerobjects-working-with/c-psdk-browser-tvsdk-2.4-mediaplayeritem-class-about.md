@@ -1,11 +1,8 @@
 ---
 description: After a MediaResource is successfully loaded, Browser TVSDK creates an instance of the MediaPlayerItem class to provide access to that resource.
-seo-description: After a MediaResource is successfully loaded, Browser TVSDK creates an instance of the MediaPlayerItem class to provide access to that resource.
-seo-title: About the MediaPlayerItem class
 title: About the MediaPlayerItem class
-uuid: 5226d3ad-2438-44fe-a8ef-bcc0da8331b8
+exl-id: 6e47914c-3d46-4aaf-9144-1a00d886e5bf
 ---
-
 # About the MediaPlayerItem class{#about-the-mediaplayeritem-class}
 
 After a MediaResource is successfully loaded, Browser TVSDK creates an instance of the MediaPlayerItem class to provide access to that resource.
@@ -17,4 +14,3 @@ The `MediaPlayer` resolves the media resource, loads the associated manifest fil
 >[!TIP]
 >
 >You must wait for the resource to be successfully loaded before accessing the media player item.
-

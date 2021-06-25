@@ -1,11 +1,8 @@
 ---
 description: An ad might have multiple creative, out of which one is selected to be played.
-seo-description: An ad might have multiple creative, out of which one is selected to be played.
-seo-title: Valid mime types
 title: Valid mime types
-uuid: ab2baac9-a9ef-44f1-83a1-2e6e471e3231
+exl-id: 878cae20-2a94-4795-8908-be7daffefb41
 ---
-
 # Valid mime types{#valid-mime-types}
 
 An ad might have multiple creative, out of which one is selected to be played.
@@ -23,4 +20,4 @@ auditudeSettings.validMimeTypes = mimeTypes;
 
 where `mimeTypes` is an array of strings, and each string represents a mime type.
 
-In case multiple media files are returned for an ad, the selection depends upon the order in which the media files appear in `validMimeTypes` array. The mime types that have lower index are given a preference over the ones with higher index. 
+In case multiple media files are returned for an ad, the selection depends upon the order in which the media files appear in `validMimeTypes` array. The mime types that have lower index are given a preference over the ones with higher index.

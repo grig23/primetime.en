@@ -1,9 +1,9 @@
 ---
-seo-title: License Embedder overview
 title: License Embedder overview
-uuid: 0639d7b0-a6c1-45fe-a21b-1fb23d0e379e
+description: License Embedder overview
+copied-description: yes
+exl-id: 8a58fbc2-179b-4b2e-83a9-fcbdbfb44a63
 ---
-
 # License Embedder overview {#license-embedder-overview}
 
-Using the License Embedder command line tool, you can embed pre-generated licenses into content protected using Media Packager. 
+Using the License Embedder command line tool, you can embed pre-generated licenses into content protected using Media Packager.

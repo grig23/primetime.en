@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Play back a locally packaged video
 title: Play back a locally packaged video
-uuid: 64a38c52-17f9-4108-9378-2d294b4a7c7b
+description: Play back a locally packaged video
+copied-description: yes
+exl-id: 25909e1e-6236-4388-a4f8-fd22326496c2
 ---
-
 # Play back a locally packaged video {#play-back-a-locally-packaged-video}
 
 1. To open a player, enter the following URL in a browser:

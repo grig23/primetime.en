@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Check whether the license server started properly
 title: Check whether the license server started properly
-uuid: a6a034c9-b3c4-4e26-b901-d2c132c00c52
+description: Check whether the license server started properly
+copied-description: yes
+exl-id: 05995a75-9468-4237-9091-a07606297772
 ---
-
 # Check whether the license server started properly {#check-whether-the-license-server-started-properly}
 
  There are several ways to determine whether your Reference Implementation License Server has started correctly. One way is to check the [!DNL catalina.log] logs, but this may not be sufficient, as the license server logs to its own log files. 

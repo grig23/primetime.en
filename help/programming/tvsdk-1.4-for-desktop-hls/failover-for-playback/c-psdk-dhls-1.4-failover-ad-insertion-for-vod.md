@@ -1,11 +1,8 @@
 ---
 description: The video-on-demand (VOD) ad-insertion process consists of the ad resolving, ad insertion, and ad playback phases. For ad tracking, TVSDK must inform a remote tracking server about the playback progress of each ad. When unexpected situations arise, it takes appropriate action.
-seo-description: The video-on-demand (VOD) ad-insertion process consists of the ad resolving, ad insertion, and ad playback phases. For ad tracking, TVSDK must inform a remote tracking server about the playback progress of each ad. When unexpected situations arise, it takes appropriate action.
-seo-title: Advertising insertion and failover for VOD
 title: Advertising insertion and failover for VOD
-uuid: 98505f63-ac43-4ff5-9f7b-895b6135df47
+exl-id: 5af5bef6-e948-4215-a89f-ee46fd2d8a38
 ---
-
 # Advertising insertion and failover for VOD{#advertising-insertion-and-failover-for-vod}
 
 The video-on-demand (VOD) ad-insertion process consists of the ad resolving, ad insertion, and ad playback phases. For ad tracking, TVSDK must inform a remote tracking server about the playback progress of each ad. When unexpected situations arise, it takes appropriate action.
@@ -62,4 +59,4 @@ For all three error classes, TVSDK forwards triggered events to your application
 
   Your application needs to take the appropriate action.
 
-Whether or not errors occur, TVSDK calls `AdBreakPlaybackEvent.AD_BREAK_COMPLETE` for each `AdBreakPlaybackEvent.AD_BREAK_STARTED` and `AdPlaybackEvent.AD_COMPLETED` for every `AdPLaybackEvent.AD_STARTED`. However, if segments could not be downloaded, there might be gaps in the timeline. When the gaps are large enough, the values in the playhead position and the reported ad progress might exhibit discontinuities. 
+Whether or not errors occur, TVSDK calls `AdBreakPlaybackEvent.AD_BREAK_COMPLETE` for each `AdBreakPlaybackEvent.AD_BREAK_STARTED` and `AdPlaybackEvent.AD_COMPLETED` for every `AdPLaybackEvent.AD_STARTED`. However, if segments could not be downloaded, there might be gaps in the timeline. When the gaps are large enough, the values in the playhead position and the reported ad progress might exhibit discontinuities.

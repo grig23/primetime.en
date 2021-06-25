@@ -1,11 +1,8 @@
 ---
 description: The status of the media player determines which actions are legal.
-seo-description: The status of the media player determines which actions are legal.
-seo-title: Lifecycle and statuses of the MediaPlayer object
 title: Lifecycle and statuses of the MediaPlayer object
-uuid: a2866f84-a722-46ed-b4cb-36664db5be82
+exl-id: b50d5378-4e9b-44c0-9098-8c3e27053b3b
 ---
-
 # Lifecycle and statuses of the MediaPlayer object{#lifecycle-and-statuses-of-the-mediaplayer-object}
 
 The status of the media player determines which actions are legal.

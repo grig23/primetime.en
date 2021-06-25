@@ -1,11 +1,8 @@
 ---
 description: TVSDK for iOS includes a variety of features.
-seo-description: TVSDK for iOS includes a variety of features.
-seo-title: Primetime TVSDK features
 title: Primetime TVSDK features
-uuid: 838d407c-84e1-4818-bec2-4abd7cbf5308
+exl-id: 1968c072-2651-442d-9e4c-412f7959bcab
 ---
-
 # Primetime TVSDK features {#primetime-tvsdk-features}
 
 TVSDK for iOS includes a variety of features and provides the following main capabilities:
@@ -45,4 +42,3 @@ TVSDK for iOS includes a variety of features and provides the following main cap
 * Logging
 
     * Debug logging
-

@@ -1,9 +1,9 @@
 ---
-seo-title: Overview
 title: Overview
-uuid: 5487d1d3-7eb8-410d-a4b1-cde3e94c00a1
+description: Overview
+copied-description: yes
+exl-id: 9aebdbd0-a6f0-4c9d-be2f-a8789cadf287
 ---
-
 # DRM License Embedder {#license-embedder}
 
 Use [!DNL AdobeLicenseEmbedder.jar] to embed pre-generated licenses into content that the Media Packager protects.

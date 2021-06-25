@@ -1,11 +1,8 @@
 ---
 description: Browser TVSDK provides your video app with information needed to respond to a user's click on a clickable ad.
-seo-description: Browser TVSDK provides your video app with information needed to respond to a user's click on a clickable ad.
-seo-title: Clickable ads
 title: Clickable ads
-uuid: 493c3199-b5ba-4809-86eb-e80f10eb957b
+exl-id: 5fd8b38d-bde7-4d80-bfb0-3390c8f2665c
 ---
-
 # Overview {#clickable-ads-overview}
 
 Browser TVSDK provides your video app with information needed to respond to a user's click on a clickable ad.

@@ -1,7 +1,7 @@
 ---
-seo-title: Using the DRMManager class overview
 title: Using the DRMManager class overview
-uuid: 71ce061b-75b6-4ab5-8bbd-cafe7c3e4592
+description: Using the DRMManager class overview
+copied-description: yes
 ---
 
 # Using the DRMManager class {#using-the-drmmanager-class}

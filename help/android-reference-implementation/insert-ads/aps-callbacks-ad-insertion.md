@@ -1,11 +1,8 @@
 ---
-seo-title: Related API documentation
 title: Related API documentation
 description: Related API documentation
-seo-description: Related API documentation
-uuid: e99172ab-3fa7-4ec1-a100-ca16b9dae569
+exl-id: 8c8bf189-98b1-4bcf-b7aa-049cc2a76108
 ---
-
 # Related API documentation {#related-api-documentation}
 
 * [Class AdsManager](https://help.adobe.com/en_US/primetime/api/reference_implementation/android/javadoc/com/adobe/primetime/reference/manager/AdsManager.html)

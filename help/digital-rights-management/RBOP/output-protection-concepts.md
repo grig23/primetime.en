@@ -1,11 +1,8 @@
 ---
 description: This section provides a conceptual overview of the configuration, options, and meanings associated with output protection.
-seo-description: This section provides a conceptual overview of the configuration, options, and meanings associated with output protection.
-seo-title: RBOP Concepts
 title: RBOP Concepts
-uuid: fc19c3c9-39a1-4b62-b763-101e5454a01f
+exl-id: 5b9de292-e060-467d-beca-5f428e45ed69
 ---
-
 # RBOP Concepts {#rbop-concepts}
 
 This section provides a conceptual overview of the configuration, options, and meanings associated with output protection.
@@ -25,4 +22,4 @@ The digital output requirement can specify restrictive options, such as "digital
 
 **Analog Output**
 
-Analog output connections are simpler than digital output; they consist of a single output requirement. 
+Analog output connections are simpler than digital output; they consist of a single output requirement.

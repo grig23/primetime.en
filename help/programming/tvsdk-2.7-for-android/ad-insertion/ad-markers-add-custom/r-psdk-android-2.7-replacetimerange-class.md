@@ -1,11 +1,8 @@
 ---
 description: The ReplaceTimeRange utility class is an extension of the TimeRange class to be used with CustomRangeMetadata.
-seo-description: The ReplaceTimeRange utility class is an extension of the TimeRange class to be used with CustomRangeMetadata.
-seo-title: ReplaceTimeRange class
 title: ReplaceTimeRange class
-uuid: 19c49b26-5096-4429-b30b-bdd2502e3036
+exl-id: 61885c52-d40a-4c72-97a0-51e56da9d449
 ---
-
 # ReplaceTimeRange class {#replacetimerange-class}
 
 The ReplaceTimeRange utility class is an extension of the TimeRange class to be used with CustomRangeMetadata.
@@ -30,4 +27,3 @@ public class ReplaceTimeRange extends TimeRange {
 }
 
 ```
-

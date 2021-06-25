@@ -1,11 +1,8 @@
 ---
 description: This is an example of how to create a button that allows a user to select a closed-caption track.
-seo-description: This is an example of how to create a button that allows a user to select a closed-caption track.
-seo-title: Example  Allow users to change the caption track
 title: Example  Allow users to change the caption track
-uuid: 4b69d569-0d6e-4388-9fe3-488e2a4d762d
+exl-id: d7ba19ac-cbfa-4fb4-a92d-21a3d0f7c23f
 ---
-
 # Example: Allow users to change the caption track{#example-allow-users-to-change-the-caption-track}
 
 This is an example of how to create a button that allows a user to select a closed-caption track.
@@ -81,4 +78,3 @@ This is an example of how to create a button that allows a user to select a clos
    } 
    
    ```
-

@@ -1,11 +1,8 @@
 ---
 description: You can add TVSDK behavior to pause and play buttons.
-seo-description: You can add TVSDK behavior to pause and play buttons.
-seo-title: Play and pause a video
 title: Play and pause a video
-uuid: 24b26364-5cb8-4a95-9574-cc52ddfa876b
+exl-id: 62e77f50-5133-4db5-bf10-fde7d28e959d
 ---
-
 # Play and pause a video{#play-and-pause-a-video}
 
 You can add TVSDK behavior to pause and play buttons.
@@ -26,5 +23,4 @@ You can add TVSDK behavior to pause and play buttons.
 
 1. Use the `MediaPlayer.PlaybackEventListener.onStateChanged` callback to check for errors or to take other appropriate actions.
 
-   TVSDK calls this callback when the pause or play method is called. TVSDK passes information about the state change in the callback, including the new state, such as PAUSED or PLAYING. 
-
+   TVSDK calls this callback when the pause or play method is called. TVSDK passes information about the state change in the callback, including the new state, such as PAUSED or PLAYING.

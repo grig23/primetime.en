@@ -1,11 +1,8 @@
 ---
 description: Some third-party ads (or creatives) cannot be stitched into the HTTP Live Streaming (HLS) content stream because their video format is incompatible with HLS. Primetime ad insertion and TVSDK can optionally attempt to repackage incompatible ads into compatible M3U8 videos.
-seo-description: Some third-party ads (or creatives) cannot be stitched into the HTTP Live Streaming (HLS) content stream because their video format is incompatible with HLS. Primetime ad insertion and TVSDK can optionally attempt to repackage incompatible ads into compatible M3U8 videos.
-seo-title: Repackage incompatible ads using Adobe Creative Repackaging Service (CRS)
 title: Repackage incompatible ads using Adobe Creative Repackaging Service (CRS)
-uuid: ef542d13-6d52-4429-8a1e-0af2df236f12
+exl-id: 7e1f9ffd-cd7e-488b-bbb7-f78e1623b697
 ---
-
 # Repackage incompatible ads using Adobe Creative Repackaging Service (CRS) {#repackage-incompatible-ads-using-adobe-creative-repackaging-service-crs}
 
 Some third-party ads (or creatives) cannot be stitched into the HTTP Live Streaming (HLS) content stream because their video format is incompatible with HLS. Primetime ad insertion and TVSDK can optionally attempt to repackage incompatible ads into compatible M3U8 videos.

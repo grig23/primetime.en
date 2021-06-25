@@ -1,11 +1,8 @@
 ---
 description: TVSDK supports the programmatic deleting and replacing of ad content in VOD streams.
-seo-description: TVSDK supports the programmatic deleting and replacing of ad content in VOD streams.
-seo-title: Custom time range operations
 title: Custom time range operations
-uuid: e04af786-8dac-41a6-8406-f2ca04f612a4
+exl-id: 10aa3609-d5d0-49e2-959f-d72d8dbd6ef4
 ---
-
 # Custom time range operations {#custom-time-range-operations}
 
 TVSDK supports the programmatic deleting and replacing of ad content in VOD streams.

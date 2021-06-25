@@ -1,11 +1,8 @@
 ---
 description: TVSDK provides default opportunity generators and content resolvers that place ads in the timeline, and these generators and resolvers are based on nonstandard tags in the manifest. Your application might need to alter the timeline based on opportunities that are identified in the manifest, such as indicators for a blackout period.
-seo-description: TVSDK provides default opportunity generators and content resolvers that place ads in the timeline, and these generators and resolvers are based on nonstandard tags in the manifest. Your application might need to alter the timeline based on opportunities that are identified in the manifest, such as indicators for a blackout period.
-seo-title: Opportunity generators and content resolvers
 title: Opportunity generators and content resolvers
-uuid: 35823336-5338-4cdc-8778-e73cd1d05251
+exl-id: 8c8a4302-756e-4eae-a286-24e5e503dadb
 ---
-
 # Opportunity generators and content resolvers {#opportunity-generators-and-content-resolvers}
 
 TVSDK provides default opportunity generators and content resolvers that place ads in the timeline, and these generators and resolvers are based on nonstandard tags in the manifest. Your application might need to alter the timeline based on opportunities that are identified in the manifest, such as indicators for a blackout period.
@@ -16,4 +13,4 @@ When your application is notified about an opportunity, your application might a
 
 You can also use `MediaPlayerItemConfig.setAdTags` to add more ad marker tags/cues so that TVSDK can recognize and use `MediaPlayerItemConfig.subscribedTags` and notify your application about additional tags that might have advertising workflow information.
 
-One possible use of a custom resolver is for blackout periods. To handle these periods, your application could implement and register a blackout opportunity detector that is responsible for handling blackout tags. When TVSDK encounters this tag, it polls all the registered content resolvers to find the first one that handles the specified tag. In this example, it is the blackout content resolver, which can, for example, replace the current item with alternate content on the player for the duration that is specified by the tag. 
+One possible use of a custom resolver is for blackout periods. To handle these periods, your application could implement and register a blackout opportunity detector that is responsible for handling blackout tags. When TVSDK encounters this tag, it polls all the registered content resolvers to find the first one that handles the specified tag. In this example, it is the blackout content resolver, which can, for example, replace the current item with alternate content on the player for the duration that is specified by the tag.

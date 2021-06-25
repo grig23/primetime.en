@@ -1,11 +1,8 @@
 ---
 description: The behavior of media playback is affected by seeking, pausing, fast forward or rewind (trick play mode), and the inclusion of advertising.
-seo-description: The behavior of media playback is affected by seeking, pausing, fast forward or rewind (trick play mode), and the inclusion of advertising.
-seo-title: Default and customized playback behavior with ads
 title: Default and customized playback behavior with ads
-uuid: b977d7b5-bbae-4af4-92a7-0fdbffb08785
+exl-id: 242a94e7-acc1-4676-b8a7-9652d4fd1e7e
 ---
-
 # Default and customized playback behavior with ads {#default-and-customized-playback-behavior-with-ads}
 
 The behavior of media playback is affected by seeking, pausing, fast forward or rewind (trick play mode), and the inclusion of advertising.
@@ -87,4 +84,3 @@ The following table describes how TVSDK handles ads and ad breaks during playbac
   </tr> 
  </tbody> 
 </table>
-

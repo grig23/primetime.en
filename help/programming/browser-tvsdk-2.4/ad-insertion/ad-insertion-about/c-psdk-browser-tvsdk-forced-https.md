@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Secure Ad Loading over HTTPS
 title: Secure Ad Loading over HTTPS
-uuid: 10657f59-cfbf-4c75-9249-fc154952bc51
+description: Secure Ad Loading over HTTPS
+copied-description: yes
+exl-id: d43418e9-631b-4344-a5b3-0a6154a325d4
 ---
-
 # Secure Ad Loading over HTTPS{#secure-ad-loading-over-https}
 
 Adobe Primetime can request third-party ad servers over https even if the player is hosted on http. Only those ad-servers calls are upgraded to https that the client seeks during the Auditude Ad resolver phase.

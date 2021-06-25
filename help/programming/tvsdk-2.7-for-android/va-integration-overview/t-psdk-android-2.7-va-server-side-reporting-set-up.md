@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Set up video analytics reporting on the server side
 title: Set up video analytics reporting on the server side
-uuid: 0c9443a5-17e8-40ee-82a7-72a69c853077
+description: Set up video analytics reporting on the server side
+copied-description: yes
+exl-id: e8b7843c-f521-455c-b64d-abe3db426211
 ---
-
 # Set up video analytics reporting on the server side {#set-up-video-analytics-reporting-on-the-server-side}
 
  Your Adobe representative will handle most aspects of the server-side setup for Adobe Analytics reporting. For more information, see [Analytics Help and Reference - Report Suite Manager](https://microsite.omniture.com/t2/help/en_US/reference/#Report_Suite_Manager). 

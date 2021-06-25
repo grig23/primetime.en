@@ -1,11 +1,8 @@
 ---
 description: You can set up one place in your application to perform error handling in response to the ERROR state.
-seo-description: You can set up one place in your application to perform error handling in response to the ERROR state.
-seo-title: Set up error handling
 title: Set up error handling
-uuid: 9e650ea7-86cb-4489-a3fd-80cd2ccef41f
+exl-id: c0ce1d80-85d5-4344-9ab0-bd56906421cb
 ---
-
 # Set up error handling{#set-up-error-handling}
 
 You can set up one place in your application to perform error handling in response to the ERROR state.
@@ -42,4 +39,3 @@ onStatusChange = function (event) {
 } 
 
 ```
-

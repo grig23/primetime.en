@@ -1,11 +1,8 @@
 ---
 description: If your system has access to hardware-assisted decoding, you can achieve smoother trick play than with the pure software TVSDK implementation by using iFrame format.
-seo-description: If your system has access to hardware-assisted decoding, you can achieve smoother trick play than with the pure software TVSDK implementation by using iFrame format.
-seo-title: Smoother trick play operations
 title: Smoother trick play operations
-uuid: 4749bfa0-17bf-4444-a167-987249945325
+exl-id: 2dcc8ee2-78a1-4ec8-b876-e06e5ec1e398
 ---
-
 # Smoother trick play operations {#smoother-trick-play-operations}
 
 If your system has access to hardware-assisted decoding, you can achieve smoother trick play than with the pure software TVSDK implementation by using iFrame format.
@@ -18,4 +15,4 @@ Using iFrame format results in trick play operations that are not smooth. Smooth
 >
 >Adobe recommends that you limit playback to double speed for newer Android devices and not use the feature for older Android devices.
 
-To achieve smoother trick play, set `ABRControlParameters.maxPlayoutRate` to the desired multiple of normal speed (for example, 2.0 for double speed). If a subsequent call to `MediaPlayer.setRate()` has an argument that is less than or equal to the value you set for `maxPlayoutRate`, TVSDK uses a normal profile to achieve smoother trick play. Otherwise it uses an iFrame profile for the trickplay operation. 
+To achieve smoother trick play, set `ABRControlParameters.maxPlayoutRate` to the desired multiple of normal speed (for example, 2.0 for double speed). If a subsequent call to `MediaPlayer.setRate()` has an argument that is less than or equal to the value you set for `maxPlayoutRate`, TVSDK uses a normal profile to achieve smoother trick play. Otherwise it uses an iFrame profile for the trickplay operation.

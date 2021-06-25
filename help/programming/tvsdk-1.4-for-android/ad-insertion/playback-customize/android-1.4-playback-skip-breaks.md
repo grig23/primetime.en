@@ -1,11 +1,8 @@
 ---
 description: By default, TVSDK forces an ad break to play when the user seeks over an ad break. You can customize the behavior to skip an ad break if the time elapsed from a previous break completion is within a certain number of minutes.
-seo-description: By default, TVSDK forces an ad break to play when the user seeks over an ad break. You can customize the behavior to skip an ad break if the time elapsed from a previous break completion is within a certain number of minutes.
-seo-title: Skip ad breaks for a period of time
 title: Skip ad breaks for a period of time
-uuid: f07d838b-3c1d-4cea-a3aa-dba33964ac81
+exl-id: 0d2d86e2-e1b5-4ede-bab3-75e15c47227f
 ---
-
 # Skip ad breaks for a period of time {#skip-ad-breaks-for-a-period-of-time}
 
 By default, TVSDK forces an ad break to play when the user seeks over an ad break. You can customize the behavior to skip an ad break if the time elapsed from a previous break completion is within a certain number of minutes.
@@ -185,4 +182,3 @@ The following example of a customized ad policy selector skips ads in the next f
    } 
    
    ```
-

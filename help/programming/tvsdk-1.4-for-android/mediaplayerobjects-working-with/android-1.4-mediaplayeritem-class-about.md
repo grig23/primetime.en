@@ -1,11 +1,8 @@
 ---
 description: The MediaPlayer object represents your media player. A MediaPlayerItem represents audio or video on your player.
-seo-description: The MediaPlayer object represents your media player. A MediaPlayerItem represents audio or video on your player.
-seo-title: About the MediaPlayerItem class
 title: About the MediaPlayerItem class
-uuid: d7f65edf-4693-4b1e-bae0-46fadce98751
+exl-id: 07105fab-0338-4410-93f3-e337d46d9de5
 ---
-
 # About the MediaPlayerItem class{#about-the-mediaplayeritem-class}
 
 The MediaPlayer object represents your media player. A MediaPlayerItem represents audio or video on your player.
@@ -19,4 +16,3 @@ The `MediaPlayer` resolves the media resource, loads the associated manifest fil
 >[!TIP]
 >
 >You must wait for the resource to be successfully loaded before accessing the media player item.
-

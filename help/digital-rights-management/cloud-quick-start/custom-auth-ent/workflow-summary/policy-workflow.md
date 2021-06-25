@@ -1,9 +1,9 @@
 ---
-seo-title: Policy workflow details
 title: Policy workflow details
-uuid: b355fcf6-3416-440f-9b30-a155e20f9f74
+description: Policy workflow details
+copied-description: yes
+exl-id: e3daf7a9-def0-48a9-8190-adb25eec7b59
 ---
-
 # BEES Workflow {#bees-workflow}
 
 **Summary:**
@@ -148,4 +148,4 @@ The following response is expected from the BEES endpoint:
 
 ```
 
-Primetime Cloud DRM uses the response to determine whether or not it should issue a license to the requesting device, and if it should substitute a new DRM policy into the license generation process. If `isAllowed` is `true` and no policy is provided in the response, then the original DRM Policy used during content packaging time will be used to generate the license. 
+Primetime Cloud DRM uses the response to determine whether or not it should issue a license to the requesting device, and if it should substitute a new DRM policy into the license generation process. If `isAllowed` is `true` and no policy is provided in the response, then the original DRM Policy used during content packaging time will be used to generate the license.

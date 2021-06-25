@@ -1,9 +1,9 @@
 ---
-seo-title: Example of a customized VOD asset
 title: Example of a customized VOD asset
-uuid: 599054c3-d6ef-4f85-9a0f-39c7e4f6ab24
+description: Example of a customized VOD asset
+copied-description: yes
+exl-id: eb6b8438-11b4-4199-8186-d81b3797bfaa
 ---
-
 # Example of a customized VOD asset{#example-of-a-customized-vod-asset}
 
 Here is an example of a customized VOD asset:
@@ -38,4 +38,3 @@ Your application could set up the following scenarios:
 
 * A notification when `#EXT-X-ASSET` tags, or any other set of custom tag names to which you have subscribed, exist in the file. 
 * Insert ads when an `#EXT-X-AD` tag, or any other custom tag name, is found in the stream.
-

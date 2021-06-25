@@ -1,9 +1,9 @@
 ---
-seo-title: Request a certificate (Requester)
 title: Request a certificate (Requester)
-uuid: f0d7f65d-681d-430f-b67b-3bdceb4b6d37
+description: Request a certificate (Requester)
+copied-description: yes
+exl-id: 290231ec-1146-4bfb-a449-b8ff85704197
 ---
-
 # Request a certificate (Requester){#request-a-certificate-requester}
 
 1. Log onto the Certificate Enrollment site.
@@ -27,5 +27,4 @@ uuid: f0d7f65d-681d-430f-b67b-3bdceb4b6d37
 
 1. Click the **[!UICONTROL Submit Request]** button.
 
-   An e-mail is sent to the Account and Secondary Administrators for review. The Requester is Cc'd. 
-
+   An e-mail is sent to the Account and Secondary Administrators for review. The Requester is Cc'd.

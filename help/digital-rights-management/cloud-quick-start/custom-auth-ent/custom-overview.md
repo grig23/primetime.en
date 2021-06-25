@@ -1,9 +1,9 @@
 ---
-seo-title: Custom authentication/entitlement overview (Optional)
 title: Custom authentication/entitlement overview (Optional)
-uuid: 8b5e38a5-562c-4781-ac40-4b3d6cdd97fe
+description: Custom authentication/entitlement overview (Optional)
+copied-description: yes
+exl-id: d92c4246-c772-44da-80b6-4086dfc30ff4
 ---
-
 # Custom authentication/entitlement overview (Optional){#custom-authentication-entitlement-overview-optional}
 
 Primetime Cloud DRM can be configured to reach out to your own Back-End Authentication/Entitlement service to determine:
@@ -16,4 +16,3 @@ Primetime Cloud DRM includes a reference implementation of a back-end authentica
 >[!NOTE]
 >
 >Previously, this was a separate product called *Back End Entitlement Server* (BEES), thus the references to BEES throughout this document and in the source files.
-

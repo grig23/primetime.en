@@ -1,11 +1,8 @@
 ---
 description: You can add TVSDK behavior to pause and play buttons.
-seo-description: You can add TVSDK behavior to pause and play buttons.
-seo-title: Play and pause a video
 title: Play and pause a video
-uuid: 04b3b23f-5ef1-4cc4-a22f-f6ffa9cefce5
+exl-id: c1c259a4-edb8-475b-96a2-7fa0903804c3
 ---
-
 # Play and pause a video{#play-and-pause-a-video}
 
 You can add TVSDK behavior to pause and play buttons.

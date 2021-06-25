@@ -1,11 +1,8 @@
 ---
 description: This table proves detailed information about WARN. type notifications.
-seo-description: This table proves detailed information about WARN. type notifications.
-seo-title: WARNING notification codes
 title: WARNING notification codes
-uuid: 1ce5be07-f5bf-443c-b907-9768633e1300
+exl-id: 3d76aba4-ace8-4a49-b930-96bbcad41f25
 ---
-
 # WARNING notification codes{#warning-notification-codes}
 
 This table proves detailed information about WARN. type notifications.
@@ -109,4 +106,3 @@ Most warnings contain relevant metadata, for example, the URL of the resource th
   </tr> 
  </tbody> 
 </table>
-

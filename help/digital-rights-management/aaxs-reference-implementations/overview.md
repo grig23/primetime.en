@@ -1,9 +1,9 @@
 ---
-seo-title: Overview- Using the reference implementations
 title: Overview- Using the reference implementations
-uuid: 4009b6d1-b315-4117-8c26-c2f6ee0cefc2
+description: Overview- Using the reference implementations
+copied-description: yes
+exl-id: 2a5075f4-3e7b-4e4c-b69d-c044b064e282
 ---
-
 # Overview- Using the reference implementations {#overview-using-the-reference-implementations}
 
 The Adobe Access product comes with a reference implementation for the following components:

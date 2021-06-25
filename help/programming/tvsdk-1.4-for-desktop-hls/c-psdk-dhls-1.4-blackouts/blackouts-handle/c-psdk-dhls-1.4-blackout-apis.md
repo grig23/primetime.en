@@ -1,11 +1,8 @@
 ---
 description: TVSDK provides API elements that are useful when implementing blackouts, including methods, metadata, and notifications.
-seo-description: TVSDK provides API elements that are useful when implementing blackouts, including methods, metadata, and notifications.
-seo-title: Blackout API elements
 title: Blackout API elements
-uuid: 65e1668c-6a19-4910-83a2-46d364e94e5f
+exl-id: 9dae236b-0bd8-4fce-9163-628d4ed94f02
 ---
-
 # Blackout API elements{#blackout-api-elements}
 
 TVSDK provides API elements that are useful when implementing blackouts, including methods, metadata, and notifications.
@@ -37,4 +34,3 @@ You can use the following when implementing a blackout solution in your player.
         * Error in background manifest download.
 
     * `SeekEvent.SEEK_POSITION_ADJUSTED` Dispatched when a seek is attempted in a nonseekable range.
-

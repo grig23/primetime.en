@@ -1,13 +1,9 @@
 ---
 title: Manifest Server Debugging Tool
-seo-title: Manifest Server Debugging Tool
 description: Manifest Server Debugging Tool
-seo-description: Manifest Server Debugging Tool
-uuid: 0b4f06f5-4b1f-4f88-980a-5b4df28e0094
 products: SG_PRIMETIME
 topic-tags: ad-insertion
-discoiquuid: 00b49659-ce56-4b5c-87cd-c357a0936641
-donotlocalize: false
+discoiqdonotlocalize: false
 moreHelpPaths: /content/help/en/primetime/morehelp/ad-insertion;/content/help/en/primetime/morehelp/ad-insertion
 pagecreatedat: en
 pagelayout: video

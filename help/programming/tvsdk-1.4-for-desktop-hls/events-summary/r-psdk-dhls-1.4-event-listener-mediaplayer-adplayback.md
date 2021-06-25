@@ -1,11 +1,8 @@
 ---
 description: TVSDK dispatches ad-playback events in response to ad-related operations such as when an ad starts playing.
-seo-description: TVSDK dispatches ad-playback events in response to ad-related operations such as when an ad starts playing.
-seo-title: Ad playback events
 title: Ad playback events
-uuid: 63138237-2315-45ff-914d-369da18fdff7
+exl-id: 61e7c9ec-20ed-4221-8ae7-b5d43adb4ce4
 ---
-
 # Ad playback events {#ad-playback-events}
 
 TVSDK dispatches ad-playback events in response to ad-related operations such as when an ad starts playing.

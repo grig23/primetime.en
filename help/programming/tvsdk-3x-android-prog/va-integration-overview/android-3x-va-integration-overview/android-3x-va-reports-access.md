@@ -1,11 +1,8 @@
 ---
 description: Video analytics reports are routed to the Adobe Analytics reporting platforms.
-seo-description: Video analytics reports are routed to the Adobe Analytics reporting platforms.
-seo-title: Access video analytics reports
 title: Access video analytics reports
-uuid: 1c59e4fa-4577-42d9-b18b-0b4f799aa986
+exl-id: 4e269a46-96b9-4c4f-9dc0-3f34b2a421ae
 ---
-
 # Access video analytics reports {#access-video-analytics-reports}
 
 Video analytics reports are routed to the Adobe Analytics reporting platforms.

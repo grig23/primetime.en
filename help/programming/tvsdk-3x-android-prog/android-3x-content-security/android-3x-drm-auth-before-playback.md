@@ -1,11 +1,8 @@
 ---
 description: When the DRM metadata for a video is separate from the media stream, you should authenticate before you beginning the playback.
-seo-description: When the DRM metadata for a video is separate from the media stream, you should authenticate before you beginning the playback.
-seo-title: DRM authentication before playback
 title: DRM authentication before playback
-uuid: be319b04-a506-4278-8275-db32cd3f18aa
+exl-id: 74eb7218-403e-4264-9063-bf959403436f
 ---
-
 # DRM authentication before playback {#drm-authentication-before-playback}
 
 When the DRM metadata for a video is separate from the media stream, you should authenticate before you beginning the playback.

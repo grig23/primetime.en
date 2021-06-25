@@ -1,11 +1,8 @@
 ---
 description: This Multi-DRM workflow takes you through setup, packaging, licensing, and playback of DASH content encrypted with Widevine and PlayReady.
-seo-description: This Multi-DRM workflow takes you through setup, packaging, licensing, and playback of DASH content encrypted with Widevine and PlayReady.
-seo-title: Multi-DRM Workflow for Widevine and PlayReady
 title: Multi-DRM Workflow for Widevine and PlayReady
-uuid: 295a7024-353c-4ff5-a46a-927020834322
+exl-id: 97adfa69-52ef-470b-903a-eff1f075b7be
 ---
-
 # Multi-DRM Workflow for Widevine and PlayReady {#multi-drm-workflow-for-widevine-and-playready}
 
 This Multi-DRM workflow takes you through setup, packaging, licensing, and playback of DASH content encrypted with Widevine and PlayReady.
@@ -133,4 +130,4 @@ Observe that the first example above refers to one file only for each stream, wh
 </Representation>
 ```
 
-In this case, the content parser (TVSDK) expects to find video content at Jaigo0.m4s, Jaigo1.m4s, Jaigo2.m4s, and so on. This is primarily used for live streaming and has the advantage that it does not requre the client to download the manifest all over again from time to time. 
+In this case, the content parser (TVSDK) expects to find video content at Jaigo0.m4s, Jaigo1.m4s, Jaigo2.m4s, and so on. This is primarily used for live streaming and has the advantage that it does not requre the client to download the manifest all over again from time to time.

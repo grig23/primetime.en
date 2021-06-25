@@ -1,11 +1,9 @@
 ---
-description: null
-seo-description: null
-seo-title: Usage model demo business rules
 title: Usage model demo business rules
-uuid: c55f85be-5ecb-4a78-b47d-7001ec207d3a
+description: Usage model demo business rules
+copied-description: yes
+exl-id: 689a0335-55e9-427a-bc27-3a69e37ef0b5
 ---
-
 # Usage model demo business rules{#usage-model-demo-business-rules}
 
 When a user requests a license, the Reference Implementation server checks the metadata that the client has sent, to determine whether the content was packaged by using the `RI_UsageModelDemo` property. If that is the case, the server applies the following business rules.
@@ -32,4 +30,3 @@ When a user requests a license, the Reference Implementation server checks the m
         * Otherwise return a "not authorized" error.
 
 * If one of the DRM policies allows for anonymous access, generate a license for the Ad-funded usage model and send it to the user.
-

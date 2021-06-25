@@ -1,11 +1,8 @@
 ---
 description: These classes provide decoding and parsing for packets and tags.
-seo-description: These classes provide decoding and parsing for packets and tags.
-seo-title: System decoders classes
 title: System decoders classes
-uuid: b333166b-3a13-48c5-a5d7-d8a64f0cd736
+exl-id: 852ff1d0-aa8b-47d3-baff-ef5d78507e4b
 ---
-
 # System decoders classes {#system-decoders-classes}
 
 These classes provide decoding and parsing for packets and tags.
@@ -17,4 +14,3 @@ These classes provide decoding and parsing for packets and tags.
 | [DefaultSCTE35TagDecoder](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/system/decoders/DefaultSCTE35TagDecoder.html)  | Class. Generic decoder for SCTE35 packets encoded as Base64 strings.  |
 | [DefaultTextTagDecoder](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/system/decoders/DefaultTextTagDecoder.html)  | Class. Generic parser for HLS tags.  |
 | [TagDecoder](https://help.adobe.com/en_US/primetime/api/psdk/asdoc-dhls_1.4/com/adobe/mediacore/system/decoders/TagDecoder.html)  | Base class for decoders supporting various custom tags.  |
-

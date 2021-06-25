@@ -1,11 +1,8 @@
 ---
 description: When playback reaches an ad break, passes an ad break, or ends in an ad break, TVSDK defines some default behavior for the positioning of the current playhead.
-seo-description: When playback reaches an ad break, passes an ad break, or ends in an ad break, TVSDK defines some default behavior for the positioning of the current playhead.
-seo-title: Customize playback with ads
 title: Customize playback with ads
-uuid: 58002ec2-65ab-4e3b-8e3b-f755ced5cb5a
+exl-id: f59e94c2-7ca0-4e0b-b0b1-af076fdd4064
 ---
-
 # Customize playback with ads{#customize-playback-with-ads}
 
 When playback reaches an ad break, passes an ad break, or ends in an ad break, TVSDK defines some default behavior for the positioning of the current playhead.
@@ -299,4 +296,3 @@ Dynamically inserted ads differ between user sessions, so saving the position **
    >[!NOTE]
    >
    >This method includes a pre-roll ad break and the mid-roll ad breaks before the local time position. Your application can decide to play a pre-roll ad break and resume to the specified local time, play a mid-roll ad break and resume to the specified local time, or play no ad breaks.
-

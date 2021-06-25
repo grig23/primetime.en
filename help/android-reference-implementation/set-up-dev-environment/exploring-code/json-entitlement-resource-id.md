@@ -1,11 +1,8 @@
 ---
-seo-title: JSON object for entitlement resource ID
 title: JSON object for entitlement resource ID
-uuid: f5b659da-1732-404c-bf00-d32a0ae39aa1
 description: The following code block provides an example of a JSON object when the entitlement resource ID is a simple text string.
-seo-description: The following code block provides an example of a JSON object when the entitlement resource ID is a simple text string.
+exl-id: 396c43e7-404a-40f5-8113-a720e2c834e7
 ---
-
 # JSON object for entitlement resource ID {#json-object-for-entitlement-resource-id}
 
 The following code block provides an example of a JSON object when the entitlement resource ID is a simple text string. In this case, the resource ID is the string "resource".

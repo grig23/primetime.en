@@ -1,11 +1,8 @@
 ---
 description: TVSDK applies creative selection rules in the following ways 
-seo-description: TVSDK applies creative selection rules in the following ways 
-seo-title: Applying creative selection rules
 title: Applying creative selection rules
-uuid: 3949bc24-3060-408b-adae-947be790a8ff
+exl-id: 44cb3905-fea9-47b2-9a8f-06a2a8695848
 ---
-
 # Applying creative selection rules{#applying-creative-selection-rules}
 
 TVSDK applies creative selection rules in the following ways:
@@ -18,4 +15,4 @@ TVSDK applies creative selection rules in the following ways:
 
 * If an ad creative is selected that TVSDK cannot play natively ( [!DNL .mp4], [!DNL .flv], etc.), TVSDK issues a repackaging request.
 
-Note that the ad types that can be handled by TVSDK are still defined through the `validMimeTypes` setting in `AuditudeSettings`. 
+Note that the ad types that can be handled by TVSDK are still defined through the `validMimeTypes` setting in `AuditudeSettings`.

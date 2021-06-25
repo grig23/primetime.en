@@ -1,11 +1,8 @@
 ---
 description: Your application must use the appropriate PTTimedMetadata objects at the appropriate times.
-seo-description: Your application must use the appropriate PTTimedMetadata objects at the appropriate times.
-seo-title: Store timed metadata objects as they are dispatched
 title: Store timed metadata objects as they are dispatched
-uuid: 38e72a9b-571a-48da-9c17-80be453e6a98
+exl-id: 8b859e8d-eb4c-48f9-a95e-1bcc35a2a520
 ---
-
 # Store timed metadata objects as they are dispatched {#store-timed-metadata-objects-as-they-are-dispatched}
 
 Your application must use the appropriate PTTimedMetadata objects at the appropriate times.

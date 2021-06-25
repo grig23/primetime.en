@@ -1,8 +1,9 @@
 ---
 title: Delivery and storage
-description: 
+description: Delivery and storage
+copied-description: yes
+exl-id: 84ccc140-02e6-4293-b087-13f87aee355b
 ---
-
 # Delivery and storage {#delivery-and-storage}
 
 Primetime Ad Insertion supports ad creative storage on either customer CDNs or Adobe-hosted CDNs.

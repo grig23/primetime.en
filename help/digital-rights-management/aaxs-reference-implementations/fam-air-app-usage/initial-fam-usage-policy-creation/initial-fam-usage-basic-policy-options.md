@@ -1,9 +1,9 @@
 ---
-seo-title: Basic Policy Options
 title: Basic Policy Options
-uuid: b09543b6-26a7-4e4d-8e8f-866b4bf9cc50
+description: Basic Policy Options
+copied-description: yes
+exl-id: d5ddd54d-9301-42da-b7fd-0b838eb6cf9d
 ---
-
 # Basic Policy Options {#basic-policy-options}
 
 The following table describes the Basic Policy preferences: 
@@ -23,4 +23,3 @@ The following table describes the Basic Policy preferences:
 |  | Anonymous  | No authentication is required to view the content.  |
 |  | Authenticated  | Username/password authentication is required.  |
 |  Enable License Chaining  | Allows a license to be updated using a parent root license for batch updating of licenses. Once the leaf license expires, the server may issue the client a root license, which will renew all content protected with this policy.  |
-

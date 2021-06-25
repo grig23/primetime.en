@@ -1,11 +1,8 @@
 ---
 description: In Browser TVSDK, you can seek to a specific position (time) in a stream. A stream can be a sliding-window playlist or video-on-demand (VOD) content.
-seo-description: In Browser TVSDK, you can seek to a specific position (time) in a stream. A stream can be a sliding-window playlist or video-on-demand (VOD) content.
-seo-title: Handle seek when using the seek bar
 title: Handle seek when using the seek bar
-uuid: a7c74141-581f-40a3-9d28-ce56ba56773c
+exl-id: 4c09b218-917a-4318-82b0-c221d450a2c1
 ---
-
 # Handle seek when using the seek bar{#handle-seek-when-using-the-seek-bar}
 
 In Browser TVSDK, you can seek to a specific position (time) in a stream. A stream can be a sliding-window playlist or video-on-demand (VOD) content.
@@ -70,4 +67,3 @@ In Browser TVSDK, you can seek to a specific position (time) in a stream. A stre
     * `AdobePSDK.PSDKEventType.SEEK_BEGIN` to indicate that seek is starting. 
     * `AdobePSDK.PSDKEventType.SEEK_END` to indicate that seeking was successful. 
     * `AdobePSDK.PSDKEventType.SEEK_POSITION_ADJUSTED` to indicate that the media player has readjusted the seek position provided by the user.
-
