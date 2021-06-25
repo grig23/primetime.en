@@ -14,7 +14,7 @@ The `PTMediaPlayer` property, [seekableRange](https://help.adobe.com/en_US/prime
 * For VOD, this range is the entire VOD content range, including ads. 
 * For live/linear, this range represents the seekable window.
 
-   For more information about the API, see [TVSDK 3.4 for iOS API Reference](https://help.adobe.com/en_US/primetime/api/psdk/appledoc_v3/index.html)
+For more information about the API, see [TVSDK 3.4 for iOS API Reference](https://help.adobe.com/en_US/primetime/api/psdk/appledoc_v3/index.html)
 
 <!--<a id="example_A153BE3AC03F43C6BF3A156316A08CD3"></a>-->
 
