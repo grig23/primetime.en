@@ -20,8 +20,8 @@ When Primetime Cloud DRM processes a license request, it parses the DRM policy i
 
 Apply your DRM policy that indicates the BEES requirement, specifying the following two custom properties in the policy:
 
-    * `policy.customProp.1=bees.required=<true | false>` 
-    * `policy.customProp.2=bees.url=<url to your BEES endpoint>`
+* `policy.customProp.1=bees.required=<true | false>` 
+* `policy.customProp.2=bees.url=<url to your BEES endpoint>`
 
 <!--<a id="example_F617FC49A4824C0CB234C92E57D876D3"></a>-->
 
