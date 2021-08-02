@@ -29,7 +29,7 @@ java -jar AdobePublisherIDUtility.jar
 </i class="+ topic>
 ```
 
-* * `signaturefile`* specifies a path to the AIR application's [!DNL signatures.xml] file, located in the applications [!DNL META-INF] directory 
+* `signaturefile` specifies a path to the AIR application's [!DNL signatures.xml] file, located in the applications [!DNL META-INF] directory 
 
 * `signingcert` specifies the certificate that is used to sign an AIR application
 
