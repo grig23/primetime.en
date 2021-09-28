@@ -19,7 +19,7 @@ Before activating video tracking (video heartbeats), ensure that you have the fo
   </tr>
   <tr>
    <td colname="col1"> Video analytics tracking server endpoint </td>
-   <td colname="col2"> The URL of the video analytics back-end collection endpoint. This is where all video heartbeat tracking calls are sent. <p>Tip:  The URL of the visitor tracking server is the same as the URL of the analytics tracking server. For information about implementing the Visitor ID Service, see <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-setup-target.html" format="html" scope="external"> Implement ID Service </a>. </p> </td>
+   <td colname="col2"> The URL of the video analytics back-end collection endpoint. This is where all video heartbeat tracking calls are sent. <p>Tip:  The URL of the visitor tracking server is the same as the URL of the analytics tracking server. For information about implementing the Visitor ID Service, see <a href="https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-target.html?lang=en" format="html" scope="external"> Implement ID Service </a>. </p> </td>
   </tr>
   <tr>
    <td colname="col1"> Account name </td>
@@ -52,7 +52,7 @@ To configure video tracking in your player:
     * The only configuration option for the VisitorAPI library is the URL of the back-end endpoint that provides the unique identifier for the current user.
     * The URL of the visitor tracking server is the same as the URL of the analytics tracking server.
 
-      For information about implementing the Visitor ID Service, see [Visitor ID Service Implementation](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-setup-target.html).
+      For information about implementing the Visitor ID Service, see [Visitor ID Service Implementation](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-target.html?lang=en).
 
    ```js
    var_visitor = new Visitor("MARKETING_CLOUD_ORG_ID");
