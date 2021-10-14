@@ -1,13 +1,13 @@
 ---
-title: TVSDK 3.13 for Android Release Notes
-description: TVSDK 3.13 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.13
+title: TVSDK 3.14 for Android Release Notes
+description: TVSDK 3.14 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.14
 products: SG_PRIMETIME
 topic-tags: release-notes
 exl-id: cd2c64ef-dd42-4dc2-805f-eeb64a8a53d9
 ---
-# TVSDK 3.13 for Android Release Notes {#tvsdk-for-android-release-notes}
+# TVSDK 3.14 for Android Release Notes {#tvsdk-for-android-release-notes}
 
-TVSDK 3.13 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.13.
+TVSDK 3.14 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.14.
 
 The Android reference player is included with Android TVSDK in the samples/ directory of your distribution. The accompanying README.md file explains how to build the reference player.
 
@@ -22,17 +22,21 @@ TVSDK for Android provides many performance improvements over previous versions.
 
 The comprehensive set of features supported and not supported are presented in the [Features Matrix](#feature-matrix) section of the release notes.
 
-## Android TVSDK 3.13
+## Android TVSDK 3.14
+
+This version fixes the issue where application crashes when [!UICONTROL CDATA] node is empty for any of the [!UICONTROL ClickTracking], [!UICONTROL CustomClick] or [!UICONTROL CompanionClickTracking] elements in VAST response.
+
+### New features and enhancements in the previous releases
+
+**Android TVSDK 3.13**
 
 Widevine DRM stream freezes or shows black frames on ABR switch on FireTV devices, which include Fire TV 3rd generation Pendant and Fire TV Cube 1st and 2nd generation devices.
 
 To resolve the issue, set the API `MediaPlayer.flushVideoDecoderOnHeaderChange(true)` for the specified Fire TV devices before initiating playback. The default value is false.
 
-### New features and enhancements in the previous releases
+**Android TVSDK 3.12**
 
-## Android TVSDK 3.12
-
-Primetime Reference application’s gradle version is now updated to version 5.6.4. 
+Primetime Reference application’s gradle version updated to version 5.6.4.
 
 To setup and run Reference app using Android Studio follow the instructions from ReadMe file available with TVSDK zip at `TVSDK_Android_x.x.x.x/samples/PrimetimeReference/src/README.md`.
 
@@ -414,13 +418,19 @@ In the feature tables below, a 'Y' indicates that the feature is supported in th
 
 Where resolution is associated with a reported issue, a Zendesk reference is displayed, for example ZD#xxxxx.
 
-**Android TVSDK 3.12**
 
-This section provides a summary of the issue resolved in TVSDK 3.12 Android release.
 
-* ZD#40584 - Primetime Reference app does not build with latest gradle version. 
+**Android TVSDK 3.14**
+
+This section provides a summary of the issue resolved in TVSDK 3.14 Android release.
+
+* ZD#46903 - Application crashes when [!UICONTROL CDATA] node is empty for any of the [!UICONTROL ClickTracking], [!UICONTROL CustomClick] or [!UICONTROL CompanionClickTracking] element in [!UICONTROL VAST] response.
 
 ### Resolved issues in the previous releases
+
+**Android TVSDK 3.12**
+
+* ZD#40584 - Primetime Reference app does not build with latest gradle version.
 
 **Android TVSDK 3.11**
 
