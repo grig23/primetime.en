@@ -25,6 +25,7 @@ The comprehensive set of features supported and not supported are presented in t
 ## Android TVSDK 3.14
 
 This version fixes the issue where application crashes when [!UICONTROL CDATA] node is empty for any of the [!UICONTROL ClickTracking], [!UICONTROL CustomClick] or [!UICONTROL CompanionClickTracking] elements in VAST response.
+
 ### New features and enhancements in the previous releases
 
 **Android TVSDK 3.13**
