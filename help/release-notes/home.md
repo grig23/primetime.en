@@ -13,6 +13,7 @@ Welcome to the Adobe Primetime Release Notes. The documents listed in the left n
 This release provides fix to an issue where application crashes when [!UICONTROL CDATA] node is empty for any of the [!UICONTROL ClickTracking], [!UICONTROL CustomClick] or [!UICONTROL CompanionClickTracking] elements in [!UICONTROL VAST] response.
 
 Check out the [TVSDK for Android Release Notes](../release-notes/tvsdk-3x-android.md) for more information.
+
 ## Enhancements and fixes in PTAI 21.8.1
 
 The release includes support for DASH Live/Linear streams.
