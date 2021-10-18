@@ -9,15 +9,6 @@ exl-id: 29087a3e-f16e-4510-8d3a-ed2229700899
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
 ## Fixes in TVSDK 3.14 Android
-<<<<<<< HEAD
-=======
-
-This release provides fix to an issue where application crashes when [!UICONTROL CDATA] node is empty for any of the [!UICONTROL ClickTracking], [!UICONTROL CustomClick] or [!UICONTROL CompanionClickTracking] elements in [!UICONTROL VAST] response.
-
-Check out the [TVSDK for Android Release Notes](../release-notes/tvsdk-3x-android.md) for more information.
-
-## Enhancements and fixes in PTAI 21.8.1
->>>>>>> 88f30abe26121b8f0e178247dc9bd10afe78fefb
 
 This release provides fix to an issue where application crashes when [!UICONTROL CDATA] node is empty for any of the [!UICONTROL ClickTracking], [!UICONTROL CustomClick] or [!UICONTROL CompanionClickTracking] elements in [!UICONTROL VAST] response.
 
@@ -29,15 +20,12 @@ The release is focused on the consolidation of servers, removing non-production 
 
 For other fixes and details, see [Ad Insertion Release Notes](/help/release-notes/ptai-21x-release-notes.md).
 
-<<<<<<< HEAD
 ## Enhancements and fixes in TVSDK 3.13 iOS
 
 The release introduces support for DEMUXED 'HLS/CMAF' (preroll, midroll, and postroll) ads for LIVE, VOD, and FER streams.
 
 For other fixes and details, see [TVSDK for iOS Release Notes](../release-notes/tvsdk-3x-ios.md).
 
-=======
->>>>>>> 88f30abe26121b8f0e178247dc9bd10afe78fefb
 ## See also
 
 | User Guide | Description |
