@@ -14,17 +14,17 @@ This release provides fix to an issue where application crashes when [!UICONTROL
 
 Check out the [TVSDK for Android Release Notes](../release-notes/tvsdk-3x-android.md) for more information.
 
-## Enhancements and fixes in PTAI 21.8.1
+## Enhancements and fixes in PTAI 21.10.1
 
-The release includes support for DASH Live/Linear streams.
+The release is focused on the consolidation of servers, removing non-production and non-useful servers.
 
-For other fixes and details, see [Ad Insertion Release Notes](/help/release-notes/ptai-21x-release-notes.md)
+For other fixes and details, see [Ad Insertion Release Notes](/help/release-notes/ptai-21x-release-notes.md).
 
 ## Enhancements and fixes in TVSDK 3.13 iOS
 
 The release introduces support for DEMUXED 'HLS/CMAF' (preroll, midroll, and postroll) ads for LIVE, VOD, and FER streams.
 
-For other fixes and details, see [TVSDK for iOS Release Notes](../release-notes/tvsdk-3x-ios.md)
+For other fixes and details, see [TVSDK for iOS Release Notes](../release-notes/tvsdk-3x-ios.md).
 
 ## See also
 
