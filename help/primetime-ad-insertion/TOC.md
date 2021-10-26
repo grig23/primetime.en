@@ -40,7 +40,8 @@ user-guide-title: Primetime Ad Insertion Help
   + [Key metrics and data dimensions](advanced-telemetry/key-metrics.md)
 + [Live event monitoring](live-event-monitoring.md)
 + Reference {#technical-reference}
-  + [API reference / Bootstrap API](technical-reference/bootstrap-api.md)
+  + [Bootstrap API](technical-reference/bootstrap-api.md)
+  + [Reports API](assets/auditude-report-api.pdf)
   + Best practices{#best-practices}
     + [Overview](best-practices/best-practices-overview.md)
     + [Optimize video start-up times](best-practices/optimize-video-startup-time.md)
