@@ -41,7 +41,7 @@ user-guide-title: Primetime Ad Insertion Help
 + [Live event monitoring](live-event-monitoring.md)
 + Reference {#technical-reference}
   + [Bootstrap API](technical-reference/bootstrap-api.md)
-  + [Reports API](assets/auditude-report-api.pdf)
+  + [Reports API](technical-reference/report-api.md)
   + Best practices{#best-practices}
     + [Overview](best-practices/best-practices-overview.md)
     + [Optimize video start-up times](best-practices/optimize-video-startup-time.md)
