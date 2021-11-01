@@ -36,7 +36,7 @@ In addition to the externally hosted CRLs, you can create and maintain an additi
 
 CRLs are scheduled to be updated 45 days before they are to expire. This should allow you adequate time to acquire and install newly generated CRLs from the Internet. You must take care to update CRL files before they are expired.
 
-<!--Commenting out because of a security vulnerability reported in Jira PSIRT-20689. 
+<!---Commenting out because of a security vulnerability reported in Jira PSIRT-20689. 
 
 The following are externally hosted CRLs that are used only by the License Servers:
 
@@ -50,4 +50,4 @@ The following are externally hosted CRLs that are used only by the License Serve
 
 * URL: [!DNL <ht<span></span>tps://individualization-crl.s3-website-us-east-1.amazonaws.com/FlashAccessIndividualizationCA.crl]> 
 * File: [!DNL http___individualization-crl.s3-website-us-east-1.amazonaws.com_FlashAccessIndividualizationCA.crl] 
-* Validity: Good for approximately 3 months from creation.--!>
+* Validity: Good for approximately 3 months from creation. --->
