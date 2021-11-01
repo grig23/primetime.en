@@ -38,21 +38,21 @@ Commenting out because of a security vulnerability reported in Jira PSIRT-20689.
 
 The following are externally hosted CRLs that are used only by the License Servers:
 
-* URL: [!DNL <https://crl2.adobe.com/Adobe/FlashAccessIndividualizationCA.crl>]
+* URL: `https://crl2.adobe.com/Adobe/FlashAccessIndividualizationCA.crl`
 
-* File: [!DNL http___crl2.adobe.com_Adobe_FlashAccessIndividualizationCA.crl]
-
-* Validity: Good for approximately 3 months from creation
-
-* URL: [!DNL <https://individualization-crl.primetime.adobe.com/FlashAccessIndividualizationCA.crl>]
-
-* File: [!DNL http___individualization-crl.primetime.adobe.com_FlashAccessIndividualizationCA.crl]
+* File: `http___crl2.adobe.com_Adobe_FlashAccessIndividualizationCA.crl`
 
 * Validity: Good for approximately 3 months from creation
 
-* URL: [!DNL <https://individualization-crl.s3-website-us-east-1.amazonaws.com/FlashAccessIndividualizationCA.crl]>
+* URL: `https://individualization-crl.primetime.adobe.com/FlashAccessIndividualizationCA.crl`
 
-* File: [!DNL http___individualization-crl.s3-website-us-east-1.amazonaws.com_FlashAccessIndividualizationCA.crl]
+* File: `http___individualization-crl.primetime.adobe.com_FlashAccessIndividualizationCA.crl`
+
+* Validity: Good for approximately 3 months from creation
+
+* URL: `https://individualization-crl.s3-website-us-east-1.amazonaws.com/FlashAccessIndividualizationCA.crl`
+
+* File: `http___individualization-crl.s3-website-us-east-1.amazonaws.com_FlashAccessIndividualizationCA.crl`
 
 * Validity: Good for approximately 3 months from creation
 
