@@ -32,26 +32,32 @@ The following is a list of externally hosted CRLs that are used by both the Indi
 
 To know about the externally hosted CRLs that can be used by the License Servers, contact Adobe Support.
 
-In addition to the externally hosted CRLs, you can create and maintain an additional CRL. This is the Individualization CA CRL, as specified in the [Create Individualization CA CRL](../../../on-premises-i15n-server/server-configuration-section/server-properties/create-i15n-ca-crl.md) section of this document.
-
-CRLs are scheduled to be updated 45 days before they are to expire. This should allow you adequate time to acquire and install newly generated CRLs from the Internet. You must take care to update CRL files before they are expired.
-
 <!---
 
 Commenting out because of a security vulnerability reported in Jira PSIRT-20689. 
 
 The following are externally hosted CRLs that are used only by the License Servers:
 
-* URL: [!DNL <ht<span></span>tps://crl2.adobe.com/Adobe/FlashAccessIndividualizationCA.crl>] 
-* File: [!DNL http___crl2.adobe.com_Adobe_FlashAccessIndividualizationCA.crl] 
+* URL: [!DNL <https://crl2.adobe.com/Adobe/FlashAccessIndividualizationCA.crl>]
+
+* File: [!DNL http___crl2.adobe.com_Adobe_FlashAccessIndividualizationCA.crl]
+
 * Validity: Good for approximately 3 months from creation
 
-* URL: [!DNL <ht<span></span>tps://individualization-crl.primetime.adobe.com/FlashAccessIndividualizationCA.crl>] 
-* File: [!DNL http___individualization-crl.primetime.adobe.com_FlashAccessIndividualizationCA.crl] 
+* URL: [!DNL <https://individualization-crl.primetime.adobe.com/FlashAccessIndividualizationCA.crl>]
+
+* File: [!DNL http___individualization-crl.primetime.adobe.com_FlashAccessIndividualizationCA.crl]
+
 * Validity: Good for approximately 3 months from creation
 
-* URL: [!DNL <ht<span></span>tps://individualization-crl.s3-website-us-east-1.amazonaws.com/FlashAccessIndividualizationCA.crl]> 
-* File: [!DNL http___individualization-crl.s3-website-us-east-1.amazonaws.com_FlashAccessIndividualizationCA.crl] 
-* Validity: Good for approximately 3 months from creation. 
+* URL: [!DNL <https://individualization-crl.s3-website-us-east-1.amazonaws.com/FlashAccessIndividualizationCA.crl]>
+
+* File: [!DNL http___individualization-crl.s3-website-us-east-1.amazonaws.com_FlashAccessIndividualizationCA.crl]
+
+* Validity: Good for approximately 3 months from creation
 
 --->
+
+In addition to the externally hosted CRLs, you can create and maintain an additional CRL. This is the Individualization CA CRL, as specified in the [Create Individualization CA CRL](../../../on-premises-i15n-server/server-configuration-section/server-properties/create-i15n-ca-crl.md) section of this document.
+
+CRLs are scheduled to be updated 45 days before they are to expire. This should allow you adequate time to acquire and install newly generated CRLs from the Internet. You must take care to update CRL files before they are expired.
