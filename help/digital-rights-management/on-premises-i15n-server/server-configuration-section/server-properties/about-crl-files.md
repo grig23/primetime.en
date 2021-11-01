@@ -36,7 +36,9 @@ In addition to the externally hosted CRLs, you can create and maintain an additi
 
 CRLs are scheduled to be updated 45 days before they are to expire. This should allow you adequate time to acquire and install newly generated CRLs from the Internet. You must take care to update CRL files before they are expired.
 
-<!--The following are externally hosted CRLs that are used only by the License Servers:
+<!--Commenting out because of a security vulnerability reported in Jira PSIRT-20689. 
+
+The following are externally hosted CRLs that are used only by the License Servers:
 
 * URL: [!DNL <ht<span></span>tps://crl2.adobe.com/Adobe/FlashAccessIndividualizationCA.crl>] 
 * File: [!DNL http___crl2.adobe.com_Adobe_FlashAccessIndividualizationCA.crl] 
