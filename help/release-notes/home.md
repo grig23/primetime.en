@@ -10,7 +10,7 @@ Welcome to the Adobe Primetime Release Notes. The documents listed in the left n
 
 ## Fixes in TVSDK 3.15 Android
 
-This release provides fix to an issue where application crashes when creative tag is missing or when url [!UICONTRL CDATA] is empty in [!UICONTROL VAST] response.
+This release provides fix to an issue where application crashes when creative tag is missing or when [!UICONTROL url CDATA] is empty in [!UICONTROL VAST] response.
 
 Check out the [TVSDK for Android Release Notes](../release-notes/tvsdk-3x-android.md) for more information.
 
