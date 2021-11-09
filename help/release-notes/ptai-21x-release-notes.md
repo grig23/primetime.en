@@ -1,20 +1,26 @@
 ---
-title: PTAI 21.10.1 release notes
+title: PTAI 21.11.1 release notes
 description: The PTAI release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2021.
 exl-id: 39a05f6d-431a-4416-81b1-21d82c0dbd69
 
 ---
-# Primetime Ad Insertion 21.10.1 Release Notes
+# Primetime Ad Insertion 21.11.1 Release Notes
 
 Primetime Ad Insertion 21.xx.x release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2021.
 
-## What's new in PTAI 21.10.1
+## What's new in PTAI 21.11.1
+
+When:  Tuesday, November 9, 2021 from 1:30 AM to 04:30 AM Eastern Time
+
+* [!UICONTROL EXT-X-IMAGE-STREAM-INF] is now configurable per zone.
+
+## Enhancements and fixes in previous release versions
+
+### Version 21.10.1
 
 When:  Tuesday, October 12, 2021 from 7:45 AM to 1:45 PM Eastern Time
 
-* This release is focused on the consolidation of servers, removing non-production and non-useful servers.
-
-## Enhancements and fixes in previous release versions
+* Consolidated servers, removed non-production and non-useful servers.
 
 ### Primetime Ad Insertion Maintenance release
 
