@@ -16,7 +16,7 @@ user-guide-description: Provides release-specific information, system requiremen
   + [TVSDK 3.13 for iOS Release Notes](tvsdk-3x-ios.md)
   + [TVSDK 1.4 for iOS Release Notes](tvsdk-1-4-ios.md)
 + TVSDK for Android {#tvsdk-android}
-  + [TVSDK 3.14 for Android Release Notes](tvsdk-3x-android.md)
+  + [TVSDK 3.15 for Android Release Notes](tvsdk-3x-android.md)
   + [TVSDK 2.7 for Android Release Notes](tvsdk-27-android.md)
   + [TVSDK 2.4.1 for Android Release Notes](tvsdk-24-android.md)  
   + [TVSDK 1.4 for Android Release Notes](tvsdk-1-4-android.md)

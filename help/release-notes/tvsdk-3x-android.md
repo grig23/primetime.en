@@ -1,13 +1,13 @@
 ---
-title: TVSDK 3.14 for Android Release Notes
-description: TVSDK 3.14 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.14
+title: TVSDK 3.15 for Android Release Notes
+description: TVSDK 3.15 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.15
 products: SG_PRIMETIME
 topic-tags: release-notes
 exl-id: cd2c64ef-dd42-4dc2-805f-eeb64a8a53d9
 ---
-# TVSDK 3.14 for Android Release Notes {#tvsdk-for-android-release-notes}
+# TVSDK 3.15 for Android Release Notes {#tvsdk-for-android-release-notes}
 
-TVSDK 3.14 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.14.
+TVSDK 3.15 for Android Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK Android 3.15.
 
 The Android reference player is included with Android TVSDK in the samples/ directory of your distribution. The accompanying README.md file explains how to build the reference player.
 
@@ -22,11 +22,17 @@ TVSDK for Android provides many performance improvements over previous versions.
 
 The comprehensive set of features supported and not supported are presented in the [Features Matrix](#feature-matrix) section of the release notes.
 
-## Android TVSDK 3.14
+## Android TVSDK 3.15
+
+This version fixes the issue where the application crashes multiple times when creative tag is missing or when [!UICONTROL url CDATA] is empty in [!UICONTROL VAST] response.
+
+To know about the bug fixes in this and previous versions, see [issues fixed in TVSDK for Android](#resolved-issueszd).
+  
+### New features and enhancements in the previous releases
+
+**Android TVSDK 3.14**
 
 This version fixes the issue where application crashes when [!UICONTROL CDATA] node is empty for any of the [!UICONTROL ClickTracking], [!UICONTROL CustomClick] or [!UICONTROL CompanionClickTracking] elements in VAST response.
-
-### New features and enhancements in the previous releases
 
 **Android TVSDK 3.13**
 
@@ -418,11 +424,13 @@ In the feature tables below, a 'Y' indicates that the feature is supported in th
 
 Where resolution is associated with a reported issue, a Zendesk reference is displayed, for example ZD#xxxxx.
 
-
-
-**Android TVSDK 3.14**
+**Android TVSDK 3.15**
 
 This section provides a summary of the issue resolved in TVSDK 3.14 Android release.
+
+* ZD#46903 - Application crashes multiple times when creative tag is missing or when [!UICONTROL url CDATA] is empty in [!UICONTROL VAST] response.
+
+**Android TVSDK 3.14**
 
 * ZD#46903 - Application crashes when [!UICONTROL CDATA] node is empty for any of the [!UICONTROL ClickTracking], [!UICONTROL CustomClick] or [!UICONTROL CompanionClickTracking] element in [!UICONTROL VAST] response.
 
