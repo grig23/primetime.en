@@ -1,8 +1,8 @@
 ---
 title: Report API
 description: Auditude report API
+exl-id: 50eb4869-3765-4591-8c41-794b29d50044
 ---
-
 # Report API {#report-api}
 
 User Interface has managed roles for customers and for the enablement (Adobe) team. Customers can access the portal, and can then create and edit their configurations. They can also see the reports for their ads impressions on the user interface.
