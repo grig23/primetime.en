@@ -10,7 +10,7 @@ Welcome to the Adobe Primetime Release Notes. The documents listed in the left n
 
 ## Enhancements and fixes in PTAI 21.11.1
 
-The [!UICONTROL EXT-X-IMAGE-STREAM-INF] is now configurable per zone.
+The [!UICONTROL EXT-X-IMAGE-STREAM-INF] is now configurable per zone and [!UICONTROL Roku Trick] play is fully supported.
 
 ## Fixes in TVSDK 3.15 Android
 
