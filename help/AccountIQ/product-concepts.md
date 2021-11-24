@@ -74,5 +74,3 @@ Because the usage data at the user level can be inconsistent we are not using in
 Infrequent User: less than 9 play requests per month (how were these levels defined? we need to update them? there are industry standards?)
 **Regular user** from 9 to 37 
 **Avid User** more than 37 play request per month
-**Concurrency** the concurrent is defined by two (or more) streams played at the same time or very close in time so that the interval between them cannot be justified by traveling at a normal speed.
-Concurrent usage is calculated using the maximum speed(miles/hour) between 2 different clusters. A user is considered to have concurrent usage if he has a speed greater than 124 m/h on a distance lesser than 124 miles or if he has a speed greater than 400 m/h on a distance greater than 124 miles. The distance is calculated between locations from different clusters. Concurrent usage is allowed in the same cluster
