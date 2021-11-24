@@ -69,8 +69,3 @@ a cluster that has no static devices
 **Static Cluster**
 a cluster that has at least one static device
 
-**Usage**
-Because the usage data at the user level can be inconsistent we are not using in this moment the usage in the patterns definitions. Even so, we can use it to have a programmer usage level overview. 
-Infrequent User: less than 9 play requests per month (how were these levels defined? we need to update them? there are industry standards?)
-**Regular user** from 9 to 37 
-**Avid User** more than 37 play request per month
