@@ -50,7 +50,9 @@ The window of time that contains the play request activity represented in the UI
 **Trend**
 The difference in the associated metric (e.g. Play Requests) between the current and previous period.
 
-**Static device** 
+## Usage pattern concepts {#usage-pattern}
+
+**Static device**
 A device that has very low mobility (example: GameConsole, SetTopBox, TV, etc.)
 
 **Mobile device:**
@@ -59,13 +61,23 @@ A device that has high mobility(example: MobilePhone, Tablet, etc.)
 **Location**
 The geolocation for a specific play request, detected using the Pass data, with a precision of 1000mx1000m (one square km).
 
-**Home Location**
+**Home location**
 the precision is 0.01 ~ 2000mx2000m (4 square km) - at this moment the home location is detected using an ML algo, based on data provided by two mvpds. The probability is ~ 80%. We are not using the zip code for the majority of the users. Currently, this information is not used in assessing the sharing probability.
 
 **Cluster** a cluster is a collection of locations and devices. The clusters are created by finding common locations between devices. The devices that have been seen in a common location will be considered to belong in the same cluster. Two devices can be in the same cluster even though they do not have common locations but can be connected through the locations of other devices.
-**Mobile Cluster**
+
+**Mobile cluster**
 a cluster that has no static devices
 
-**Static Cluster**
+**Static cluster**
 a cluster that has at least one static device
 
+**Usage**
+
+**Infrequent user** less than 9 play requests per month.
+**Regular user** from 9 to 37 play requests per month.
+**Avid user** more than 37 play request per month.
+
+**Concurrency**
+The concurrent is defined by two (or more) streams played at the same time or very close in time so that the interval between them cannot be justified by traveling at a normal speed.
+Concurrent usage is calculated using the maximum speed(miles/hour) between 2 different clusters. A user is considered to have concurrent usage if he has a speed greater than 124 m/h on a distance lesser than 124 miles or if he has a speed greater than 400 m/h on a distance greater than 124 miles. The distance is calculated between locations from different clusters. Concurrent usage is allowed in the same cluster.
