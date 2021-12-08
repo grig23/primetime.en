@@ -8,7 +8,7 @@ audience: end-user
 + [Account IQ Overview](home.md)+ 
 + [Prerequisites](prerequisites.md)
 + [How to onboard]()
-+ [Account IQ Dashboard and Reports](dashboard-and-reports.md)
++ [Account IQ dashboard and reports](dashboard-and-reports.md)
 + [How to use Account IQ]()
 + [Next steps]()
 + [Best practices]()
