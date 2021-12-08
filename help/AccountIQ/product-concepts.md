@@ -30,7 +30,7 @@ Also known as Risk Index and Sharing Risk Index, it is a value that helps users 
 Also known as Shared Accounts Risk Index, it is a value calculated based on an average of the sharing probability computed for every account in the set of selected MVPDs that has streamed from a one of the selected Programmer Channels during the selected time frame.
 
 **Risk Index - Usage**
-A value calculated based on the number of play requests made by the each account weighted by each account's sharing probability.	Usage by Shared Accounts Risk Index
+A value calculated based on the number of play requests made by the each account weighted by each account's sharing probability. Usage by Shared Accounts Risk Index
 
 **Risk Index - Overall**
 A value computed as an average of "Risk Index - Accounts" and the "Risk Index - Usage".	Overall Sharing Risk Index
