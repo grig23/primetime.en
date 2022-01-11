@@ -1,24 +1,19 @@
 ---
-title: Account IQ dashboard and reports
+title: Account IQ dashboard
 description: 
 ---
 
-# The dashboard and reports {#dashboard- and-reports}
+# The dashboard {#dashboard}
 
-Account IQ helps MVPDs and programmers understand the risks to their revenue and business operations, and determine the most effective actions to take to mitigate the impacts of credential fraud. It helps MVPDs and programmers uncover password sharing with a high level of confidence, enabling them deliver better business outcomes and provide better viewing experiences for subscribers.
-To help MVPDs and programmers better understand password sharing within their businesses, Primetime Account IQ determines a password sharing risk index that rates every subscriber on their likelihood of sharing account credentials for subscription passwords, from very low to very high.
-
-## The dashboard {#dashboard}
+To help MVPDs and programmers better understand password sharing within their businesses. Primetime Account IQ determines a password sharing risk index that rates every subscriber on their likelihood of sharing account credentials for subscription passwords, from very low to very high.
 
 ![](assets/Dashboard.png)
 
 The Dashboard tab in helps to pinpoint the instances of password sharing by analyzing the wide array of subscriber data.
 
-The selection panel in the dashboard lets you select the companies (MVPDs and respective programmers) and set a time frame for granularity.
 
-![](assets/timeline.png)
 
-### Aggregated Sharing Score {#aggregated-sharing}
+## Aggregated Sharing Score {#aggregated-sharing}
 
 This panel gives deeper insight into user behavior metrics and more detailed insights into patterns of password sharing.
 
@@ -55,32 +50,3 @@ It partitions accounts into ranges of sharing probability from very low to very 
 Shows account totals, usage, and trends for accounts partitioned into ranges of sharing probability of very low to very high.
 
 ![](assets/number-of-accounts-usage.png)
-
-## Reports {#reports}
-
-### General usage reports{#general-usage}
-
-Divide the content in cohorts.
-
-Content filters
-device filters
-
-segment and definition replicate to cohorts. Number of people and number of account that ......
-content consumption.....
-
-![](assets/general-usage.png)
-
-### Shared accounts reports{#shared-accounts}
-
-Total number of users ...
-
-How many accounts are within 99 miles of each other.....and how many are apart. 
-
-Based on points on the map.
-
-![](assets/Shared-accounts.png)
- 
-
-## Usage patterns {#usage-patterns}
-
-![](assets/usage-patterns.png)
