@@ -16,4 +16,4 @@ To help MVPDs and programmers better understand password sharing within their bu
 
 Let's take a deep dive into each of these analytics and reports. Note that there is a panel at the top of all the screens to select the companies (MVPDs and respective programmers) and a time frame to filter your results for viewing the sharing behavior.
 
-![](assets/timeline.png) 
+![](assets/filter-panel.png) 
