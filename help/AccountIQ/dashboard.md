@@ -5,13 +5,9 @@ description:
 
 # The dashboard {#dashboard}
 
-To help MVPDs and programmers better understand password sharing within their businesses. Primetime Account IQ determines a password sharing risk index that rates every subscriber on their likelihood of sharing account credentials for subscription passwords, from very low to very high.
+The Dashboard helps to pinpoint the instances of password sharing by analyzing a wide array of subscriber data. It has a collection of visualizations that include gauges and charts, which depict basic to complex metrics.
 
 ![](assets/Dashboard.png)
-
-The Dashboard tab in helps to pinpoint the instances of password sharing by analyzing the wide array of subscriber data.
-
-
 
 ## Aggregated Sharing Score {#aggregated-sharing}
 

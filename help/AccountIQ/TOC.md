@@ -12,7 +12,7 @@ audience: end-user
   + [Dashboard](dashboard.md)
   + [Reports](reports.md)
   + Sharing Components
-    + [Usage pattern and behavior](usage-patterns.md)
+    + [Sharing pattern and usage behavior](usage-patterns.md)
 + [How to use Account IQ]()
 + [Next steps]()
 + [Best practices]()
