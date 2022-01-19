@@ -27,8 +27,3 @@ How many accounts are within 99 miles of each other.....and how many are apart.
 Based on points on the map.
 
 ![](assets/Shared-accounts.png)
- 
-
-## Usage patterns {#usage-patterns}
-
-![](assets/usage-patterns.png)
