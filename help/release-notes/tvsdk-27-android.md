@@ -53,7 +53,7 @@ Boolean parameters val - True uses audio output latency in audio timestamp calcu
 * **Partial Ad-Break Insertion**  
 
   TV-like experience of joining in the middle of an ad without firing the tracking for the partially watched ad.  
-  Example**: **User joins in the middle (at 40 seconds) of a 90-second ad break consisting of three 30-second ads. This is 10 seconds into the second ad in the break.
+  Example: User joins in the middle (at 40 seconds) of a 90-second ad break consisting of three 30-second ads. This is 10 seconds into the second ad in the break.
     * The second ad plays for the remaining duration (20 sec) followed by the third ad.
     * Ad trackers for the partial ad played (second ad) are not fired. The trackers for only the third ad are fired.
 
@@ -63,7 +63,7 @@ Boolean parameters val - True uses audio output latency in audio timestamp calcu
 
 * **AdSystem and Creative Id added to CRS requests**
 
-    * Now including 'AdSystem' and 'CreativeId' as new parameters in the 1401 and 1403 requests.
+    * Now including `AdSystem` and `CreativeId` as new parameters in the 1401 and 1403 requests.
 
 * **API setEncodeUrlForTracking in NetworkConfiguration class removed** as the unsafe characters in a URL should be encoded.
 
@@ -72,7 +72,9 @@ Boolean parameters val - True uses audio output latency in audio timestamp calcu
 Android™ TVSDK v2.5.4 offers the following updates and API changes:
 
 * Changes in default value for `WebViewDebbuging` 
-  `WebViewDebbuging` value are set to False by default. To enable it, call setWebCon`tentsDebuggingEnabled(true) in the application.
+
+  The `WebViewDebbuging` value is set to _False_ by default. To enable it, call `setWebContentsDebuggingEnabled` to _True_ in the application.
+
 * OpenSSL and Curl version upgrade
   Updated `libcurl` to v7.57.0 and OpenSSL to v1.0.2k.
 * App level access for VAST response object
