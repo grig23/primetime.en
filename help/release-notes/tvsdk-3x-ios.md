@@ -1087,7 +1087,7 @@ Added notification to detect when the playback has stalled.
 
 * (ZD #3193) Request for a Profile change API in  TVSDK
 
-Updated `PTPlaybackInformation` to expose the updated indicated`Bitrate. Updated `BITRATE_CHANGE` notification to be more time reliable and accurate to the M3U8 reported bit rates.
+Updated `PTPlaybackInformation` to expose the updated indicated Bitrate. Updated `BITRATE_CHANGE` notification to be more time reliable and accurate to the M3U8 reported bit rates.
 
 * (ZD #3324) Primetime ads reporting issue when no ad media in VMAP
 
