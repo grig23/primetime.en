@@ -2,9 +2,9 @@
 title: Account IQ glossary
 description: 
 ---
-
 # Product concepts and glossary {#glossary}
 
+Refer the following to know abut the product glossary.
 **Media Company**
 
 Media Company is a company that owns a group of media networks.
@@ -45,7 +45,7 @@ The ID a Media Company Uses to identify themselves or a subsidiary to an MVPD.  
 The content requested by the end user.  Traditionally, this has identified the Channel associate with the content the user has requested.  System enhancements allow that ID to represent specific programs (e.g. with specific ratings), the ID continues to identify the associated Channel.
 
 **Period**
-The window of time that contains the play request activity represented in the UI and Tables from start to finish.	Time frame, time slot
+The window of time that contains the play request activity represented in the UI and Tables from start to finish. Time frame, time slot
 
 **Trend**
 The difference in the associated metric (e.g. Play Requests) between the current and previous period.
@@ -73,7 +73,6 @@ a cluster that has no static devices
 a cluster that has at least one static device
 
 **Usage**
-
 **Infrequent user** less than 9 play requests per month.
 **Regular user** from 9 to 37 play requests per month.
 **Avid user** more than 37 play request per month.
