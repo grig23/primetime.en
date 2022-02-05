@@ -6,9 +6,8 @@ audience: end-user
 # Account IQ Help {#accountiq-help}
 
 + [Account IQ Overview](home.md)
-+ [Prerequisites](prerequisites.md)
-+ [How to onboard]()
-+ [The Account IQ](accountiq.md)
++ [How to get started](get-started.md)
++ [The Account IQ components](accountiq.md)
   + [Dashboard](dashboard.md)
   + [Reports](reports.md)
   + Sharing Components

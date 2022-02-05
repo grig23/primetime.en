@@ -1,9 +1,9 @@
 ---
-title: The Account IQ tool
+title: The Account IQ tool and its components.
 description: 
 ---
 
-# The Account IQ {#aiq-tool}
+# The Account IQ components {#aiq-tool}
 
 Account IQ helps MVPDs and programmers understand the risks to their revenue and business operations, and determine the most effective actions to take to mitigate the impacts of credential fraud. It helps MVPDs and programmers uncover password sharing with a high level of confidence, enabling them deliver better business outcomes and provide better viewing experiences for subscribers.
 

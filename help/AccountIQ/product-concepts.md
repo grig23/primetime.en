@@ -10,30 +10,25 @@ Refer the following to know abut the product glossary.
 Media Company is a company that owns a group of media networks.
 
 **Programmer**
-
 Programmer, also known as Network, is a company that is subsidiary of a larger company (corporation) that owns and manages one or more channels.
 
 **Channel**
-
 Channel, also knows as Property, is a thematically related source of video content.  Traditionally representing a distinct, numerically addressable continuous video feed from an MVPD. This channel directly maps to an accessible channel of content available to the subscribers through their Set Top Box (STB).
 
 **MVPD**
-
 MVPD, also known as Distributor, is aggregator, reseller, and distributor of Media Company video content.
 
 **Aggregated Risk Index**
-
 Also known as Risk Index and Sharing Risk Index, it is a value that helps users understand the magnitude of password sharing on Programmer properties or by MVPD subscribers and provide them a sense of urgency to act upon it.
 
 **Risk Index - Accounts**
-
 Also known as Shared Accounts Risk Index, it is a value calculated based on an average of the sharing probability computed for every account in the set of selected MVPDs that has streamed from a one of the selected Programmer Channels during the selected time frame.
 
 **Risk Index - Usage**
 A value calculated based on the number of play requests made by the each account weighted by each account's sharing probability. Usage by Shared Accounts Risk Index
 
 **Risk Index - Overall**
-A value computed as an average of "Risk Index - Accounts" and the "Risk Index - Usage".	Overall Sharing Risk Index
+A value computed as an average of "Risk Index - Accounts" and the "Risk Index - Usage". Overall Sharing Risk Index
 
 **Industry Average Index**
 A value computed for each of the Risk Indices (Accounts, Usage, Overall) across all Programmers and MVPDs during the selected time frame.
