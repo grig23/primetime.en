@@ -1,6 +1,6 @@
 ---
 title: The Account IQ tool and its components.
-description: 
+description: Gauge the account sharing possibilities and patterns of your channel viewers by using graphical tools and reports in Account IQ.
 ---
 
 # The Account IQ components {#aiq-tool}

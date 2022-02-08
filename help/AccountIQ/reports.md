@@ -1,10 +1,9 @@
 ---
 title: The Account IQ reports
-description: 
+description: View reports to understand password sharing.
 ---
 
 # Reports {#reports}
-
 
 ## General usage reports{#general-usage}
 

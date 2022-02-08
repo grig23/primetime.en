@@ -419,8 +419,8 @@ This version of TVSDK has the following issues:
 
 ## Helpful resources {#helpful-resources}
 
-* [System Requirements](https://docs.adobe.com/content/help/en/primetime/programming/tvsdk-2-7-for-android/overview/c-psdk-android-2_7-requirements.html)
-* [TVSDK 2.7 for Android Programmer's Guide](https://docs.adobe.com/content/help/en/primetime/programming/tvsdk-2-7-for-android/overview/c-psdk-android-2_7-overview-prod-audience-guide.html)
+* [System Requirements](/help/programming/tvsdk-2.7-for-android/c-psdk-android-2.7-requirements.md)
+* [TVSDK 2.7 for Android Programmer's Guide](/help/programming/tvsdk-2.7-for-android/overview-prod-audience-guide/c-psdk-android-2.7-overview-prod-audience-guide.md)
 * [TVSDK Android Javadoc for API Reference](https://help.adobe.com/en_US/primetime/api/psdk/javadoc_2.7/index.html)
 * [TVSDK Android C++ API Document](https://help.adobe.com/en_US/primetime/api/psdk/cpp/namespaces.html) - Each Java class has a corresponding C++ class, and the C++ documentation contains more explanatory material than the Javadocs, so refer the C++ documentation for a deeper understanding of the Java API.
 * [TVSDK 1.4 to 2.5 for Android (Java) Migration Guide](https://helpx.adobe.com/primetime/migration-guides/tvsdk-14-25-android.html)

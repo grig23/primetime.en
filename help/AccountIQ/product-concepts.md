@@ -1,10 +1,10 @@
 ---
 title: Account IQ glossary
-description: 
+description: A glossary of product terminologies.  
 ---
 # Product concepts and glossary {#glossary}
 
-Refer the following to know abut the product glossary.
+Refer the following to know about the product glossary.
 **Media Company**
 
 Media Company is a company that owns a group of media networks.

@@ -1,6 +1,6 @@
 ---
 title: Account IQ Overview
-description: 
+description: Account IQ helps MVPDs and programmers understand the risks to their revenue and business operations, and determine the most effective actions to take to mitigate the impacts of credential fraud. 
 ---
 
 # Account IQ overview {#account-iq-overview}

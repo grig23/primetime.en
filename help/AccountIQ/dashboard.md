@@ -1,6 +1,6 @@
 ---
 title: Account IQ dashboard
-description: 
+description: The Dashboard helps to pinpoint the instances of password sharing by analyzing a wide array of subscriber data.  
 ---
 
 # The dashboard {#dashboard}

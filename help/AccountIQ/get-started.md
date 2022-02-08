@@ -1,6 +1,6 @@
 ---
 title: Account IQ get started with account IQ, prerequisites and onboarding
-description: Minimum requirements
+description: How to onboard, prerequisites, and getting started with the Account IQ. 
 ---
 
 # How to get started with the Account IQ {#onboarding}
@@ -9,8 +9,8 @@ User onboarding.
 
 ## Prerequisites {#prerequisites}
 
-The Account IQ is compatible with the following browser versions:
+The Account IQ is a hosted web service. It is compatible with the most recent version of the following browsers.
 
-* Google Chrome version 91.0.4472.164.
-* Mozilla Firefox version 89.0.2.
-* Safari version 14.0.3.
+* Google Chrome
+* Mozilla Firefox
+* Safari version
