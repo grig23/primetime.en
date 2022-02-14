@@ -5,9 +5,9 @@ description: The Dashboard helps to pinpoint the instances of password sharing b
 
 # The dashboard {#dashboard}
 
-The Dashboard helps to pinpoint the instances of password sharing by analyzing a wide array of subscriber data. It has a collection of visualizations that include gauges and charts, which depict basic to complex metrics.
+The Dashboard helps to pinpoint the instances of password sharing by analyzing an array of subscriber data. It has a collection of visualizations that include gauges and charts, which depict basic to complex metrics.
 
-![](assets/Dashboard.png)
+![](assets/dashboard.png)
 
 ## Aggregated Sharing Score {#aggregated-sharing}
 
@@ -16,6 +16,13 @@ This panel gives deeper insight into user behavior metrics and more detailed ins
 Also known as Aggregated Risk Index or Risk Index and Sharing Risk Index, it is a value that helps users understand the magnitude of password sharing on Programmer properties or by MVPD subscribers and provide them a sense of urgency to act upon it.
 
 ![](assets/aggregate-sharing-score.png)
+
+Sharing level
+
+
+Usage from shared accounts
+Overall sharing score
+
 
 ### MVPDs in segment {#mvpd-in-segment}
 
