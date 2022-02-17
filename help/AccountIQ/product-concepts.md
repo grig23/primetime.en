@@ -6,7 +6,7 @@ description: A glossary of product terminologies.
 
 Refer the following product terminologies and their definitions.
 
-**Media Company**
+## Media Company {#media-company}
 
 Media Company is a company that owns a group of media networks.
 
@@ -94,7 +94,8 @@ The ID a Media Company Uses to identify themselves or a subsidiary to an MVPD.  
 **resourceID**
 The content requested by the end user.  Traditionally, this has identified the Channel associate with the content the user has requested.  System enhancements allow that ID to represent specific programs (e.g. with specific ratings), the ID continues to identify the associated Channel.
 
-**Time frame**
+## Time frame {#time-frame}
+
 Also known as Period or Time Slot, it is the window of time that contains the play request activity represented in the user interface and tables from start to finish.
 
 **Granularity**
