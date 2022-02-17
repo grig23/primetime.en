@@ -7,7 +7,7 @@ description: The Dashboard helps to pinpoint the instances of password sharing b
 
 The Dashboard helps to pinpoint the instances of password sharing by analyzing an array of subscriber data. It has a collection of visualizations that include gauges and charts, which depict basic to complex metrics.
 
-![](assets/dashboard.png)
+![dashboard of account IQ](assets/dashboard.png)
 
 ## Aggregated Sharing Score {#aggregated-sharing}
 
