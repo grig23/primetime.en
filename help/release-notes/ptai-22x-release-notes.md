@@ -1,6 +1,7 @@
 ---
 title: PTAI 22.2.2 release notes
 description: The PTAI release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2022.
+exl-id: 58b254b8-18b9-48ba-bd4e-378785e56af5
 ---
 # Primetime Ad Insertion 22.2.2 Release Notes
 
