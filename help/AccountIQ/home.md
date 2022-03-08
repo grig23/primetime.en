@@ -5,16 +5,12 @@ description: Account IQ helps MVPDs and programmers understand the risks to thei
 
 # Account IQ overview {#account-iq-overview}
 
-TV Everywhere not only delivers comfortable and engaging experiences to viewers, but also lets content providers reach their customers and earn great advertising revenues. However, this evolution in TV viewing is accompanied with the problem of account sharing.
+TV Everywhere not only delivers comfortable and engaging experiences to viewers, but also lets content providers reach their customers and earn advertising revenues. However, this evolution in TV viewing is accompanied with the problem of account sharing; thereby resulting in lost revenue for Pay TV Providers (MVPDs) and programmers. Account IQ is a hosted web application that offers a solution to this problem, by providing the media companies with analytics data about account sharing behaviors.
 
-As passwords are the main methods for the viewers to authenticate, there is a misconception that credential sharing is allowed. This idea makes illicit password sharing a common practice. This account sharing results in lost revenue for MVPDs and programmers, thereby necessitating the need to educate their viewers about permissible sharing and preventing illicit sharing.
+Account IQ sits at the transaction between subscribers and content providers, to analyze the user behavior.
 
 ![](assets/AIQIntro.png)
 
-Primetime Account IQ helps MVPDs and programmers identify account sharing with confidence. It provides them with analytics data and assigns sharing scores to different accounts, so that these companies can take informed decisions about their accounts and check the illicit sharing.
+The tool assigns sharing scores to different subscriber accounts, so that the content providers (media companies, programmers, and MVPDs) can take informed decisions about subscriber accounts and check the illicit sharing.
 
-Account IQ helps MVPDs and programmers understand the risks to their revenue and business operations, and determine the most effective actions to take to mitigate the impacts of credential fraud. It helps MVPDs and programmers uncover password sharing with a high level of confidence, enabling them deliver better business outcomes and provide better viewing experiences for subscribers.
-
-Account IQ helps MVPDs and programmers uncover password sharing with a high level of confidence. It enables them deliver better business outcomes and provide enhanced viewing experiences to subscribers.
-
-
+Passwords are the main methods for viewers to authenticate, and there is a misconception that credential sharing is allowed. This idea makes illicit password sharing a common practice; necessitating the need for media companies to educate their viewers about permissible sharing and prevent illicit sharing.
