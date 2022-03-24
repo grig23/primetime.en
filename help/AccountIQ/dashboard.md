@@ -5,25 +5,28 @@ description: The Dashboard helps to pinpoint the instances of password sharing b
 
 # The dashboard {#dashboard}
 
-<!--The Dashboard helps to pinpoint the instances of password sharing by analyzing an array of subscriber data. It has a collection of visualizations that include gauges and charts, which depict basic to complex metrics.-->
 The Dashboard summarizes and aggregates data in a collection of graphs and reports designed to provide a high level insight into the scope and impact of account sharing.
 
 ![dashboard of account IQ](assets/Dashboard-capture.png)
 
 ## Aggregated Sharing Score {#aggregated-sharing}
 
-<!--This panel gives deeper insight into user behavior metrics and more detailed insights into patterns of password sharing.->
-This panel provides a top line readout summarizing the quantity and impact of sharing in terms of accounts and streaming volume.
+The Aggregated Sharing Score panel provides a top line readout summarizing the quantity and impact of sharing in terms of accounts and streaming volume.
 
-Also known as Aggregated Risk Index or Risk Index and Sharing Risk Index, it is a value that helps users understand the magnitude of password sharing on Programmer properties or by MVPD subscribers and provide them a sense of urgency to act upon it.
+Also known as Aggregated Risk Index or Risk Index and Sharing Risk Index, it is a value that helps you understand the magnitude of password sharing by your subscribers, hence providing you a sense of urgency to act upon it.
 
 ![](assets/aggregate-sharing-score.png)
 
-Sharing level
+The following three metrics contribute to the Aggregate Sharing Score.
+
+**Sharing level**
+
+The sharing level gauge tells you the percentage of total accounts that are shared, in the selected time period.
+
+**Usage from shared accounts**
 
 
-Usage from shared accounts
-Overall sharing score
+**Overall sharing score**
 
 
 ### MVPDs in segment {#mvpd-in-segment}
@@ -44,7 +47,7 @@ It is the table of overall sharing score of each channel in the segment for top 
 
 ![](assets/sharing-scores-by-channels-mvpds.png)
 
-### Accounts sharing probability {#accounts-sharing-probablity}
+### Accounts sharing probability {#accounts-sharing-probability}
 
 It partitions accounts into ranges of sharing probability from very low to very high.
 
