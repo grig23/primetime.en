@@ -21,7 +21,11 @@ The following three metrics contribute to the Aggregate Sharing Score.
 
 **Sharing level**
 
-The sharing level gauge tells you the percentage of total accounts that are shared, in the selected time period.
+The sharing level gauge shows the percentage of all your subscriber accounts that are shared, during the selected time frame.  
+
+A value calculated based on an average of the sharing probability computed for every account in the set of selected MVPDs that has streamed from a one of the selected Programmer Channels during the selected time frame.
+
+The Trend indicator shows the change in   
 
 **Usage from shared accounts**
 
