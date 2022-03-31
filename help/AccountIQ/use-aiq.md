@@ -19,11 +19,11 @@ To view reports in Account IQ, once you have successfully logged in to the appli
 
 ### Reports for a specific MVPD and programmer {#specific-mvpd-programmer-report}
 
-Once you have selected an MVPD and channels in segment and time frame for granularity, you can see the following reports generated for your selection
+Once you have selected an MVPD and channels in segment and time frame for granularity, you can see the following reports generated for your selection.
 
 ### Reports for multiple MVPDs and multiple channels {#multiple-mvpd-channels}
 
-
+Select the 
 ### Reports for top 10 MVPDs {#top-ten-mvpd-reports}
   
 ### Reports for Xfinity {#xfinity-reports}
