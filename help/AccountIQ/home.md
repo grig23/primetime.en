@@ -17,3 +17,12 @@ Account IQ sits at the transaction between subscribers and content providers, to
 The tool assigns sharing scores to different subscriber accounts, so that the content providers (media companies, programmers, and MVPDs) can take informed decisions about subscriber accounts and check the illicit sharing.
 
 Passwords are the main methods for viewers to authenticate, and there is a misconception that credential sharing is allowed. This idea makes illicit password sharing a common practice; necessitating the need for media companies to educate their viewers about permissible sharing and prevent illicit sharing.
+
+>[!MORELIKETHIS]
+>
+>* [How to get started with Account IQ](/help/AccountIQ/get-started.md)
+>* [Dashboard](/help/AccountIQ/dashboard.md)
+>* [Reports](/help/AccountIQ/reports.md)
+>* [Usage patterns](/help/AccountIQ/usage-patterns.md)
+>* [Glossary of product terms](/help/AccountIQ/product-concepts.md)
+>* [Account IQ whitepaper](https://www.adobe.com/content/dam/dx/us/en/products/primetime/resources/primetime-account-iq-whitepaper.pdf)

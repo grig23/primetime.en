@@ -5,6 +5,7 @@ description: View reports to understand password sharing.
 
 # Reports {#reports}
 
+
 ## General usage reports{#general-usage}
 
 Divide the content in cohorts.
