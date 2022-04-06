@@ -4,23 +4,23 @@ audience: end-user
 ---
 # Account IQ Help {#aiq-help}
 
-+ [Account IQ Overview](home.md)
++ [Account IQ Overview](/help/AccountIQ/home.md)
 + [Get started with Account IQ](get-started.md)
 + Account IQ components {#account-iq-components}
   + [The Account IQ tool and its components](accountiq.md)
   + [Dashboard](dashboard.md)
   + [Reports](reports.md)
-  + [Sharing Components]{#sharing-components}
+  + Sharing Components {#sharing-components}
     + [Sharing pattern and usage behavior](usage-patterns.md)
-+ [Account IQ How tos](use-aiq.md)
-  + [View account sharing reports]()
-    + [Reports for a specific MVPD and programmer]()
-    + [Reports for multiple MVPDs and multiple channels]()
-    + [Reports for top 10 MVPDs]()
-    + [Reports in isolation mode]()
-  + [View account statistics for a cohort]()
-  + [Export account information of users with high sharing scores]()
-  + [Create an operation that affects and tracks a defined segment of users]()
++ Account IQ How Tos {#use-aiq}
+  + [View account sharing reports](/help/AccountIQ/view-acc-sharing-reports.md)
+    + [Reports for a specific MVPD and programmer](/help/AccountIQ/specific-mvpd-report.md)
+    + [Reports for multiple MVPDs and multiple channels](/help/AccountIQ/multiple-mvpd-prog-rep.md)
+    + [Reports for top 10 MVPDs](/help/AccountIQ/top-10-mvpd-reports.md)
+    + [Reports in isolation mode](/help/AccountIQ/isolation-mode.md)
+  + [View account statistics for a cohort](/help/AccountIQ/cohort-statistics.md)
+  + [Export account information of users with high sharing scores](/help/AccountIQ/export-acc-information.md)
+  + [Create an operation that affects and tracks a defined segment of users](/help/AccountIQ/operation-affecting-user-segment.md)
 + [Next steps](next-steps.md)
 + [Best practices](best-practices.md)
 + [Troubleshoot](troubleshoot.md)
