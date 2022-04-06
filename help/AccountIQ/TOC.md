@@ -6,7 +6,7 @@ audience: end-user
 
 + [Account IQ Overview](home.md)
 + [Get started with Account IQ](get-started.md)
-+ Account IQ components{#account-iq-components}
++ Account IQ components {#account-iq-components}
   + [The Account IQ tool and its components](accountiq.md)
   + [Dashboard](dashboard.md)
   + [Reports](reports.md)

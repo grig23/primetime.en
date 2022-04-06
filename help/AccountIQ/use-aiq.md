@@ -24,6 +24,7 @@ Once you have selected an MVPD and channels in segment and time frame for granul
 ### Reports for multiple MVPDs and multiple channels {#multiple-mvpd-channels}
 
 Select the 
+
 ### Reports for top 10 MVPDs {#top-ten-mvpd-reports}
   
 ### Reports for Xfinity {#xfinity-reports}
