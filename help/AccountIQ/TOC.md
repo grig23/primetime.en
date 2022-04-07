@@ -17,7 +17,7 @@ audience: end-user
     + [Reports for a specific MVPD and programmer](/help/AccountIQ/reports-for-specific-mvpds.md)
     + [Reports for multiple MVPDs and multiple channels](/help/AccountIQ/multiple-mvpd-prog-rep.md)
     + [Reports for top 10 MVPDs](/help/AccountIQ/top-10-mvpd-reports.md)
-    + [Reports in isolation mode](/help/AccountIQ/isolation-mode.md)
+    + [Sharing behavior in isolation mode](/help/AccountIQ/isolation-mode.md)
   + [View account statistics for a cohort](/help/AccountIQ/cohort-statistics.md)
   + [Export account information of users with high sharing scores](/help/AccountIQ/export-acc-information.md)
   + [Create an operation that affects and tracks a defined segment of users](/help/AccountIQ/operation-affecting-user-segment.md)
