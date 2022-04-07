@@ -94,7 +94,7 @@ Metric is an attribute of subscriber account (for example, their MVPD, the progr
 
 A device that has high mobility. For example, mobile phone, and tablet.
 
-## MVPD {#mvpd}
+## MVPD {#mvpd-def}
 
 MVPD, also known as Distributor, is aggregator, reseller, and distributor of Media Company video content.
 

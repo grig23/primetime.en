@@ -5,13 +5,13 @@ audience: end-user
 # Account IQ Help {#aiq-help}
 
 + [Account IQ Overview](/help/AccountIQ/home.md)
-+ [Get started with Account IQ](get-started.md)
++ [Get started with Account IQ](/help/AccountIQ/get-started.md)
 + Account IQ components {#account-iq-components}
-  + [The Account IQ tool and its components](accountiq.md)
-  + [Dashboard](dashboard.md)
-  + [Reports](reports.md)
+  + [Select segments](/help/AccountIQ/select-segments.md)
+  + [Dashboard](/help/AccountIQ/dashboard.md)
+  + [Reports](/help/AccountIQ/reports.md)
   + Sharing Components {#sharing-components}
-    + [Sharing pattern and usage behavior](usage-patterns.md)
+    + [Sharing pattern and usage behavior](/help/AccountIQ/usage-patterns.md)
 + Account IQ How Tos {#use-aiq}
   + View account sharing reports {#view-account-sharing-reports}
     + [Reports for a specific MVPD and programmer](/help/AccountIQ/reports-for-specific-mvpds.md)
@@ -21,9 +21,9 @@ audience: end-user
   + [View account statistics for a cohort](/help/AccountIQ/cohort-statistics.md)
   + [Export account information of users with high sharing scores](/help/AccountIQ/export-acc-information.md)
   + [Create an operation that affects and tracks a defined segment of users](/help/AccountIQ/operation-affecting-user-segment.md)
-+ [Next steps](next-steps.md)
-+ [Best practices](best-practices.md)
-+ [Troubleshoot](troubleshoot.md)
-+ [Frequently asked questions](faq.md)
-+ [Limitations](limitations.md)
-+ [Glossary of product concepts](product-concepts.md)
++ [Next steps](/help/AccountIQ/next-steps.md)
++ [Best practices](/help/AccountIQ/best-practices.md)
++ [Troubleshoot](/help/AccountIQ/troubleshoot.md)
++ [Frequently asked questions](/help/AccountIQ/faq.md)
++ [Limitations](/help/AccountIQ/limitations.md)
++ [Glossary of product concepts](/help/AccountIQ/product-concepts.md)
