@@ -23,6 +23,8 @@ To view reports in Account IQ, once you have successfully logged in to the appli
 
 1. Select the desired channel(s) from that programmer from the **Channels in segment** drop-down option.
 
+   ![select channels](assets/programmer-selection.png)
+
 1. Select the MVPD(s) from **MVPDs in segment** drop-down option.
 
 1. Select the time interval to view reports. You can aggregate the time intervals week-wise or month-wise.
