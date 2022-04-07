@@ -21,7 +21,7 @@ To view metrics in isolattion mode:
 
 2. Select the desired channels from the **Channels in segment** drop-down option, and select **Apply Selection**. Also, select a [time frame](/help/AccountIQ/product-concepts.md#granularity-def).
 
->[!Limitation]
+>[!IMPORTANT]
 >
 >Because account sharing is more relevant when measured for streaming across all Programmers’ apps, you will see lower Sharing Scores and some variation in the metrics when in Isolation Mode.
 
