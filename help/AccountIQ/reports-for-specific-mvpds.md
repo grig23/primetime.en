@@ -1,37 +1,32 @@
 ---
-title: How to use Account IQ metrics
+title: How to use Account IQ metrics for a specific MVPD and programmer
 description: How to use and make sense of Account IQ reports.  
 ---
 
-# How to use Account IQ reports and dashboard {#how-to-aiq}
+# View account sharing reports: for a specific MVPD and programmer {#report-sp-mvpd}
 
-Let's understand how can we view and use various reports and statistics to analyze account sharing behavior.
+To view reports in Account IQ, once you have successfully logged in to the application as an MVPD:
 
-## View account sharing reports {#view-reports}
+1. Select a programmer from the **Channels in segment** drop-down, to view the sharing reports of its subscribers.
 
-To view reports in Account IQ, once you have successfully logged in to the application:
+1. Select the time interval to view reports. You can aggregate the time intervals week-wise or month-wise.
+
+![Time frame](assets/time-frame.png)
 
 1. Select a report category (General Usage or Shared Accounts) under REPORTS from the navigation to the left.
 
-1. Once you are on a reports category screen /page (either General Usage or Shared Accounts), you can filter the reports results for different sets of MVPDs and programmers, channels, and [time periods](/help/AccountIQ/product-concepts.md#time-frame) as discussed further.
+![report for specific MVPD](assets/report-forspecific-MVPD.png)
 
-1. From the filters panel at the top, use the drop-down options for **MVPDs in segment**, **Channels in Segment**, and [time period](/help/AccountIQ/product-concepts.md#time-frame) selector from **Granularity and time frame**.
+## If you are logged in as a programmer {#report-sp-programmer}
 
-### Reports for a specific MVPD and programmer {#specific-mvpd-programmer-report}
+To view reports in Account IQ, once you have successfully logged in to the application as a programmer (for an example Disney):
 
-Once you have selected an MVPD and channels in segment and time frame for granularity, you can see the following reports generated for your selection.
+1. Select the desired channel(s) from that programmer from the **Channels in segment** drop-down option.
 
-### Reports for multiple MVPDs and multiple channels {#multiple-mvpd-channels}
+1. Select the MVPD(s) from **MVPDs in segment** drop-down option.
 
-Select the 
+1. Select the time interval to view reports. You can aggregate the time intervals week-wise or month-wise.
 
-### Reports for top 10 MVPDs {#top-ten-mvpd-reports}
-  
-### Reports for Xfinity {#xfinity-reports}
+1. Select a report category (General Usage or Shared Accounts) under REPORTS from the navigation to the left.
 
-
-## View account statistics for a cohort {#view-cohort-statistics}
-
-## Export account information for users with high sharing scores {#export-account-info}
-
-## Create an operation that affects and tracks a defined segment of users {#create-operation}
+![reports for specific programmer](assets/report-forspecific-programmer.png)
