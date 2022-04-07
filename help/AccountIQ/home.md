@@ -9,21 +9,6 @@ The widespread availability of video content and streaming services bring with i
 
 To help media companies better understand the password sharing within their businesses, Primetime Account IQ determines **[!UICONTROL Password Sharing Risk Index]** that rates every subscriber on their likelihood of sharing account credentials for subscription passwords, from very low to very high. Based on these calculations and the resulting indices, analytics are performed and visuals are generated for better understanding and interpretation of the account sharing behavior. Account IQ is a hosted web application, which you can access using your browser.
 
-<!-- e.g. Primetime Account IQ helps MVPDs and programmers identify account sharing with a high level of confidence, enabling them to deliver better business outcomes while providing improved viewing experiences for subscribers.-->
-
-
-<!-- Account IQ analyzes key streaming events generated through video streaming. For TV Everywhere those events come from all of the activity processed by Adobe Pass (Primetime Authentication) of MVPD subscribers access of content on programmer sites and apps. -->
-
-
-
-<!-- Let's work with Sandeep on the intro: 1) we have some into material in the white paper we can repurpose (see example below), and 2) we want to strike a tone more about intelligently managing password sharing (identifying, informing strategy and converinting) - stopping sharing is only one tool. We also be moving into the D2C space this year and therefore want to talk about the environment and tool in less TVE-specific terms where we can (e.g., "streaming activity" instead of "transaction between subscribers and content providers").  I fully acknowledge this is a *new* requirement if you will. 
-
-xxxxxxTV Everywhere not only delivers comfortable and engaging experiences to viewers, but also lets content providers reach their customers and earn advertising revenues. However, this evolution in TV viewing is accompanied with the problem of account sharing; thereby resulting in lost revenue for Pay TV Providers (MVPDs) and programmers. Account IQ is a hosted web application that offers a solution to this problem, by providing the media companies with analytics data about account sharing behaviors.xxxxx
-
- e.g. Primetime Account IQ helps MVPDs and programmers identify account sharing with a high level of confidence, enabling them to deliver better business outcomes while providing improved viewing experiences for subscribers.
-xxxxxAccount IQ sits at the transaction between subscribers and content providers, to analyze the user behavior.xxxx
-<!-- Account IQ analyzes key streaming events generated through video streaming. For TV Everywhere those events come from all of the activity processed by Adobe Pass (Primetime Authentication) of MVPD subscribers access of content on programmer sites and apps. -->
-
 ![](assets/AIQIntro.png)
 
 The tool assigns sharing scores to different subscriber accounts, so that the content providers (media companies, programmers, MVPDs, and VOD providers) can take informed decisions about subscriber accounts and check the illicit sharing.
