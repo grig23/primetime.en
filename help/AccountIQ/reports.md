@@ -5,8 +5,11 @@ description: View reports to understand password sharing.
 
 # Reports {#reports}
 
+Account IQ reports provide basic analytic tools and reports that let you drill into your data to isolate [cohorts](/help/AccountIQ/product-concepts.md#segmet-def), identify anomalies, and build an understanding of your account characteristics.
 
 ## General usage reports{#general-usage}
+
+General Usage provides tools to carve out subgroups metrics based on the number of account devices in use, IPs detected, and respective zip codes.
 
 Divide the content in cohorts.
 
@@ -19,6 +22,8 @@ content consumption.....
 ![](assets/general-usage.png)
 
 ## Shared accounts reports{#shared-accounts}
+
+Shared Accounts breaks down metrics such as number of devices and device types by the selected range of sharing probability (e.g., “Over Moderate Probability”).
 
 Total number of users ...
 
