@@ -5,7 +5,7 @@ description: View reports in isolation mode for Xfinity.
 
 # View sharing reports in isolation mode {#report-isolation-mode}
 
-Generally, Adobe Account IQ evaluates the various streaming events to identify the sharing probablities of subscribers based on the same account identifier for each subscriber play request irrespective of the devices they use. However, some MVPDs (such as Xfinity) identify the play requests (made on different channel apps) by the same subscriber using different devices as separate. Such streaming requests are analysed in Isolation Mode.
+Generally, Adobe Account IQ evaluates the various streaming events to identify the sharing probabilities of subscribers based on the same account identifier for each subscriber play request irrespective of the devices they use. However, some MVPDs (such as Xfinity) identify the play requests (made on different channel apps) by the same subscriber using different devices as separate. Such streaming requests are analyzed in Isolation Mode.
 
 ![](assets/isolation-diff.png)
 
@@ -13,7 +13,7 @@ In Isolation Mode all the computations made for obtaining the Sharing Scores and
 
 The sharing scores and probabilities are calculated only using the stream that starts from the currently selected channels.
 
-To view metrics in isolattion mode:
+To view metrics in isolation mode:
 
 1. Select **isolation mode** from the **MVPDs in segment** drop-down option, and select **Apply Selection**.
 
