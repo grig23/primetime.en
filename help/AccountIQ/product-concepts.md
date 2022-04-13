@@ -10,9 +10,6 @@ Refer the following product terminologies and their definitions.
 
 A dashboard panel with charts that divides the current segments sharing scores into sharing range categories of Very Low, Low, Moderate, High, and Very High.
 
-<!--**Aggregated Risk Index**
-Also known as Risk Index and Sharing Risk Index, it is a value that helps users understand the magnitude of password sharing on Programmer properties or by MVPD subscribers and provides them a sense of urgency to act upon it.-->
-
 ## AuthN {#authn-def}
 
 Authentication, or the number of authentication attempts. An authentication attempt is the process whereby a user without a currently valid authentication state is redirected to their chosen MVPD, where they identify themselves to the MVPD - typically with a username and password.
@@ -98,6 +95,16 @@ A device that has high mobility. For example, mobile phone, and tablet.
 
 MVPD, also known as Distributor, is aggregator, reseller, and distributor of Media Company video content.
 
+## Overall sharing score {#overall-sharing-score}
+
+A value that helps users understand the magnitude of password sharing on Programmer properties or by MVPD subscribers and provide them a sense of urgency to act upon it.
+
+<!--**Aggregated Risk Index**
+Also known as Risk Index and Sharing Risk Index, it is a value that helps users understand the magnitude of password sharing on Programmer properties or by MVPD subscribers and provides them a sense of urgency to act upon it.-->
+
+<!--**Risk Index - Overall**
+A value computed as an average of "Risk Index - Accounts" and the "Risk Index - Usage". Overall Sharing Risk Index-->
+
 ## Play Request {#play-requests-def}
 
 A request made by a client app or site to Adobe to request a media token to record and secure a stream start.
@@ -113,9 +120,6 @@ The ID a Media Company Uses to identify themselves or a subsidiary to an MVPD.  
 ## resourceID {#resource-id-def}
 
 The content requested by the end user.  Traditionally, this has identified the Channel associate with the content the user has requested.  System enhancements allow that ID to represent specific programs (e.g. with specific ratings), the ID continues to identify the associated Channel.
-
-<!--**Risk Index - Overall**
-A value computed as an average of "Risk Index - Accounts" and the "Risk Index - Usage". Overall Sharing Risk Index-->
 
 ## Risk Index - Usage {#risk-index-usage}
 
