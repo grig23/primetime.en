@@ -11,7 +11,7 @@ To view reports in Account IQ, once you have successfully logged in to the appli
 
 1. Go to segment panel at the top of the application.
 
-    1. From the **MVPDs in segment** option, deselect **All**.
+   1. From the **MVPDs in segment** option, deselect **All**.
 
        Doing this enables the selection of individual MVPDs.
 
@@ -19,7 +19,7 @@ To view reports in Account IQ, once you have successfully logged in to the appli
     >
     >By default, all the MVPDs (that aggregate your channels) are selected.
 
-    2. In the **Channels in segment** drop-down, deselect **All** to enable the selection for individual programmers and channels.
+   2. In the **Channels in segment** drop-down, deselect **All** to enable the selection for individual programmers and channels.
 
     >[!NOTE]
     >
