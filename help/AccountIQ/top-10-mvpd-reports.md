@@ -17,8 +17,6 @@ To view the list and reports for top ten MVPDs by sharing score for your channel
 
    1. From the **MVPDs in segment** option, select **Top 10 MVPDs by sharing score**.
 
-    1. 
-
 ## Top 10 MVPDs by usage {#top-10mvpds-usage}
 
 ## Top 10 MVPDs by accounts {#top-10mvpds-accounts}
