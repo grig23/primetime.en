@@ -15,17 +15,17 @@ To view reports in Account IQ, once you have successfully logged in to the appli
 
        Doing this enables the selection of individual MVPDs.
 
-    >[!NOTE]
-    >
-    >By default, all the MVPDs (that aggregate your channels) are selected.
+   >[!NOTE]
+   >
+   >By default, all the MVPDs (that aggregate your channels) are selected.
 
-   2. In the **Channels in segment** drop-down, deselect **All** to enable the selection for individual programmers and channels.
+   1. In the **Channels in segment** drop-down, deselect **All** to enable the selection for individual programmers and channels.
 
     >[!NOTE]
     >
     >The top level checkboxes are programmers and the next level checkboxes are their channels.
 
-    3. From the **Granularity and time frame** option, select the time interval to view reports. You can aggregate the time intervals week-wise or month-wise.
+    1. From the **Granularity and time frame** option, select the time interval to view reports. You can aggregate the time intervals week-wise or month-wise.
 
       ![Time frame](assets/time-frame.png)
 
