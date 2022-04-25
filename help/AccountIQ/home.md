@@ -7,7 +7,9 @@ description: Account IQ helps MVPDs and programmers understand the risks to thei
 
 Understanding, identifying and acting on password sharing is a complex process. There is complexity involved in understanding the subscriber usage behavior and developing a holistic view of viewer activity (for e.g., distinguishing sharing with members within same household & outside). Due to this challenge, streaming service providers have inhibitions in acting against password sharing. Rather than considering password sharing to be bad for business and always acting strongly against it (for e.g. blocking sharers), video streaming services should follow a holistic approach that enables them to understand sharing accurately and adopt strategies to reward good viewing behavior and target business growth.
 
-![Account IQ flow diagram](assets/AIQIntro.png)
+![Account IQ flow diagram](assets/AIQ-Flow.png)
+
+*Figure: Account IQ information flow*
 
 Adobe Primetime Account IQ enables video streaming services understand the subscriber usage patterns and identify password sharing by analyzing usage behavior, validate the impact of applying actions to encourage legitimate viewing behavior while maximizing business ROI, eventually growing subscribers and revenue. By deeply analyzing the long, winding trail of data left behind by each subscriber using Adobe’s proprietary multi-layer machine learning model, customers can understand usage behavior and identify password sharing with a greater degree of certainty, use the insights to validate the impact of applying actions to encourage legitimate viewing behavior while maximizing business growth, eventually act on password sharing using validated tactics to improve viewer experience, growing subscribers and revenue (for e.g. converting sharers to paid subscribers, managing ad loads based on sharing behavior, rewarding good behavior with better viewer experience).
 

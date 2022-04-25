@@ -9,6 +9,9 @@ Generally, Adobe Account IQ evaluates the various streaming events to identify t
 
 ![](assets/isolation-diff-new.png)
 
+
+*Figure: Differences in account identifiers for standard and isolation mode MVPDs.*  
+
 In Isolation Mode all the computations made for obtaining the Sharing Scores and all the associated metrics are made using only the activity of the devices streaming from applications belonging to the selected Programmer and channels.
 
 The sharing scores and probabilities are calculated only using the stream that starts from the currently selected channels.
