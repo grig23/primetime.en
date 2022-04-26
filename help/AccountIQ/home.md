@@ -30,6 +30,7 @@ The Account IQ application has the following sections:
 * [General Usage](/help/AccountIQ/reports.md#general-usage)
 * [Shared Accounts](/help/AccountIQ/reports.md#shared-accounts)
 * [Usage Patterns](/help/AccountIQ/usage-patterns.md)
+* [Operations](/help/AccountIQ/operations.md)
 
 Let's take a deep dive into the graphs and reports in each of these sections.
 
