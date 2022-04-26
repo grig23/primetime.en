@@ -13,7 +13,7 @@ audience: end-user
   + Sharing Components {#sharing-components}
     + [Sharing pattern and usage behavior](/help/AccountIQ/usage-patterns.md)
   + Actions {#further-next-steps-actions}
-    + [Operations](/help/AccountIQ/operations.md)
+    + [Operations](/help/AccountIQ/operations.md) 
 + Account IQ How Tos {#use-aiq}
   + View account sharing reports {#view-account-sharing-reports}
     + [Reports for a specific MVPD and programmer](/help/AccountIQ/reports-for-specific-mvpds.md)
