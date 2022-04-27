@@ -11,7 +11,7 @@ The option to export the account sharing information is available on [General Us
 
 >[!NOTE]
 >
->The numbers in the downloaded CSV file is different for General Usage and Shared Accounts reports pages. This is because the General Usage Reports page has additional filters for the programmers to select Threshold for number of devices, IPs and Zip codes. So the data exported from General Usage reports is based on the additional threshold filter applied.
+>The numbers in the downloaded CSV file are different for General Usage and Shared Accounts reports pages. This is because the General Usage Reports page has additional filters for the programmers to select Threshold for number of devices, IPs and Zip codes. So the data exported from General Usage reports is based on the additional threshold filter applied.
 
 ![Export option in General usage](assets/Export.png)
 
