@@ -5,25 +5,35 @@ description: Export information for accounts with high sharing score.
 
 # Export information for accounts with high sharing score {#export-account-info-high-score}
 
-Account IQ gives you the option to export account sharing details for top 1000 subscriber accounts based on their [sharing probabilities](/help/AccountIQ/product-concepts.md#account-sharing-probability-def. The data in the exported CSV file is sorted in the decreasing order of the sharing probabilities of the subscriber accounts—of the selected MVPDs in the [segment](/help/AccountIQ/product-concepts.md#segment-def), for a [specified time frame](/help/AccountIQ/product-concepts.md#time-frame-def).
+Account IQ gives you the option to export account sharing details for top 1000 subscriber accounts based on their [sharing probabilities](/help/AccountIQ/product-concepts.md#account-sharing-probability-def). The data in the exported CSV file is sorted in the decreasing order of the sharing probabilities of the subscriber accounts—of the selected MVPDs in the [segment](/help/AccountIQ/product-concepts.md#segment-def), for a [specified time frame](/help/AccountIQ/product-concepts.md#time-frame-def).
 
 The option to export the account sharing information is available on [General Usage Reports](/help/AccountIQ/reports.md#general-usage) and [Shared Accounts Reports](/help/AccountIQ/reports.md#shared-accounts) pages.
 
 >[!NOTE]
 >
->The numbers in the downloaded CSV file are different for the ones in General Usage and Shared Accounts reports, because of the differences in the Threshold filter.
+>The numbers in the downloaded CSV file is different for General Usage and Shared Accounts reports pages. This is because the General Usage Reports page has additional filters for the programmers to select Threshold for number of devices, IPs and Zip codes. So the data exported from General Usage reports is based on the additional threshold filter applied.
 
 ![](assets/Export.png)
 
-## Process
+To export the account sharing information of subscribers:
 
-To export the 
+1. Specify a segment from the segment selector. To select a segment:
+
+   1. Select the desired MVPDs from **MVPDs in segment** option.
+
+   1. Select the desired Channels from **Channels in segment** option.
+
+   1. Select a timeframe from **Granularity and time frame** option to view reports for that.
+
+1. Select the **Export top 1000 accounts** option to export the account information for 1000 subscribers with highest sharing probability.
 
 When you use the export option, the statistics for 1000 accounts with the highest sharing probabilities (for a defined time frame) are downloaded to the local Download folder of your Windows machine.
 
 >[!NOTE]
 >
 >The downloaded CSV file can be opened using any application that reads CSV file, for example Microsoft Excel.
+
+![](assets/exported-csv.png)
 
 ## Columns in the exported report {#columns-in-export}
 
@@ -73,7 +83,7 @@ Number of states where the streaming has taken place.
 
 **#Clusters**
 
-[Cluters](/help/AccountIQ/product-concepts.md#cluster-def) are....
+A cluster is a collection of locations and devices. The clusters are created by finding common locations between devices. The devices that have been seen in a common location will be considered to belong in the same [Cluster](/help/AccountIQ/product-concepts.md#cluster-def).
 
 **Geographic span (miles)**
 
@@ -112,7 +122,6 @@ The numbers in this column are identifiers that map to one of the 14 patterns th
  | ID | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9-11 | 12 | 13 | 14 |
  |---|---|---|---|---|---|---|---|---|---|---|---|---|
  | Usage Patterns | Regular user | Traveler or commuter | Large family | Close family and friends | Social group sharing | Large group of friends | Concurrent streaming | Community sharing | Uncertain behavior | Small family | Second home | Abnormal Usage |
-
 
 **Sharing Probability**
 
