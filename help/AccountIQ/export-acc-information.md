@@ -13,7 +13,7 @@ The option to export the account sharing information is available on [General Us
 >
 >The numbers in the downloaded CSV file is different for General Usage and Shared Accounts reports pages. This is because the General Usage Reports page has additional filters for the programmers to select Threshold for number of devices, IPs and Zip codes. So the data exported from General Usage reports is based on the additional threshold filter applied.
 
-![](assets/Export.png)
+![Export option in General usage](assets/Export.png)
 
 To export the account sharing information of subscribers:
 
@@ -33,7 +33,7 @@ When you use the export option, the statistics for 1000 accounts with the highes
 >
 >The downloaded CSV file can be opened using any application that reads CSV file, for example Microsoft Excel.
 
-![](assets/exported-csv.png)
+![exported data in csv format](assets/exported-csv.png)
 
 ## Columns in the exported report {#columns-in-export}
 
