@@ -19,7 +19,7 @@ Also known as Aggregated Risk Index or Risk Index and Sharing Risk Index, it is 
 
 The following three metrics contribute to the Aggregate Sharing Score.
 
-**Sharing level**
+### Sharing level {#sharing-level}
 
 The sharing level gauge shows the percentage of all your subscriber accounts that are shared, during the selected time frame.  
 

@@ -7,7 +7,7 @@ description: Account IQ helps MVPDs and programmers understand the risks to thei
 
 Understanding, identifying and acting on password sharing is a complex process. There is complexity involved in understanding the subscriber usage behavior and developing a holistic view of viewer activity (for e.g., distinguishing sharing with members within same household & outside). Due to this challenge, streaming service providers have inhibitions in acting against password sharing. Rather than considering password sharing to be bad for business and always acting strongly against it (for e.g. blocking sharers), video streaming services should follow a holistic approach that enables them to understand sharing accurately and adopt strategies to reward good viewing behavior and target business growth.
 
-![Account IQ flow diagram](assets/AIQ-Flow.png)
+![Account IQ flow diagram](assets/aiq-intro.png)
 
 *Figure: Account IQ information flow*
 
