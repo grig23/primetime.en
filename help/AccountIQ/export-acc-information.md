@@ -15,15 +15,16 @@ The option to export the account sharing information is available on [General Us
 
 ![](assets/Export.png)
 
-
 ## Process
+
 To export the 
 
 When you use the export option, the statistics for 1000 accounts with the highest sharing probabilities (for a defined time frame) are downloaded to the local Download folder of your Windows machine.
 
 >[!NOTE]
 >
->The downloaded CSV file can be opened using ny application that reads CSV file, for example Microsoft Excel.
+>The downloaded CSV file can be opened using any application that reads CSV file, for example Microsoft Excel.
+
 ## Columns in the exported report {#columns-in-export}
 
 **Week/ Month**
@@ -72,7 +73,7 @@ Number of states where the streaming has taken place.
 
 **#Clusters**
 
-#cluster-def
+[Cluters](/help/AccountIQ/product-concepts.md#cluster-def) are....
 
 **Geographic span (miles)**
 
@@ -108,20 +109,10 @@ Total number of different channels that the account has watched over the time pe
 
 The numbers in this column are identifiers that map to one of the 14 patterns that we identify all the user accounts as.
 
- | ID | Usage Patterns |
-|---|---|
-|     1       |     Regular user                |
-|     2       |     Traveler or   commuter     |
-|     3       |     Large family                |
-|     4       |     Close family   & friends    |
-|     5       |     Social group   sharing      |
-|     6       |     Large group of   friends    |
-|     7       |     Concurrent   streaming      |
-|     8       |     Community   sharing         |
-|     9-11    |     Uncertain   behavior        |
-|     12      |     Small family                |
-|     13      |     Second home                 |
-|     14      |     Abnormal Usage     |
+ | ID | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9-11 | 12 | 13 | 14 |
+ |---|---|---|---|---|---|---|---|---|---|---|---|---|
+ | Usage Patterns | Regular user | Traveler or commuter | Large family | Close family and friends | Social group sharing | Large group of friends | Concurrent streaming | Community sharing | Uncertain behavior | Small family | Second home | Abnormal Usage |
+ 
 
 **Sharing Probability**
 
