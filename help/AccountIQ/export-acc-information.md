@@ -5,13 +5,13 @@ description: Export information for accounts with high sharing score.
 
 # Export information for accounts with high sharing score {#export-account-info-high-score}
 
-Account IQ gives you the option to export account sharing details for top 1000 subscriber accounts based on their [sharing probabilities](/help/AccountIQ/product-concepts.md#account-sharing-probability-def. The data in the exported CSV file is sorted in the decreasing order of the sharing probabilities of the subscriber accounts—of the selected MVPDs in the [segment](/help/AccountIQ/product-concepts.md#segmet-def), for a [specified time frame](/help/AccountIQ/product-concepts.md#time-frame-def).
+Account IQ gives you the option to export account sharing details for top 1000 subscriber accounts based on their [sharing probabilities](/help/AccountIQ/product-concepts.md#account-sharing-probability-def. The data in the exported CSV file is sorted in the decreasing order of the sharing probabilities of the subscriber accounts—of the selected MVPDs in the [segment](/help/AccountIQ/product-concepts.md#segment-def), for a [specified time frame](/help/AccountIQ/product-concepts.md#time-frame-def).
 
-The option to export the account sharing information is available on [General Usage Reports](help/AccountIQ/reports.md#general-usage) and [Shared Accounts Reports](/help/AccountIQ/reports.md#shared-accounts) pages.
+The option to export the account sharing information is available on [General Usage Reports](/help/AccountIQ/reports.md#general-usage) and [Shared Accounts Reports](/help/AccountIQ/reports.md#shared-accounts) pages.
 
 >[!NOTE]
 >
->The numbers in the downloaded CSV file are different for the ones in General Usage and Shared Accounts reports, because of the differnces in the Threashhold filter.
+>The numbers in the downloaded CSV file are different for the ones in General Usage and Shared Accounts reports, because of the differences in the Threshold filter.
 
 ![](assets/Export.png)
 
@@ -112,7 +112,7 @@ The numbers in this column are identifiers that map to one of the 14 patterns th
  | ID | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9-11 | 12 | 13 | 14 |
  |---|---|---|---|---|---|---|---|---|---|---|---|---|
  | Usage Patterns | Regular user | Traveler or commuter | Large family | Close family and friends | Social group sharing | Large group of friends | Concurrent streaming | Community sharing | Uncertain behavior | Small family | Second home | Abnormal Usage |
- 
+
 
 **Sharing Probability**
 
