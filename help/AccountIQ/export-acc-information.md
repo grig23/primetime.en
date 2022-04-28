@@ -127,6 +127,9 @@ The numbers in this column are identifiers that map to one of the 14 patterns th
  |---|---|---|---|---|---|---|---|---|---|---|---|---|
  | Usage Patterns | Regular user | Traveler or commuter | Large family | Close family and friends | Social group sharing | Large group of friends | Concurrent streaming | Community sharing | Uncertain behavior | Small family | Second home | Abnormal Usage |
 
+{style="table-layout:auto"}
+
+.................................................
 | ID          | User details                    |
 |-------------|---------------------------------|
 |     1       |     Regular user                |

@@ -16,7 +16,7 @@ B accesses content content offered by two different programmers (using the same 
 
 To manage the distortion of data (due to identifying the same subscriber as different based on accessing different programmers), Isolation Mode limits the activity reported about a Programmer to the activity only on that Programmer’s applications. For example, in the above image in Isolation Mode Programmer L sees two different users in both the cases; users with identity R and S for the Standard MVPD, and users with identity W and Y for the Isolation Mode MVPD.
 
->[!LIMITATION]
+>[!IMPORTANT]
 >
 > The downside is that Programmer L is deprived of sharing information gathered about Subscribers A and B due to activity with any Programmer other than L.
 
@@ -30,7 +30,7 @@ To view metrics in isolation mode:
 
 ![](assets/xfinity-in-segment.png)
 
-2. Select the desired channels from the **Channels in segment** drop-down option, and select **Apply Selection**. Also, select a [time frame](/help/AccountIQ/product-concepts.md#granularity-def).
+1. Select the desired channels from the **Channels in segment** drop-down option, and select **Apply Selection**. Also, select a [time frame](/help/AccountIQ/product-concepts.md#granularity-def).
 
 >[!IMPORTANT]
 >
