@@ -35,6 +35,8 @@ When you use the export option, the statistics for 1000 accounts with the highes
 
 ![exported data in csv format](assets/exported-csv.png)
 
+*Figure: Exported shared account data in CSV format*
+
 ## Columns in the exported report {#columns-in-export}
 
 **Week/ Month**
@@ -119,13 +121,30 @@ Total number of different channels that the account has watched over the time pe
 
 The numbers in this column are identifiers that map to one of the 14 patterns that we identify all the user accounts as.
 
+*Table: Usage pattern identifiers in exported CSV mapping with usage patterns*
+
  | ID | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9-11 | 12 | 13 | 14 |
  |---|---|---|---|---|---|---|---|---|---|---|---|---|
  | Usage Patterns | Regular user | Traveler or commuter | Large family | Close family and friends | Social group sharing | Large group of friends | Concurrent streaming | Community sharing | Uncertain behavior | Small family | Second home | Abnormal Usage |
 
+| ID          | User details                    |
+|-------------|---------------------------------|
+|     1       |     Regular user                |
+|     2       |     Traveller or   commuter     |
+|     3       |     Large family                |
+|     4       |     Close family   & friends    |
+|     5       |     Social group   sharing      |
+|     6       |     Large group of   friends    |
+|     7       |     Concurrent   streaming      |
+|     8       |     Community   sharing         |
+|     9-11    |     Uncertain   behavior        |
+|     12      |     Small family                |
+|     13      |     Second home                 |
+|     14      |     Abnormal usage              |
+
 **Sharing Probability**
 
-It equates to the probability that the specific account is sharing its credentials.
+Sharing probability is the probability that the specific account is sharing its credentials.
 
 >[!NOTE]
 >
