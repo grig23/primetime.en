@@ -5,8 +5,6 @@ description: Account IQ helps MVPDs and programmers understand the risks to thei
 
 # Account IQ overview {#account-iq-overview}
 
-
-
 Understanding, identifying and acting on password sharing is a complex process. There is complexity involved in understanding the subscriber usage behavior and developing a holistic view of viewer activity (for e.g., distinguishing sharing with members within same household & outside). Due to this challenge, streaming service providers have inhibitions in acting against password sharing. Rather than considering password sharing to be bad for business and always acting strongly against it (for e.g. blocking sharers), video streaming services should follow a holistic approach that enables them to understand sharing accurately and adopt strategies to reward good viewing behavior and target business growth.
 
 ![Account IQ flow diagram](assets/aiq-intro.png)
@@ -29,8 +27,8 @@ Passwords are the main methods for viewers to authenticate, and there is a misco
 The Account IQ application has the following sections:
 
 * [Dashboard](/help/AccountIQ/dashboard.md)
-* [General Usage](/help/AccountIQ/reports.md#general-usage)
-* [Shared Accounts](/help/AccountIQ/reports.md#shared-accounts)
+* [General Usage reports](/help/AccountIQ/general-usage-reports.md)
+* [Shared Accounts reports](/help/AccountIQ/shared-acc-reports.md)
 * [Usage Patterns](/help/AccountIQ/usage-patterns.md)
 * [Operations](/help/AccountIQ/operations.md)
 
@@ -40,7 +38,8 @@ Let's take a deep dive into the graphs and reports in each of these sections.
 >
 >* [How to get started with Account IQ](/help/AccountIQ/get-started.md)
 >* [Dashboard](/help/AccountIQ/dashboard.md)
->* [Reports](/help/AccountIQ/reports.md)
+>* [General usage reports](/help/AccountIQ/general-usage-reports.md)
+>* [Shared accounts reports](/help/AccountIQ/shared-acc-reports.md)
 >* [Usage patterns](/help/AccountIQ/usage-patterns.md)
 >* [Glossary of product terms](/help/AccountIQ/product-concepts.md)
 >* [Account IQ whitepaper](https://www.adobe.com/content/dam/dx/us/en/products/primetime/resources/primetime-account-iq-whitepaper.pdf)
