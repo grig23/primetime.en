@@ -9,9 +9,11 @@ audience: end-user
 + Account IQ components {#account-iq-components}
   + [Select segments](/help/AccountIQ/select-segments.md)
   + [Dashboard](/help/AccountIQ/dashboard.md)
-  + [Reports](/help/AccountIQ/reports.md)
+  + Reports
+    + [General Usage reports](/help/AccountIQ/general-usage-reports.md)
+    + [Shared Accounts reports](/help/AccountIQ/shared-acc-reports.md)
   + Sharing Components {#sharing-components}
-    + [Sharing pattern and usage behavior](/help/AccountIQ/usage-patterns.md)
+    + [Usage patterns](/help/AccountIQ/usage-patterns.md)
   + Actions {#further-next-steps-actions}
     + [Operations](/help/AccountIQ/operations.md)
 + Account IQ How Tos {#use-aiq}
@@ -23,9 +25,8 @@ audience: end-user
   + [View account statistics for a cohort](/help/AccountIQ/cohort-statistics.md)
   + [Export account information of users with high sharing scores](/help/AccountIQ/export-acc-information.md)
   + [Create an operation that affects and tracks a defined segment of users](/help/AccountIQ/operation-affecting-user-segment.md)
-+ [Next steps](/help/AccountIQ/next-steps.md)
-+ [Best practices](/help/AccountIQ/best-practices.md)
++ [Limitations](/help/AccountIQ/limitations.md)
 + [Troubleshoot](/help/AccountIQ/troubleshoot.md)
 + [Frequently asked questions](/help/AccountIQ/faq.md)
-+ [Limitations](/help/AccountIQ/limitations.md)
++ [Best practices](/help/AccountIQ/best-practices.md)
 + [Glossary of product concepts](/help/AccountIQ/product-concepts.md)

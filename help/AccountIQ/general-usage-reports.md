@@ -1,9 +1,9 @@
 ---
-title: The Account IQ reports
-description: View reports to understand password sharing.
+title: General Usage reports
+description: General Usage reports
 ---
 
-# Reports {#reports}
+# General Usage reports {#general-usage-reports}
 
 Account IQ reports provide basic analytic tools and reports that let you drill into your data to isolate [cohorts](/help/AccountIQ/product-concepts.md#segmet-def), identify anomalies, and build an understanding of your account characteristics.
 

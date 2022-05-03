@@ -35,7 +35,7 @@ For a logged-in programmer user, following three default selections (to view rep
 
 ## Top 10 MVPDs by sharing score {#top-10mvpds-sharingscore}
 
-When you use the selection **top 10 MVPDs by sharing score** to define your segment, then the Account IQ system identifies 10 MVPDs from across the industry to  a list of the  lists at most ten MVPDs (along with their corresponding metrics) in the descending order of their [overall sharing score](/help/AccountIQ/product-concepts.md#overall-sharing-score)
+When you use the selection **top 10 MVPDs by sharing score** to define your segment, then the Account IQ system identifies 10 MVPDs from across the industry to a list of at most ten MVPDs (along with their corresponding metrics) in the descending order of their [overall sharing score](/help/AccountIQ/product-concepts.md#overall-sharing-score)
 
 To view the list and reports for top ten MVPDs by sharing score for your channel:
 
