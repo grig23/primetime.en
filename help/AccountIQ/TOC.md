@@ -7,9 +7,9 @@ audience: end-user
 + [Account IQ Overview](/help/AccountIQ/home.md)
 + [Get started with Account IQ](/help/AccountIQ/get-started.md)
 + Account IQ components {#account-iq-components}
-  + [Select segments](/help/AccountIQ/select-segments.md)
+  + [Segments and time frame](/help/AccountIQ/segments-timeframe.md)
   + [Dashboard](/help/AccountIQ/dashboard.md)
-  + Reports {reports-account-iq}
+  + Reports {#reports-account-iq}
     + [General Usage reports](/help/AccountIQ/general-usage-reports.md)
     + [Shared Accounts reports](/help/AccountIQ/shared-acc-reports.md)
   + Sharing Components {#sharing-components}
