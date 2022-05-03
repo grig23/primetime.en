@@ -27,7 +27,7 @@ To view General Usage Reports:
 
    Using the above options you have defined segments for your analysis. Based on your segment selection, following graphs and reports are displayed.
 
-4. You can fine tune your selection and further narrow it down by specifying thresholds in [Snapshot Overview - Accounts above thresholds](#snapshot-overview) widget.
+4. You can fine tune your selection and further narrow it down by specifying (number of devices, number of IPs, and number of zip codes) thresholds in [Snapshot Overview - Accounts above thresholds](#snapshot-overview) widget.
 
 ## AuthN OK / AuthZ OK / Play Requests / Unique Subscribers {#authn-authz-playreq-uniquesubs}
 
@@ -58,6 +58,7 @@ The x-axis has time duration plotted on it and the y-axis has absolute numbers o
     >The total number of unique subscribers also include the number of unique devices if a programmer's use of Adobe TempPass (i.e. free preview) is part of the segment.
 
 ## Snapshot Overview - Accounts above thresholds {#snapshot-overview}
+
 ### Accounts Segment - based on selected thresholds {#account-segments-basedon-segments}
 
 ## Devices per Week per Account {#devices-week-account}
