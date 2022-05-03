@@ -7,7 +7,7 @@ description: Export information for accounts with high sharing score.
 
 Account IQ gives you the option to export account sharing details for top 1000 subscriber accounts based on their [sharing probabilities](/help/AccountIQ/product-concepts.md#account-sharing-probability-def). The data in the exported CSV file is sorted in the decreasing order of the sharing probabilities of the subscriber accounts—of the selected MVPDs in the [segment](/help/AccountIQ/product-concepts.md#segment-def), for a [specified time frame](/help/AccountIQ/product-concepts.md#time-frame-def).
 
-The option to export the account sharing information is available on [General Usage Reports](/help/AccountIQ/reports.md#general-usage) and [Shared Accounts Reports](/help/AccountIQ/reports.md#shared-accounts) pages.
+The option to export the account sharing information is available on [General Usage Reports](/help/AccountIQ/general-usage-reports.md) and [Shared Accounts Reports](help/AccountIQ/shared-acc-reports.md) pages.
 
 >[!NOTE]
 >
