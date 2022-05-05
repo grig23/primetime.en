@@ -80,6 +80,7 @@ When you update threshold values in [Accounts Segment - based on selected thresh
 >[!NOTE]
 >
 >The default value for each of the thresholds is 4. Which means, the General Usage page shows analysis for MVPDs with subscribers using four (and more than four) devices, consuming content from four (and more) different geographical locations and four (and more) different zip codes.
+
 ### Accounts Segment - based on selected thresholds {#account-segments-basedon-segments}
 
 The **Accounts Segment - based on selected thresholds** panel gives you options to set thresholds (between 1 and 10) for number of devices, number of IPs, and number of Zip codes.
