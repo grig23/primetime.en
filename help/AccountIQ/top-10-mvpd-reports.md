@@ -43,19 +43,19 @@ To view the list and reports for top ten MVPDs by sharing score for your channel
 
    1. From the **MVPDs in segment** option, deselect **All** and select **Top 10 MVPDs by sharing score**.
 
-   2. From the **Channels in Segment** option, deselect **All** and select the desired channels.
+   1. From the **Channels in Segment** option, deselect **All** and select the desired channels.
 
      >[!NOTE]
      >
      >In the **Channels in Segment** option, the top level list items are Programmers and the next level list items are channels under them.
 
-   3. Select a time frame from the **Granularity and time frame** option by selecting the calendar picker.
+   1. Select a time frame from the **Granularity and time frame** option by selecting the calendar picker.
 
       * Define granularity by using **Aggregated By** option. Either use Month or Week to define a time frame.
 
       * Select a timeframe by selecting a month or a week based on the granularity you have set.
 
-2. Select a page to view reports for the defined segment.
+1. Select a page to view reports for the defined segment.
 
 ## Top 10 MVPDs by usage {#top-10mvpds-usage}
 
@@ -67,19 +67,19 @@ To view the list and reports for top ten MVPDs by sharing score for your channel
 
    1. From the **MVPDs in segment** option, deselect **All** and select **Top 10 MVPDs by sharing score**.
 
-   2. From the **Channels in Segment** option, deselect **All** and select the desired channels.
+   1. From the **Channels in Segment** option, deselect **All** and select the desired channels.
 
      >[!NOTE]
      >
      >In the **Channels in Segment** option, the top level list items are Programmers and the next level list items are channels under them.
 
-   3. Select a time frame from the **Granularity and time frame** option by selecting the calendar picker.
+   1. Select a time frame from the **Granularity and time frame** option by selecting the calendar picker.
 
       * Define granularity by using **Aggregated By** option. Either use Month or Week to define a time frame.
 
       * Select a timeframe by selecting a month or a week based on the granularity you have set.
 
-2. Select a page to view reports for the defined segment.
+1. Select a page to view reports for the defined segment.
 
 ## Top 10 MVPDs by accounts {#top-10mvpds-accounts}
 
@@ -91,13 +91,13 @@ To view the list and reports for top ten MVPDs by number of accounts that are sh
 
    1. From the **MVPDs in segment** option, deselect **All** and select **Top 10 MVPDs by sharing score**.
 
-   2. From the **Channels in Segment** option, deselect **All** and select the desired channels.
+   1. From the **Channels in Segment** option, deselect **All** and select the desired channels.
 
      >[!NOTE]
      >
      >In the **Channels in Segment** option, the top level list items are Programmers and the next level list items are channels under them.
 
-   3. Select a time frame from the **Granularity and time frame** option by selecting the calendar picker.
+   1. Select a time frame from the **Granularity and time frame** option by selecting the calendar picker.
 
       * Define granularity by using **Aggregated By** option. Either use Month or Week to define a time frame.
 
