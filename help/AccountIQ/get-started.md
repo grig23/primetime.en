@@ -9,7 +9,7 @@ Read on to know the prerequisites to use Account IQ and how can your company onb
 
 ## Prerequisites {#prerequisites}
 
-* The organization must be registered in [!DNL Adobe Marketing Cloud] organizations.
+* The organization must be registered in [!DNL Adobe Experience Cloud] <!--Presently Adobe Marketing Cloud--> organizations.
 
 * Users in that organization should be assigned to either TVE Dashboard Read-Write or TVE Dashboard Read-Only.
 
