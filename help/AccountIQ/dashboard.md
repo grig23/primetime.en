@@ -36,6 +36,7 @@ The Trend indicator shows the change in
 **Overall sharing score**
 
 ![](assets/overall-sharing-score.png)
+
 ### MVPDs in segment {#mvpd-in-segment}
 
 It is a table of risk indices and accounts totals for the top MVPDs ranked by overall usage or account sharing.

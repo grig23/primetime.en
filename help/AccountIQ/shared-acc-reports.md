@@ -30,7 +30,8 @@ Based on points on the map.
 ![](assets/play-req-outof-total.png)
 
 ![](assets/play-request-total.gif)
-## Segment - Average No of Devices/Account {#avg-devices per account}
+
+## Segment - Average No of Devices/Account{#avg-devices per account}
 
 ![](assets/avg-devices-per-acc.png)
 
@@ -40,7 +41,7 @@ Based on points on the map.
 
 ![](assets/zip-code-period.gif)
 
-## Segment - Geographical Span / Period / Account {geo-span-period-account}
+## Segment - Geographical Span / Period / Account {#geo-span-period-account}
 
 ![](assets/geogr-span-account.png)
 
