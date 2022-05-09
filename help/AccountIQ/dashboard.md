@@ -24,15 +24,18 @@ The following three metrics contribute to the Aggregate Sharing Score.
 The sharing level gauge shows the percentage of all your subscriber accounts that are shared, during the selected time frame.  
 
 A value calculated based on an average of the sharing probability computed for every account in the set of selected MVPDs that has streamed from a one of the selected Programmer Channels during the selected time frame.
+![](assets/sharing-level.png)
 
 The Trend indicator shows the change in   
 
 **Usage from shared accounts**
 
+![](assets/usage-4mshared-accounts.png)
+
 
 **Overall sharing score**
 
-
+![](assets/overall-sharing-score.png)
 ### MVPDs in segment {#mvpd-in-segment}
 
 It is a table of risk indices and accounts totals for the top MVPDs ranked by overall usage or account sharing.
@@ -55,10 +58,10 @@ It is the table of overall sharing score of each channel in the segment for top 
 
 It partitions accounts into ranges of sharing probability from very low to very high.
 
-![](assets/accounts-sharing-probability.png)
+![](assets/dashboard-ac-sharing-prob.png)
 
-### Number of accounts and usage by sharing probability level {#number-of-accounts-usage-sharing-probablity}
+### Number of accounts and usage by sharing probability level {#number-of-accounts-usage-sharing-probability}
 
 Shows account totals, usage, and trends for accounts partitioned into ranges of sharing probability of very low to very high.
 
-![](assets/number-of-accounts-usage.png)
+![](assets/no-acc-usage-prob-level.png)
