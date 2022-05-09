@@ -3,9 +3,9 @@ title: Shared Accounts reports
 description: Shared accounts reports
 ---
 
-# Shared Accounts reports {#shared-accounts-reports}
+# Shared Accounts Reports {#shared-accounts-reports}
 
-Shared Accounts reports break down the metrics such as number of devices and device types by the selected range of sharing probability, for example **Over Moderate Probability** and **Over Low Probability**.
+Shared Accounts Reports break down the metrics such as number of devices and device types by the selected range of sharing probability, for example **Over Moderate Probability** and **Over Low Probability**.
 
 ## Accounts Sharing Probability {#accounts-sharing-probability}
 
@@ -31,7 +31,7 @@ Based on points on the map.
 
 ![](assets/play-request-total.gif)
 
-## Segment-Average Number of Devices/Account{#avg-devices per account}
+## Segment-Average Number of Devices/Account{#avg-devices-account}
 
 ![](assets/avg-devices-per-acc.png)
 
