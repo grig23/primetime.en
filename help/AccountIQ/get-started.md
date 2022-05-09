@@ -3,7 +3,7 @@ title: How to onboard and get started with Account IQ
 description: How to onboard, prerequisites, and getting started with the Account IQ. 
 ---
 
-# How to onboard and get started with Account IQ {#onboarding}
+# How to onboard and get started with Account IQ {#onboard}
 
 Account IQ is a hosted web application. To begin using this analytics tool as a D2C streaming provider, programmer, or distributor (MVPD) and mitigate credential sharing, you need to get your organization onboarded on Adobe Experience Cloud organizations and assign organization users to **Primetime Account IQ** profile on [Adobe Admin Console](https://adminconsole.adobe.com/). Read on to know the pre-requisites and details to onboard.
 
@@ -17,23 +17,29 @@ Account IQ is compatible with the most recent versions of the following browsers
 
 ## Steps to onboard {#steps-to-onboard}
 
-1. Contact **Adobe Support** to get your organization registered in **Adobe Experience Cloud** <!--Presently Adobe Marketing Cloud--> organizations.
+1. Contact **Adobe** (or **Adobe Support**) to get your organization registered in **Adobe Experience Cloud** <!--Presently Adobe Marketing Cloud--> organizations.
 
-1. Assign organization users to **Primetime Account IQ** profile on [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Assign organization users to **Primetime Account IQ** profile on [Adobe Admin Console](https://adminconsole.adobe.com/). 
 
-   Follow these steps:
+   The Admin users in your organization can create users and grant them access to the Account IQ Dashboard and Reports. To assign organization users access to Account IQ, organization Admins need to:
 
     1. Log in to [Adobe Admin Console](https://adminconsole.adobe.com/).
 
+
+        ![](assets/AdminConsoleAIQ.png)
+
     1. Select **Adobe Primetime** from **Products and services**.
 
-    1. From **Product Profiles** , select **Primetime Account IQ** <!--presently “TVE Dashboard Read-Write” or “TVE Dashboard Read Only”--> profile.
+    1. From **Product Profiles**, select **Primetime Account IQ** <!--presently “TVE Dashboard Read-Write” or “TVE Dashboard Read Only”--> profile.
 
-    1. Select a user group to add users to.
+       ![](assets/product-profiles.png)
 
-    1. Select **Add User** option to add users to the group.
+    1. Here you can create user groups, or select existing groups to add users to.
+
+       ![](assets/add-users-2profile.png)
+
+    1. Select **Add User** option to add users.
 
 >[!IMPORTANT]
 >
->If you are still not able to access the Account IQ dashboard, contact Adobe Support as there is a possibility that your organization ID is not whitelisted in Account IQ.
-
+>If your users are not able to access the Account IQ dashboard, contact Adobe (or Adobe Support) as there is a possibility that your organization's ID is not whitelisted in Account IQ.
