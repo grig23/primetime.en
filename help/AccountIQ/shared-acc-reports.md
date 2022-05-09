@@ -31,7 +31,7 @@ Based on points on the map.
 
 ![](assets/play-request-total.gif)
 
-## Segment - Average No of Devices/Account{#avg-devices per account}
+## Segment-Average Number of Devices/Account{#avg-devices per account}
 
 ![](assets/avg-devices-per-acc.png)
 
