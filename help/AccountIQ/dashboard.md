@@ -5,7 +5,7 @@ description: The Dashboard helps to pinpoint the instances of password sharing b
 
 # The dashboard {#dashboard}
 
-The Dashboard summarizes and aggregates data in a collection of graphs and reports designed to provide a high level insight into the scope and impact of account sharing.
+The Dashboard summarizes and aggregates data in a collection of graphs and reports designed to provide a high level insight into the scope and impact of account sharing. It gives a glimpse of major reports and metrics from Account IQ.
 
 ![dashboard of account IQ](assets/Dashboard-capture.png)
 
@@ -21,14 +21,17 @@ The following three metrics contribute to the Aggregate Sharing Score.
 
 ### Sharing level {#sharing-level}
 
-The sharing level gauge shows the percentage of all your subscriber accounts that are shared, during the selected time frame.  
+The sharing level gauge shows the percentage of all your subscriber accounts (in the defined segment) that are shared, during the selected time frame.  
 
 A value calculated based on an average of the sharing probability computed for every account in the set of selected MVPDs that has streamed from a one of the selected Programmer Channels during the selected time frame.
+
 ![](assets/sharing-level.png)
 
-The Trend indicator shows the change in   
+The Trend indicator shows the percentage change in the value of the metric in from the previous time frame. 
 
 **Usage from shared accounts**
+
+This gauge informs about the usage in percentage from the shared accounts in the defined segment. 
 
 ![](assets/usage-4mshared-accounts.png)
 
