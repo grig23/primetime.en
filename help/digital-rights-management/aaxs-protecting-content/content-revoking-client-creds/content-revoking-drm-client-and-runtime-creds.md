@@ -2,8 +2,8 @@
 title: Revoking DRM client and runtime credentials
 description: Revoking DRM client and runtime credentials
 copied-description: yes
+exl-id: f39d6523-9215-49ec-bb3b-e60fe6690dca
 ---
-
 # Revoking DRM client and runtime credentials{#revoking-drm-client-and-runtime-credentials}
 
 DRM/Runtime versions are identified by security level, version number, and other attributes including OS and runtime. To restrict the DRM/Runtime versions allowed, set the module restrictions in a policy or in a `HandlerConfiguration`. Module restrictions may include a minimum security level and list of module versions that are not permitted to be issued a license. See [Block list of DRM Clients restricted from accessing protected content](../../aaxs-protecting-content/content-introduction/content-usage-rules/content-runtime-application-restrictions/content-blocklist-drm-clients.md) for details on the attributes used to identify a DRM/Runtime module.

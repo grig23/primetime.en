@@ -1,8 +1,8 @@
 ---
 description: From the moment that you create the MediaPlayer instance to the moment when you terminate (reuse or remove) it, this instance completes a series of transitions between states.
 title: MediaPlayer object lifecycle
+exl-id: efb39fea-1050-41e5-93d8-1175a54f81e5
 ---
-
 # MediaPlayer object lifecycle{#mediaplayer-object-lifecycle}
 
 From the moment that you create the MediaPlayer instance to the moment when you terminate (reuse or remove) it, this instance completes a series of transitions between states.
@@ -106,4 +106,3 @@ public void onStateChanged(MediaPlayer.PlayerState state,
     } 
 }
 ```
-

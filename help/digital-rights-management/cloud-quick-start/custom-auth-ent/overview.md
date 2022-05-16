@@ -2,8 +2,8 @@
 title: BEES Overview
 description: BEES Overview
 copied-description: yes
+exl-id: 481af72b-40a3-4f33-9e91-990dc5308596
 ---
-
 # BEES Overview{#bees-overview}
 
 You can implement a Back-end Entitlement Service (BEES) to provide custom entitlement for your Primetime Cloud DRM operation.
@@ -22,4 +22,4 @@ Your on-premises entitlement service must supply a response to Primetime Cloud D
 
 These determine if a device is allowed to play the content, and which DRM policy to use to generate the DRM license (if `isAllowed` is true).
 
-This document covers what you need to do to accomplish Option 2 above: Implement your own on-premises external entitlement service and make it available to Primetime Cloud DRM for content that you have packaged. 
+This document covers what you need to do to accomplish Option 2 above: Implement your own on-premises external entitlement service and make it available to Primetime Cloud DRM for content that you have packaged.

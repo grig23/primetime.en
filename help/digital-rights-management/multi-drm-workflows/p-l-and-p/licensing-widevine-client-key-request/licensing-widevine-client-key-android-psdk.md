@@ -1,8 +1,8 @@
 ---
 description: Client code passes data to an Android API.
 title: Key request workflow on Android PSDK
+exl-id: 3ff52c0d-0789-4fe5-bf9d-f03184bad488
 ---
-
 # Key request workflow on Android PSDK{#key-request-workflow-on-android-psdk}
 
 Client code passes data to an Android API.
@@ -41,4 +41,3 @@ class MediaPlayer
    public void setDRMScheme(String drm) throws MediaPlayerException 
    }
 ```
-

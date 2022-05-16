@@ -1,8 +1,8 @@
 ---
 description: ID3 tags provide information about an audio or video file, such as the title of the file or the name of the artist. TVSDK detects ID3 tags at the transport stream (TS) segment level in HLS streams and dispatches an event. The application can extract data from the tag.
 title: ID3 tags
+exl-id: 316bc704-e71a-4fd7-b970-706b8c08a42e
 ---
-
 # ID3 tags {#id-tags}
 
 ID3 tags provide information about an audio or video file, such as the title of the file or the name of the artist. TVSDK detects ID3 tags at the transport stream (TS) segment level in HLS streams and dispatches an event. The application can extract data from the tag.
@@ -41,4 +41,3 @@ When TVSDK detects ID3 metadata, it issues a notification with the following dat
        } 
    }
    ```
-

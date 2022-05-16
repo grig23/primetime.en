@@ -1,8 +1,8 @@
 ---
 description: Resolution-based output protection (RBOP) is a mechanism that provides output protection based on the vertical pixel count of the content.
 title: RBOP Overview
+exl-id: 57c39c4e-d8f3-4f28-95a5-2e61a1bd7793
 ---
-
 # RBOP Overview {#rbop-overview}
 
 Resolution-based output protection (RBOP) is a mechanism that provides output protection based on the vertical pixel count of the content.
@@ -17,4 +17,3 @@ Sections in this guide:
 * [RBOP Client Support](../RBOP/client-support.md) describes the features available with different versions of Flash Player and TVSDK. 
 * [Sample RBOP Configuration](../RBOP/sample-output-protection-config.md) presents a sample configuration that illustrates the concepts and form of the configuration. 
 * [RBOP Grammar](../RBOP/output-protection-grammar.md) covers the grammar of the configuration input, emphasizing valid and invalid input options, and explaining how omitted optional fields are interpreted.
-

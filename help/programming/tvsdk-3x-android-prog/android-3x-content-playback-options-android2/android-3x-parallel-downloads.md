@@ -1,8 +1,8 @@
 ---
 description: Downloading video and audio in parallel, rather than in a series, reduces startup delays.
 title: Parallel downloads
+exl-id: 7cc9afbf-e495-40b0-a8ff-86d4939d1b15
 ---
-
 # Parallel downloads {#parallel-downloads}
 
 Downloading video and audio in parallel, rather than in a series, reduces startup delays.

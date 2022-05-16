@@ -1,8 +1,8 @@
 ---
 description: Instant-on preloads parts of the media on one or more channels. After a user selects or switches channels, the content starts sooner because some of the buffering has already completed.
 title: Instant-on
+exl-id: 096104a7-867f-43e3-8433-f697d0224e21
 ---
-
 # Instant-on {#instant-on}
 
 Instant-on preloads parts of the media on one or more channels. After a user selects or switches channels, the content starts sooner because some of the buffering has already completed.

@@ -1,8 +1,8 @@
 ---
 description: You can use the following information to help you skin your player. For each visual construct, the corresponding behaviors is mentioned in default behavior.
 title: Skinning the player
+exl-id: 4ad50f96-d174-401f-a731-21e5fbfdbe31
 ---
-
 # Skinning the player {#skinning-the-player}
 
 You can use the following information to help you skin your player. For each visual construct, the corresponding behaviors is mentioned in default behavior.

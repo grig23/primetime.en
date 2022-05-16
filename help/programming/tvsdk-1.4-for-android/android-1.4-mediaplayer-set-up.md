@@ -1,8 +1,8 @@
 ---
 description: The MediaPlayer interface for Android encapsulates the functionality and behavior of a media player.
 title: Set up the MediaPlayer
+exl-id: 2698fe8d-0b73-4aad-9fee-55d034d8ca64
 ---
-
 # Set up the MediaPlayer {#set-up-the-mediaplayer}
 
 The MediaPlayer interface for Android encapsulates the functionality and behavior of a media player.

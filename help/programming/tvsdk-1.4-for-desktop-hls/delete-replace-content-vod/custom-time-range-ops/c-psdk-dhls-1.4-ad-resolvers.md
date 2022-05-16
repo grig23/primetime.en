@@ -2,8 +2,8 @@
 title: Ad resolvers
 description: Ad resolvers
 copied-description: yes
+exl-id: 0df17e35-5c2d-46cd-bab2-c240ab8320c1
 ---
-
 # Ad resolvers {#ad-resolvers}
 
 ```

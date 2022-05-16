@@ -1,8 +1,8 @@
 ---
 description: You can implement your own content resolvers based on the default resolvers.
 title: Implement a custom content resolver
+exl-id: 96468f6d-80ad-4721-8ed3-4dbfa2a64b9e
 ---
-
 # Implement a custom content resolver {#implement-a-custom-content-resolver}
 
 You can implement your own content resolvers based on the default resolvers.
@@ -217,4 +217,3 @@ Sample JSON ad server response for VOD:
 } 
 
 ```
-

@@ -1,8 +1,8 @@
 ---
 description: You can implement your own opportunity generators by implementing the OpportunityGenerator class.
 title: Implement a custom opportunity generator
+exl-id: 215259bd-d8df-43df-9dba-a373559fd926
 ---
-
 # Implement a custom opportunity generator {#implement-a-custom-opportunity-generator}
 
 You can implement your own opportunity generators by implementing the OpportunityGenerator class.

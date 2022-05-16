@@ -2,8 +2,8 @@
 title: Overview
 description: Overview
 copied-description: yes
+exl-id: 15733120-b1bb-46a7-90d2-4eb11c539d62
 ---
-
 # Overview  {#overview}
 
 Using Adobe® Access™, content providers can apply policies to media files. Using the policy management APIs, administrators can create, view details of, and update policies.
@@ -20,4 +20,4 @@ You can accomplish the following tasks by using the policy management APIs:
 
 For details about the Java API discussed in this chapter, see *Adobe Access API Reference*.
 
-For information about the Policy Manager reference implementation, see *Using the Adobe Access Reference Implementations*. 
+For information about the Policy Manager reference implementation, see *Using the Adobe Access Reference Implementations*.

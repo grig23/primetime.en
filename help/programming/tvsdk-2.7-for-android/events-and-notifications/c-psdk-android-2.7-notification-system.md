@@ -1,8 +1,8 @@
 ---
 description: MediaPlayerStatus objects provide information about changes in player status. Notification objects provide information about warnings and errors. Errors that stop the playback of the video also cause a change in the status of the player. You implement event listeners to capture and respond to events (MediaPlayerEvent objects).
 title: Notifications and events for player status, activity, errors, and logging
+exl-id: c25e834e-ffa0-444c-9285-331e6841ac29
 ---
-
 # Notifications and events for player status, activity, errors, and logging {#notifications-and-events-for-player-status-activity-errors-and-logging}
 
 Events and notifications help you manage the asynchronous aspects of the video application.
@@ -78,4 +78,3 @@ Here is an example of how to retrieve notifications:
    >The remote server can graphically display the provided data in real-time.
 
 1. To detect the loss of notification events, look for gaps in the sequence of event index values.
-

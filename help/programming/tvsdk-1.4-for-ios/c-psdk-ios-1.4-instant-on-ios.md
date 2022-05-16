@@ -1,8 +1,8 @@
 ---
 description: Instant-on preloads parts of the media on one or more channels. After a user selects or switches channels, the content starts sooner because some of the buffering has already completed.
 title: Instant-on
+exl-id: 3a1b2172-8036-40f1-86b6-8304ef771aa9
 ---
-
 # Instant-on{#instant-on}
 
 Instant-on preloads parts of the media on one or more channels. After a user selects or switches channels, the content starts sooner because some of the buffering has already completed.
@@ -23,4 +23,4 @@ TVSDK completes some or all of the following tasks for `prepareToPlay`:
 >
 >The `PTMediaPlayer` and `PTMediaPlayerItem` `prepareToPlay` methods are equal. To avoid creating a separate `PTMediaPlayer` instance for each asset, use the `PTMediaPlayerItem` method.
 
-Instant-on helps you launch multiple media player instances, or media-player item loader instances, simultaneously in the background and buffer video streams in all of these instances. When a user changes the channel, and the stream has buffered properly, calling `play` on the new channel starts the playback sooner. 
+Instant-on helps you launch multiple media player instances, or media-player item loader instances, simultaneously in the background and buffer video streams in all of these instances. When a user changes the channel, and the stream has buffered properly, calling `play` on the new channel starts the playback sooner.

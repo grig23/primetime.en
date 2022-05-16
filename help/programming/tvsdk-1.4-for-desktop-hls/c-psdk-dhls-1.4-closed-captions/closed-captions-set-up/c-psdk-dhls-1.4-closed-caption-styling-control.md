@@ -1,8 +1,8 @@
 ---
 description: You can provide styling information for closed-caption tracks using the ClosedCaptionStyles class. This sets the style for any closed captions that are displayed by your player.
 title: Control closed-caption styling
+exl-id: fd94a851-1e8f-4406-a3bb-ca115b4e60f8
 ---
-
 # Control closed-caption styling{#control-closed-caption-styling}
 
 You can provide styling information for closed-caption tracks using the ClosedCaptionStyles class. This sets the style for any closed captions that are displayed by your player.

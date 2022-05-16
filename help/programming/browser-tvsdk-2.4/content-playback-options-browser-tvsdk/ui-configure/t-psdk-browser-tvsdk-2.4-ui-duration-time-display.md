@@ -1,8 +1,8 @@
 ---
 description: You can use Browser TVSDK to retrieve information about the media that you can display on the seek bar.
 title: Display the duration, current time, and remaining time of the video
+exl-id: f2aa3c42-9c47-4a55-aed6-7dc5a8d0662b
 ---
-
 # Display the duration, current time, and remaining time of the video{#display-the-duration-current-time-and-remaining-time-of-the-video}
 
 You can use Browser TVSDK to retrieve information about the media that you can display on the seek bar.
@@ -340,4 +340,3 @@ You can use Browser TVSDK to retrieve information about the media that you can d
            })(); 
    
    ```
-

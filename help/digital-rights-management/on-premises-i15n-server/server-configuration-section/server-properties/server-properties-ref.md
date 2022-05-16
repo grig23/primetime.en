@@ -2,8 +2,8 @@
 title: Server Properties Reference
 description: Server Properties Reference
 copied-description: yes
+exl-id: 8724d097-7cba-4ca9-b597-df56f80b2e9c
 ---
-
 # Server Properties Reference{#server-properties-reference}
 
 <!--<a id="section_EC8810492A454BDBA6013FE376360F4E"></a>-->

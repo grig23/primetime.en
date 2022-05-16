@@ -1,8 +1,8 @@
 ---
 description: To add VPAID 2.0 support, add a custom ad view and appropriate listeners.
 title: Implement VPAID 2.0 integration
+exl-id: a0d9a370-8fb6-4246-b59d-3b7c0b043bed
 ---
-
 # Implement VPAID 2.0 integration {#implement-vpaid-integration}
 
 To add VPAID 2.0 support, add a custom ad view and appropriate listeners.

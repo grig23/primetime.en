@@ -2,8 +2,8 @@
 title: Overview
 description: Overview
 copied-description: yes
+exl-id: 974b9a5e-43f6-4ec8-8048-dfcc1cff0f6f
 ---
-
 # Overview{#overview}
 
 The Reference Implementation includes a demo mode option that demonstrates how to implement different usage models for a segment of packaged content. The demo mode features business logic for these usage models:
@@ -25,4 +25,4 @@ To enable all four usage models, you only need to include two DRM policies:
 * One DRM policy that allows anonymous access for the Ad-funded model 
 * One DRM policy that requires user name/password authentication for the other three usage models.
 
-When a user requests a license, a client application can determine whether to prompt the user for authentication based on the authentication information in the DRM policies. 
+When a user requests a license, a client application can determine whether to prompt the user for authentication based on the authentication information in the DRM policies.

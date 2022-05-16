@@ -2,8 +2,8 @@
 description: You can enable or disable the Lazy Ad Resolving feature using the existing Lazy Ad Loading mechanism (Lazy Ad Resolving is enabled by default).
 keywords: Lazy;Ad resolving;Ad loading;delayLoading
 title: Enable lazy ad resolving
+exl-id: 4cd53ace-b0f5-4eef-93c3-644c2f48ce49
 ---
-
 # Enable lazy ad resolving {#enable-lazy-ad-resolving}
 
 You can enable or disable the Lazy Ad Resolving feature using the existing Lazy Ad Loading mechanism (Lazy Ad Resolving is enabled by default).
@@ -54,5 +54,4 @@ You can enable or disable Lazy Ad Resolving by calling [AdvertisingMetadata.setD
    
    ```
 
->To verify whether the Lazy Ad Resolving feature is enabled or disabled, call `AdvertisingMetadata.hasDelayAdLoading`. A return value of `true` means that Lazy Ad Resolving is enabled; `false` means that the feature is disabled. 
-
+>To verify whether the Lazy Ad Resolving feature is enabled or disabled, call `AdvertisingMetadata.hasDelayAdLoading`. A return value of `true` means that Lazy Ad Resolving is enabled; `false` means that the feature is disabled.

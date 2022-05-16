@@ -1,8 +1,8 @@
 ---
 title: Download and configure prerequisite software
 description: The installation process is straightforward. If you already have the JDK installed on your system, you can skip this step, but be aware that your JDK, Eclipse IDE, and OS need to be compatible.
+exl-id: c2884a55-4f5e-4da8-807d-633625d7fef9
 ---
-
 # Download and configure prerequisite software {#download-and-configure-prerequisite-software}
 
 1. Download the JDK from [https://www.oracle.com/technetwork/java/javase/downloads/](https://www.oracle.com/technetwork/java/javase/downloads/).
@@ -66,4 +66,3 @@ description: The installation process is straightforward. If you already have th
    1. Click **[!UICONTROL Apply]**.
    
       ![Step Result](assets/ss2.jpg)
-

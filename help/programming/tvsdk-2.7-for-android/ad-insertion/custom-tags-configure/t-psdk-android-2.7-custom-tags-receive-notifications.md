@@ -1,8 +1,8 @@
 ---
 description: To receive notifications about tags in the manifest, you need to implement the appropriate event listeners.
 title: Add listeners for timed metadata notifications
+exl-id: e38f2a25-3379-4132-a8de-6703dc564ed4
 ---
-
 # Add listeners for timed metadata notifications {#add-listeners-for-timed-metadata-notifications}
 
 To receive notifications about tags in the manifest, you need to implement the appropriate event listeners.

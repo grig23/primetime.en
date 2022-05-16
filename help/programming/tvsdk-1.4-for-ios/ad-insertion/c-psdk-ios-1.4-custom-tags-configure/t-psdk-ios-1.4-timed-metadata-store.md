@@ -1,8 +1,8 @@
 ---
 description: Your application must use the appropriate PTTimedMetadata objects at the appropriate times.
 title: Store timed metadata objects as they are dispatched
+exl-id: 43bc2b47-b947-4af1-bba8-6f2063c7b60c
 ---
-
 # Store timed metadata objects as they are dispatched {#store-timed-metadata-objects-as-they-are-dispatched}
 
 Your application must use the appropriate PTTimedMetadata objects at the appropriate times.
@@ -86,4 +86,3 @@ if([keyValuePairString rangeOfString:@"nielsen.com"].location != NSNotFound)
 return nielsenStr; 
 }
 ```
-

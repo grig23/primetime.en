@@ -2,8 +2,8 @@
 title: Configuration file properties
 description: Configuration file properties
 copied-description: yes
+exl-id: 6405126d-4cf2-4ffc-821d-fbfdc00b60ef
 ---
-
 # Configuration file properties {#configuration-file-properties}
 
 The configuration file specifies the following properties. For property names that include `n`, `n` represents an integer starting with 1 and increasing for each instance of the property. 
@@ -154,4 +154,3 @@ The configuration file specifies the following properties. For property names th
   </tr> 
  </tbody> 
 </table>
-

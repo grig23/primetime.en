@@ -1,8 +1,8 @@
 ---
 description: Browser TVSDK dispatches quality of service (QoS) events to notify your application about events that could influence the computation of QoS statistics, such as buffering and seeking events.
 title: QoS events
+exl-id: b0fab68e-ef0f-4812-b4ad-3f69dcdf2d9e
 ---
-
 # QoS events{#qos-events}
 
 Browser TVSDK dispatches quality of service (QoS) events to notify your application about events that could influence the computation of QoS statistics, such as buffering and seeking events.
@@ -28,4 +28,3 @@ var startTimer = function () {
 window.setTimeout(startTimer, 500) 
 
 ```
-

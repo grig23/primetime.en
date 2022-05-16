@@ -1,8 +1,8 @@
 ---
 description: You can globally configure custom tag names in TVSDK with the MediaPlayerItemConfig class.
 title: Config class methods for tags
+exl-id: 0a07ebdf-7336-4d4d-b7df-294afb3fd606
 ---
-
 # Config class methods for tags {#config-class-methods-for-tags}
 
 You can globally configure custom tag names in TVSDK with the MediaPlayerItemConfig class.

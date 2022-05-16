@@ -1,8 +1,8 @@
 ---
 description: The PTMediaPlayer object represents your media player. A PTMediaPlayerItem represents audio or video on your player.
 title: Work with MediaPlayer objects
+exl-id: 0dd76446-0ea7-446d-a4bd-746128647173
 ---
-
 # Work with MediaPlayer objects{#work-with-mediaplayer-objects}
 
 The PTMediaPlayer object represents your media player. A PTMediaPlayerItem represents audio or video on your player.
@@ -85,4 +85,3 @@ The following table provides additional details:
 >[!TIP]
 >
 >You can use the status to provide feedback on the process (for example, a spinner while waiting for the next status change) or to take the next step in playing the media, such as waiting for the appropriate status before calling the next method.
-

@@ -1,8 +1,8 @@
 ---
 description: You can handle blackouts in live video streams and provide alternate content during a blackout.
 title: Blackout API elements
+exl-id: 8e4f1dc3-f2f6-4db9-b9d0-3e79d21032e9
 ---
-
 # Blackout API elements{#blackout-api-elements}
 
 You can handle blackouts in live video streams and provide alternate content during a blackout.

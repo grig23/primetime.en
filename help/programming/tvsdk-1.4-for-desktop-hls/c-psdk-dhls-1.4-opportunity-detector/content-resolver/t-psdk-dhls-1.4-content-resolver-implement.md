@@ -1,8 +1,8 @@
 ---
 description: You can implement your own content resolvers based on the default resolvers.
 title: Implement a custom content resolver
+exl-id: abe967a5-ced3-4e23-8671-065e256974d3
 ---
-
 # Implement a custom content resolver{#implement-a-custom-content-resolver}
 
 You can implement your own content resolvers based on the default resolvers.
@@ -131,4 +131,3 @@ You can implement your own content resolvers based on the default resolvers.
 
    player.replaceCurrentResource(mediaResource, mediaPlayerItemConfig);
    ```
-

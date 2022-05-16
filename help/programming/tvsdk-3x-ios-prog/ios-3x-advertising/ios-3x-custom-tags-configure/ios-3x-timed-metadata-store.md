@@ -1,8 +1,8 @@
 ---
 description: Your application must use the appropriate PTTimedMetadata objects at the appropriate times.
 title: Store timed metadata objects as they are dispatched
+exl-id: 8b859e8d-eb4c-48f9-a95e-1bcc35a2a520
 ---
-
 # Store timed metadata objects as they are dispatched {#store-timed-metadata-objects-as-they-are-dispatched}
 
 Your application must use the appropriate PTTimedMetadata objects at the appropriate times.

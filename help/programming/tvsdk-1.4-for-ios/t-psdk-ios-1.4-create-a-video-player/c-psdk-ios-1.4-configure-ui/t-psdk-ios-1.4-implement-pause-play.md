@@ -1,8 +1,8 @@
 ---
 description: You can set up buttons that call TVSDK methods to pause and play the media.
 title: Implement a play/pause button
+exl-id: 72b90a67-d5a3-4575-a67e-58a0f0d0acf1
 ---
-
 # Implement a play/pause button{#implement-a-play-pause-button}
 
 You can set up buttons that call TVSDK methods to pause and play the media.
@@ -32,4 +32,3 @@ _playPauseButton =
 } 
 
 ```
-

@@ -1,8 +1,8 @@
 ---
 description: The player can listen for a range of events that indicate the state of the player.
 title: Set up notifications
+exl-id: 591513af-c50c-42a9-8ea7-8d5dd1f51aa5
 ---
-
 # Set up notifications{#set-up-notifications}
 
 The player can listen for a range of events that indicate the state of the player.
@@ -201,4 +201,3 @@ Fetch the `PTAd` instance using `PTMediaPlayerAdKey`:
 } 
 
 ```
-

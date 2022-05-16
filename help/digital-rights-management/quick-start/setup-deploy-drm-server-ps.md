@@ -2,8 +2,8 @@
 title: Set up and deploy the server for Protected Streaming
 description: Set up and deploy the server for Protected Streaming
 copied-description: yes
+exl-id: de1488e6-ccee-49e6-999e-6c6762dd55be
 ---
-
 # Set up and deploy the server for Protected Streaming {#set-up-and-deploy-the-server-for-protected-streaming}
 
 1. Set up the configuration folder on the Primetime DRM DVD:

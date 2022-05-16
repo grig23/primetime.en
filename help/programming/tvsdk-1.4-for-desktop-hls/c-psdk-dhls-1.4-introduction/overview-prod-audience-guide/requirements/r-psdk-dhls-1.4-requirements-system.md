@@ -1,8 +1,8 @@
 ---
 description: To use TVSDK, ensure that your hardware, operating system, and application versions all meet the minimum requirements listed below.
 title: System and software requirements
+exl-id: fb1bccb9-1791-48e5-8e07-91bf776ca14b
 ---
-
 # System and software requirements{#system-and-software-requirements}
 
 TVSDK requires specific properties for media content, manifest content, DRM, and software versions.

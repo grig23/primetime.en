@@ -2,8 +2,8 @@
 title: Configure and run the command-line tools
 description: Configure and run the command-line tools
 copied-description: yes
+exl-id: ff0d4316-24e6-4a34-b332-abd737d6fcf9
 ---
-
 # Configure and run the command-line tools {#configure-and-run-the-command-line-tools}
 
 The command-line tools have associated properties for which you must set set values in [!DNL flashaccesstools.properties] *before* you run the tools. Some of the command-line tools also let you specify property values from the command-line. Values that you specify from the command line take precedence over values you supply from [!DNL flashaccesstools.properties].

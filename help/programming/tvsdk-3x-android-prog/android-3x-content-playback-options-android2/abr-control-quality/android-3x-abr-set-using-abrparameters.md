@@ -1,8 +1,8 @@
 ---
 description: You can set ABR control values only with ABRControlParameters, but you can construct a new one at any time.
 title: Configure adaptive bit rates using ABRControlParameters
+exl-id: 1f8a4a97-0341-43e7-afdf-801275bc8c94
 ---
-
 # Configure adaptive bit rates using ABRControlParameters {#configure-adaptive-bit-rates-using-abrcontrolparameters}
 
 You can set ABR control values only with ABRControlParameters, but you can construct a new one at any time.

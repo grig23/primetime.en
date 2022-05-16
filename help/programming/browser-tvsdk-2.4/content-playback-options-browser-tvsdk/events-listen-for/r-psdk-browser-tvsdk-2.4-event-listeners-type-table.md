@@ -1,8 +1,8 @@
 ---
 description: When you register event listeners with Browser TVSDK, you specify an event type to listen for and the name of your callback. When an event occurs, Browser TVSDK calls your callback and passes to it an event object of the appropriate type.
 title: Event types and classes for callbacks
+exl-id: 94c571ea-6dd2-4c15-89db-7015d89c9208
 ---
-
 # Event types and classes for callbacks{#event-types-and-classes-for-callbacks}
 
 When you register event listeners with Browser TVSDK, you specify an event type to listen for and the name of your callback. When an event occurs, Browser TVSDK calls your callback and passes to it an event object of the appropriate type.
@@ -123,4 +123,3 @@ When you register event listeners with Browser TVSDK, you specify an event type 
   </tr> 
  </tbody> 
 </table>
-

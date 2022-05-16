@@ -1,8 +1,8 @@
 ---
 description: You can enable fallback when a VMAP inline ad contains an invalid media type.
 title: Define fallback ad behavior for VMAP inline ads
+exl-id: 57fd1b89-bcee-4c23-88e7-7a576c47c6f9
 ---
-
 # Define fallback ad behavior for VMAP inline ads {#define-fallback-ad-behavior-for-vmap-inline-ads}
 
 You can enable fallback when a VMAP inline ad contains an invalid media type.
@@ -15,4 +15,3 @@ You can enable fallback when a VMAP inline ad contains an invalid media type.
    AuditudeSettings result = new AuditudeSettings(); 
    result.setFallbackOnInvalidCreative(true);
    ```
-

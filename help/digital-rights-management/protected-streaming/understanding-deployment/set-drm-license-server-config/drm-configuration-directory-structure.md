@@ -2,8 +2,8 @@
 title: Configuration Directory Structure
 description: Configuration Directory Structure
 copied-description: yes
+exl-id: e24d3df0-f723-4dad-84d5-984f3350353a
 ---
-
 # Configuration Directory Structure{#configuration-directory-structure}
 
 The configuration directories have the following structure:
@@ -31,4 +31,3 @@ The configuration directories have the following structure:
  </i class="+ topic> 
 </i class="+ topic>
 ```
-

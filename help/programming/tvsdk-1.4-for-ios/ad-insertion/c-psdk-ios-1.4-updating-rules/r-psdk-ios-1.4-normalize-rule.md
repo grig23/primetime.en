@@ -2,8 +2,8 @@
 description: The normalize rule defines a URL transformation to apply to a source creative URL obtained from a VAST/VMAP response.
 keywords: normalize rule;creative selection rules
 title: Normalize rules
+exl-id: 0d9669bf-8d64-49da-b917-5a6d6c3ca776
 ---
-
 # Normalize rules{#normalize-rules}
 
 The normalize rule defines a URL transformation to apply to a source creative URL obtained from a VAST/VMAP response.
@@ -97,4 +97,3 @@ The normalize rule defines a URL transformation to apply to a source creative UR
     }
 }
 ```
-

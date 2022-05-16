@@ -1,8 +1,8 @@
 ---
 description: You can insert ads in your VOD and live/linear content by using the Adobe Primetime ad decisioning interface.
 title: Advertising requirements
+exl-id: 164a5e79-1634-4853-a2b9-d4b5bdbbf190
 ---
-
 # Advertising requirements {#advertising-requirements}
 
 You can insert ads in your VOD and live/linear content by using the Adobe Primetime ad decisioning interface.
@@ -20,6 +20,4 @@ To incorporate ads in your video content, ensure that the advertising and main v
 * If the main content contains an audio-only stream, the advertising content must also contain an audio-only stream. 
 * If the main content contains subtitle streams, the advertising content must be unencrypted. 
 * If the main content is multiple bit rate (MBR), the advertising content must also be MBR. 
-* If the main content has alternate audio tracks, each ad must have at least one audio-only stream.
-
-If the ad does not have at least one audio-only stream, the ad is skipped.
+* If the main content has alternate audio tracks, each ad must have at least one audio-only stream or the ads should be demuxed. If the ad neither has at least one audio-only stream nor is demuxed, the ad is skipped.

@@ -1,8 +1,8 @@
 ---
 description: You can set up a user interface control for sound volume.
 title: Provide volume control
+exl-id: 058d79d2-35cc-4238-8fc1-2820a2d91ffb
 ---
-
 # Provide volume control{#provide-volume-control}
 
 You can set up a user interface control for sound volume.

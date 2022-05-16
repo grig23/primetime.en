@@ -2,8 +2,8 @@
 description: You can enable or disable the Lazy Ad Resolving feature using the existing Lazy Ad Loading mechanism (Lazy Ad Resolving is disabled by default).
 keywords: Lazy;Ad resolving;Ad loading;delayLoading
 title: Enable lazy ad resolving
+exl-id: a52a1f9a-3bf6-4193-8347-1ef248ba8884
 ---
-
 # Enable lazy ad resolving {#enable-lazy-ad-resolving}
 
 You can enable or disable the Lazy Ad Resolving feature using the existing Lazy Ad Loading mechanism (Lazy Ad Resolving is disabled by default).

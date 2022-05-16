@@ -4,8 +4,8 @@ description: Many method signatures and API element names have changed for 2.0. 
 contentOwner: asgupta
 products: SG_PRIMETIME
 topic-tags: migration
+exl-id: 4b251e26-cee6-4d96-bb55-6c47195da4d0
 ---
-
 # TVSDK Conversion - 1.3 to 2.0 For JavaScript {#tvsdk-conversion-to-for-javascript}
 
 Many method signatures and API element names have changed for 2.0. Review these tables to see all API change details.

@@ -1,8 +1,8 @@
 ---
 description: You can enable a TV-like experience of being able to join in the middle of an ad, in live streams.
 title: Partial Ad break insertion
+exl-id: cb0d2f5f-c760-450e-ab34-fd7639d1190b
 ---
-
 # Partial Ad break insertion {#partial-ad-break-insertion}
 
 You can enable a TV-like experience of being able to join in the middle of an ad, in live streams.
@@ -201,4 +201,3 @@ This behavior is not enabled by default. To enable this feature work in your app
        } 
        
        ```
-

@@ -1,8 +1,8 @@
 ---
 description: A MediaPlayer object encapsulates the behavior and functionality of a media player.
 title: Set up the MediaPlayer
+exl-id: f492b2bb-3280-4306-ac4b-8b8d0fd68409
 ---
-
 # Set up the MediaPlayer{#set-up-the-mediaplayer}
 
 A MediaPlayer object encapsulates the behavior and functionality of a media player.
@@ -70,4 +70,4 @@ A MediaPlayer object encapsulates the behavior and functionality of a media play
    }
    ```
 
-The `MediaPlayer` instance is now available and properly configured to display video content on the device screen. 
+The `MediaPlayer` instance is now available and properly configured to display video content on the device screen.

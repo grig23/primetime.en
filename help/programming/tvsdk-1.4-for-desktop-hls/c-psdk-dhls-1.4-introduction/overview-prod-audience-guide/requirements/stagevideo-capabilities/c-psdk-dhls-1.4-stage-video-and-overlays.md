@@ -1,8 +1,8 @@
 ---
 description: You can use HTML overlays with StageVideo to display UI elements in the Flash display list video plane. This plane is above the StageVideo plane, so StageVideo always displays behind any Flash display list elements.
 title: StageVideo and HTML Overlays
+exl-id: 6beda4c8-0981-4a38-bd5e-5714b9ec7efa
 ---
-
 # StageVideo and HTML Overlays{#stagevideo-and-html-overlays}
 
 You can use HTML overlays with StageVideo to display UI elements in the Flash display list video plane. This plane is above the StageVideo plane, so StageVideo always displays behind any Flash display list elements.
@@ -39,4 +39,3 @@ Here are the minimum browser requirements to use HTML overlays with `StageVideo`
   >[!IMPORTANT]
   >
   >Chrome Pepper on Windows XP and Windows Vista is not supported.
-

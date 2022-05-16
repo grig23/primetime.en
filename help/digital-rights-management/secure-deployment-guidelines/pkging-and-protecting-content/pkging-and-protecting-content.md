@@ -1,8 +1,8 @@
 ---
 description: Information about packaging and protection of content allows you to protect your content.
 title: Packaging and protecting comtent
+exl-id: f33d382b-07d7-4630-9e44-820d6249fee4
 ---
-
 # Packaging and protecting content {#packaging-protecting-content}
 
 Information about packaging and protection of content allows you to protect your content.

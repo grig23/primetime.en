@@ -1,8 +1,8 @@
 ---
 description: Work with the SEES to see how to enable a time-based entitlement service using ExpressPlay.
 title: Reference Service  Time-based Entitlement
+exl-id: a37b0e71-ba7b-4f03-9866-5e8b062e0b7d
 ---
-
 # Reference Service: Time-based Entitlement {#reference-service-time-based-entitlement}
 
 Work with the SEES to see how to enable a time-based entitlement service using ExpressPlay.
@@ -35,4 +35,3 @@ The SEES receives an Entitlement Request (see Public API section) from the clien
   </tr> 
  </tbody> 
 </table>
-

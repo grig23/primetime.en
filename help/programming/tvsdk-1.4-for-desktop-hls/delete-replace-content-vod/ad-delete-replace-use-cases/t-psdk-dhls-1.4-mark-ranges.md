@@ -2,8 +2,8 @@
 title: Mark ranges
 description: Mark ranges
 copied-description: yes
+exl-id: 173769cd-6580-4461-9dbc-5bb2fed346d2
 ---
-
 # Mark ranges{#mark-ranges}
 
 Mark `TimeRanges` between the `begin` and `end` in `localTime` as an `AdBreak` from the timeline. Other Ad settings are ignored. 
@@ -52,4 +52,3 @@ Mark `TimeRanges` between the `begin` and `end` in `localTime` as an `AdBreak` f
    }
    
    ```
-

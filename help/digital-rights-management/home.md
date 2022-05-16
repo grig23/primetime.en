@@ -2,8 +2,8 @@
 title: Primetime Digital Rights Management Help
 description: Primetime Digital Rights Management Help
 copied-description: yes
+exl-id: 07e4b91d-fc64-480b-aa41-218f682e1d1a
 ---
-
 # Primetime Digital Rights Management (DRM) Help
 
 Welcome to the Digital Rights Management help for Adobe Primetime. The documents listed in the left navigation are the key enablers for the distribution of digital content. 

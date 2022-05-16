@@ -1,8 +1,8 @@
 ---
 description: You can specify several caption styling options, and these options override the style options in the original captions.
 title: Closed caption styling options
+exl-id: df5377c2-741b-4239-b345-145753896c6b
 ---
-
 # Closed caption styling options{#closed-caption-styling-options}
 
 You can specify several caption styling options, and these options override the style options in the original captions.
@@ -71,4 +71,3 @@ new TextFormat(
   </tr> 
  </tbody> 
 </table>
-

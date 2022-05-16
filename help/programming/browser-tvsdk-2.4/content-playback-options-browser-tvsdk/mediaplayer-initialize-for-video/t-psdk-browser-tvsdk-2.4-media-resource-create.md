@@ -1,8 +1,8 @@
 ---
 description: The MediaResource class represents the content to be loaded by the MediaPlayer instance.
 title: Create a media resource
+exl-id: ab66255d-7848-479a-a8cd-c6113cdd7749
 ---
-
 # Create a media resource {#create-a-media-resource}
 
 The MediaResource class represents the content to be loaded by the MediaPlayer instance.

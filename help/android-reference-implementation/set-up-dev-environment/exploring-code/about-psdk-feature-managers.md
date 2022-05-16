@@ -1,8 +1,8 @@
 ---
 title: Feature managers
 description: Feature managers provide a way for you to control individual features without traversing the entire TVSDK in search of code for one feature that could be scattered in multiple locations.
+exl-id: dbf2dc8b-6067-4d94-9c3c-553452b7ffd9
 ---
-
 # Feature managers {#feature-managers}
 
 Feature managers provide a way for you to control individual features without traversing the entire TVSDK in search of code for one feature that could be scattered in multiple locations. Feature managers condense code into one class per feature. The feature managers wait for triggers from TVSDK events and then inform the class that uses the feature manager to handle the result. The feature manager provides the required information to the class.

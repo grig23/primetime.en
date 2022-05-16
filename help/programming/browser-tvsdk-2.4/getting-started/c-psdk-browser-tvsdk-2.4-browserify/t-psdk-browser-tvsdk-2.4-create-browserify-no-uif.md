@@ -1,8 +1,8 @@
 ---
 description: Use the Browserify library file provided by Browser TVSDK in your app, to create a Browserify-compatible player.
 title: Create a Browserify-compatible player without the UI-Framework
+exl-id: 27b5e1c5-49c3-44e4-9e34-0f50a50e36f5
 ---
-
 # Create a Browserify-compatible player without the UI-Framework{#create-a-browserify-compatible-player-without-the-ui-framework}
 
 Use the Browserify library file provided by Browser TVSDK in your app, to create a Browserify-compatible player.

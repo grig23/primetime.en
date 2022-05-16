@@ -2,8 +2,8 @@
 title: Update the reference implementation DB
 description: Update the reference implementation DB
 copied-description: yes
+exl-id: b337bf9c-7add-47b8-9576-db7fa067c51d
 ---
-
 # Update the reference implementation DB{#update-the-reference-implementation-db}
 
 To control usage models under which a license is issued to a designated user, add entries to the reference implementation database. 
@@ -19,4 +19,4 @@ To control usage models under which a license is issued to a designated user, ad
     * The usage model 
     * Each segment of content that a user can access
 
-For more information on how to populate each table, see the [!DNL PopulateSampleDB.sql] script (included on your Primetime DRM DVD in the [!DNL Reference Implementation/Server/Reference Implementation Server/dbscript/] directory). 
+For more information on how to populate each table, see the [!DNL PopulateSampleDB.sql] script (included on your Primetime DRM DVD in the [!DNL Reference Implementation/Server/Reference Implementation Server/dbscript/] directory).

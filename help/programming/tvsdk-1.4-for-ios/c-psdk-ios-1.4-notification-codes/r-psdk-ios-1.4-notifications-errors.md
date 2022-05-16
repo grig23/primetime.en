@@ -1,8 +1,8 @@
 ---
 description: This table provides detailed information about ERROR type notifications.
 title: ERROR notification codes
+exl-id: dc65670e-4764-4d68-aee1-87b2d27b09b6
 ---
-
 # ERROR notification codes{#error-notification-codes}
 
 This table provides detailed information about ERROR type notifications.
@@ -252,4 +252,4 @@ Most errors contain relevant metadata, for example, the URL of the resource that
 
 >[!NOTE]
 >
->adID and source (URL) can be retrieved through the `PTAdAsset` in the notification metadata with the `AD_ASSET` key. 
+>adID and source (URL) can be retrieved through the `PTAdAsset` in the notification metadata with the `AD_ASSET` key.

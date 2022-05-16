@@ -1,8 +1,8 @@
 ---
 description: This example shows the recommended way to include TimeRange specifications on the playback timeline.
 title: Place TimeRange ad markers on the timeline
+exl-id: a4d45395-38a4-4345-9ba3-87cd9200b9f6
 ---
-
 # Place TimeRange ad markers on the timeline {#place-timerange-ad-markers-on-the-timeline}
 
 This example shows the recommended way to include TimeRange specifications on the playback timeline.

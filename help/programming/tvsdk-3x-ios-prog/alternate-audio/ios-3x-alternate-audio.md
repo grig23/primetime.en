@@ -2,8 +2,8 @@
 title: Alternate audio
 description: Alternate audio
 copied-description: yes
+exl-id: a3b1c361-4120-42a2-b6fd-710f6244eafa
 ---
-
 # Alternate audio {#alternate-audio}
 
 Alternate, or late-binding, audio allows you to switch among available audio tracks for a video track. This way, users can select a language track when the video is played.

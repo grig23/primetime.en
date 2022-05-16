@@ -1,8 +1,8 @@
 ---
 description: You can implement your own logging system.
 title: Understanding customized logging
+exl-id: 8b6a916e-783e-40e1-8a3d-706b57a6ff63
 ---
-
 # Customized logging {#customized-logging}
 
 You can implement your own logging system.

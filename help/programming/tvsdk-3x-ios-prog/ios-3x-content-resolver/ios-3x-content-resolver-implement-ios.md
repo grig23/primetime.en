@@ -1,8 +1,8 @@
 ---
 description: You can implement your resolvers based on the default resolvers.
 title: Implement a custom opportunity/content resolver
+exl-id: a73f62e1-7e6e-4b16-9bf8-118ec0381c41
 ---
-
 # Implement a custom opportunity/content resolver {#implement-a-custom-opportunity-content-resolver}
 
 You can implement your resolvers based on the default resolvers.

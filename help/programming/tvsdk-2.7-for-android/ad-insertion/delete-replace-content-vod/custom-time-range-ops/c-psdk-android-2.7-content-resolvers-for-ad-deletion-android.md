@@ -1,8 +1,8 @@
 ---
 description: You can use multiple content resolvers to handle different timeline operations.
 title: Content resolvers for ad deletion / replacement
+exl-id: 62184c6a-0da6-47da-9799-47d6cce0ed3f
 ---
-
 # Content resolvers for ad deletion / replacement  {#content-resolvers-for-ad-deletion-replacement}
 
 You can use multiple content resolvers to handle different timeline operations.
@@ -33,4 +33,3 @@ public List<ContentResolver> retrieveResolvers(MediaPlayerItem item) {
 } 
 
 ```
-

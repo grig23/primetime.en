@@ -2,8 +2,8 @@
 title: Update the License Server WAR File
 description: Update the License Server WAR File
 copied-description: yes
+exl-id: a70d04e2-24a4-4848-9e9b-97467f2c1749
 ---
-
 # Update the License Server WAR File{#update-the-license-server-war-file}
 
 In order to support clients that have individualized via an On Premises Individualization server, you must update the License Server's certificate root of trust to include the newly acquired Individualization CA credential. A Python script ( [!DNL addIndivCert.py]) is included in the [!DNL update_license_server] folder.

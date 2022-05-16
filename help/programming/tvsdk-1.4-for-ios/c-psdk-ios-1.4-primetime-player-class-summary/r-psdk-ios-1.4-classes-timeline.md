@@ -1,8 +1,8 @@
 ---
 description: These classes provide information about the timeline of the particular media, including the placement of ads.
 title: Timeline classes
+exl-id: d6d3c683-2a58-4128-a5c7-36d0a965c0eb
 ---
-
 # Timeline classes{#timeline-classes}
 
 These classes provide information about the timeline of the particular media, including the placement of ads.

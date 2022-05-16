@@ -1,8 +1,8 @@
 ---
 title: Integrate your CDN
 description: Integrating your CDN
+exl-id: b93031a2-6e66-4de1-9cf2-b0260f88fe13
 ---
-
 # Integrate your CDN {#integrating-cdn}
 
 Primetime Ad Insertion serves as a proxy between your client application and manifests, not the video chunks themselves. Deploy your content to CDN of choice and pass the URL to Primetime Ad Insertion using the Bootstrap API. For integration details, see [Supported CDNs](/help/primetime-ad-insertion/technical-reference/supported-cdns.md).

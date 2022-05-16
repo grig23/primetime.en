@@ -1,8 +1,8 @@
 ---
 description: You can control the visibility of closed captions. When visibility has been enabled, the currently selected track is displayed. If you change which track is current, the visibility setting remains the same.
 title: Control closed-caption visibility
+exl-id: 358e32d8-7a3b-42bd-900b-dafe8eae3edf
 ---
-
 # Overview {#control-closed-caption-visibility-overview}
 
 You can control the visibility of closed captions. When visibility has been enabled, the currently selected track is displayed. If you change which track is current, the visibility setting remains the same.
@@ -37,4 +37,3 @@ You can control the visibility of closed captions. When visibility has been enab
    ```java
    mediaPlayer.setCCVisibility(MediaPlayer.Visibility visibility);
    ```
-

@@ -2,8 +2,8 @@
 title: Opportunity Generator
 description: Opportunity Generator
 copied-description: yes
+exl-id: ee8d239f-7c52-44ea-a238-cc46d46cf128
 ---
-
 # Opportunity Generatorr{#opportunity-generator}
 
 ```

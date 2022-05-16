@@ -1,8 +1,8 @@
 ---
 description: The reference implementation server can help you create a fully functional license server that uses all of the features of the Adobe Primetime DRM Java SDK.
 title: License server
+exl-id: a928b7ac-9191-4b8c-b038-eb92a09286fa
 ---
-
 # License server {#license-server}
 
 The reference implementation server can help you create a fully functional license server that uses all of the features of the Adobe Primetime DRM Java SDK.

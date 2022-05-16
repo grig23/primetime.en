@@ -1,8 +1,8 @@
 ---
 description: Media streams can carry additional metadata in the form of tags in the playlist/manifest file, and this file indicates the placement of advertising. You can specify custom tag names and be notified when certain tags appear in the manifest file.
 title: Custom tags
+exl-id: 4518904a-6f85-403b-b819-004e3e1cbb96
 ---
-
 # Overview {#custom-tags-overview}
 
 Media streams can carry additional metadata in the form of tags in the playlist/manifest file, and this file indicates the placement of advertising. You can specify custom tag names and be notified when certain tags appear in the manifest file.

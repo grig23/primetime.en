@@ -1,8 +1,8 @@
 ---
 description: You can use multiple content resolvers to handle different timeline operations.
 title: Content resolvers for ad deletion / replacement
+exl-id: 67677d12-a3a6-4fac-8704-441b81cb10fe
 ---
-
 # Content resolvers for ad deletion / replacement {#content-resolvers-for-ad-deletion-replacement}
 
 You can use multiple content resolvers to handle different timeline operations.
@@ -29,4 +29,3 @@ if (metadata != null) {
 } 
 return contentResolvers;
 ```
-

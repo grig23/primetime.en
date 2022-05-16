@@ -2,8 +2,8 @@
 title: Block list of DRM Clients restricted from accessing protected content
 description: Block list of DRM Clients restricted from accessing protected content
 copied-description: yes
+exl-id: 837e55ef-8dff-46eb-a952-c787d40d4a1b
 ---
-
 # Block list of DRM Clients restricted from accessing protected content {#blocklist-of-drm-clients-restricted-from-accessing-protected-content}
 
 This block list specifies the Primetime DRM clients that cannot access protected content. You block list clients by client version and platform.
@@ -26,4 +26,3 @@ A Primetime DRM client version may be identified by the attributes specified in 
 >[!NOTE]
 >
 >When specifying an entry in the block list, you can set values for one or more of the attributes mentioned in the previous table. Any attribute that is not specified is treated as a wildcard. If the Primetime DRM client matches all the values specified in a block list entry, protected content may not be accessed by that client.
-

@@ -2,8 +2,8 @@
 title: Working with DRM Policy Update Lists
 description: Working with DRM Policy Update Lists
 copied-description: yes
+exl-id: 140f1fff-2078-427b-ade2-8ec18a14216f
 ---
-
 # DRM policy update lists {#drm-policy-update-lists}
 
 If you update the usage rules in a DRM policy after packaging any content, the license server needs to have the latest version before it can issue licenses that use an updated DRM policy. One way to achieve this is through a DRM policy update list.
@@ -43,4 +43,4 @@ To work with DRM Policy Update Lists:
    Alternatively, you can pass the list to `HandlerConfiguration` where it is then enforced whenever licenses are issued.
 If you want to add more entries to an existing `PolicyUpdateList`, you need to load an existing DRM policy update list. Therefore you need to create a new DRM `PolicyUpdateListFactory` instance. Call `PolicyUpdateListFactory.addEntries` to add all the entries from the old list to the new list. Call `PolicyUpdateListFactory.addRevocationEntry` or `addUpdatedEntry` to add any new revocation or update entries to the DRM PolicyUpdateList.
 
-For sample code that demonstrates how to create a DRM policy update list, see `com.adobe.flashaccess.samples.policyupdatelist` `.CreatePolicyUpdateList` in the *Reference Implementation Command Line Tools* [!DNL samples] directory. 
+For sample code that demonstrates how to create a DRM policy update list, see `com.adobe.flashaccess.samples.policyupdatelist` `.CreatePolicyUpdateList` in the *Reference Implementation Command Line Tools* [!DNL samples] directory.

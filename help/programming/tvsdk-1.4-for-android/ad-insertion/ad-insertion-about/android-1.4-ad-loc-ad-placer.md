@@ -1,8 +1,8 @@
 ---
 description: There are a few ways to determine ad insertion and ad placement.
 title: Ad insertion and placement
+exl-id: 73f24a65-4be2-47d3-8cb9-5cb2c81e6d93
 ---
-
 # Ad insertion and placement{#ad-insertion-and-placement}
 
 There are a few ways to determine ad insertion and ad placement.
@@ -34,4 +34,3 @@ The TVSDK can get locations for possible ad placement from the following sources
 >[!NOTE]
 >
 >By default, the TVSDK uses manifest cues for live/linear streams and advertising server maps for VOD streams. However, to support full-event replay for live events, your application must take extra steps.
-

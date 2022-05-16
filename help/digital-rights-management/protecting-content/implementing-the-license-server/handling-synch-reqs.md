@@ -2,8 +2,8 @@
 title: Handle synchronization requests
 description: Handle synchronization requests
 copied-description: yes
+exl-id: b19245e3-19ae-4dd4-9e5e-6956feb91334
 ---
-
 # Handle synchronization requests {#handle-synchronization-requests}
 
 If a license specifies synchronization requirements  [Requirements for Synchronization,](../../protecting-content/introduction/usage-rules/authentication/synchronization.md) the client periodically sends synchronization requests to the server, based on the frequency specified in the license. To enable synchronization messages, set `SyncFrequencyRequirements` in a PlayRight.

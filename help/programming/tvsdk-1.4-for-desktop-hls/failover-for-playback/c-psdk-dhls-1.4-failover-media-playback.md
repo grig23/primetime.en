@@ -1,8 +1,8 @@
 ---
 description: For live and video-on-demand (VOD) media, TVSDK starts playback by downloading the playlist associated with the middle-resolution bit rate and downloads the media segments defined by that playlist. It quickly selects the high-resolution bit rate playlist and its associated media and continues the downloading process.
 title: Media playback and failover
+exl-id: 43a44631-0b45-4f4e-8ec3-d3e1a0d5c71a
 ---
-
 # Media playback and failover{#media-playback-and-failover}
 
 For live and video-on-demand (VOD) media, TVSDK starts playback by downloading the playlist associated with the middle-resolution bit rate and downloads the media segments defined by that playlist. It quickly selects the high-resolution bit rate playlist and its associated media and continues the downloading process.
@@ -61,4 +61,3 @@ If the video engine is continuously unable to obtain segments, it limits continu
 >The adaptive bit rate (ABR) control parameters are not taken into consideration when a failover occurs. This is because the failover mechanism is designed to use any of the currently available playlists, regardless of their bit-rate profile, as backup streams. 
 >
 >During a failover operation, there can be a profile switch. If an error occurs during the download of one of the playlist segments, ABR control parameters such as min/max allowed bit rate are ignored.
-

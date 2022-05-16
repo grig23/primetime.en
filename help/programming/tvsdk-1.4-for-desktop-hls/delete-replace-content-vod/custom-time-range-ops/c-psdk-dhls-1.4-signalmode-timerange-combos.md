@@ -2,8 +2,8 @@
 title: Signaling mode and time range
 description: Signaling mode and time range
 copied-description: yes
+exl-id: ccaf345f-63f2-42f1-8558-65c7e0dffa89
 ---
-
 # Signaling mode and time range {#signaling-mode-and-time-range}
 
 <table> 

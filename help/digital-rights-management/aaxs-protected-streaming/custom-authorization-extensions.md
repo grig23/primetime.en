@@ -1,9 +1,8 @@
 ---
 title: Custom authorization extensions
 description: Custom authorization logic may be invoked during license acquisition to decide if a license should be issued to the requesting client.
-
+exl-id: bf7870f5-11bf-4392-a422-506b47d684f9
 ---
-
 # Custom authorization extensions {#custom-authorization-extensions}
 
 Custom authorization logic may be invoked during license acquisition to decide if a license should be issued to the requesting client.

@@ -1,8 +1,8 @@
 ---
 description: You can set up your player to read playback and device statistics from the QoSProvider as often as needed.
 title: Display QoS playback and device statistics
+exl-id: 369b6e9a-70a2-4f62-a1bf-f69030c5d6c3
 ---
-
 # Display QoS playback and device statistics {#display-qos-playback-and-device-statistics}
 
 You can set up your player to read playback and device statistics from the QoSProvider as often as needed.

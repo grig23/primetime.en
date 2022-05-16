@@ -2,8 +2,8 @@
 title: Set up a domain server
 description: Set up a domain server
 copied-description: yes
+exl-id: eeb0d39d-58a4-4414-9123-2cf1b27b73de
 ---
-
 # Set up a domain server{#set-up-a-domain-server}
 
 To configure a domain server on an existing license server installation: 

@@ -1,8 +1,8 @@
 ---
 description: You can handle blackouts in live video streams and provide alternate content during a blackout.
 title: Handle blackouts in live streams
+exl-id: 2e63fb0c-44b1-46f1-a4b8-f8f67389d183
 ---
-
 # Handle blackouts in live streams{#handle-blackouts-in-live-streams}
 
 You can handle blackouts in live video streams and provide alternate content during a blackout.
@@ -43,4 +43,3 @@ To handle blackouts in live streams:
 1. Create methods for switching content at the start and end of the blackout period.
 
    When the blackout period starts, switch the main content to the background and switch the alternate content to become the main stream. Continue to fetch and parse the original manifest in the background and keep checking for the "blackout end" tag, so that the player can rejoin the original stream when the blackout ends.
-

@@ -1,8 +1,8 @@
 ---
 description: You can add pause and play buttons to pause or play your video.
 title: Play and pause a video
+exl-id: 7084ef55-4da6-48af-9951-5360bad7bfa9
 ---
-
 # Play and pause a video {#play-and-pause-a-video}
 
 You can add pause and play buttons to pause or play your video.

@@ -1,8 +1,8 @@
 ---
 description: This section covers the grammar of the configuration input, emphasizing valid and invalid input options, and explaining how omitted optional fields are interpreted.
 title: RBOP Grammar
+exl-id: 311194ec-e59b-4145-b22b-6983e212fcab
 ---
-
 # RBOP Grammar {#rbop-grammar}
 
 This section covers the grammar of the configuration input, emphasizing valid and invalid input options, and explaining how omitted optional fields are interpreted.

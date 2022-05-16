@@ -1,8 +1,8 @@
 ---
 description: You can track video use by integrating Browser TVSDK with Adobe Analytics.
 title: Video analytics
+exl-id: b6fb39a9-6cb8-4498-a9fa-0ea19af52a58
 ---
-
 # Video analytics{#video-analytics}
 
 You can track video use by integrating Browser TVSDK with Adobe Analytics.

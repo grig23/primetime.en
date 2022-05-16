@@ -1,8 +1,8 @@
 ---
 description: You can implement multiple DRM solutions for your TVSDK apps using Primetime DRM Cloud, powered by ExpressPlay. DRM solutions include Apple's FairPlay, Google's Widevine, Microsoft's PlayReady, and Primetime Access from Adobe.
 title: Multi-DRM overview
+exl-id: 27614bb6-bfa6-445a-8fb5-a1b8af080bcc
 ---
-
 # Multi-DRM Workflows {#multi-drm-workflows}
 
 You can implement multiple DRM solutions for your TVSDK apps using Primetime DRM Cloud, powered by ExpressPlay. DRM solutions include Apple's FairPlay, Google's Widevine, Microsoft's PlayReady, and Primetime Access from Adobe.

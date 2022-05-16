@@ -1,17 +1,15 @@
 ---
 description: You can display the current and remaining time of the content that is being played.
 title: Display the current time and remaining time
+exl-id: f1aebeb7-381b-4bd5-8535-32b902f838d2
 ---
-
 # Display the current time and remaining time {#display-the-current-time-and-remaining-time}
 
 You can display the current and remaining time of the content that is being played.
 
 1. To implement a display that shows the current and remaining time of the active content, use the following sample code:
-
-    * 
-    
-      ```    
+ 
+   ```    
       // 1. Register for the PTMediaPlayerTimeChangeNotification 
       [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(onMediaPlayerTimeChange:)  
         name:PTMediaPlayerTimeChangeNotification object:self.player]; 
@@ -61,13 +59,11 @@ You can display the current and remaining time of the content that is being play
           } 
       } 
       
-      ```
+   ```
 
 1. To implement a display that show the progress of an ad and the remaining time, use the following sample code:
-
-    * 
-    
-      ```    
+ 
+   ```    
       double adBreakDurationLeft; 
       double adBreakDuration; 
       float currentAdPosition; 
@@ -97,6 +93,6 @@ You can display the current and remaining time of the content that is being play
       PTAd *ad = [notification.userInfo objectForKey:PTMediaPlayerAdKey]; 
       self.adBreakDurationLeft = self.adBreakDurationLeft - ad.primaryAsset.duration; 
       }
-      ```
+   ```
 
 <!--<a id="example_D2FC658F27FC42A0B3E1AEC99B36788B"></a>-->

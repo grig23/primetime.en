@@ -1,8 +1,8 @@
 ---
 description: Browser TVSDK provides tools for creating an advanced video player application (your Primetime player), which you can integrate with other Primetime components.
 title: Flash Failover
+exl-id: 76bd9214-767a-4f26-977d-81fbac3e0c42
 ---
-
 # Flash Failover {#flash-failover}
 
 Browser TVSDK provides tools for creating an advanced video player application (your Primetime player), which you can integrate with other Primetime components.
@@ -43,4 +43,3 @@ A subsequent `replaceCurrentResource` call on the same `MediaPlayer` instance fo
 >[!TIP]
 >
 >The SWF Object and the `<video>` tag are nested in the parent `<DIV>` tag.
-

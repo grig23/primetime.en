@@ -1,8 +1,8 @@
 ---
 description: You can implement your own opportunity detectors.
 title: Implement a custom opportunity detector
+exl-id: a3f6d6b3-4d5e-49bc-b8de-a1196305bbb4
 ---
-
 # Implement a custom opportunity detector{#implement-a-custom-opportunity-detector}
 
 You can implement your own opportunity detectors.
@@ -67,4 +67,3 @@ You can implement your own opportunity detectors.
      
    player.replaceCurrentResource(mediaResource, mediaPlayerItemConfig);
    ```
-

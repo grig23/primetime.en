@@ -1,8 +1,8 @@
 ---
 description: After you successfully load the MediaResource object, TVSDK creates an instance of the MediaPlayerItem class to provide access to that resource.
 title: About the MediaPlayerItem class
+exl-id: 7bf9db5f-63e1-4098-b657-5905fdd12b70
 ---
-
 # About the MediaPlayerItem class {#about-the-mediaplayeritem-class}
 
 The MediaPlayer object represents your media player. A MediaPlayerItem represents audio or video on your player.

@@ -1,8 +1,8 @@
 ---
 description: This table provides detailed information about INFO type notifications.
 title: INFO notification codes
+exl-id: 6f813797-b4ef-4e75-a096-d55103b7304b
 ---
-
 # INFO notification codes{#info-notification-codes}
 
 This table provides detailed information about INFO type notifications.
@@ -199,4 +199,3 @@ Most informational notifications contain relevant metadata, for example, the URL
   </tr> 
  </tbody> 
 </table>
-

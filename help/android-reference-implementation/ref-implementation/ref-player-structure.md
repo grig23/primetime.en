@@ -1,8 +1,8 @@
 ---
 description: The feature managers serve as wrappers around the TVSDK library.
 title: Reference implementation structure
+exl-id: cf102ccc-2e31-4197-a321-e485f77ba754
 ---
-
 # Reference implementation structure {#reference-implementation-structure}
 
 The feature managers serve as wrappers around the TVSDK library.

@@ -3,8 +3,8 @@ title: TVSDK 1.4 for iOS Release Notes
 description: TVSDK 1.4 for iOS Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK iOS 1.4
 products: SG_PRIMETIME
 topic-tags: release-notes
+exl-id: 30284f89-969b-49be-98b4-bd3f23258590
 ---
-
 # TVSDK 1.4 for iOS Release Notes {#tvsdk-for-ios-release-notes}
 
 TVSDK 1.4 for iOS Release Notes describe what is new or changed, the resolved and known issues and the device issues in TVSDK iOS 1.4.

@@ -1,8 +1,8 @@
 ---
 description: You can track video usage in the Primetime Android Reference Implementation by configuring it to work with your Adobe Analytics account.
 title: Configure Video Analytics
+exl-id: 42498e2a-9ff2-442c-8cf9-bd7901f618f4
 ---
-
 # Configure Video Analytics {#configure-video-analytics}
 
 You can track video usage in the Primetime Android Reference Implementation by configuring it to work with your Adobe Analytics account. The Android Reference Implementation is designed to send video usage and heartbeat data to Adobe Analytics. To enable this feature, you must first contact your Adobe Primetime representative and create an Adobe Analytics account.

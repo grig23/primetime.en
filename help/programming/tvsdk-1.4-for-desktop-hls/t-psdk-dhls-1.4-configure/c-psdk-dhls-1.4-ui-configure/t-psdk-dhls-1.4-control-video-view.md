@@ -1,8 +1,8 @@
 ---
 description: You can control the position and size of the video view using the MediaPlayerView object.
 title: Control the position and size of the video view
+exl-id: 5e7ae557-7f2b-4697-85eb-e72d1f43a7fc
 ---
-
 # Control the position and size of the video view{#control-the-position-and-size-of-the-video-view}
 
 You can control the position and size of the video view using the MediaPlayerView object.
@@ -98,4 +98,3 @@ view.scalePolicy = new CustomScalePolicy();
 addChild(view); 
 mediaPlayer.view = view;
 ```
-

@@ -1,8 +1,8 @@
 ---
 description: You can add TVSDK behavior to pause and play buttons.
 title: Play and pause a video
+exl-id: c1c259a4-edb8-475b-96a2-7fa0903804c3
 ---
-
 # Play and pause a video{#play-and-pause-a-video}
 
 You can add TVSDK behavior to pause and play buttons.

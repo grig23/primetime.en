@@ -1,8 +1,8 @@
 ---
 description: TVSDK for Android 3.4 includes a variety of features that you can implement in your players.
 title: Primetime TVSDK features
+exl-id: 85c41c57-f7a7-49aa-9118-a418f27838e4
 ---
-
 # Primetime TVSDK features {#primetime-tvsdk-features}
 
 TVSDK for Android 3.9 includes a variety of features that you can implement in your players.

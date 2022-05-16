@@ -2,8 +2,8 @@
 title: Adobe Primetime Programming Help
 description: Adobe Primetime Programming Help
 copied-description: yes
+exl-id: 4abaa7a7-4302-4471-88fd-a23eb6af6175
 ---
-
 # Primetime Programming Help
 
 Welcome to the Android and iOS Programming help for Adobe Primetime. The documents listed in the left navigation allow you to learn to develop applications and video players using Java on Android devices and Objective-C on iOS devices.

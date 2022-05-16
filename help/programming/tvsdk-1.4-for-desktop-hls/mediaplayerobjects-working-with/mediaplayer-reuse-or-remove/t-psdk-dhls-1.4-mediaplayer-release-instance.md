@@ -1,8 +1,8 @@
 ---
 description: You should release a MediaPlayer instance and resources when you no longer need the MediaResource.
 title: Release a MediaPlayer instance and resources
+exl-id: 2a802754-5c51-4e5f-8c36-843074b487b5
 ---
-
 # Release a MediaPlayer instance and resources{#release-a-mediaplayer-instance-and-resources}
 
 You should release a MediaPlayer instance and resources when you no longer need the MediaResource.

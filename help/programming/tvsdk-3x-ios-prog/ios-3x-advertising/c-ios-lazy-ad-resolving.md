@@ -1,8 +1,8 @@
 ---
 description: Ad resolving and ad loading may cause an unacceptable delay for a user waiting for playback to start. The Lazy Ad Loading Resolving feature can reduce this startup delay. Ads can now be resolved at a specified interval prior to the position of the ad break. This is achieved by using a dual player approach.
 title: Just-in-Time ad resolving
+exl-id: dd5342c5-9f34-4778-a47a-91ff2eb03155
 ---
-
 # Just-in-Time ad resolving {#just-in-time-ad-resolving}
 
 Ad resolving and ad loading may cause an unacceptable delay for a user waiting for playback to start. The Lazy Ad Loading Resolving feature can reduce this startup delay. Ads can now be resolved at a specified interval prior to the position of the ad break. This is achieved by using a dual player approach.

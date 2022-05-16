@@ -1,8 +1,8 @@
 ---
 description: The FairPlay license token interface provides production and test services.
 title: FairPlay license token request / response
+exl-id: 7073a74b-d907-4d45-8550-4305655c33f5
 ---
-
 # FairPlay license token request and response {#fairplay-license-token-request-response}
 
 The FairPlay license token interface provides production and test services. This request returns a token that can be redeemed for a FairPlay license.

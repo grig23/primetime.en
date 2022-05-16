@@ -1,8 +1,9 @@
 ---
 title: Verbose logging
-description: 
+description: Verbose logging
+copied-description: yes
+exl-id: f2d1b0c2-ba28-4fba-9a4e-71d1421f37fe
 ---
-
 # Verbose logging {#verbose-logging}
 
 ## ptdebug/logging event descriptions {#ptdebug-logging-events}

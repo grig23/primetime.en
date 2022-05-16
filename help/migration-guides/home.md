@@ -2,8 +2,8 @@
 title: Primetime Migration Help
 description: Primetime Migration Help
 copied-description: yes
+exl-id: 1f3f1a5b-95c7-4d47-a36f-7ad934a7d49d
 ---
-
 # Primetime Migration and Conversion Help
 
 Welcome to the Migration and Conversion help for Adobe Primetime. The documents listed in the left navigation explain the conversion and migration process to move from your existing Primetime TVSDK Suite to the next-generation suite.

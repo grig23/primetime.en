@@ -1,8 +1,8 @@
 ---
 description: The key client-side element of the Primetime DRM solution is the DRM Manager. The sample application that is included with the Android SDK also includes a DRMHelper class that can be used to make certain DRM operations easier to implement.
 title: Primetime DRM interface overview
+exl-id: 37037419-fe3d-4e9e-a35d-e0accfba4e80
 ---
-
 # Primetime DRM interface overview {#primetime-drm-interface-overview}
 
 The key client-side element of the Primetime DRM solution is the DRM Manager. The sample application that is included with the Android SDK also includes a DRMHelper class that can be used to make certain DRM operations easier to implement.
@@ -77,4 +77,4 @@ Here are the most important API elements for working with DRM:
 
 <!--<a id="section_F58941D68EB94A5EBD1C7454D2A1B17A"></a>-->
 
-For more information about DRM, see the [DRM documentation](https://helpx.adobe.com/primetime/user-guide.html). 
+For more information about DRM, see the [DRM documentation](https://helpx.adobe.com/primetime/user-guide.html).

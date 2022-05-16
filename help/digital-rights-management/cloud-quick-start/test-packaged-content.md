@@ -2,8 +2,8 @@
 title: Test the packaged content
 description: Test the packaged content
 copied-description: yes
+exl-id: 98456bf8-5d4d-47a7-905a-e6dac1e826ba
 ---
-
 # Test the packaged content {#test-the-packaged-content}
 
 You should validate that the packaging operation succeeded by using the publicly-available Adobe Primetime Desktop Player (via Flash Player). This player can only support HDS content. In order to test HLS content, a Primetime Browser TVSDK-enabled player is required. 

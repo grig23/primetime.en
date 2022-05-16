@@ -2,8 +2,8 @@
 title: Building the Flash Access Manager AIR Application
 description: Building the Flash Access Manager AIR Application
 copied-description: yes
+exl-id: f15fe9d2-d5e8-43ef-a1d5-1211752d54da
 ---
-
 # Building the Flash Access Manager AIR Application {#building-the-flash-access-manager-air-application}
 
 To build the Flash Access Manager AIR file from the source code, you need the Flex and AIR SDK installed on your machine. Before you can package and run the application, you must compile the MXML code into a SWF file using the [!DNL amxmlc] compiler. The [!DNL amxmlc] compiler can be found in the [!DNL bin] directory of the Flex 4 or later SDK. If desired, you can set your path environment variable to include the Flex SDK bin directory to make it easier to run the utilities on the command line.
@@ -38,4 +38,4 @@ adt -package -storetype pkcs12 -keystore testCert.pfx FlashAccessManager.air src
 
 This command tells ADT to package your application, using the key file in [!DNL testCert.pfx]. In the line above, you configure ADT to package your entire application into a file named [!DNL FlashAccessManager.air], and to include the files [!DNL FlashAccessManager-app.xml] and [!DNL FlashAccessManager.swf] and the images from the assets directory.
 
-As part of this process, you'll be prompted for the password that you set for your new certificate file. Enter it, wait a moment, and a [!DNL FlashAccessManager.air] file should appear in the same directory as your project files. 
+As part of this process, you'll be prompted for the password that you set for your new certificate file. Enter it, wait a moment, and a [!DNL FlashAccessManager.air] file should appear in the same directory as your project files.

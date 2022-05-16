@@ -1,8 +1,8 @@
 ---
 description: You can designate time intervals in VOD content as ad breaks.
 title: Mark ranges
+exl-id: cd661327-20b2-4a49-8002-6ecee86c2a2c
 ---
-
 # Mark ranges{#mark-ranges}
 
 You can designate time intervals in VOD content as ad breaks.
@@ -56,4 +56,3 @@ In this case, `TimeRanges` between the `begin` and `end` in `localTime` will be 
    }
    
    ```
-

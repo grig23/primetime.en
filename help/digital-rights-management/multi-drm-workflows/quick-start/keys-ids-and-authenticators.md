@@ -1,8 +1,8 @@
 ---
 description: To implement DRM you need particular certs and keys, including a content encryption key or CEK to encrypt your content, a customer authenticator for protecting communications with ExpressPlay servers, and CEKSIDs for identifying your content encryption keys as stored in a key management system.
 title: Keys, IDs, and Authenticators
+exl-id: b769192d-92ad-4b93-84dd-80b182fc6c43
 ---
-
 # Keys, IDs, and Authenticators{#keys-ids-and-authenticators}
 
 To implement DRM you need particular certs and keys, including a content encryption key or CEK to encrypt your content, a customer authenticator for protecting communications with ExpressPlay servers, and CEKSIDs for identifying your content encryption keys as stored in a key management system.
@@ -73,4 +73,4 @@ The customer authenticator is a key you obtain from ExpressPlay when you set up 
 
 ![](assets/expressplay_admin_dashboard-web.png)
 
-**When do I use this?** - You include this in all calls to ExpressPlay servers — for example, license servers, [ExpressPlay Key Storage](https://www.expressplay.com/developer/key-storage/), and other calls. 
+**When do I use this?** - You include this in all calls to ExpressPlay servers — for example, license servers, [ExpressPlay Key Storage](https://www.expressplay.com/developer/key-storage/), and other calls.

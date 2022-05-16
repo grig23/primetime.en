@@ -2,8 +2,8 @@
 title: Overview
 description: Overview
 copied-description: yes
+exl-id: 1e06bead-4b45-4bf0-8bcf-1ea376af6bd8
 ---
-
 # DRM Policy Update List Manager {#policy-update-list-manager}
 
 Use the Primetime DRM Policy Update List Manager command-line tool ( [!DNL AdobePolicyUpdateListManager.jar]) to create and manage DRM policy update lists, and to check whether policies have been updated or revoked.

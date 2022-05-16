@@ -1,8 +1,8 @@
 ---
 description: Downloading video and audio in parallel, rather than in a series, reduces startup delays.
 title: Parallel downloads
+exl-id: 6c93154b-8de4-448b-bc33-776fcc1f6243
 ---
-
 # Parallel downloads {#parallel-downloads}
 
 Downloading video and audio in parallel, rather than in a series, reduces startup delays.
@@ -36,4 +36,3 @@ The HTTP connection might experience delays at the following stages:
 * When sending an HTTP request for a segment or a manifest over the TCP/IP connection.
 
   The server receives the request, processes it, and starts sending the data back to the client. The degree of delay depends on the load and the complexity of the software on the server and somewhat on the upload connection speed when the client sends the request.
-

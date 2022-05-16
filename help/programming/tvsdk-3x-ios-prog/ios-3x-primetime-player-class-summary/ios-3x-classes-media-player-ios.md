@@ -1,8 +1,8 @@
 ---
 description: You can use the Primetime Player Objective-C API to customize the behavior of the player.
 title: Media player classes
+exl-id: b58efff0-2455-4db5-93a0-4624291dc526
 ---
-
 # Media player classes {#media-player-classes}
 
 You can use the Primetime Player Objective-C API to customize the behavior of the player.

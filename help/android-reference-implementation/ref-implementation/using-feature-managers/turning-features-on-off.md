@@ -1,8 +1,8 @@
 ---
 description: You can turn features on or off without going through the code by using the manager factory.
 title: Turning features on or off using ManagerFactory
+exl-id: 4e288a6e-80e5-43c1-aba2-374723dd9957
 ---
-
 # Turning features on or off using ManagerFactory{#turning-features-on-or-off-using-managerfactory}
 
 You can turn features on or off without going through the code by using the manager factory.

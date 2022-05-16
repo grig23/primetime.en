@@ -1,8 +1,8 @@
 ---
 description: This section presents a sample configuration that illustrates the concepts and form of the configuration.
 title: Sample RBOP Configuration
+exl-id: 0f40be83-9c7f-482b-ac42-9aa4e3f46f58
 ---
-
 # Sample RBOP Configuration {#sample-rbop-configuration}
 
 This section presents a sample configuration that illustrates the concepts and form of the configuration.
@@ -46,4 +46,3 @@ Note the following about the sample configuration above:
 
 * Within each pixel count specification, output protection is specified for both digital and analog output. 
 * In the digital output specifications, HDCP versions are specified, although the client does not currently support HDCP versioning. See the FAQ for more information.
-

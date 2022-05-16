@@ -2,8 +2,8 @@
 title: Using Output Protection Policies
 description: Using Output Protection Policies
 copied-description: yes
+exl-id: d91c9181-a6b2-4982-a3ba-57c4b56428eb
 ---
-
 # Using Output Protection Policies{#using-output-protection-policies}
 
 **Widevine output protection policies**
@@ -19,4 +19,4 @@ Expressplay currently does not support attaching analog output restrictions
 
 PlayReady also natively supports both analog and digital output protection restrictions. The output protection level values that you can set. The page [Output Protection Levels](https://msdn.microsoft.com/en-us/library/dn468831.aspx) documents the values that you can set and their expected client behavior.
 
-If you use Expressplay, then attach output protection level values at token generation time via the compressedDigitalAudioOPL, uncompressedDigitalAudioOPL, compressedDigitalVideoOPL, uncompressedDigitalVideoOPL, and the unknownOutputBehavior flag. These are documented at [PlayReady License Token Request](https://www.expressplay.com/developer/restapi/#playready-license-token-request) 
+If you use Expressplay, then attach output protection level values at token generation time via the compressedDigitalAudioOPL, uncompressedDigitalAudioOPL, compressedDigitalVideoOPL, uncompressedDigitalVideoOPL, and the unknownOutputBehavior flag. These are documented at [PlayReady License Token Request](https://www.expressplay.com/developer/restapi/#playready-license-token-request)

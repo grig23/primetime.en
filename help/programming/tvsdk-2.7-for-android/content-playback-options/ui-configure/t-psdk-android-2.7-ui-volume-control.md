@@ -1,8 +1,8 @@
 ---
 description: You can set up a user interface control to adjust the volume for the video.
 title: Provide volume control
+exl-id: 0daa87e2-51aa-4459-9a67-135dc54d09c7
 ---
-
 # Provide volume control {#provide-volume-control}
 
 You can set up a user interface control to adjust the volume for the video.
@@ -21,5 +21,4 @@ You can set up a user interface control to adjust the volume for the video.
    void setVolume(int volume) throws MediaPlayerException;
    ```
 
-   The value for the volume represents the requested volume expressed as a proportion of the maximum volume, where `0` is silent and `1` is the maximum volume. 
-
+   The value for the volume represents the requested volume expressed as a proportion of the maximum volume, where `0` is silent and `1` is the maximum volume.

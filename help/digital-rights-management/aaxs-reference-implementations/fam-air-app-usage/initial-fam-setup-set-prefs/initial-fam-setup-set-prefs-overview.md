@@ -2,8 +2,8 @@
 title: Setting preferences overview
 description: Setting preferences overview
 copied-description: yes
+exl-id: 9618a038-c5b0-4b49-8936-ef8fcacf2105
 ---
-
 # Setting preferences overview {#setting-preferences-overview}
 
 With the exception of the Packager Server URL, all the preferences specified below are stored in the [!DNL flashaccess-refimpl-packager.properties] file on the server. All the settings can be modified either directly in the properties file or through the AIR application. Passwords are encrypted when they are stored in the properties file on the server. Type the unencrypted password into the UI, and it will be encrypted before it is stored in the file.
@@ -38,4 +38,3 @@ The preference descriptions use the following terms:
   </tr> 
  </tbody> 
 </table>
-

@@ -3,8 +3,8 @@ keywords: hard stop
 title: Configuration properties
 description: Configuration properties
 copied-description: yes
+exl-id: f88c57d6-d951-4d7a-8de1-44cd1aa8e5f7
 ---
-
 # Configuration properties {#configuration-properties}
 
 <!--<a id="section_20A96CDCC5C340DEAF455C6E300E5712"></a>-->

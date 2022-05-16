@@ -1,8 +1,8 @@
 ---
 description: You can insert ads into VOD content.
 title: Replace time ranges with an ad
+exl-id: b341d337-e190-4e2d-bad6-579771bcc577
 ---
-
 # Replace time ranges with an ad{#replace-time-ranges-with-an-ad}
 
 You can insert ads into VOD content.
@@ -70,4 +70,3 @@ In this case, `TimeRanges` between the `begin` and `end` in `localTime` are remo
    }
    
    ```
-

@@ -1,8 +1,8 @@
 ---
 description: Here are some examples of the process to delete and replace ads.
 title: Examples to delete and replace ads
+exl-id: 7fe173a7-fffd-4302-a251-2fbfd129d53a
 ---
-
 # Examples to delete and replace ads {#examples-to-delete-and-replace-ads}
 
 Here are some examples of the process to delete and replace ads.

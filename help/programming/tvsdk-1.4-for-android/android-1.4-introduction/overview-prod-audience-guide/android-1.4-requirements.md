@@ -1,8 +1,8 @@
 ---
 description: TVSDK requires specific requirements for media content, manifest content, DRM, and software versions.
 title: Requirements
+exl-id: 8fafc52e-01b5-448f-a235-7bc3a72f4d80
 ---
-
 # Requirements {#requirements}
 
 TVSDK requires specific requirements for media content, manifest content, DRM, and software versions.
@@ -70,4 +70,3 @@ Here is some information about the `#EXT-X-VERSION` tag, which specifies the HLS
   </tr> 
  </tbody> 
 </table>
-

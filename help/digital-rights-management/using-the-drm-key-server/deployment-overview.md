@@ -2,8 +2,8 @@
 title: Deploying the Primetime DRM Key Server overview
 description: Deploying the Primetime DRM Key Server overview
 copied-description: yes
+exl-id: d70e8315-ed35-4159-842b-5066a2b1c4f0
 ---
-
 # Deploy the Primetime DRM Key Server {#deploy-the-primetime-drm-key-server}
 
 Before deploying the Primetime DRM Key Server, make sure that you have installed the required versions of Java and Tomcat. See, [DRM Key Server Requirements](../../digital-rights-management/using-the-drm-key-server/requirements.md).
@@ -162,4 +162,4 @@ The log files are distinguished by client type. There are two logs per client ty
 
 ## Starting the Key Server {#starting-the-key-server}
 
-To start the Key Server, start Tomcat. 
+To start the Key Server, start Tomcat.

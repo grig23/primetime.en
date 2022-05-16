@@ -2,8 +2,8 @@
 title: DRM Revocation List Manager
 description: DRM Revocation List Manager
 copied-description: yes
+exl-id: 5b17d195-30ca-4005-b710-83a6f77779a2
 ---
-
 # DRM Revocation List Manager {#policy-revocation-list-manager}
 
 Use the Primetime DRM Revocation List Manager command-line tool ( [!DNL AdobeRevocationListManager.jar]) to create and manage revocation lists, and to check whether policies have been revoked.

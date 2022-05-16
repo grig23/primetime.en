@@ -1,8 +1,8 @@
 ---
 description: You can provide custom metadata on content, ads, and chapter tracking calls by using callback functions.
 title: Implement custom metadata support
+exl-id: b14d3550-db25-4521-babd-ddfa6bc9f4f6
 ---
-
 # Implement custom metadata support {#implement-custom-metadata-support}
 
 You can provide custom metadata on content, ads, and chapter tracking calls by using callback functions.
@@ -99,4 +99,3 @@ Callback functions are invoked just before the tracking call is made, so your ap
      new ChapterMetadataBlockImpl("chapter-1234", "1.2.3.4")); 
    
    ```
-

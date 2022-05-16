@@ -1,8 +1,8 @@
 ---
 description: You can select the following encryption options when you create a package. However, you cannot modify the encryption options during license acquisition 
 title: Key Rotation
+exl-id: 1b439b5f-7a63-4fe2-ae15-c18cda0b31cd
 ---
-
 # Key Rotation {#key-rotation}
 
 You can select the following encryption options when you create a package. However, you cannot modify the encryption options during license acquisition:

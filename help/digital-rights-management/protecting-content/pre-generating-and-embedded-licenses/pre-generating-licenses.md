@@ -1,8 +1,8 @@
 ---
 description: If you use Adobe Primetime DRM Professional, you can pre-generate licenses and embed licenses in content. This feature can be combined with Enhanced License Chaining, such that a Leaf license is pre-generated and embedded in the content, and the client can request a Root license (bound to a machine or domain) from a license server. Alternatively, client applications can implement a workflow where the device pre-registers with a server, the server pre-generates licenses that are bound to that device, and the client retrieves its licenses from a simple HTTP web server.
 title: Pre-generating licenses
+exl-id: 6ced7dde-b4bb-470d-bdae-3042f5577b67
 ---
-
 # Pre-generating licenses {#pre-generating-licenses}
 
 If you use Adobe Primetime DRM Professional, you can pre-generate licenses and embed licenses in content. This feature can be combined with Enhanced License Chaining, such that a Leaf license is pre-generated and embedded in the content, and the client can request a Root license (bound to a machine or domain) from a license server. Alternatively, client applications can implement a workflow where the device pre-registers with a server, the server pre-generates licenses that are bound to that device, and the client retrieves its licenses from a simple HTTP web server.
@@ -27,4 +27,4 @@ If you want to generate a license, you must invoke `generateLicense()` and speci
 
 See [Embedding Licenses](../../protecting-content/pre-generating-and-embedded-licenses/embedding-licenses.md).
 
-See `com.adobe.flashaccess.samples.licensegen.GenerateLicense` in the Reference Implementation Command Line Tools “samples” directory for sample code on how to demonstrate pre-generated licenses. 
+See `com.adobe.flashaccess.samples.licensegen.GenerateLicense` in the Reference Implementation Command Line Tools “samples” directory for sample code on how to demonstrate pre-generated licenses.

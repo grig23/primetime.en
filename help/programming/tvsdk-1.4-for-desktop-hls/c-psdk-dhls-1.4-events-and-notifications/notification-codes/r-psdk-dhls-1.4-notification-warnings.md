@@ -1,8 +1,8 @@
 ---
 description: This table proves detailed information about WARN. type notifications.
 title: WARNING notification codes
+exl-id: 3d76aba4-ace8-4a49-b930-96bbcad41f25
 ---
-
 # WARNING notification codes{#warning-notification-codes}
 
 This table proves detailed information about WARN. type notifications.
@@ -106,4 +106,3 @@ Most warnings contain relevant metadata, for example, the URL of the resource th
   </tr> 
  </tbody> 
 </table>
-

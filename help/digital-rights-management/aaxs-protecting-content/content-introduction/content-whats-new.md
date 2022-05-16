@@ -1,8 +1,8 @@
 ---
 description: Adobe® Access™ is an advanced digital rights management and content protection solution for high-value audiovisual content. Using tools that you create using Java APIs, you can create policies, apply policies to files containing audio and video content, and encrypt those files. The high-level steps for performing these tasks are as follows 
 title: Overview
+exl-id: cf081058-9b41-4b09-9258-a7d873799846
 ---
-
 # Overview {#overview}
 
 Adobe® Access™ is an advanced digital rights management and content protection solution for high-value audiovisual content. Using tools that you create using Java APIs, you can create policies, apply policies to files containing audio and video content, and encrypt those files. The high-level steps for performing these tasks are as follows:

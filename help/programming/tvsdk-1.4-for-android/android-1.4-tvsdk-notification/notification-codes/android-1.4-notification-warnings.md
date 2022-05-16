@@ -1,8 +1,8 @@
 ---
 description: This table proves detailed information about WARN type notifications.
 title: WARNING notification codes
+exl-id: e787fad5-fbdc-416d-b03d-8c84f4884c5a
 ---
-
 # WARNING notification codes {#warning-notification-codes}
 
 This table proves detailed information about WARN type notifications.

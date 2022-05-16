@@ -2,8 +2,8 @@
 title: Adobe Primetime DRM SDK - An overview
 description: Adobe Primetime DRM SDK - An overview
 copied-description: yes
+exl-id: 6760dfcc-b8f9-4379-bc01-70af4bf24baf
 ---
-
 # Adobe Primetime DRM SDK - An overview {#adobe-primetime-drm-sdk-an-overview}
 
 >[!NOTE]
@@ -19,4 +19,3 @@ Primetime DRM supports a wide range of business models, including video on deman
 * Streaming through Adobe Flash Media Server software 
 * Offering progressive download via HTTP using Adobe's HTTP Dynamic Streaming technology 
 * Permitting downloads to a content library for local playback at the consumer's convenience
-

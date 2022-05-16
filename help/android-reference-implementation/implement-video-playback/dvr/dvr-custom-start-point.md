@@ -1,8 +1,8 @@
 ---
 description: You can choose a custom starting point for when to enter a DVR stream instead of the default behavior of entering the DVR stream at the beginning using the ConfigProvider class.
 title: Choosing a custom starting point for DVR
+exl-id: 9813bf60-a91d-4376-a5fe-02311b73e8a0
 ---
-
 # Choosing a custom starting point for DVR {#choosing-a-custom-starting-point-for-dvr}
 
 You can choose a custom starting point for when to enter a DVR stream instead of the default behavior of entering the DVR stream at the beginning using the ConfigProvider class.

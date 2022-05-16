@@ -1,8 +1,8 @@
 ---
 description: To use Flash Player, ensure that your environment meets the necessary requirements.
 title: Flash Player requirements
+exl-id: 26531d0d-d34c-4134-8a05-0604f00a3107
 ---
-
 # Flash Player requirements{#flash-player-requirements}
 
 To use Flash Player, ensure that your environment meets the necessary requirements.
@@ -40,4 +40,3 @@ AdobePSDK.setAuthorizationTokenFilename("hlsaf_localhost.swf");
 //Set the token type, "DAT" or "SWF". Defaults to "DAT" 
 AdobePSDK.setAuthorizationTokenType("SWF");
 ```
-

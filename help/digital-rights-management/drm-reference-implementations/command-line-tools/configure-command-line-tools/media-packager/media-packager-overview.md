@@ -2,8 +2,8 @@
 title: Overview
 description: Overview
 copied-description: yes
+exl-id: 866b3147-c28b-41b0-8653-06ba867354c5
 ---
-
 # DRM Media Packager {#media-packager}
 
 Use the Media Packager ( [!DNL AdobePackager.jar]) to specify a DRM policy to apply to your content, and to specify which part of the content to encrypt. For example, you can specify that the packager should encrypt the video data, but not the audio data.

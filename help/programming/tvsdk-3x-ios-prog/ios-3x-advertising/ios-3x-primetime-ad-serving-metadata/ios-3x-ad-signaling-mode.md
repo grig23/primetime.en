@@ -1,8 +1,8 @@
 ---
 description: The ad signaling mode specifies where the video stream should get advertising information.
 title: Ad signaling mode
+exl-id: 1cf81780-ae3b-4bdd-9447-17a2b37bad6d
 ---
-
 # Ad signaling mode {#ad-signaling-mode}
 
 The ad signaling mode specifies where the video stream should get advertising information.

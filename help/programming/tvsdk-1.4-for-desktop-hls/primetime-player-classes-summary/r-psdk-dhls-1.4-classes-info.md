@@ -1,8 +1,8 @@
 ---
 description: These classes provide information about the media.
 title: Info classes
+exl-id: af09c81f-07f4-423b-af97-53bc2274cddc
 ---
-
 # Info classes{#info-classes}
 
 These classes provide information about the media.
@@ -47,4 +47,3 @@ These classes provide information about the media.
   </tr> 
  </tbody> 
 </table>
-

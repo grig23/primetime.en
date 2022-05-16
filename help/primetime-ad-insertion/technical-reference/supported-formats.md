@@ -1,6 +1,7 @@
 ---
 title: Supported Formats
-description: 
+description: Supported Formats
+copied-description: yes
 ---
 
 # Supported Formats {#supported-formats}

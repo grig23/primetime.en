@@ -2,8 +2,8 @@
 title: Primetime Reference Implementation
 description: Primetime Reference Implementation
 copied-description: yes
+exl-id: 66be90f1-27e4-4e5f-b84e-fa11ec6f43de
 ---
-
 # Primetime Reference Implementation
 
 Welcome to the Reference Implementation help for Adobe Primetime. The documents listed in the left navigation help understand the TVSDK and modify the feature managers to customize your personal player.

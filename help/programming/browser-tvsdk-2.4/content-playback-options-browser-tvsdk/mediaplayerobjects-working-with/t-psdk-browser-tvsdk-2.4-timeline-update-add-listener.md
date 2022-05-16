@@ -1,8 +1,8 @@
 ---
 description: To receive notifications about timeline updates, register the appropriate event listeners.
 title: Add listeners for TimelineUpdatedEvent
+exl-id: 7b55beb5-fd84-4144-8d02-bbd998f99e3a
 ---
-
 # Add listeners for TimelineUpdatedEvent{#add-listeners-for-timelineupdatedevent}
 
 To receive notifications about timeline updates, register the appropriate event listeners.
@@ -32,4 +32,3 @@ To receive notifications about timeline updates, register the appropriate event 
    player.addEventListener(AdobePSDK.PSDKEventType.TIMELINE_UPDATED,  
        onTimelineUpdatedEvent);
    ```
-

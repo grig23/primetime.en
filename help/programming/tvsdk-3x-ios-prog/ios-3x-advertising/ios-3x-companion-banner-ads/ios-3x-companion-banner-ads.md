@@ -1,8 +1,8 @@
 ---
 description: TVSDK supports companion banner ads, which are ads that accompany a linear ad and often remain on the page after the linear ad ends. Your application is responsible for displaying the companion banners that are provided with a linear ad.
 title: Companion banner ads
+exl-id: 7ea1c518-5a0e-4ce3-8dd0-225f589dee3b
 ---
-
 # Companion banner ads {#companion-banner-ads}
 
 TVSDK supports companion banner ads, which are ads that accompany a linear ad and often remain on the page after the linear ad ends. Your application is responsible for displaying the companion banners that are provided with a linear ad.

@@ -1,8 +1,8 @@
 ---
 description: For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
 title: Implement an early ad break return
+exl-id: 07246e31-c2a2-4646-9e59-6294f0ce8838
 ---
-
 # Implement an early ad break return {#implement-an-early-ad-break-return}
 
 For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.

@@ -1,8 +1,8 @@
 ---
 description: Browser TVSDK provides a DRM interface you can use to play content protected by different DRM solutions, including FairPlay, PlayReady, and Widevine.
 title: DRM interface overview
+exl-id: aa13f042-4472-4fc3-b7ba-61746b8e024a
 ---
-
 # DRM interface overview{#drm-interface-overview}
 
 Browser TVSDK provides a DRM interface you can use to play content protected by different DRM solutions, including FairPlay, PlayReady, and Widevine.
@@ -120,4 +120,3 @@ Here is a high-level workflow for playback of DRM-protected content:
        drmManager.returnLicense(null, null, null, false, returnLicenseListener, drmLicense.session); 
    }
    ```
-

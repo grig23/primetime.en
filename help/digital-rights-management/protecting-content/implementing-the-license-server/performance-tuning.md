@@ -2,8 +2,8 @@
 title: Performance tuning
 description: Performance tuning
 copied-description: yes
+exl-id: 1b54b7c2-da32-47db-b57f-b2afbaf386c4
 ---
-
 # Performance tuning{#performance-tuning}
 
 Use the following tips to help to increase performance:
@@ -39,4 +39,4 @@ To verify the number of bits available in a given server's entropy pool during a
 cat /proc/sys/kernel/random/entropy_avail 
 ```
 
-A healthy Linux system with a lot of entropy available will return close to the full 4,096 bits of entropy. If the value returned is less than 200, the system is running very low on entropy. 
+A healthy Linux system with a lot of entropy available will return close to the full 4,096 bits of entropy. If the value returned is less than 200, the system is running very low on entropy.

@@ -2,8 +2,8 @@
 title: Updating a DRM policy with the Java API
 description: Updating a DRM policy with the Java API
 copied-description: yes
+exl-id: 00bb9b64-30f7-4900-b6bd-57604295b44d
 ---
-
 # Updating a DRM policy with the Java API {#updating-a-drm-policy-with-the-java-api}
 
 To update a DRM policy with the Java API:
@@ -54,4 +54,4 @@ To update a DRM policy with the Java API:
    out.close();
    ```
 
-See `com.adobe.flashaccess.samples.policy.UpdatePolicy` in the Reference Implementation Command Line Tools [!DNL samples] directory for the source of this sample code. 
+See `com.adobe.flashaccess.samples.policy.UpdatePolicy` in the Reference Implementation Command Line Tools [!DNL samples] directory for the source of this sample code.

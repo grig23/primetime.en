@@ -1,8 +1,8 @@
 ---
 description: These classes assist in detecting opportunities in a timeline for placement of content, such as ads.
 title: Timeline generators classes
+exl-id: 2c9d1f10-fdf6-48b9-8bda-cee291befeab
 ---
-
 # Timeline generators classes{#timeline-generators-classes}
 
 These classes assist in detecting opportunities in a timeline for placement of content, such as ads.

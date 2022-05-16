@@ -1,8 +1,8 @@
 ---
 description: Check the restrictions and requirements for streams and playlists (manifests).
 title: Content and manifest requirements
+exl-id: 53fdd771-06ea-496f-9591-6ed4d5011f8d
 ---
-
 # Content and manifest requirements{#content-and-manifest-requirements}
 
 Check the restrictions and requirements for streams and playlists (manifests).
@@ -44,4 +44,3 @@ Check the restrictions and requirements for streams and playlists (manifests).
   </tr> 
  </tbody> 
 </table>
-

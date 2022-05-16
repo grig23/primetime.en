@@ -1,8 +1,8 @@
 ---
 description: You can set up the Reference Implementation to use Adobe Analytics reporting.
 title: Configure Adobe Analytics Reporting
+exl-id: 3607f9d4-1069-4722-af0b-121223125112
 ---
-
 # Configure Adobe Analytics Reporting {#configure-adobe-analytics-reporting}
 
 You can set up the Reference Implementation to use Adobe Analytics reporting.

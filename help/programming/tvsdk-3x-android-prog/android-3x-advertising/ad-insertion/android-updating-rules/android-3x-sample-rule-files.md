@@ -1,8 +1,8 @@
 ---
 description: In the AdobeTVSDKConfig.json you can specify default rules as well as rules for specific zones.
 title: Sample creative selection rules
+exl-id: e5310c34-2483-4b86-ba60-d8869221ab81
 ---
-
 # Sample creative selection rules  {#sample-creative-selection-rules}
 
 In the AdobeTVSDKConfig.json you can specify default rules as well as rules for specific zones.

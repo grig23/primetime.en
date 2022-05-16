@@ -1,8 +1,8 @@
 ---
 description: Common problems during testing often involve your ExpressPlay authenticators, transport protocols, and required service request parameters.
 title: Troubleshooting your quick-start
+exl-id: d8908f9c-98f4-4100-a003-d3b990105dee
 ---
-
 # Troubleshooting your quick-start{#troubleshooting-your-quick-start}
 
 Common problems during testing often involve your ExpressPlay authenticators, transport protocols, and required service request parameters.
@@ -32,4 +32,3 @@ In addition:
 
 * As of TVSDK 2.4, only AndroidTV devices typically support both PlayReady and Widevine DRMs. All other Android devices typically only support Widevine. 
 * As of TVSDK 2.4, the Android TVSDK currently requires that the PSSH box is in the .mpd manifest. This is contrary to the DASH standard, which specifies that the PSSH box can be anywhere, like in the content itself, and not just in the .mpd.
-

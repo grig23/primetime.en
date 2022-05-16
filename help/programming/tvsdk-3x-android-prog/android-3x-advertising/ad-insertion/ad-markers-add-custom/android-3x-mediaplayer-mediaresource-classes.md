@@ -1,8 +1,8 @@
 ---
 description: A MediaResource represents the content that is about to be loaded by the MediaPlayer instance.
 title: MediaPlayer and MediaResource classes
+exl-id: 5321a9b5-bdc2-4287-85a6-4571e93c7f14
 ---
-
 # MediaPlayer and MediaResource classes {#mediaplayer-and-mediaresource-classes}
 
 A MediaResource represents the content that is about to be loaded by the MediaPlayer instance.

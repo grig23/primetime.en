@@ -1,8 +1,8 @@
 ---
 description: This table provides detailed information about ERROR type notifications.
 title: ERROR notification codes
+exl-id: 3e60488e-b368-41f6-b32c-cda5688d67de
 ---
-
 # ERROR notification codes{#error-notification-codes}
 
 This table provides detailed information about ERROR type notifications.
@@ -269,4 +269,3 @@ Most errors contain relevant metadata, for example, the URL of the resource that
   </tr> 
  </tbody> 
 </table>
-

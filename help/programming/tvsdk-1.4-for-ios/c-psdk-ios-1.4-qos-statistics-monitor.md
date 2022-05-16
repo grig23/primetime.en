@@ -1,8 +1,8 @@
 ---
 description: Quality of service (QoS) offers a detailed view into how the video engine is performing. TVSDK provides detailed statistics about playback, buffering, and devices.
 title: Quality of service statistics
+exl-id: 7684605f-e049-47bf-8073-155d1ff000e0
 ---
-
 # Quality of service statistics{#quality-of-service-statistics}
 
 Quality of service (QoS) offers a detailed view into how the video engine is performing. TVSDK provides detailed statistics about playback, buffering, and devices.
@@ -55,4 +55,3 @@ It also provides information about the device, such as the model, operating syst
    [NSTimer scheduledTimerWithTimeInterval:2.0 target:self  
       selector:@selector(printPlaybackInfoLog) userInfo:nil repeats:YES];
    ```
-

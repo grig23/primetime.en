@@ -1,8 +1,8 @@
 ---
 description: You can set up one place in your application to perform error handling in response to the ERROR state.
 title: Set up error handling
+exl-id: c0ce1d80-85d5-4344-9ab0-bd56906421cb
 ---
-
 # Set up error handling{#set-up-error-handling}
 
 You can set up one place in your application to perform error handling in response to the ERROR state.
@@ -39,4 +39,3 @@ onStatusChange = function (event) {
 } 
 
 ```
-

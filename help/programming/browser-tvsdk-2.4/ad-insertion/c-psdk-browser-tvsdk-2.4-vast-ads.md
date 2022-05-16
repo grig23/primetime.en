@@ -1,8 +1,8 @@
 ---
 description: When Browser TVSDK requests an ad that is not on your primary ad server, the player needs to request the ad from the secondary server. Video Ad Serving Template (VAST) sets the standard of communication between ad servers and video players and is the response that is sent by the secondary ad server when the ad is requested.
 title: VAST ads
+exl-id: b0ebade5-b5da-413d-84f4-abebac579f45
 ---
-
 # VAST ads {#vast-ads}
 
 When Browser TVSDK requests an ad that is not on your primary ad server, the player needs to request the ad from the secondary server. Video Ad Serving Template (VAST) sets the standard of communication between ad servers and video players and is the response that is sent by the secondary ad server when the ad is requested.

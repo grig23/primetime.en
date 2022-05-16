@@ -1,8 +1,8 @@
 ---
 description: The PTMediaPlayer object represents your media player. A PTMediaPlayerItem represents audio or video on your player.
 title: Work with MediaPlayer objects
+exl-id: 57dd455e-e78c-4e5b-80af-070ae7982864
 ---
-
 # Work with MediaPlayer objects {#work-with-mediaplayer-objects}
 
 The PTMediaPlayer object represents your media player. A PTMediaPlayerItem represents audio or video on your player.

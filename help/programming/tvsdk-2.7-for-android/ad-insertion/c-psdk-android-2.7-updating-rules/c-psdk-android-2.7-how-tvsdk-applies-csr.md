@@ -3,8 +3,8 @@ keywords: creative selection rules;AdobeTVSDKConfig
 title: Apply creative selection rules
 description: Apply creative selection rules
 copied-description: yes
+exl-id: 17d540f3-1eea-4d12-a4b4-66e7c639591f
 ---
-
 # Apply creative selection rules {#apply-creative-selection-rules}
 
 TVSDK applies creative selection rules in the following ways:
@@ -26,4 +26,3 @@ In Android 2.5 API docs, I see a
 <span class="codeph"> getValidMimeTypes</span>.
 
  -->
-

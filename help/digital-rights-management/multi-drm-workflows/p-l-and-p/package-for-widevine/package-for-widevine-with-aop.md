@@ -1,8 +1,8 @@
 ---
 description: Adobe Offline Packager takes as input unencrypted mp4 content.
 title: Package your content with Adobe Offline Packager
+exl-id: 4433d76a-57c0-41e6-b358-5408b0fe87e7
 ---
-
 # Package your content with Adobe Offline Packager{#package-your-content-with-adobe-offline-packager}
 
 Adobe Offline Packager takes as input unencrypted mp4 content.
@@ -31,4 +31,4 @@ Adobe Offline Packager takes as input unencrypted mp4 content.
       <encrypt_audio>false</encrypt_audio>
       </config>
 
-   Because certain Android devices — primarily Amazon Fire TV — do not support audio decryption, audio encryption is optional. 
+   Because certain Android devices — primarily Amazon Fire TV — do not support audio decryption, audio encryption is optional.

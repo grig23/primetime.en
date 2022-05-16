@@ -1,8 +1,8 @@
 ---
 description: These classes provide ways to process various types of information.
 title: Utility classes
+exl-id: 1fa56e72-02a8-47fd-af0d-917e046565f0
 ---
-
 # Utility classes {#utility-classes}
 
 These classes provide ways to process various types of information.

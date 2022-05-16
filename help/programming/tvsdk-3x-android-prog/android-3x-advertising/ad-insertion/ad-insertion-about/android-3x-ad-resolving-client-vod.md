@@ -1,8 +1,8 @@
 ---
 description: For video-on-demand (VOD) content, TVSDK inserts ad breaks by splicing the ads in the main content so that the timeline duration increases.
 title: Resolve and insert VOD ad
+exl-id: c8e1423c-5d53-452c-ad01-8335ccf42471
 ---
-
 # Resolve and insert VOD ads {#resolve-and-insert-vod-ad}
 
 For video-on-demand (VOD) content, TVSDK inserts ad breaks by splicing the ads in the main content so that the timeline duration increases.

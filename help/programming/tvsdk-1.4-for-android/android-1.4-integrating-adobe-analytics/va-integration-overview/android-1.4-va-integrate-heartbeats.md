@@ -1,8 +1,8 @@
 ---
 description: You can configure your player to track and analyze video use.
 title: Initialize and configure video analytics
+exl-id: 82013882-e314-44fd-82f2-0640575d3c68
 ---
-
 # Initialize and configure video analytics{#initialize-and-configure-video-analytics}
 
 You can configure your player to track and analyze video use.
@@ -24,7 +24,7 @@ Before activating video tracking (video heartbeats), ensure that you have the fo
   </tr> 
   <tr> 
    <td colname="col1"> Video analytics tracking server endpoint </td> 
-   <td colname="col2"> The URL of the video analytics back-end collection endpoint. This is where all video heartbeat tracking calls are sent. <p>Tip:  The URL of the visitor tracking server is the same as the URL of the analytics tracking server. For information about implementing the Visitor ID Service, see <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-setup-target.html" format="html" scope="external"> Implement ID Service </a>. </p> </td> 
+   <td colname="col2"> The URL of the video analytics back-end collection endpoint. This is where all video heartbeat tracking calls are sent. <p>Tip:  The URL of the visitor tracking server is the same as the URL of the analytics tracking server. For information about implementing the Visitor ID Service, see <a href="https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-target.html?lang=en" format="html" scope="external"> Implement ID Service </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Account name </td> 
@@ -83,7 +83,7 @@ To configure video tracking in your player:
    1. Compile and build your application.
    1. Deploy and run the bundled application.
    
-      For more information about these AppMeasurement settings, see [Measuring Video in Adobe Analytics](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/video/).   
+      For more information about these AppMeasurement settings, see [Measuring Video in Adobe Analytics](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en).   
 1. Initialize and configure video heartbeat tracking metadata.
 
    >[!IMPORTANT]
@@ -163,5 +163,4 @@ To configure video tracking in your player:
       if (_videoAnalyticsProvider) { 
          _videoAnalyticsProvider.trackVideoComplete();    
       }
-      ```   
-   
+      ```

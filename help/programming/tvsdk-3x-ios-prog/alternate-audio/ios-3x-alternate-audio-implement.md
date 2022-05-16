@@ -1,8 +1,8 @@
 ---
 description: Late-binding audio uses PTMediaPlayer to play a video that is specified in an M3U8 HLS playlist and that can contain several alternate audio streams.
 title: Access alternate audio tracks
+exl-id: c95e2bae-fcf3-4ae2-be11-fb3191b380f1
 ---
-
 # Access alternate audio tracks {#access-alternate-audio-tracks}
 
 Late-binding audio uses PTMediaPlayer to play a video that is specified in an M3U8 HLS playlist and that can contain several alternate audio streams.

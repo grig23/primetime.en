@@ -1,8 +1,8 @@
 ---
 description: In some cases, you need to know whether the media content is live or VOD.
 title: Identify whether the content is live or VOD
+exl-id: 180eb515-5bc1-4b32-babf-bcc640ebfa72
 ---
-
 # Identify whether the content is live or VOD{#identify-whether-the-content-is-live-or-vod}
 
 In some cases, you need to know whether the media content is live or VOD.
@@ -13,4 +13,3 @@ In some cases, you need to know whether the media content is live or VOD.
    ```
    function get isLive():Boolean;
    ```
-

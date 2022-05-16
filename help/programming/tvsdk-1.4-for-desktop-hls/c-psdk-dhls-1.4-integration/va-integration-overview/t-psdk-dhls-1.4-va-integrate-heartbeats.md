@@ -1,8 +1,8 @@
 ---
 description: You can configure your player to track and analyze video use.
 title: Initialize and configure video analytics
+exl-id: 58d560d1-f668-4e1d-a817-b2e02008fdbe
 ---
-
 # Initialize and configure video analytics{#initialize-and-configure-video-analytics}
 
 You can configure your player to track and analyze video use.
@@ -20,7 +20,7 @@ Before activating video tracking (video heartbeats), ensure that you have the fo
   </tr> 
   <tr> 
    <td colname="col1"> Video analytics tracking server endpoint </td> 
-   <td colname="col2"> The URL of the video analytics back-end collection endpoint. This is where all video heartbeat tracking calls are sent. <p>Tip:  The URL of the visitor tracking server is the same as the URL of the analytics tracking server. For information about implementing the Visitor ID Service, see <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-setup-target.html" format="html" scope="external"> Implement ID Service </a>. </p> </td> 
+   <td colname="col2"> The URL of the video analytics back-end collection endpoint. This is where all video heartbeat tracking calls are sent. <p>Tip:  The URL of the visitor tracking server is the same as the URL of the analytics tracking server. For information about implementing the Visitor ID Service, see <a href="https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-target.html?lang=en" format="html" scope="external"> Implement ID Service </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Account name </td> 
@@ -178,4 +178,3 @@ To configure video tracking in your player:
       >[!TIP]
       >
       >This API is optional and is not needed for VOD video tracking.
-

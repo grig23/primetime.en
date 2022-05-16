@@ -2,8 +2,8 @@
 title: BEES Error codes
 description: BEES Error codes
 copied-description: yes
+exl-id: 36c83ee9-7e28-442e-8076-691a1bd43a01
 ---
-
 # BEES Error codes {#bees-error-codes}
 
 <!--<a id="section_81946679E1114DBA9FE173D0AA9E2F09"></a>-->

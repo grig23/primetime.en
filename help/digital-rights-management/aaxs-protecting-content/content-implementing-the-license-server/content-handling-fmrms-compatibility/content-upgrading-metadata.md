@@ -2,8 +2,8 @@
 title: Upgrading metadata
 description: Upgrading metadata
 copied-description: yes
+exl-id: 04b3fb22-489e-41bb-95d0-99375f92fbae
 ---
-
 # Upgrading metadata{#upgrading-metadata}
 
 If an Adobe Access client encounters content packaged with Flash Media Rights Management Server 1.x, it will extract the encryption metadata from the content and send it to the server. The server will convert the FMRMS 1.x metadata into the Adobe Access format and send it back to the client. The client then sends the updated metadata in a standard Adobe Access license request.
@@ -21,4 +21,3 @@ To convert metadata, the server must perform the following steps:
 * Load the `SigningCredential`, which is the packager credential issued by Adobe used to sign encryption metadata. Get the `SignatureParameters` object by calling `MediaEncrypter.getSignatureParameters()` and fill in the signing credential. 
 * Call `MetaDataConverter.convertMetadata()` to obtain the `V2ContentMetaData`. 
 * Call `V2ContentMetaData.getBytes()` and store for future use, or call `FMRMSv1MetadataHandler.setUpdatedMetadata()`.
-

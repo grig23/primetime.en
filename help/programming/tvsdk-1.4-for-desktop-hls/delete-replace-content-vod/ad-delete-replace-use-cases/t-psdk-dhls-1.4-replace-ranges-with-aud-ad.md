@@ -2,8 +2,8 @@
 title: Replace time ranges with an Adobe Primetime ad decisioning ad
 description: Replace time ranges with an Adobe Primetime ad decisioning ad
 copied-description: yes
+exl-id: 263274b7-4602-4be0-b0ad-040f6f0f2fae
 ---
-
 # Replace time ranges with an Adobe Primetime ad decisioning ad{#replace-time-ranges-with-an-adobe-primetime-ad-decisioning-ad}
 
 Remove `TimeRanges` between the `begin` and `end` in `localTime` from the timeline. Replace it with an AdBreak of `begin` to `begin+replaceDuration`. 
@@ -64,4 +64,3 @@ Remove `TimeRanges` between the `begin` and `end` in `localTime` from the timeli
    }
    
    ```
-

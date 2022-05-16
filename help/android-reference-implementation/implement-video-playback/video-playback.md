@@ -1,8 +1,8 @@
 ---
 title: Essential operations of video playback
 description: The PlaybackManager provides essential operations of HLS streaming
+exl-id: b4d1b41a-7a16-47f5-be88-6b52f0451813
 ---
-
 # Essential operations of video playback {#essential-operations-of-video-playback}
 
 The PlaybackManager provides essential operations of HLS streaming:

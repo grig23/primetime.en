@@ -1,8 +1,8 @@
 ---
 description: 302 redirect optimization minimizes the number of 302 redirect responses, which allows your application to load balance more effectively.
 title: HTTP 302 redirect optimization
+exl-id: a238e90f-3aa1-486b-b57f-d543e4c94b2e
 ---
-
 # HTTP 302 redirect optimization {#http-redirect-optimization}
 
 302 redirect optimization minimizes the number of 302 redirect responses, which allows your application to load balance more effectively.

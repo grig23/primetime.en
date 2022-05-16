@@ -1,8 +1,8 @@
 ---
 description: When Browser TVSDK detects a subscribed tag in the playlist/manifest, the player automatically tries to process the tag and expose it as a TimedMetadata object.
 title: Timed metadata class
+exl-id: 893879b5-03ed-4c11-80a6-b57b7d54a95c
 ---
-
 # Timed metadata class{#timed-metadata-class}
 
 When Browser TVSDK detects a subscribed tag in the playlist/manifest, the player automatically tries to process the tag and expose it as a TimedMetadata object.
@@ -54,4 +54,3 @@ The `TimedMetadata` class provides the following elements:
   </tr> 
  </tbody> 
 </table>
-

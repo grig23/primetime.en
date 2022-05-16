@@ -2,8 +2,8 @@
 title: Configure SSL on your BEES server
 description: Configure SSL on your BEES server
 copied-description: yes
+exl-id: 6823a71c-3be6-4c07-a3e6-e16bd931deaf
 ---
-
 # Configure SSL on your BEES server {#configure-ssl-on-your-bees-server}
 
 1. Provide your server SSL certificate to your Adobe contact who supplied this software.

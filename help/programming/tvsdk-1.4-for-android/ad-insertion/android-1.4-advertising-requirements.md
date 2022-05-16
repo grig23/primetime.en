@@ -1,8 +1,8 @@
 ---
 description: You can insert ads in your VOD and live/linear content by using the Adobe Primetime ad decisioning interface.
 title: Advertising requirements
+exl-id: 2d3b3b24-7a6f-485c-b200-62a045294e66
 ---
-
 # Advertising requirements{#advertising-requirements}
 
 You can insert ads in your VOD and live/linear content by using the Adobe Primetime ad decisioning interface.
@@ -13,4 +13,3 @@ To incorporate ads in your video content, ensure that the advertising and main v
 
 * The advertising content's HLS version cannot be higher than the main content's HLS version. 
 * Ads do not have to be multiplexed (with no restrictions), regardless of whether the main content is multiplexed.
-

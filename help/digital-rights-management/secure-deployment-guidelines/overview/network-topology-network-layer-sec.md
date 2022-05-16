@@ -1,8 +1,8 @@
 ---
 description: Network security vulnerabilities are among the first threats to any Internet-facing or intranet-facing application server, and you must harden hosts on the network against these vulnerabilities.
 title: Network layer security
+exl-id: 0a45d18a-66aa-4ecc-8eaf-e2af599eb3b8
 ---
-
 # Network layer security{#network-layer-security}
 
 Network security vulnerabilities are among the first threats to any Internet-facing or intranet-facing application server, and you must harden hosts on the network against these vulnerabilities.
@@ -36,4 +36,3 @@ Here are some common techniques that reduce network security vulnerabilities:
   </tr> 
  </tbody> 
 </table>
-

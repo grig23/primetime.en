@@ -1,8 +1,8 @@
 ---
 description: You can use TVSDK to send arbitrary data in cookie headers for session management, gate access, and so on.
 title: Work with cookies
+exl-id: 7482777a-c338-4e0d-b123-ce2712657b8d
 ---
-
 # Work with cookies{#work-with-cookies}
 
 You can use TVSDK to send arbitrary data in cookie headers for session management, gate access, and so on.

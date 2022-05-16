@@ -1,8 +1,8 @@
 ---
 description: From the moment the MediaPlayer instance is created to the moment it is terminated, this instance transitions from one state to the next.
 title: Life cycle and states of the MediaPlayer object
+exl-id: 26cad982-ef85-42fb-aaa7-e5d494088766
 ---
-
 # Life cycle and states of the MediaPlayer object{#life-cycle-and-states-of-the-mediaplayer-object}
 
 From the moment the MediaPlayer instance is created to the moment it is terminated, this instance transitions from one state to the next.
@@ -76,4 +76,3 @@ function onStateChanged(state) {
 } 
 
 ```
-

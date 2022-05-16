@@ -1,8 +1,8 @@
 ---
 description: All video players must provide capabilities that the manifest server relies on to insert ads and to enable ad tracking.
 title: Video player requirements
+exl-id: 23134e4c-6902-4b97-bf15-4524f47850e7
 ---
-
 # Video player requirements {#video-player-requirements}
 
 All video players must provide capabilities that the manifest server relies on to insert ads and to enable ad tracking.

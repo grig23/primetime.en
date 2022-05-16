@@ -1,8 +1,8 @@
 ---
 description: 302 redirect optimization minimizes the number of 302 redirect responses, which allows your application to load balance more effectively.
 title: HTTP 302 redirect optimization
+exl-id: 9b9d98ae-a509-47dc-a5ac-6be9b0f214c1
 ---
-
 # HTTP 302 redirect optimization{#http-redirect-optimization}
 
 302 redirect optimization minimizes the number of 302 redirect responses, which allows your application to load balance more effectively.
@@ -43,4 +43,3 @@ var mediaResource = new MediaResource( url, MediaResourceType.HLS, result);
 // load the resource 
 mediaPlayer.replaceCurrentResource( mediaResource, mediaPlayerItemConfig );
 ```
-

@@ -2,8 +2,8 @@
 title: Handling certificate updates when Adobe-issued certificates expire
 description: Handling certificate updates when Adobe-issued certificates expire
 copied-description: yes
+exl-id: 9051a647-87ed-4df6-8bbc-bb5c112383ee
 ---
-
 # Handling certificate updates when Adobe-issued certificates expire{#handling-certificate-updates-when-adobe-issued-certificates-expire}
 
 You may need to obtain a new certificate from Adobe. For example, a production certificate expires when an evaluation certificate expires or when you switch from an evaluation to a production certificate. Whenever a certificate expires and you do not want to repackage the content that uses the old certificate, you can make the License Server aware of both the old and new certificates.
@@ -69,4 +69,3 @@ To update a server with new certificates:
 
         * In the reference implementation, set it with the `HandlerConfiguration.KeyServerCertificate` property. 
         * In the Primetime DRM Server for Protected Streaming, specify the Key Server's certificate in the through the Configuration/Tenant/Certificates/KeyServer element.
-

@@ -1,8 +1,8 @@
 ---
 description: The behavior of media playback is affected by seeking, pausing, and the inclusion of advertising.
 title: Default and customized playback behavior with ads
+exl-id: f4b2f317-c580-45a9-ad79-0cfa6c21848b
 ---
-
 # Default and customized playback behavior with ads {#default-and-customized-playback-behavior-with-ads}
 
 The behavior of media playback is affected by seeking, pausing, and the inclusion of advertising.

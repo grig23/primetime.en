@@ -1,8 +1,8 @@
 ---
 description: HLS and DASH streams provide different bit rate encodings (profiles) for the same short burst of video. TVSDK can select the quality level for each burst based on the available bandwidth.
 title: Adaptive bit rates (ABR) for video quality
+exl-id: d5bcce93-9bd1-45cf-a4c4-bec97476f560
 ---
-
 # Overview {#adaptive-bit-rates-abr-for-video-quality-overview}
 
 HLS and DASH streams provide different bit rate encodings (profiles) for the same short burst of video. TVSDK can select the quality level for each burst based on the available bandwidth.
@@ -59,4 +59,4 @@ For example, if a stream has the following profiles:
 
 If you specify a range of 300000 to 2000000, TVSDK considers only profiles 1, 2 and 3. This allows applications to adjust to various network conditions, such as switching from wi-fi to 3G or to various devices such as a phone, a tablet, or a desktop computer.
 
-To set ABR control parameters, set the parameters on the `ABRControlParameter` class. 
+To set ABR control parameters, set the parameters on the `ABRControlParameter` class.

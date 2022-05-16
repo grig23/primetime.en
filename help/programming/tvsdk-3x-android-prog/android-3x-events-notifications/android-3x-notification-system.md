@@ -1,8 +1,8 @@
 ---
 description: Events and notifications help you manage the asynchronous aspects of the video application.
 title: Notifications and events for player status, activity, errors, and logging
+exl-id: 39149c41-920b-4016-9f31-83e772f41cab
 ---
-
 # Notifications and events for player status, activity, errors, and logging {#notifications-and-events-for-player-status-activity-errors-and-logging}
 
 Events and notifications help you manage the asynchronous aspects of the video application.

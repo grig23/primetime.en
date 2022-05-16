@@ -2,8 +2,8 @@
 title: Generate the On Premises DRM Metadata
 description: Generate the On Premises DRM Metadata
 copied-description: yes
+exl-id: b42e3491-081b-45bf-bd00-8fb769a97446
 ---
-
 # Generate the On Premises DRM Metadata{#generate-the-on-premises-drm-metadata}
 
 A [!DNL CreateMetadata.jar] utility is included in the [!DNL create_metadata] folder. The point of this utility is to create an On Premises DRM Metadata that will initiate the client into performing the individualization process against the specified On Premises Individualization Server. 
@@ -33,4 +33,4 @@ java -jar libs/CreateMetadata.jar -c createMetadata.properties -indivCert i15n_t
 -indivURL https://[YOURINDIVSERVER:PORT] onpremdrm.metadata
 ```
 
-.  
+.

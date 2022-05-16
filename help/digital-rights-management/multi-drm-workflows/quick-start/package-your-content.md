@@ -1,8 +1,8 @@
 ---
 description: Packaging content is the process of preparing video content for playback over the web. Packaging includes transforming raw video into manifest files, and optionally encrypting the content using different DRM solutions for different devices and browsers.
 title: Package Your Content
+exl-id: d6f922d6-afec-4314-a01e-b951c1f8a7e8
 ---
-
 # Package Your Content {#package-your-content}
 
 Packaging content is the process of preparing video content for playback over the web. Packaging includes transforming raw video into manifest files, and optionally encrypting the content using different DRM solutions for different devices and browsers.
@@ -68,4 +68,3 @@ java -jar OfflinePackager.jar -conf_path widevine.xml -out_path test_dash/
 >[!NOTE]
 >
 >Command-line parameters take precedence over config file parameters. In this example, everything required is in the config file, but we have overridden the output path specified in the config file with `-out_path test_dash/`.
-

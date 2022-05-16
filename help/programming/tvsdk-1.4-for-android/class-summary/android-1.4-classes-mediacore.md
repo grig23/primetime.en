@@ -1,8 +1,8 @@
 ---
 description: You can use the Primetime Player API to customize the behavior of the player.
 title: Mediacore classes
+exl-id: fdbe9cd3-a5ca-4935-b9b3-8a6c04aed9ab
 ---
-
 # Mediacore classes {#mediacore-classes}
 
 You can use the Primetime Player API to customize the behavior of the player.

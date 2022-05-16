@@ -1,8 +1,8 @@
 ---
 description: Alternate audio uses MediaPlayer to play a video that is specified in an M3U8 HLS playlist and that can contain several alternate audio streams.
 title: Access alternate audio tracks
+exl-id: e5f5b943-4886-4884-80d2-225b5c7e3aed
 ---
-
 # Access alternate audio tracks {#access-alternate-audio-tracks}
 
 Alternate audio uses MediaPlayer to play a video that is specified in an M3U8 HLS playlist and that can contain several alternate audio streams.
@@ -24,4 +24,3 @@ Alternate audio uses MediaPlayer to play a video that is specified in an M3U8 HL
    ```java
    mediaPlayerItem.selectAudioTrack(audioTrack)
    ```
-

@@ -1,8 +1,8 @@
 ---
 description: For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
 title: Implementing an early ad break return
+exl-id: 584e870e-1408-41a9-bb6f-e82b921fe99e
 ---
-
 # Implementing an early ad break return{#implementing-an-early-ad-break-return}
 
 For live stream ad insertion, you might need to exit from an ad break before all the ads in the break are played to completion.
@@ -80,4 +80,3 @@ For example, here are two separate markers:
 #EXTINF:6.006000,no-desc
 /live/hls/nbc-fer/QualityLevels(2200000)/Fragments(video=14332589330665811,format=m3u8-aapl-v4)
 ```
-

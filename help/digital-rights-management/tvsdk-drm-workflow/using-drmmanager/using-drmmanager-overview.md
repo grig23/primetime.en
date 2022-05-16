@@ -2,8 +2,8 @@
 title: Using the DRMManager class overview
 description: Using the DRMManager class overview
 copied-description: yes
+exl-id: 941a69fb-3085-45d6-9176-08ebb93cada4
 ---
-
 # Using the DRMManager class {#using-the-drmmanager-class}
 
 Use the `DRMManager` class to manage licenses and Primetime DRM license server sessions in applications.

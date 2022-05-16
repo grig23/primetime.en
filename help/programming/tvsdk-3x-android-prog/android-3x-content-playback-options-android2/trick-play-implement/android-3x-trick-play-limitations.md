@@ -2,8 +2,8 @@
 title: Limitations and behavior for trick play
 description: Limitations and behavior for trick play
 copied-description: yes
+exl-id: 5acd91e6-6022-4365-be2b-e84f0a0a91d1
 ---
-
 # Limitations and behavior for trick play {#limitations-and-behavior-for-trick-play}
 
 <!--<a id="section_2BC43539C5C142E085D06A7E35C76726"></a>-->

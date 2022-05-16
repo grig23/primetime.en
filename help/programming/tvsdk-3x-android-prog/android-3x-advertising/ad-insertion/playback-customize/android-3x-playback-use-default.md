@@ -1,8 +1,8 @@
 ---
 description: You can choose to use default ad behaviors.
 title: Use the default playback behavior
+exl-id: 0ea3d2bb-b4d4-4090-ab5f-b6c31c1abe32
 ---
-
 # Use the default playback behavior {#use-the-default-playback-behavior}
 
 You can choose to use default ad behaviors.

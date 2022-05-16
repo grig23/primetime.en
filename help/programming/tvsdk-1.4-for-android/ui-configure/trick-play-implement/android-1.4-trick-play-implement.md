@@ -1,8 +1,8 @@
 ---
 description: When users fast forward or fast rewind through the media, they are in the trick play mode. To enter trick play mode, you need to set the MediaPlayer playback rate to a value other than 1.
 title: Implement fast forward and rewind
+exl-id: 58ed9a96-9617-4364-81d4-b404b23cf265
 ---
-
 # Overview {#implement-fast-forward-and-rewind-overview}
 
 When users fast forward or fast rewind through the media, they are in the trick play mode. To enter trick play mode, you need to set the MediaPlayer playback rate to a value other than 1.
@@ -48,5 +48,4 @@ To switch the speed, you must set one value.
     
     * `AdobePSDK.PSDKEventType.RATE_PLAYING` when playback resumes at the selected rate.
 
-       TVSDK dispatches both of these events when the player returns from trick-play mode to normal play mode. 
-    
+       TVSDK dispatches both of these events when the player returns from trick-play mode to normal play mode.

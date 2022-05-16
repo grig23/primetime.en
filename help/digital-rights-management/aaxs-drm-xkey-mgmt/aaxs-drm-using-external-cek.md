@@ -1,8 +1,8 @@
 ---
 description: Use the External CEK feature to vend and package licenses using your existing CKMS.
 title: Using External CEK to Vend and Package Licenses
+exl-id: 3944624a-099e-4fc0-b829-6ab154a53758
 ---
-
 # Using External CEK to Vend and Package Licenses{#using-external-cek-to-vend-and-package-licenses}
 
 Use the External CEK feature to vend and package licenses using your existing CKMS.

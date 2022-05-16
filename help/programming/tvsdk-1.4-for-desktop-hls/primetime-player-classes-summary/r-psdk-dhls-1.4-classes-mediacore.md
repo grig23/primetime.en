@@ -1,8 +1,8 @@
 ---
 description: You can use the Primetime Player API to customize the behavior of the player. These classes describe your media player and its resource.
 title: Mediacore classes
+exl-id: 8948484d-a48d-49b4-ac11-b68f1abaf706
 ---
-
 # Mediacore classes{#mediacore-classes}
 
 You can use the Primetime Player API to customize the behavior of the player. These classes describe your media player and its resource.
@@ -118,4 +118,3 @@ Package: [com.adobe.mediacore](https://help.adobe.com/en_US/primetime/api/psdk/a
   </tr> 
  </tbody> 
 </table>
-

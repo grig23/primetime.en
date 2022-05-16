@@ -1,8 +1,8 @@
 ---
 description: You can display the duration of the currently active content.
 title: Display the duration of the video
+exl-id: 4e31d784-4d16-470b-8317-11be32a55c2f
 ---
-
 # Display the duration of the video {#display-the-duration-of-the-video}
 
 You can display the duration of the currently active content.

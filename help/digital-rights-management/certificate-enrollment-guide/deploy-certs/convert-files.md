@@ -2,8 +2,8 @@
 title: Convert files
 description: Convert files
 copied-description: yes
+exl-id: 7344ca2f-5307-403b-a6fc-cbbea7c2829f
 ---
-
 # Convert files{#convert-files}
 
 Using a utility such as OpenSSL and the private key the Requester generates the PKCS#12 (pfx) and PEM/DER files by entering the following commands from a Command Window: 
@@ -55,4 +55,3 @@ Using a utility such as OpenSSL and the private key the Requester generates the 
    >[!NOTE]
    >
    >DER files are required only for the HTTP Dynamic Streaming packager.
-

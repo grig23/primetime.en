@@ -2,8 +2,8 @@
 title: Device capabilities required to play protected content
 description: Device capabilities required to play protected content
 copied-description: yes
+exl-id: 5f2089e9-3176-46a7-9998-2dad0e77e453
 ---
-
 # Device capabilities required to play protected content {#device-capabilities-required-to-play-protected-content}
 
 Specifies the hardware capabilities required to access content. Information about the hardware capabilities is available for devices that use the porting kit.
@@ -36,4 +36,3 @@ The device capabilities may be identified by the attributes specified in the fol
 >[!NOTE]
 >
 >This usage rule is supported by Adobe Access clients version 2.0.2 and higher. The behavior on older clients depends on the minimum client version supported by the license server. See, [Minimum Client Version](../../../../aaxs-protecting-content/content-setting-up-the-sdk/content-setting-up-the-dev-env.md).
-

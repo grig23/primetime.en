@@ -2,8 +2,8 @@
 title: Advertising requirements
 description: Advertising requirements
 copied-description: yes
+exl-id: 906f4910-396c-4909-8e22-119486ed13a0
 ---
-
 # Advertising requirements {#advertising-requirements}
 
 You can insert ads in your VOD and live/linear content by using the Adobe Primetime ad decisioning interface.

@@ -1,8 +1,8 @@
 ---
 description: Browser TVSDK dispatches events/notifications in generally expected sequences. Your player can implement actions based on events in the expected sequence.
 title: Order of playback events
+exl-id: fd9dc0d5-0f39-4a6d-9d88-1fd49946fedf
 ---
-
 # Order of playback events{#order-of-playback-events}
 
 Browser TVSDK dispatches events/notifications in generally expected sequences. Your player can implement actions based on events in the expected sequence.
@@ -93,4 +93,3 @@ onStatusChange = function (event) {
     } 
 };
 ```
-

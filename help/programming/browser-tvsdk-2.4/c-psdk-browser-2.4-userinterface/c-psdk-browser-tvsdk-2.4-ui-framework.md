@@ -1,8 +1,8 @@
 ---
 description: The UI framework is a UI layer on top of Browser TVSDK, which provides various video player-related UI constructs out of the box. You can create a highly customizable player by making the point changes that are appropriate for your environment.
 title: The UI Framework
+exl-id: 3175c74b-c08d-4a83-97e4-fe0a8dcf9d86
 ---
-
 # The UI Framework {#the-ui-framework}
 
 The UI framework is a UI layer on top of Browser TVSDK, which provides various video player-related UI constructs out of the box. You can create a highly customizable player by making the point changes that are appropriate for your environment.
@@ -794,4 +794,3 @@ Here is some additional reference information:
       Now `customBehavior` can use all of the methods that are exposed by `adBreakStyling`, which in this example, is `manageAdBreakStyle`. One additional use case is when a mixin can add event listeners, and in the handler, the mixin can modify the element in some way. Subsequently, the components that are using this mixin will automatically have this functionality. 
     
     * **Utils** Some utilities, such as `ptp.elementGetter`, which is used in configuration section and `ptp.deepmerge`, can help you write or extend behaviors. For more information, see the [UI Framework](https://help.adobe.com/en_US/primetime/api/psdk/btvsdk-ui-framework/index.html) API documentation.
-

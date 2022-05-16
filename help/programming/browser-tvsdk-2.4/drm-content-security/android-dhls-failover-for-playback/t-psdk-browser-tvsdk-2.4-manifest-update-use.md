@@ -1,8 +1,8 @@
 ---
 description: You can turn on this feature and check for related events.
 title: Use live master-manifest update
+exl-id: 02cb3116-cc30-4139-841b-8d6297214b8b
 ---
-
 # Use live master-manifest update{#use-live-master-manifest-update}
 
 You can turn on this feature and check for related events.

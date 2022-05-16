@@ -1,8 +1,8 @@
 ---
 description: The Widevine license token interface provides production and test services.
 title: Widevine license token request / response
+exl-id: f8d71f63-7783-44f9-8b1b-4b5646dca339
 ---
-
 # Widevine license token request / response {#widevine-license-token-request-response}
 
 The Widevine license token interface provides production and test services.

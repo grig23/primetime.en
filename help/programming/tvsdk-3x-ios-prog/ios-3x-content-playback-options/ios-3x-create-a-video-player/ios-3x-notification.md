@@ -1,8 +1,8 @@
 ---
 description: The player can listen for a range of events that indicate the state of the player.
 title: Set up notifications
+exl-id: 52039895-5529-4fc3-8e58-13309de12e80
 ---
-
 # Set up notifications {#set-up-notifications}
 
 The player can listen for a range of events that indicate the state of the player.
