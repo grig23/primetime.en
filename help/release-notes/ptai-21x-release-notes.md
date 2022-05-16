@@ -1,21 +1,56 @@
 ---
-title: PTAI 21.5.1 release notes
+title: PTAI 21.11.1 release notes
 description: The PTAI release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2021.
 exl-id: 39a05f6d-431a-4416-81b1-21d82c0dbd69
+
 ---
-# Primetime Ad Insertion 21.5.1 Release Notes
+# Primetime Ad Insertion 21.11.1 Release Notes
 
-Primetime Ad Insertion 21.x.x release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2021.
+Primetime Ad Insertion 21.xx.x release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2021.
 
-## What's new in PTAI 21.5.1
+## What's new in PTAI 21.11.1
+
+When:  Tuesday, November 9, 2021 from 1:30 AM to 04:30 AM Eastern Time
+
+* [!UICONTROL EXT-X-IMAGE-STREAM-INF] is now configurable per zone.
+
+* Roku Trick Play is fully supported.
+
+## Enhancements and fixes in previous release versions
+
+### Version 21.10.1
+
+When:  Tuesday, October 12, 2021 from 7:45 AM to 1:45 PM Eastern Time
+
+* Consolidated servers, removed non-production and non-useful servers.
+
+### Primetime Ad Insertion Maintenance release
+
+When: Tuesday, September 28, 2021 from 5:00 AM to 6:00 AM Eastern Time
+
+* Updates to Load Balancer stack from AWS's Elastic Load Balancer to AWS's Application Load Balancer for enhanced functionality and scalability. These Load Balancers are used to route ad request traffic to Auditude backend from the Ad Insertion layer (SSAI/CSAI).
+
+### Version 21.9.1
+
+When: Tuesday, September 7, 2021 from 02:30 AM to 05:30 AM Eastern Time
+
+* Updates to infrastructure components behind Primetime Ad Insertion’s mediation and reporting components (Primetime Ads GUI).
+
+### Version 21.8.1
+
+When: Tuesday, August 24, 2021 from 2:00 AM to 05:00 AM Eastern Time
+
+* Added support for DASH Live/ Linear streams (VOD is already supported).
+
+### Version 21.5.1
 
 When:  Wednesday, May 26, 2021 from 3:30 AM to 06:30 AM Eastern Time
+
+**Changes**
 
 * Added support for deprecated segmentation type 0x01 (UPID) for SCTE-based cue formats.
 
 * Added new telemetry for upcoming dashboard changes.
-
-## Enhancements and fixes in previous release versions
 
 ### Version 21.4.1
 

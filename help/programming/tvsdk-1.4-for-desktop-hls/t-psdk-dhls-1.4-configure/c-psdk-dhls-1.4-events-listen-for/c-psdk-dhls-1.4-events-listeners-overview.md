@@ -9,8 +9,6 @@ Event handlers allow TVSDK to respond to events. When an event occurs, TVSDK's e
 
 The Flash Runtime provides a generic events mechanism, which the TVSDK also uses and defines a series of custom events. Your application must implement event listeners for TVSDK events that affect your application.
 
-For a complete list of the events for video analytics, see [Track Core Video Playback](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/hbvideo/c_vhl_track-core-vid-playback.html). 
-
 1. Determine for which events your application must listen.
 
     * **Required events**: Listen for all playback events.     
