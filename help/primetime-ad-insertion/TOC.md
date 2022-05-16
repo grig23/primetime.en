@@ -8,8 +8,8 @@ user-guide-title: Primetime Ad Insertion Help
 
 + [Adobe Primetime Ad Insertion](home.md)
 + Primetime Ad Insertion Announcements{#announcements}
-  + [Announcements](announcements/overview.md) 
-  + [Release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/ptai/ptai-21x-release-notes.html) 
+  + [Announcements](announcements/overview.md)
+  + [Release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/ptai/ptai-21x-release-notes.html)
 + Get started with Primetime Ad Insertion{#get-started}
   + [Overview](getting-started/get-started-overview.md)
   + [Prepare to use Primetime Ad Insertion](getting-started/setup-ptai.md)
@@ -40,7 +40,8 @@ user-guide-title: Primetime Ad Insertion Help
   + [Key metrics and data dimensions](advanced-telemetry/key-metrics.md)
 + [Live event monitoring](live-event-monitoring.md)
 + Reference {#technical-reference}
-  + [API reference / Bootstrap API](technical-reference/bootstrap-api.md)
+  + [Bootstrap API](technical-reference/bootstrap-api.md)
+  + [Reports API](technical-reference/report-api.md)
   + Best practices{#best-practices}
     + [Overview](best-practices/best-practices-overview.md)
     + [Optimize video start-up times](best-practices/optimize-video-startup-time.md)

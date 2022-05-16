@@ -1,11 +1,11 @@
 ---
-description: The version of #EXT-X-VERSION in the .m3u8 file affects what features are available to your application and what EXT tags are valid in your playlist/manifest.
-title: #EXT-X-VERSION requirements
+description: The version of EXT-X-VERSION in the .m3u8 file affects what features are available to your application and what EXT tags are valid in your playlist/manifest.
+title: EXT-X-VERSION requirements
 exl-id: 1b7c205b-c6b1-416f-885a-d1cd23d8e803
 ---
-# #EXT-X-VERSION requirements{#ext-x-version-requirements}
+# EXT-X-VERSION requirements{#ext-x-version-requirements}
 
-The version of #EXT-X-VERSION in the .m3u8 file affects what features are available to your application and what EXT tags are valid in your playlist/manifest.
+The version of `#EXT-X-VERSION` in the .m3u8 file affects what features are available to your application and what EXT tags are valid in your playlist/manifest.
 
 <!--<a id="section_8850183988124049A001758F117AD3A6"></a>-->
 

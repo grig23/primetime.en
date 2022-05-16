@@ -8,25 +8,21 @@ exl-id: 29087a3e-f16e-4510-8d3a-ed2229700899
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-## Enhancements and fixes in PTAI 21.5.1
+## Enhancements and fixes in PTAI 22.2.2
 
-The release includes new telemetry for upcoming dashboard changes, and support for deprecated segmentation type 0x01 (UPID) for SCTE-based cue formats.
+This release focuses on capturing new ad performance events, such as ad creative calls, ad server calls and avail resolution events. These events will be exposed through the new Graphical User Interface of Primetime Ad Insertion in an upcoming release.
 
-For other fixes and details, see [Ad Insertion Release Notes](/help/release-notes/ptai-21x-release-notes.md)
+## Fixes in TVSDK 3.15 Android
+
+This release provides fix to an issue where application crashes when creative tag is missing or when [!UICONTROL url CDATA] is empty in [!UICONTROL VAST] response.
+
+For other fixes and details, see [Ad Insertion Release Notes](/help/release-notes/ptai-21x-release-notes.md).
 
 ## Enhancements and fixes in TVSDK 3.13 iOS
 
 The release introduces support for DEMUXED 'HLS/CMAF' (preroll, midroll, and postroll) ads for LIVE, VOD, and FER streams.
 
-For other fixes and details, see [TVSDK for iOS Release Notes](../release-notes/tvsdk-3x-ios.md)
-
-## Fixes in TVSDK 3.13 Android
-
-This release provides a workaround to the issue about the Widevine DRM stream freezing or showing black frames on ABR switch on FireTV devices, which include Fire TV 3rd generation Pendant and Fire TV Cube 1st and 2nd generation devices.
-
-To resolve the issue, set the API `MediaPlayer.flushVideoDecoderOnHeaderChange(true)` for the specified Fire TV devices before initiating playback. The default value is false.
-
-Check out the [TVSDK for Android Release Notes](../release-notes/tvsdk-3x-android.md) for more information.
+For other fixes and details, see [TVSDK for iOS Release Notes](../release-notes/tvsdk-3x-ios.md).
 
 ## See also
 
