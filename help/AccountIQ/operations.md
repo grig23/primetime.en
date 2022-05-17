@@ -41,4 +41,4 @@ To create an operation:
 refine-segment-operations.png)
         You can refine your default segment by adding more metrics. For example: you might want to add Sharing Score that is above 80 as another metric.
 
-        *   
+    
