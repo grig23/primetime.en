@@ -63,4 +63,8 @@ To create an operation:
 
     * **Schedule**
 
-        You can schedule the activation time for this 
+        You can schedule the activation time for the particular operation by setting their start and end date and time.
+
+        >[!NOTE]
+        >
+        >Duration of the time you set (using start and end dates) for activating an operation, it should be equal to the granularity you select.
