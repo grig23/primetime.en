@@ -6,6 +6,7 @@ description: How to create an operation that affects and tracks a defined segmen
 # How to create operation to track a user segment? {#operation-to-track-segment}
 
 Each reports page on Account IQ has a **Create new operation** option to help you create certain workflows, define the sample of user groups on which they will act, and schedule their activation to a later date.
+
 The **create new operations** page helps you automate certain actions you want to perform on a user group and analyze the effects of those actions.
 
 To create an operation:
