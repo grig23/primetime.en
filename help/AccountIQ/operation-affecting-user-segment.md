@@ -47,6 +47,10 @@ To create an operation:
 
         By doing this, the user group becomes even small. So, on adding more **description and tags**, you are additionally qualifying the segment to define your sample to operate on.
 
+**Segment Type**
+
+Fixed versus variable is the way the ......treated in fixed or variable way.
+
     * **Action**
 
         The **Action** defines what operations you can perform on the defined segment.
