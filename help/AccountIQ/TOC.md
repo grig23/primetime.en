@@ -19,7 +19,7 @@ audience: end-user
 + Account IQ How Tos {#use-aiq}
   + View account sharing reports {#view-account-sharing-reports}
     + [Reports for a specific MVPD and programmer](/help/AccountIQ/reports-for-specific-mvpds.md)
-    + [Reports for multiple MVPDs and multiple channels](/help/AccountIQ/multiple-mvpd-prog-rep.md)
+    <!--+ [Reports for multiple MVPDs and multiple channels](/help/AccountIQ/multiple-mvpd-prog-rep.md)-->
     + [Reports for top 10 MVPDs](/help/AccountIQ/top-10-mvpd-reports.md)
     + [Isolation Mode and sharing behavior](/help/AccountIQ/isolation-mode.md)
   + [View account statistics for a cohort](/help/AccountIQ/cohort-statistics.md)
