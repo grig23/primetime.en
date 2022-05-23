@@ -31,7 +31,7 @@ The bar chart plots number of accounts on y-axis for various categories of shari
 
 The red line marks the range of threshold, and can be adjusted in the bar chart. The threshold adjusted in the bar chart reflects in the threshold range in donut chart.
 
-![](assets/shared-accounts-rep.gif)
+<!--![](assets/shared-accounts-rep.gif)-->
 
 ### Accounts over threshold in current segment{#threshold-selector}
 
@@ -57,7 +57,7 @@ The donut chart shows the percentage (and number) of play requests made by subsc
 
 When you move cursor on the donut chart, it also shows subscriber percentages and numbers from various probability ranges.
 
-![](assets/play-request-total.gif)
+<!--![](assets/play-request-total.gif)-->
 
 ## Segment-Average Number of Devices Per Account{#avg-devices-account}
 
@@ -75,7 +75,7 @@ This graph informs you about the number of subscribers that are consuming conten
 
 You can zoom in to narrow down and view specifics of a bar in the graph that plots a range of locations.
 
-![](assets/zip-code-period.gif)
+<!--![](assets/zip-code-period.gif)-->
 
 ## Segment - Geographical Span / Period / Account {#geo-span-period-account}
 
@@ -91,4 +91,4 @@ Based on points on the map.-->
 
 When you select a bar representing a range of geographical distance, it expands the range to show you more details.
 
-![](assets/geo-span-period-acc.gif)
+<!--![](assets/geo-span-period-acc.gif)-->
