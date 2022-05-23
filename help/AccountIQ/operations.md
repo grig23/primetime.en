@@ -5,7 +5,11 @@ description: Integrating with Concurrency Monitoring to take remedial actions to
 
 # Operations {#operations-tab-next-steps}
 
-When you select the Operations tab under Actions, Operations page is displayed which lists all the Operations that are currently running in the Account IQ system.
+The **Operations** tab under **Actions**, in left navigation pane of Account IQ, lists all the existing operations and their details.
+
+![](assets/operations-page.png)
+
+created in Operations page is displayed which lists all the Operations that are currently running in the Account IQ system.
 
 It has already created operations.
 List of multiple operations that are created in the Account IQ.

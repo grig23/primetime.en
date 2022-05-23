@@ -129,22 +129,6 @@ The numbers in this column are identifiers that map to one of the 14 patterns th
 
 {style="table-layout:auto"}
 
-.................................................
-| ID          | User details                    |
-|-------------|---------------------------------|
-|     1       |     Regular user                |
-|     2       |     Traveller or   commuter     |
-|     3       |     Large family                |
-|     4       |     Close family   & friends    |
-|     5       |     Social group   sharing      |
-|     6       |     Large group of   friends    |
-|     7       |     Concurrent   streaming      |
-|     8       |     Community   sharing         |
-|     9-11    |     Uncertain   behavior        |
-|     12      |     Small family                |
-|     13      |     Second home                 |
-|     14      |     Abnormal usage              |
-
 **Sharing Probability**
 
 Sharing probability is the probability that the specific account is sharing its credentials.

@@ -10,6 +10,14 @@ Refer the following product terminologies and their definitions.
 
 A dashboard panel with charts that divides the current segments sharing scores into sharing range categories of Very Low, Low, Moderate, High, and Very High.
 
+## Action {#action-def}
+
+A direct or indirect event associated with an [Operation](#operation-def) that affects the characteristics (for example, Sharing score or number of devices in use) of a related operation segment (or cohort).
+
+## Aggregated sharing score {#sharing-probability-level-def}
+
+A dashboard panel with charts that divides the current segments sharing scores into sharing range categories of Very Low, Low, Moderate, High, and Very High, along with each categories percentage of the total amount of streaming for the segment.
+
 ## AuthN {#authn-def}
 
 Authentication, or the number of authentication attempts. An authentication attempt is the process whereby a user without a currently valid authentication state is redirected to their chosen MVPD, where they identify themselves to the MVPD - typically with a username and password.
@@ -95,6 +103,10 @@ A device that has high mobility. For example, mobile phone, and tablet.
 
 MVPD, also known as Distributor, is aggregator, reseller, and distributor of Media Company video content.
 
+## Operation {#operation-def}
+
+Operation is a record created to track the effect of a particular [action](#action-def) on an associated segment. An example of an action can be a limit placed on the number of concurrent streams allowed for accounts identified by the segment.
+
 ## Overall sharing score {#overall-sharing-score}
 
 A value that helps users understand the magnitude of password sharing on Programmer properties or by MVPD subscribers and provide them a sense of urgency to act upon it.
@@ -132,10 +144,6 @@ Segment is a set of accounts that meet the user defined conditions specified by 
 ## Sharing level {#sharing-level-def}
 
 Also known as Risk Index - Accounts or Shared Accounts Risk Index, it is a value calculated based on an average of the sharing probability computed for every account in the set of selected MVPDs that has streamed from a one of the selected Programmer Channels during the selected time frame.
-
-## Sharing Probability Level {#sharing-probability-level-def}
-
-A dashboard panel with charts that divides the current segments sharing scores into sharing range categories of Very Low, Low, Moderate, High, and Very High, along with each categories percentage of the total amount of streaming for the segment.
 
 ## Static device {#static-device-def}
 

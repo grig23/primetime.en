@@ -145,7 +145,7 @@ Also, the Start date must be later than the evaluation period and also later tha
 
 ### Save the operation{#save-operation}
 
-When you save the operation, a message screen is displayed that informs you that the segment you defined in this operation is saved for future. However, you need to name this segment.
+When you save the operation, a message screen is displayed that informs you that the segment you defined in this operation is saved also for future. However, you need to name this segment.
 
 ![](assets/save-operation.png)
 
