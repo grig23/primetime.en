@@ -61,6 +61,7 @@ To view the list and reports for top ten MVPDs by sharing score for your channel
 
 1. Select a reports page from either of the [General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](/help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
 
+
     ![](assets/top-10-selection.png)
 
 ## Top 10 MVPDs by usage {#top-10mvpds-usage}
