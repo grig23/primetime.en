@@ -27,7 +27,7 @@ To view reports in Account IQ, once you have successfully logged in to the appli
 
        ![Time frame](assets/time-frame.png)
 
-1. Select a desired reports page from the left navigation-[General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
+1. Select a desired reports page from the left navigation-[General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](/help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
 
    ![report for specific MVPD](assets/report-forspecific-MVPD.png)
 
@@ -41,6 +41,6 @@ To view reports in Account IQ, once you have successfully logged in to the appli
 
  1. From the **Granularity and time frame** option, select the time interval to view reports. You can aggregate the time intervals week-wise or month-wise.
 
-1. Select a desired reports page from the left navigation-[General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
+1. Select a desired reports page from the left navigation-[General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](/help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
 
 ![reports for specific programmer](assets/report-forspecific-programmer.png)

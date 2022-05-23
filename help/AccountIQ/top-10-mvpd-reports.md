@@ -59,7 +59,7 @@ To view the list and reports for top ten MVPDs by sharing score for your channel
 
    The names of the MVPDs and Programmer Channels are displayed under the segment selectors. You can use **Clear selection** option to refresh the selection to default.
 
-1. Select a reports page from either of the [General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
+1. Select a reports page from either of the [General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](/help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
 
     ![](assets/top-10-selection.png)
 
@@ -89,7 +89,7 @@ To view the list and reports for top ten MVPDs by sharing score for your channel
 
    The names of the MVPDs and Programmer Channels are displayed under the segment selectors. You can use **Clear selection** option to refresh the selection to default.
 
-1. Select a reports page from either of the [General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
+1. Select a reports page from either of the [General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](/help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
 
 ## Top 10 MVPDs by accounts {#top-10mvpds-accounts}
 
@@ -116,4 +116,4 @@ To view the list and reports for top ten MVPDs by number of accounts that are sh
       * Select a timeframe by selecting a month or a week based on the granularity you have set.
     The names of the MVPDs and Programmer Channels are displayed under the segment selectors. You can use **Clear selection** option to refresh the selection to default.
 
-1. Select a reports page from either of the [General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
+1. Select a reports page from either of the [General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](/help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
