@@ -73,6 +73,7 @@ By doing this, the user group becomes even small. So, on adding more **descripti
 Segment Type is the way in which a segment is treated throughout the operation's evaluation period.
 
 ![](assets/segment-type.png)
+*Figure: Fix the number of segments to operate on using Segment type option*
 
 The segment type option allows you to further refine your segment based on the evaluation period (or time).
 
@@ -148,12 +149,16 @@ When you save the operation, a message screen is displayed that informs you that
 
 ![](assets/save-operation.png)
 
-[!NOTE]
-Best practice is to name your operation both based on the action you are going to take in combination with  the segment you are going to act on.
+**Figure: Save operation and specify segment name**
+
+>[!NOTE]
+>
+>It is advised to name your operation based on the action you are taking in combination with the segment you will act on.
 
 In future you can select this saved segment when defining a segment for your analysis on the main reports page. Moreover, the saved segment is also listed when you create an operation the next time.
 
 ![](assets/saved-segment-operations-page.png)
+*Figure: Saved segments in segment selector on Create new operations page*
 
 >[!IMPORTANT]
 >
@@ -163,6 +168,7 @@ In future you can select this saved segment when defining a segment for your ana
 
 Once you have created an operation, it will run for the start dates and end dates that you have mentioned.
 
-The details of your saved operation can be seen on the [Operations page](/help/AccountIQ/operations.md) within ACTIONS in Account IQ.
+The details of your saved operation can be seen on the [Operations page](/help/AccountIQ/operations.md).
 
 ![](assets/saved-operation-on-pg.png)
+*Figure: Newly created operation*
