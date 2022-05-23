@@ -7,7 +7,7 @@ description: The Dashboard helps to pinpoint the instances of password sharing b
 
 The Dashboard summarizes and aggregates data in a collection of graphs and reports designed to give a high level overview of the scope and impact of account sharing. It provides a single page containing the major reports and metrics from Account IQ.
 
-![dashboard of account IQ](assets/Dashboard-capture.png)
+![dashboard of account IQ](assets/dashboard-capture.png)
 
 ## Aggregated Sharing Score {#aggregated-sharing}
 
@@ -27,11 +27,13 @@ A value calculated based on an average of the sharing probability computed for e
 
 ![](assets/sharing-level.png)
 
-The Trend indicator shows the percentage change in the value of the metric in from the previous time frame. 
+The Trend indicator shows the percentage change in the value of the metric in from the previous time frame.
 
 **Usage from shared accounts**
 
-This gauge informs about the usage in percentage from the shared accounts in the defined segment. 
+This gauge informs that what percent of the usage of all the subscriber accounts is from the shared accounts, in the defined segment in a time period. The gauge marks the ranges of usage (from shared accounts) on the scale of 0 to 100%. These ranges—named Low, Medium, High, and Abnormal—are based on the industry average.
+
+You can also see the Trend indicator, which depicts a dip or plunge in the usage from shared accounts as compared to the previous time frame.
 
 ![](assets/usage-4mshared-accounts.png)
 
@@ -44,7 +46,7 @@ This gauge informs about the usage in percentage from the shared accounts in the
 
 It is a table of risk indices and accounts totals for the top MVPDs ranked by overall usage or account sharing.
 
-![](assets/MVPDs-in-segment.png)
+![](assets/mvpds-in-segment.png)
 
 ### Top MVPDs based on sharing scores {#top-mvpds}
 

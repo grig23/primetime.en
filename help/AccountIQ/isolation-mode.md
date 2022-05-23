@@ -7,14 +7,13 @@ description: View reports in isolation mode for Xfinity.
 
 In Isolation Mode, the MVPDs (such as, Xfinity) identify their subscribers differently, based on the programmers they interact with. Whereas in Standard mode, MVPDs consistently identify subscribers across devices, irrespective of the programmers.
 
-For example, in the following image if a Subscriber B of an Isolation Mode MVPD (such as, Xfinity) accesses (watches) the content offered by two different programmers using the same device, then the MVPD will associate different identifiers with the two different access attempts. So, to that MVPD (such as, Xfinity) it seems that there are two different subscribers accessing the content using their devices. However, for Standard MVPD if Subscriber
-B accesses content content offered by two different programmers (using the same device) then the MVPD will associate a single access identifier with the two access attempts. Therefore, MVPDs (such as, Xfinity) in Isolation Mode do not consistently identify a subscriber even if the subscriber is using same device across different programmers.
+For example, in the following image if a Subscriber B of an Isolation Mode MVPD (such as, Xfinity) accesses (watches) the content offered by two different programmers using the same device, then the MVPD will associate different identifiers with the two different access attempts. So, to those Programmers (L and M in the figure) it seems that there are two different subscribers accessing the content using their devices. However for Standard MVPD, if Subscriber B accesses content offered by two different programmers (using the same device) then the MVPD will associate a single access identifier with the two access attempts. MVPDs (such as, Xfinity) in Isolation Mode do not consistently identify a subscriber even if the subscriber is using same device across different programmers.
 
 ![](assets/isolation-diff-new.png)
 
 *Figure: Isolation Mode MVPD identifies four different subscribers instead of two*
 
-To manage the distortion of data (due to identifying the same subscriber as different based on accessing different programmers), Isolation Mode limits the activity reported about a Programmer to the activity only on that Programmer’s applications. For example, in the above image in Isolation Mode Programmer L sees two different users in both the cases; users with identity R and S for the Standard MVPD, and users with identity W and Y for the Isolation Mode MVPD.
+To manage the distortion of data (due to identifying the same subscriber as different based on accessing different programmers), Isolation Mode limits the activity reported about a Programmer to the activity only on that Programmer’s applications. **For example, in the above image in Isolation Mode Programmer L sees two different users in both the cases; users with identity R and S for the Standard MVPD, and users with identity W and Y for the Isolation Mode MVPD.**
 
 >[!IMPORTANT]
 >

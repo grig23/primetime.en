@@ -3,7 +3,7 @@ title: How to view reports for top 10 MVPDs by programmer persona.
 description: View reports for top 10 MVPDs.
 ---
 
-# How to view reports for top 10 MVPDs {#view-top-10-mvpd-reports}
+# How to view reports for top 10 MVPDs <!--and Programmers--> {#view-top-10-mvpd-reports}
 
 Account IQ has capabilities to make you view and analyze account sharing statistics for top 10 of your MVPDs (in a defined [segment](/help/AccountIQ/product-concepts.md#segmet-def)) having:
 
@@ -41,21 +41,27 @@ To view the list and reports for top ten MVPDs by sharing score for your channel
 
 1. In the segments panel:
 
-   1. From the **MVPDs in segment** option, deselect **All** and select **Top 10 MVPDs by sharing score**.
+   1. From the **MVPDs in segment** option, select **Top 10 MVPDs by sharing score**, and select **Apply selection**.
 
-   1. From the **Channels in Segment** option, deselect **All** and select the desired channels.
+   1. From the **Channels in Segment** option, select the desired programmers channels.
 
-     >[!NOTE]
-     >
-     >In the **Channels in Segment** option, the top level list items are Programmers and the next level list items are channels under them.
+      By default **All** are selected. To select a specific channel, deselect **All** and select the desired programmers channels.
+
+      >[!NOTE]
+      >
+      >In the **Channels in Segment** option, the top level list items are Programmers and the next level list items are channels under them.
 
    1. Select a time frame from the **Granularity and time frame** option by selecting the calendar picker.
 
-      * Define granularity by using **Aggregated By** option. Either use Month or Week to define a time frame.
+      * Define granularity by using **Aggregated By** option. Either use **Month** or **Week** to define a time frame.
 
-      * Select a timeframe by selecting a month or a week based on the granularity you have set.
+      * Select a timeframe by selecting either a month or a week based on the granularity you have set.
 
-1. Select a page to view reports for the defined segment.
+   The names of the MVPDs and Programmer Channels are displayed under the segment selectors. You can use **Clear selection** option to refresh the selection to default.
+
+1. Select a reports page from either of the [General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
+
+    ![](assets/top-10-selection.png)
 
 ## Top 10 MVPDs by usage {#top-10mvpds-usage}
 
@@ -65,21 +71,25 @@ To view the list and reports for top ten MVPDs by sharing score for your channel
 
 1. In the segments panel:
 
-   1. From the **MVPDs in segment** option, deselect **All** and select **Top 10 MVPDs by sharing score**.
+   1. From the **MVPDs in segment** option, select **Top 10 MVPDs by sharing score**, and select **Apply selection**.
 
-   1. From the **Channels in Segment** option, deselect **All** and select the desired channels.
+   1. From the **Channels in Segment** option, select the desired programmers channels.
 
-     >[!NOTE]
-     >
-     >In the **Channels in Segment** option, the top level list items are Programmers and the next level list items are channels under them.
+      By default **All** are selected. To select a specific channel, deselect **All** and select the desired programmers channels.
+
+      >[!NOTE]
+      >
+      >In the **Channels in Segment** option, the top level list items are Programmers and the next level list items are channels under them.
 
    1. Select a time frame from the **Granularity and time frame** option by selecting the calendar picker.
 
-      * Define granularity by using **Aggregated By** option. Either use Month or Week to define a time frame.
+      * Define granularity by using **Aggregated By** option. Either use **Month** or **Week** to define a time frame.
 
       * Select a timeframe by selecting a month or a week based on the granularity you have set.
 
-1. Select a page to view reports for the defined segment.
+   The names of the MVPDs and Programmer Channels are displayed under the segment selectors. You can use **Clear selection** option to refresh the selection to default.
+
+1. Select a reports page from either of the [General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
 
 ## Top 10 MVPDs by accounts {#top-10mvpds-accounts}
 
@@ -89,18 +99,21 @@ To view the list and reports for top ten MVPDs by number of accounts that are sh
 
 1. In the segments panel:
 
-   1. From the **MVPDs in segment** option, deselect **All** and select **Top 10 MVPDs by sharing score**.
+   1. From the **MVPDs in segment** option, select **Top 10 MVPDs by sharing score**, and select **Apply selection**.
 
-   1. From the **Channels in Segment** option, deselect **All** and select the desired channels.
+   1. From the **Channels in Segment** option, select the desired programmers channels.
 
-     >[!NOTE]
-     >
-     >In the **Channels in Segment** option, the top level list items are Programmers and the next level list items are channels under them.
+      By default **All** are selected. To select a specific channel, deselect **All** and select the desired programmers channels.
+
+      >[!NOTE]
+      >
+      >In the **Channels in Segment** option, the top level list items are Programmers and the next level list items are channels under them.
 
    1. Select a time frame from the **Granularity and time frame** option by selecting the calendar picker.
 
-      * Define granularity by using **Aggregated By** option. Either use Month or Week to define a time frame.
+      * Define granularity by using **Aggregated By** option. Either use **Month** or **Week** to define a time frame.
 
       * Select a timeframe by selecting a month or a week based on the granularity you have set.
+    The names of the MVPDs and Programmer Channels are displayed under the segment selectors. You can use **Clear selection** option to refresh the selection to default.
 
-2. Select a page to view reports for the defined segment.
+1. Select a reports page from either of the [General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
