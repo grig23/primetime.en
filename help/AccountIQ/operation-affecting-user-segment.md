@@ -116,7 +116,6 @@ the......will vary from period to period.
 
 if not fixed segment, then I won't initially evaluate or have initial set of 5000, instead at every period during an operation and the.-->
 
-
 ## Action{#action}
 
 The **Action** defines what operations you can perform on the defined segment.

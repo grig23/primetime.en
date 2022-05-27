@@ -7,11 +7,29 @@ description: Answers to frequently asked customer questions.
 
 1. Who is the Account IQ designed for?
 
-Answer. The account IQ is designed to serve Programmers and MVPDs. However, the versions are different for both the users different rights to the underlying data and different motivations.
+**Answer.** The account IQ is designed to serve Programmers and MVPDs. However, the versions are different for both the users different rights to the underlying data and different motivations.
+
+Q: How far goes the data , in the back? One year, couple of months?
+A:
+Q: How often is the data updated?
+A:
+Q: Is it possible to filter out the test accounts?
+A:
+
+
+
+
+
+
+Q: Can I see the account sharing per each of my channels? (coming from NBCU & ESPN)
+A:
+
+Q – What is the data source?
+R - Both programmer and MVPD / Todd explained that we have a 95% of the market and we can track all details about a specific account (from MVPD data, through user metadata, to programmer data - devices, IPs)
 
 1. What is the source of the data in Account IQ?
 
-Answer. Adobe Pass and Adobe Authentication sit in the middle of all TV Everywhere transactions between Programmers and MVPDs. From there, we synthesize higher level analytics data of account sharing scores.
+    Answer. Adobe Pass and Adobe Authentication sit in the middle of all TV Everywhere transactions between Programmers and MVPDs. From there, we synthesize higher level analytics data of account sharing scores.
 
 1. What is the industry average?
 
