@@ -5,14 +5,14 @@ description: Read on to understand how to better use the Account IQ tool.
 
 # Best Practices {#aiq-best-practices}
 
-### Analyse and understand {#analyse-understand}
+## Analyse and understand {#analyse-understand}
 
 * Understand nature and impact of sharing on your business
 * Access all relevant data
 Analyze sharing in the context of your objectives
 * Identify patterns and behavior to target
 
-### Incremental targeted action {#incremental-targeted-action}
+## Incremental targeted action {#incremental-targeted-action}
 
 * Take incremental targeted action based on new level of understanding
 * Align enterprise stakeholders to update strategy
@@ -21,11 +21,11 @@ Analyze sharing in the context of your objectives
 * Mitigate sharing limiting access to obvious moochers
 * Simplify access and enhance the user experience for good customers
 
-### Track and measure impact {#track-measure-impact}
+## Track and measure impact {#track-measure-impact}
 
 Measure the effect of actions taken[CF1]
 
-### Improve and repeat {#improve-repeat}
+## Improve and repeat {#improve-repeat}
 
 Repeat[CF2]
 
