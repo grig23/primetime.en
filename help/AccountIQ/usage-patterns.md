@@ -37,7 +37,6 @@ For example, in the above image:
 
 ## Usage pattern distribution for MVPDs {#usage-pattern-dis-mvpd}
 
-The **Usage pattern distribution for MVPDs** table 
+The **Usage pattern distribution for MVPDs** table
 ![](assets/usage-patterns-mvpdwise.png)
-
 

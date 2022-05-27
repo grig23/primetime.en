@@ -29,7 +29,7 @@ A value calculated based on an average of the sharing probability computed for e
 
 The Trend indicator shows the percentage change in the value of the metric in from the previous time frame.
 
-**Usage from shared accounts**
+### Usage from shared account {#usage-from-shared-accounts}
 
 This gauge informs that what percent of the usage of all the subscriber accounts is from the shared accounts, in the defined segment in a time period. The gauge marks the ranges of usage (from shared accounts) on the scale of 0 to 100%. These ranges—named Low, Medium, High, and Abnormal—are based on the industry average.
 
@@ -37,8 +37,7 @@ You can also see the Trend indicator, which depicts a dip or plunge in the usage
 
 ![](assets/usage-4mshared-accounts.png)
 
-
-**Overall sharing score**
+### Overall sharing score {#overall-sharing-score}
 
 ![](assets/overall-sharing-score.png)
 
