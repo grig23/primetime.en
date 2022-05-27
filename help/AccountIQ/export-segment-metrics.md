@@ -1,6 +1,6 @@
 ---
-title: View account statistics for a cohort
-description: iew account statistics for a particular cohort
+title: Export metrics for MVPDs and channels in a segment
+description: Export metrics for MVPDs and channels in a segment
 ---
 
-# View account statistics for a cohort {#cohort-statistics}
+# Export metrics for MVPDs and channels in a segment {#export-metric}
