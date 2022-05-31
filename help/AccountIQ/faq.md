@@ -15,7 +15,7 @@ description: Answers to frequently asked customer questions.
 
 1. How often is the data updated?
 
-   **Answer.** Weekly and monthly.
+   **Answer.** The data in Account IQ is updated on weekly and monthly basis.
 
 1. Is it possible to filter out the test accounts?
 
@@ -23,7 +23,7 @@ description: Answers to frequently asked customer questions.
 
 1. Can I see the account sharing for each of my channels?
 
-   **Answer.** Yes.
+   **Answer.** Yes, you can see account sharing for individual channels, a group of channels, or entire networks (for example, programmers).
 
 1. What is the data source used to identify credential sharing?
 
@@ -33,17 +33,17 @@ description: Answers to frequently asked customer questions.
 
    **Answer.** Industry average is reflected in the three primary sharing indicators—Sharing level, Usage from shared accounts, and Overall sharing score. These values represent the averages of all subscribers for all services.
 
+1. Is AccountIQ an enforcement tool? If not, how do we use it to stop sharing?
+
+   **Answer.** AIQ uses powerful analytics to provide insights. However, those insights can drive unlimited actions though integrations with Adobe products, such as Concurrency Monitoring, or your enterprise tools.
+
 1. How effective is Concurrency Monitoring in mitigating sharing in industry?
 
-   **Answer.** Account IQ and Concurrency Monitoring detect different modes of sharing and are complimentary. Account IQ can be used with Concurrency Monitoring to measure the effect of Concurrency Monitoring, but that will take time and we will follow up.
-
-1. Considering that it is not an enforcement tool, if we have insights then how do we use it to stop sharing?
-
-   **Answer.** We plan to leverage Snapshots as a way to track the effect of whatever action you take. Then when we create a Concurrency Monitoring rule base on some sharing profile, we’ll be able to track the effect.
+   **Answer.** Account IQ and Concurrency Monitoring detect different modes of sharing and are complimentary. CM is excellent at preventing sharing that occurs simultaneously. It's therefore most effective during primetime viewing or for live events, such as sports. On the other hand, Account IQ looks at a broad set of historical data and therefore detects sharing that is not necessarily simultaneous. These two services can be combined for even more effective solution.  
 
 1. Can we identify particular accounts?
 
-   **Answer.** Yes, we can provide the MVPD provided IDs back to them. We would like to provide that in real time.
+   **Answer.** Yes, we can provide the list of Accounts from any segment along with their sharing metrics and characteristics.
 
 1. How similar are Account IQ’s results to MVPDs who have built similar systems for themselves?
 
