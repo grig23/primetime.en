@@ -5,9 +5,9 @@ description: Known issues in the product.
 
 # Known issues and limitations {#known-issues}
 
-Adobe strives to offer great and seamless user experiences through its offerings. The version 1 of Account IQ provides usage and subscription sharing analytics to streaming providers with high degree of confidence. However, following limitations will be addressed in upcoming release versions.
+Adobe strives to offer robust functionality and seamless user experiences through its offerings. The current version (version 1.0) of Account IQ provides usage and subscription sharing analytics to streaming providers with high degree of confidence. However, following limitations will be addressed in upcoming release versions.
 
-* When defining [cohorts](/help/AccountIQ/segments-timeframe.md), there isn't an option to specify and add more metrics, as of now, to refine these cohorts or segments.
+* When you are defining a new [segment](/help/AccountIQ/segments-timeframe.md) for an operation you can add metrics. However,  there isn't an option to specify and add more metrics, as of now, to refine these cohorts or segments.
 
 * When estimating sharing scores for individual accounts, Adobe enables companies to act on sharing with great degree of confidence. However, the Account IQ underestimates the total amount of sharing when trying to pull other industry averages.
 
@@ -30,3 +30,5 @@ Adobe strives to offer great and seamless user experiences through its offerings
 * You can only [schedule](/help/AccountIQ/operation-affecting-user-segment.md#action) operations for a later date, and there is a limit to start and stop the operation.
 
 * The Isolation mode does not truly reflect the amount of sharing. Therefore, MVPD in Isolation mode cannot be compared to any other MVPD.
+
+* When you are defining a new [segment](/help/AccountIQ/segments-timeframe.md) for an operation you can add metrics. However,  there isn't an option to specify and add more metrics, as of now, to refine these cohorts or segments.
