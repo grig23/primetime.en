@@ -5,7 +5,7 @@ description: Account IQ helps MVPDs and programmers understand the risks to thei
 
 # Account IQ overview {#account-iq-overview}
 
-Credential sharing is rampant and prevalent by subscribers in the video streaming industry. To add to it, understanding, identifying, and acting on password sharing is a complex process. There is complexity involved in understanding the subscriber usage behavior and developing a holistic view of viewer activity—for example, distinguishing sharing among members within the same household and outside. Due to this challenge, streaming service providers have inhibitions in acting against password sharing.
+Credential sharing is rampant and prevalent among subscribers in the video streaming industry. To add to it, understanding, identifying, and acting on password sharing is a complex process. There is complexity involved in understanding the subscriber usage behavior and developing a holistic view of viewer activity—for example, distinguishing sharing among members within the same household and outside. Due to this challenge, streaming service providers have inhibitions in acting against password sharing.
 
 Generally, video streaming service providers consider password sharing as fatal for business and act strongly against it, by blocking the sharers. However, it is advised video streaming service should follow a holistic approach that enables them to understand sharing accurately and adopt strategies to reward good viewing behavior and target business growth.
 
