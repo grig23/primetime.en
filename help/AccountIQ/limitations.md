@@ -34,3 +34,6 @@ Adobe strives to offer robust functionality and seamless user experiences throug
 * When you are defining a new [segment](/help/AccountIQ/segments-timeframe.md) for an operation you can add metrics. But if you select a saved segment then you cannot add more metrics to refine the segment.
 
 * Granularity and timeframe selector is limited to one week or one month, which means data can be evaluated on a single week or a single month only.
+
+* Predefined intervals are currently disabled in granularity and timeframe selector, and will be available in a future version.
+
