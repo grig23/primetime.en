@@ -23,8 +23,6 @@ Adobe strives to offer robust functionality and seamless user experiences throug
 
 * The Benchmarking, Detection Models, Segments, Snapshots, and Rules sections in the left navigation are currently disabled and will be available in a forthcoming version.
 
-* The option to export statistics for top 1000 accounts is currently unavailable for **Usage Patterns** page, and will be available in a forthcoming version.
-
 * When creating [Operations](/help/AccountIQ/operation-affecting-user-segment.md), you can identify only two kinds of [Actions](/help/AccountIQ/operation-affecting-user-segment.md) as of now—Concurrency Monitory rules and External Actions.
 
 * Currently, Operations can only be created and [scheduled](/help/AccountIQ/operation-affecting-user-segment.md#action). Future versions will allow you to pause, resume and fully manage them.
