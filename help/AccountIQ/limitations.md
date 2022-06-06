@@ -36,4 +36,3 @@ Adobe strives to offer robust functionality and seamless user experiences throug
 * Granularity and timeframe selector is limited to one week or one month, which means data can be evaluated on a single week or a single month only.
 
 * Predefined intervals are currently disabled in granularity and timeframe selector, and will be available in a future version.
-
