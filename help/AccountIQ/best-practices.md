@@ -5,14 +5,21 @@ description: Read on to understand how to better use the Account IQ tool.
 
 # Best Practices {#aiq-best-practices}
 
-## Analyse and understand {#analyse-understand}
+## Analyze and understand {#analyze-understand}
+
+Authorized access of streaming services generates vast sums of data representing user activity. Use the Account IQ analytics tools to explore the data and identify interesting cohorts or behavioral patterns that indicate sharing. Then, segments representing a particular opportunity or objective can be identified.
 
 * Understand nature and impact of sharing on your business
+
+Use aiq to ...identify....relevant data use 
+
+Use the nalytics tools to explore the data and identify interesting cohorts or behavior patterns that indicate sharing 
+
 * Access all relevant data
 Analyze sharing in the context of your objectives
 * Identify patterns and behavior to target
 
-## Incremental targeted action {#incremental-targeted-action}
+## Take targeted incremental action {#incremental-targeted-action}
 
 * Take incremental targeted action based on new level of understanding
 * Align enterprise stakeholders to update strategy
@@ -21,7 +28,7 @@ Analyze sharing in the context of your objectives
 * Mitigate sharing limiting access to obvious moochers
 * Simplify access and enhance the user experience for good customers
 
-## Track and measure impact {#track-measure-impact}
+## Track and measure the impact of actions{#track-measure-impact}
 
 Measure the effect of actions taken[CF1]
 

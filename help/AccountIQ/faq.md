@@ -45,26 +45,18 @@ description: Answers to frequently asked customer questions.
 
    **Answer.** Yes, we can provide the list of Accounts from any segment along with their sharing metrics and characteristics.
 
-1. How similar are Account IQ’s results to MVPDs who have built similar systems for themselves?
+1. How similar are Account IQ’s results compare to in-house solutions?
 
-   **Answer.**
+   **Answer.** Account IQ has access to more data than any single streaming service and has a detection model based on over a decade of processing, which results in the most accurate results available.
 
-1. For Programmers that have enabled Concurrency Monitoring, how do their sharing scores compare to us?  Does Concurrency Monitoring help or not, since they are both tackling the same problem?
+1. How can I use the insights provided by Account IQ?
 
-   **Answer.** CM identifies simultaneous use whereas AIQ is not dependent on that.  So, they compliment each other. Regarding comparison, there are a number of factors that drive sharing (e.g. live sports).  So, it’s hard just to compare one Programmer to another.  You’d want to try to compare as situations as similar as possible.  In general we’re looking at how AIQ can help measure the effectiveness of CM and we’re running an analysis on Olympics data that BG will follow up on.  Also, another Programmer has asked for reports on the impact of CM on AIQ scores and we’ll be working on that.
+   **Answer.** Understanding the scale and nature of sharing is the first step in our recommended best practices. Taking targeted action with specific accounts such as upselling or limiting streams is the step. The full recommendation is to start small, measure the results of the action, and refine and scale the process.
 
-1. How do we use these insight, what do we use it for or how do we stop it?  CM seems to be a good application since we’re a customer for that.
+1. Do we need to work with internal technology groups and distribution partners to implement measures like smart CM?
 
-   **Answer.** We’re thinking along the same way.  We’re working on an integration between AIQ and CM for that exact purpose.  (I also talked about how Snapshots could be used to measure the effectiveness of these measures.)
+   **Answer.** Not necessarily, Adobe Primetime Support can work with to create your own CM rules based on AIQ your data.
 
-1. Do we need to work with MVPDs to implement measures like smart CM?
+1. Can I see how segments trend over time?
 
-   **Answer.** No, we could make the data available to you to create your own CM rules based on AIQ data.  Or, we could possibly create these rules for you.
-
-1. How will we be able to see how trends look over time?
-
-   **Answer.** The challenge is system performance and we’re working on that.  We have great designs for viewing data on time, but it’s a huge amount of data to process. Snapshots will help with this - involving smaller data sets and allowing us to compare two snapshots.
-
-1. How can we identify different cohorts?  Answering questions like, “Is it related to a specific piece of content?”, or, “Have that just been sharing in general for a while?”
-
-   **Answer.** We have some filters available now for identifying cohorts (e.g. very high probability of sharing, usage patterns), and we’d like to hear back for other filters you’d like to apply. From there you could decide specific actions to take on each.
+   **Answer.** Yes, operation impact graphs track and display characteristics of a target segment over the life of the operation.

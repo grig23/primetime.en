@@ -24,8 +24,7 @@ To export metrics for MVPDs and channels in a selected segment, once you are log
 
 1. Select a timeframe for evaluation from **Granularity and time frame** option.
 
-    1. Use **Agg
-    regated By** option to select the granularity of your evaluation as a Week or a Month.
+    1. Use **Aggregated By** option to select the granularity of your evaluation as a Week or a Month.
 
     1. After specifying the granularity select the desired timeframe, either a week or a month (based on the granuarity you selected).
 
@@ -34,14 +33,29 @@ To export metrics for MVPDs and channels in a selected segment, once you are log
 1. Go to either of the following panels:
 
     * Industry-level sharing scores for selected MVPDs
+    ![](assets/ind-sharpanel-export-option.png)
 
     * Sharing Score by channels and MVPDs in the segment
 
+      ![](assets/sharscorepanel-export-option.png)
+
     * Number of accounts and usage by sharing probability level
+
+      ![](assets/usage-panel-export-option.png)
 
 1. Select **Export** option available in the upper-right corner of the panel.
 
-The data is exported in CSV format, and the file is downloaded locally on your device. You can use desired CSV viewer and editor to open the exported report.
+The data is exported in CSV format, and the file is downloaded locally on your device. You can use desired CSV viewer and editor to open the exported reports.
 
+* Industry-level sharing scores for selected MVPDs
 
+    ![](assets/export-ind-sharing-score.png)
+
+* Sharing Score by channels and MVPDs in the segment
+
+    ![](assets/export-risk-index-by-mvpdchannels.png)
+     
+* Number of accounts and usage by sharing probability level
+
+    ![](assets/export-acc-usage.png)
 
