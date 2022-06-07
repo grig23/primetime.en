@@ -17,11 +17,11 @@ Account IQ is compatible with the most recent versions of the following browsers
 
 ## Steps to onboard {#steps-to-onboard}
 
-1. Contact **Adobe** (or **Adobe Support**) to get your organization registered in **Adobe Experience Cloud** <!--Presently Adobe Marketing Cloud--> organizations.
+1. To get your organization registered in **Adobe Experience Cloud** organizations contact **Adobe** by sending an email at tve-support@adobe.com.
 
-1. Assign organization users to **Primetime Account IQ** profile on [Adobe Admin Console](https://adminconsole.adobe.com/). 
+1. Assign organization users to **TVE Dashboard Read-Write** or **TVE Dashboard Read Only** profiles in [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   The Admin users in your organization can create users and grant them access to the Account IQ Dashboard and Reports. To assign organization users access to Account IQ, organization Admins need to:
+   The Admin users in your organization can create users and grant them access to Account IQ Dashboard and Reports. To grant organization users access to Account IQ, organization Admins need to:
 
     1. Log in to [Adobe Admin Console](https://adminconsole.adobe.com/).
 
@@ -30,9 +30,13 @@ Account IQ is compatible with the most recent versions of the following browsers
 
     1. Select **Adobe Primetime** from **Products and services**.
 
-    1. From **Product Profiles**, select **Primetime Account IQ** <!--presently “TVE Dashboard Read-Write” or “TVE Dashboard Read Only”--> profile.
+    1. From **Product Profiles**, select either **TVE Dashboard Read-Write** or **TVE Dashboard Read Only** profile.
 
        ![](assets/product-profiles.png)
+
+       >[!NOTE]
+       >
+       >In near future, Primetime Account IQ will split from TVE Dashboard.
 
     1. Here you can create user groups, or select existing groups to add users to.
 
