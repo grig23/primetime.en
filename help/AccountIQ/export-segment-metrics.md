@@ -5,7 +5,7 @@ description: Export metrics for MVPDs and channels in a segment
 
 # Export metrics for MVPDs and channels in a segment {#export-metric}
 
-Dashboard in Account IQ displays tables and graphs for credential sharing statistics of various subscriber accounts from a selected segment. Apart from viewing the sharing patterns and scores, you can also export the account usage metrics and sharing scores for various subscribers of MVPDs in the the selected segment from these tables.
+The Dashboard in Account IQ displays tables and graphs for credential sharing statistics of the subscriber accounts in the selected segment. Apart from viewing the sharing patterns and scores, you can also export the account usage metrics and sharing scores for the subscribers of the MVPDs and channels in the selected segment from these tables.
 
 To export metrics for MVPDs and channels in a selected segment, once you are logged in as an authorized programmer user:
 
