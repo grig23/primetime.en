@@ -16,6 +16,7 @@ Adobe Primetime Account IQ enables video streaming services to understand the su
 *Figure: Account IQ information flow*
 
 Account IQ provides the tools and features to measure, manage, and monetize credential sharing. Reports, analytics, and dashboards enable exploration of the data to identify patterns. Direct action is supported through exports and integrations with Adobe and 3rd party systems such as campaign management, currency limiting or subscriber registration. And dedicated tracking tools measure the success of those actions so they can be updated or expanded.
+
 The Account IQ application tools and features are explained in the following sections:
 
 * [Dashboard](/help/AccountIQ/dashboard.md)
