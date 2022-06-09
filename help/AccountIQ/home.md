@@ -9,11 +9,11 @@ Credential sharing by streaming service subscribers is a major and growing probl
 
 Generally, video streaming service providers understand the risk and cost of sharing to their business but have limited remedies, such as blocking the sharers. However, an informed and targeted approach is recommended – one that enables services to understand sharing accurately and to adopt strategies that reward good viewing behavior and simultaneously target business growth.
 
-Adobe Primetime Account IQ enables video streaming services to understand the subscriber usage patterns and identify credential sharing. By deeply analyzing the long trail of data left behind by each subscriber using Adobe’s proprietary multi-layer machine learning model, streaming services can understand usage behavior and identify credential sharing with a greater degree of certainty. Moreover, it enables action to be taken through integrations with other systems such as limiting concurrent streams or customizing offers, and validates the impact of those actions—whether encouraging legitimate viewing behavior or growing subscribers and revenue.
-
 ![Account IQ flow diagram](assets/aiq-intro.png)
 
 *Figure: Account IQ information flow*
+
+Adobe Primetime Account IQ enables video streaming services to understand the subscriber usage patterns and identify credential sharing. By deeply analyzing the long trail of data left behind by each subscriber using Adobe’s proprietary multi-layer machine learning model, streaming services can understand usage behavior and identify credential sharing with a greater degree of certainty. Moreover, it enables action to be taken through integrations with other systems such as limiting concurrent streams or customizing offers, and validates the impact of those actions—whether encouraging legitimate viewing behavior or growing subscribers and revenue.
 
 Account IQ provides the tools and features to measure, manage, and monetize credential sharing. Reports, analytics, and dashboards enable exploration of the data to identify patterns. Direct action is supported through exports and integrations with Adobe and 3rd party systems such as campaign management, currency limiting or subscriber registration. And dedicated tracking tools measure the success of those actions so they can be updated or expanded.
 
