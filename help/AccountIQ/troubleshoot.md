@@ -1,9 +1,11 @@
 ---
 title: Troubleshoot
-description: Understand how to solve the commonly encountered issues in the product.
+description: Unable to view or load a reports panel? Or not able to export a report? Understand how to solve the commonly encountered issues in the product.
 ---
 
-# Troubleshoot {#troubleshoot}
+# Troubleshoot issues in Account IQ {#troubleshoot}
+
+Are you facing issues with data and charts taking too long to load, or reports not getting exported, or any other issues related to metrics and graphs? Read on to get quick help.
 
 * If a page or individual panels take too long to load, then try refreshing the page. For the current version, depending on the selection of MVPDs and programmers, a page can take up to a minute to load.
 
