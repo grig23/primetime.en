@@ -23,7 +23,7 @@ To select MVPDs from **MVPDs in segment** option:
 
    >[!NOTE]
    >
-   >**All** industry MVPDs are selected by default. You >can select either of the **Top 10 MVPDs by sharing score**, **Top 10 MVPDs by usage**, and **Top 10 MVPDs by accounts**. However, to select individual MVPDs you need to deselect **All**.
+   >**All** industry MVPDs are selected by default. You can select either of the **Top 10 MVPDs by sharing score**, **Top 10 MVPDs by usage**, and **Top 10 MVPDs by accounts**. However, to select individual MVPDs you need to deselect **All**.
 
 1. Select the desired MVPDs.
     To change your selection, then deselect the selected names of MVPDs.
@@ -52,20 +52,15 @@ To select the desired programmer channels from the **Channels in segment** optio
    >
    >When you select a programmer, all the channels under that programmer are selected by default.
 
+   >[!IMPORTANT]
+   >
+   >When you select all the individual channels under a programmer it displays the reports differently when you select the parent programmer (and all individual channels under it are selected by default due to this selection).
+
 1. Select **Apply selection** for your selection to take effect.
 
-
->[!IMPORTANT]
+>[!CAUTION]
 >
->  Selecting individual channels is not the same as selecting a programmer.
-
-When i select individual channels then that will be shown separately in different reports.
-But whne I select the parent programmer of all those channels then then in the report I see the data of that programmer comnbined.
-
->[!NOTE]
->
->We cannot select more than 10 items in MVPD and programmer selector.
-Another way to change selection is to deselct the any of the previously selected MVPDs and channels. in the segment nd timeframe panel. Or you can clear the entire selection, and defaults you back to All.
+>We cannot select more than 10 items in MVPD and programmer selectors.
 
 ## Granularity and timeframe selection {#granularity-timeframe}
 
@@ -73,8 +68,13 @@ Another way to change selection is to deselct the any of the previously selected
 
 Once you have selected granularity, then use the forward or back arrows to move forward or backward in time.
 
-If your granularity is in monnths
+If your granularity is in monnths.
 
 >[!NOTE]
 >
 >Once you select a particular month or week make sure to select Apply Selection to make sure your selection takes effect.
+
+
+
+
+Another way to change selection is to deselct the any of the previously selected MVPDs and channels. in the segment nd timeframe panel. Or you can clear the entire selection, and defaults you back to All.
