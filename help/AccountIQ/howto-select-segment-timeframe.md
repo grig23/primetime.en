@@ -44,9 +44,13 @@ To select the desired programmer channels from the **Channels in segment** optio
    >
    >**All** programmer channels in the industry are selected by default. You can select either of the **Top 10 programmers by sharing score**, **Top 10 programmers by usage**, and **Top 10 programmers by accounts**. However, to select individual channels or programmers you need to deselect **All**.
 
-1. To select the desired channels or programmers, deselect **All** properties. or deselect Top 10 programmers by sharing score, Top 10 programmers by usage, top 10 programmers by accounts. 
+1. To select the desired channels or programmers, deselect **All** (or deselect the existing selection).
 
-1. Select the desired programmers or channels . By selecting a programmer (all the channels are selected underneath that by deafult
+1. Select the desired programmers or channels. 
+
+>[!NOTE]
+>
+>By selecting a programmer (all the channels are selected underneath that by deafult
 )
 
 >[!NOTE]
