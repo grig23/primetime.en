@@ -64,15 +64,19 @@ To select the desired programmer channels from the **Channels in segment** optio
 
 ## Granularity and timeframe selection {#granularity-timeframe}
 
-1. Aggregate by either Week or Month. for evaluation you select either a past month or a past week.
+To select a time period of evaluation:
+
+1. Select the **Granularity and time frame** dropdown option.
+
+1. Select either **Week** or **Month** from **Aggregate by** option. By selecting  the granularity
+
+ for evaluation you select either a past month or a past week.
 
 Once you have selected granularity, then use the forward or back arrows to move forward or backward in time.
 
 If your granularity is in monnths.
 
->[!NOTE]
->
->Once you select a particular month or week make sure to select Apply Selection to make sure your selection takes effect.
+1. Once you select a particular month or week make sure to select Apply Selection to make sure your selection takes effect.
 
 
 
