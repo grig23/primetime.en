@@ -46,16 +46,12 @@ To select the desired programmer channels from the **Channels in segment** optio
 
 1. To select the desired channels or programmers, deselect **All** (or deselect the existing selection).
 
-1. Select the desired programmers or channels. 
+1. Select the desired programmers or channels. You Either select individual channels
 
 >[!NOTE]
 >
->By selecting a programmer (all the channels are selected underneath that by deafult
-)
-
->[!NOTE]
->
->selecting individual channels is not the same as selecting a programmer.
+>By selecting a programmer (all the channels are selected underneath that by default
+). selecting individual channels is not the same as selecting a programmer.
 
 When i select individual channels then that will be shown separately in different reports.
 But whne I select the parent programmer of all those channels then then in the report I see the data of that programmer comnbined.
