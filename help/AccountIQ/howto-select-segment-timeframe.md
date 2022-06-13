@@ -12,6 +12,7 @@ All analysis or viewing reports in Account IQ begin with defining segment and se
 *Figure: Segment and timeframe selection*
 
 At the top of all the reports pages on Account IQ, there is a panel to define segment by selecting MVPDs, channel programmers, and granularity and time frame.
+
 ## Segment selection {#select-segment}
 
 ### Select MVPDs in segment {#select-segment-mvpds}
@@ -43,7 +44,7 @@ To select the desired programmer channels from the **Channels in segment** optio
    >
    >**All** programmer channels in the industry are selected by default. You can select either of the **Top 10 programmers by sharing score**, **Top 10 programmers by usage**, and **Top 10 programmers by accounts**. However, to select individual channels or programmers you need to deselect **All**.
 
-1. To select the desired channels or programmers,  All properties. or deselect Top 10 programmers by sharing score, Top 10 programmers by usage, top 10 programmers by accounts. 
+1. To select the desired channels or programmers, deselect **All** properties. or deselect Top 10 programmers by sharing score, Top 10 programmers by usage, top 10 programmers by accounts. 
 
 1. Select the desired programmers or channels . By selecting a programmer (all the channels are selected underneath that by deafult
 )
