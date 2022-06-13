@@ -46,11 +46,18 @@ To select the desired programmer channels from the **Channels in segment** optio
 
 1. To select the desired channels or programmers, deselect **All** (or deselect the existing selection).
 
-1. Select the desired programmers or channels. You Either select individual channels
+1. Select the desired programmers or channels. You can either select individual channels the programmers.
 
    >[!NOTE]
    >
-   >By selecting a programmer (all the channels  are selected underneath that by default). Selecting individual channels is not the same as selecting a programmer.
+   >When you select a programmer, all the channels under that programmer are selected by default.
+
+1. Select **Apply selection** for your selection to take effect.
+
+
+>[!IMPORTANT]
+>
+>  Selecting individual channels is not the same as selecting a programmer.
 
 When i select individual channels then that will be shown separately in different reports.
 But whne I select the parent programmer of all those channels then then in the report I see the data of that programmer comnbined.
@@ -58,13 +65,7 @@ But whne I select the parent programmer of all those channels then then in the r
 >[!NOTE]
 >
 >We cannot select more than 10 items in MVPD and programmer selector.
-
-
-1. Select **Apply selection** for the selection to take effect.
-
-
-
-Another way to chaneg selection is to deselct the any of the previously selected MVPDs and channels. in the segment nd timeframe panel. Or you can clear the entire selection, and defaults you back to All.
+Another way to change selection is to deselct the any of the previously selected MVPDs and channels. in the segment nd timeframe panel. Or you can clear the entire selection, and defaults you back to All.
 
 ## Granularity and timeframe selection {#granularity-timeframe}
 
@@ -72,10 +73,8 @@ Another way to chaneg selection is to deselct the any of the previously selected
 
 Once you have selected granularity, then use the forward or back arrows to move forward or backward in time.
 
-If your granularity is in mon
+If your granularity is in monnths
 
 >[!NOTE]
 >
 >Once you select a particular month or week make sure to select Apply Selection to make sure your selection takes effect.
-
-. 
