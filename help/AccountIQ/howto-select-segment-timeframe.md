@@ -49,12 +49,11 @@ To select the desired programmer channels from the **Channels in segment** optio
 
   >[!IMPORTANT]
   >
-  >Selecting individual channels is not the same as selecting a programmer.
-  When you select individual channels, those channels activity will be broken down individually in some reports. When you select the parent programmer of all those channels, all of the activity of those channels are included but are not broken down individually on reports.
+  >Selecting individual channels is not the same as selecting a programmer. When you select individual channels, those channels activity will be broken down individually in some reports. When you select the parent programmer of all those channels, all of the activity of those channels are included but are not broken down individually on reports.
 
->[!NOTE]
->
->You cannot select more than 10 items in the MVPD or programmer pulldown menus.
+  >[!NOTE]
+  >
+  >You cannot select more than 10 items in the MVPD or programmer pulldown menus.
 
 Another way to change selection is to deselect the any of the previously selected MVPDs and channels. in the segment nd timeframe panel. Or you can clear the entire selection, and defaults you back to All.
 
