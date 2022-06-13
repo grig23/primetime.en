@@ -10,7 +10,9 @@ All analysis or viewing reports in Account IQ begin with defining segment and se
 
 *Figure: Segment and timeframe selection*
 At the top of all the reports pages on Account IQ, there is a panel to define segment by selecting MVPDs, channel programmers, and granularity and time frame.
+
 ## Segment selection {#select-segment}
+
 ### Select MVPDs in segment {#select-segment-mvpds}
 
 To select MVPDs from **MVPDs in segment** option:
@@ -45,10 +47,10 @@ To select the desired programmer channels from the **Channels in segment** optio
    >When you select a programmer, all the activity of the channels under that programmer will be included in report and graph results
 1. Select **Apply selection** for your selection to take effect.
 
->[!IMPORTANT]
->
->Selecting individual channels is not the same as selecting a programmer.
-When you select individual channels, those channels activity will be broken down individually in some reports. When you select the parent programmer of all those channels, all of the activity of those channels are included but are not broken down individually on reports.
+  >[!IMPORTANT]
+  >
+  >Selecting individual channels is not the same as selecting a programmer.
+  When you select individual channels, those channels activity will be broken down individually in some reports. When you select the parent programmer of all those channels, all of the activity of those channels are included but are not broken down individually on reports.
 
 >[!NOTE]
 >
