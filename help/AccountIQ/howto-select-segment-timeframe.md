@@ -1,8 +1,8 @@
 ---
-title: How to define segment in Account IQ using segment and timeframe panel
+title: Define a segment and timeframe
 description: How to view sharing reports for multiple MVPDs and multiple programmer channels.
 ---
-# How to define segment in Account IQ: using segment and timeframe panel {#define-segment}
+# Define a segment and timeframe {#define-segment}
 
 All analysis or viewing reports in Account IQ begin with defining segment and selecting timeframe for evaluation. [Segment](/help/AccountIQ/product-concepts.md#segmet-def) refers to all the subscribers or viewers that meet your criteria (subscribing to an MVPD and viewing sepcific channels) of evaluation.
 
