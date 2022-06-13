@@ -9,11 +9,11 @@ The Shared Accounts Reports break down the metrics such as number of devices and
 
 Account IQ classifies all the subscriber accounts of the defined segment into the accounts with the following five categories based on their sharing probabilities:
 
-* Very high
-* High
-* Moderate
-* Low
-* Very low
+* Very high (80%-100%)
+* High (60%-80%)
+* Moderate (40%-60%)
+* Low (20%-40%)
+* Very low (0%-20%)
 
 Once you define a segment by selecting the desired MVPDs from **MVPDs in segment** option and the programmer channels from the **Channels in segment** option, the following charts are prepared based on the sharing probabilities of accounts.
 

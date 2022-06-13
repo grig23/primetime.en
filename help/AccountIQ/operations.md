@@ -5,9 +5,11 @@ description: Operations in Account IQ involves taking actions to perform automat
 
 # Operations {#operations-tab-next-steps}
 
-Apart from viewing reports and analytics for subscriber accounts, Account IQ also gives you functionality to perform bulk tasks and automations on subscriber accounts, to mitigate and check password sharing. The operations in Account IQ help in creating, scheduling, managing, and recording the effects of these bulk tasks.
+Once you have understood your subscribers' usage patterns and identified password sharing for selected segment (using reports and analytics in Account IQ), you can take targeted actions towards an objective to mitigate password sharing.
 
-The **Operations** page opens on selecting **Operations** tab under **Actions**, in left navigation pane of Account IQ. This page lists all the existing operations and their details.
+The Operations functionality in Account IQ help you effectively tackle and manage credential sharing through focused experiments called operations. It gives you options to design an objective, tailor targeted actions (based on the objective) for a specific groups of subscriber accounts, and automate their execution for a future duration. Through Operations functionality, you can not only create and execute operations, but also gauge their impacts. So, by gauging the impacts you can adjust your strategy to mitigate credential sharing.
+
+To view **Operations** page select **Operations** option under **Actions** in left navigation of Account IQ application. The Operations page lists all the operations already existing on the Account IQ system along with their details.
 
 ![](assets/operations-page.png)
 
@@ -15,27 +17,37 @@ The **Operations** page opens on selecting **Operations** tab under **Actions**,
 
 On the Operations page, you can:
 
-* View existing operations in the Account IQ system and see their details (such as status, progress, segment, and schedule).
+* View a list of operations already existing in the Account IQ
 
-* Search from the list of operations using Search field.
+* View operation details, such as:
 
-* [Create new operation](/help/AccountIQ/operation-affecting-user-segment.md).
+  * status (Scheduled, Running, Ended, Error, or Stopped)
 
-* Stop and operation.
+  * progress (in percentage completion)
+  
+  * target audience (segment to run the operation on)
+
+  * schedule (beginning and end date of operation)
+
+  * creation and end date of the operation
+
+* [Create new operation](/help/AccountIQ/operation-affecting-user-segment.md)
+
+* [View operation reports](#operation-reports)
+
+<!--* Search from the list of operations using Search field
+
+* Stop an operation.
 
 * Create a duplicate operation.
 
-* [Configure columns of Operations details page](#configure-columns)
+* [Configure columns of Operations details page](#configure-columns)-->
 
-* [View the details and impacts of an operation](#view-op-details)
-
-## View operation details {#view-op-details}
+## View operation reports {#operation-reports}
 
 When you select an operation, its details are displayed along with the status.
 
-![](assets/operations-details.png)
 
-*Figure: Operation details*
 
 There is also an option to view the impacts of these operations by using **Operation reports** option.
 
@@ -43,10 +55,15 @@ There is also an option to view the impacts of these operations by using **Opera
 
 *Figure: Operations reports to view the impacts of the operations*
 
+<!--
+
+![](assets/operations-details.png)
+
+*Figure: Operation details*
 ## Configure columns {#configure-columns}
 
 You can select the icon to **Configure columns** on the top of the operations table.
 
 ![](assets/config-columns.png)
 
-*Figure: Configure columns of Operations details page*
+*Figure: Configure columns of Operations details page*-->
