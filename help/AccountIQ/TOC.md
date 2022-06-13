@@ -20,9 +20,6 @@ audience: end-user
   + [How to define segment in Account IQ: Using segment and timeframe panel](/help/AccountIQ/howto-select-segment-timeframe.md)
   + View account sharing reports {#view-account-sharing-reports}
     + [Reports for a specific MVPD](/help/AccountIQ/reports-for-specific-mvpds.md)
-
-    <!--+ [Reports for multiple MVPDs and channels](/help/AccountIQ/viewrep-multiple-mvpd-channel.md)-->
-
     + [Reports for top 10 MVPDs](/help/AccountIQ/top-10-mvpd-reports.md)
     + [Isolation Mode and sharing behavior](/help/AccountIQ/isolation-mode.md)
   + [Export metrics for MVPDs and channels in a segment](/help/AccountIQ/export-segment-metrics.md)
