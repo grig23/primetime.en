@@ -29,4 +29,5 @@ There are the following drop-down options which help you define your cohorts to 
 * **Granularity and time frame**
   
   The **Granularity and time frame** selector lets you specify the duration or size of time for which you want to view the subscriber sharing behavior.
-  So this way you can define your problem statement as "subscribers of the MVPD A that watched the channels X, Y, and Z in the past 2 weeks' time".
+  
+So, with these controls you can define your problem statement as "subscribers of the MVPD A that watched the channels X, Y, and Z in the past 2 weeks' time".
