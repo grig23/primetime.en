@@ -9,7 +9,8 @@ All analysis or viewing reports in Account IQ begin with defining segment and se
 ![](assets/segment-panel.png)
 
 *Figure: Segment and timeframe selection*
-At the top of all the reports pages on Account IQ, there is a panel to define segment by selecting MVPDs, channel programmers, and granularity and time frame.
+
+At the top of all the reports pages in Account IQ, there is a panel to define segment by selecting MVPDs, channel programmers, and granularity and time frame.
 
 ## Segment selection {#select-segment}
 
@@ -17,15 +18,16 @@ At the top of all the reports pages on Account IQ, there is a panel to define se
 
 To select MVPDs from **MVPDs in segment** option:
 
-1. Select the **MVPDs in segment** dropdown option.
+1. Click or tap the **MVPDs in segment** dropdown option.
 
    >[!NOTE]
    >
-   >**All** industry MVPDs are selected by default. From here, you can select either of the **Top 10 MVPDs by sharing score**, **Top 10 MVPDs by usage**, **Top 10 MVPDs by accounts**. or individual MVPDs. However, to select individual MVPDs you need to deselect **All**.
-1. Select the desired MVPDs.
+   >**All** industry MVPDs are selected by default. From here, you can select either of the **Top 10 MVPDs by sharing score**, **Top 10 MVPDs by usage**, **Top 10 MVPDs by accounts**, or individual MVPDs. However, to select individual MVPDs you need to deselect **All**.
+1. Click or tap the desired MVPDs.
+
     You can remove an MVPD from the selection by deselecting it.
 
-1. Select **Apply selection** for your selection to take effect. Otherwise, you will loose your selection.
+1. Click or tap **Apply selection** for your selection to take effect. Otherwise, you will loose the selection you made.
 
    >[!NOTE]
    >
@@ -35,31 +37,34 @@ To select MVPDs from **MVPDs in segment** option:
 
 To select the desired programmer channels from the **Channels in segment** option:
 
-1. Select the **Channels in segment** dropdown option.
+1. Click or tap the **Channels in segment** dropdown option.
 
    >[!NOTE]
    >
    >**All** programmer channels for your company are selected by default. To select individual channels or programmers you must first deselect **All**.
 
-1. Select the desired programmers or channels. You can either select individual channels the programmers.
+1. Click or tap the desired channels or programmers.
+
+   The top level list items in the **Channels in segment** are [programmer](/help/AccountIQ/product-concepts.md#programmer-def) companies and the list items under programmer names are their [channels](/help/AccountIQ/product-concepts.md#channel-def). You can either select individual channels under programmers, or select programmers and all the activities of the channels under that programmer are included in report and graph results.
+    
+   ![](assets/programmer-channels.png)
+
+
+   >[!IMPORTANT]
+   >
+   >Outcomes of selecting individual channels under a programmer are not the same as those of selecting the programmer. When you select individual channels, activities of those channels are broken down individually in some reports. However, when you select the parent programmer of all those channels, all of the activity of those channels are included but are not broken down individually in reports.
+
+1. Click or tap **Apply selection** for your selection to take effect. 
+
    >[!NOTE]
    >
-   >When you select a programmer, all the activity of the channels under that programmer will be included in report and graph results
-1. Select **Apply selection** for your selection to take effect.
+   >You cannot select more than 10 items in the MVPD or programmer pulldown menus.
 
-  >[!IMPORTANT]
-  >
-  >Selecting individual channels is not the same as selecting a programmer. When you select individual channels, those channels activity will be broken down individually in some reports. When you select the parent programmer of all those channels, all of the activity of those channels are included but are not broken down individually on reports.
-
-  >[!NOTE]
-  >
-  >You cannot select more than 10 items in the MVPD or programmer pulldown menus.
-
-Another way to change selection is to deselect the any of the previously selected MVPDs and channels. in the segment nd timeframe panel. Or you can clear the entire selection, and defaults you back to All.
-
-### Deselecting MVPDs and channels {#deselect-segment-mvpds-channels}
+### Deselect MVPDs and channels {#deselect-segment-mvpds-channels}
 
 In addition to changing your selection in the dropdown menus, you can deselect previously selected MVPDs and channels by clicking the ‘X’ on those items below the menus. You can also select Clear Selection to remove all of the previously selected MVPDs or channels.
+
+![](assets/segment-panel-selection.png)
 
 ## Granularity and timeframe selection {#granularity-timeframe}
 
