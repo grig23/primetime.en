@@ -62,7 +62,11 @@ To select the desired programmer channels from the **Channels in segment** optio
 
 ### Deselect MVPDs and channels {#deselect-segment-mvpds-channels}
 
-In addition to changing your selection in the dropdown menus, you can deselect previously selected MVPDs and channels by clicking the ‘X’ on those items below the menus. You can also select Clear Selection to remove all of the previously selected MVPDs or channels.
+In addition to changing your selection in the **MVPDs in segment** and **Channels in segment** segment selectors, you can deselect the previously selected MVPDs and channels by:
+
+* Selecting the **Remove** ![remove icon](assets/remove-icon.png) icon on the names of these selected MVPDs and channels displayed below segment selector.
+
+* You can also use **Clear Selection** to remove all the previously selected MVPDs or channels.
 
 ![](assets/segment-panel-selection.png)
 
@@ -70,12 +74,14 @@ In addition to changing your selection in the dropdown menus, you can deselect p
 
 To select a time period of evaluation:
 
-1. Select the **Granularity and time frame** dropdown option.
+1. Select the **Granularity and time frame** date picker.
 
-1. Select either **Week** or **Month** from **Aggregate by** option to set granularity for your evaluation. Once  for evaluation you select either a past month or a past week.
+1. Select either **Week** or **Month** from **Aggregate By** option to set granularity for your evaluation.
 
-1. Once you have selected granularity, then you can use forward or back arrows to move forward or backward in time.
+    ![](assets/granularity-timeframe-weekwise.png)
 
-1. Select the desired time frame (month or week based on selected granularity) for evaluation.
+1. Once you have selected granularity, you can use forward or backward arrows to move forward or backward in time.
+
+1. Specify a time period in past (in month or week based on selected granularity)  for evaluation.
 
 1. Select **Apply Selection** to make sure your selection takes effect.
