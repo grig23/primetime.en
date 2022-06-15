@@ -9,7 +9,7 @@ Each reports page on Account IQ has a **Create new operation** option to help yo
 
 To create an operation:
 
-1. Define your segment (cohort) for analysis, following the steps in [Defining segments and timeframe](help/AccountIQ/howto-select-segment-timeframe.md).
+1. Define your segment (cohort) for analysis, following the steps in [Defining segments and timeframe](/help/AccountIQ/howto-select-segment-timeframe.md).
 
     <!--1. Select the desired MVPD(s).
     2. Select the desired programmer Channel(s).
