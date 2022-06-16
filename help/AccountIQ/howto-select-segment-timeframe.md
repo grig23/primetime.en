@@ -1,6 +1,6 @@
 ---
 title: Define a segment and time frame
-description: How to view sharing reports for multiple MVPDs and multiple programmer channels.
+description: Define a segment and time frame
 ---
 # Define a segment and time frame {#define-segment}
 
