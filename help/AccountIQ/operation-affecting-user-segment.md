@@ -1,9 +1,9 @@
 ---
-title: How to create operation to track a user segment
+title: Create an operation on a user segment and track effect 
 description: How to create an operation that affects and tracks a defined segment of users.
 ---
 
-# How to create operation to track a user segment? {#operation-to-track-segment}
+# Create an operation on a user segment {#operation-to-track-segment}
 
 Each reports page on Account IQ has a **Create new operation** option to help you create workflows to automate (and simplify) various (bulk) actions on subscriber accounts; define rules to specify a sample, define actions, and record and analyze the effects of those actions. On the create operations page you can define the sample of user groups on which operations will be performed, and schedule their activation to a later date.
 
@@ -48,9 +48,9 @@ For an example, your (default) segment (selected on the main dashboard or report
 
 ### Additional segmentation {#additional-segmentation}
 
-Additionally, You can refine your default segment by adding more metrics. For example, you if want to add Sharing Score that is above 80 as another metric. So, now the problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 80"*.
+Additionally, you can refine your target segment by adding more metrics. For example, you can add Sharing Score that is above 90 as another metric. So, now the problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 90"*.
 
-![](assets/addn-segments.png)
+<!--![](assets/addn-segments.png)
 *Figure: Refine the segment by adding more metrics*
 
 ![](assets/add-metric-condition.png)
@@ -60,12 +60,13 @@ Additionally, You can refine your default segment by adding more metrics. For ex
 *Figure: Operators and Number of IPs metric for additional segmentation*
 
 ![](assets/add-metric-condition3.png)
-*Figure: Operators and Usage Pattern metric for additional segmentation*
+*Figure: Operators and Usage Pattern metric for additional segmentation*-->
 
-Further, if you refine the operation by adding another metric for number of IPs. Then the updated problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 80 and are using 10 different IPs during the evaluation period to view content"*.
+Further, if you refine the operation by adding another metric for number of devices. Then the updated problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 90 and are using more than 5 devices to view content during the evaluation period"*.
 
 ![](assets/refine-segment-operations.png)
-*Figure: Refined example segment with overall sharing score and number of IPs metrics*
+
+*Figure: Refined example segment with overall sharing score and number of devices metrics*
 
 By doing this, the user group becomes even small. So, on adding more **description and tags**, you are additionally qualifying the segment to define your sample to operate on.
 
@@ -74,6 +75,7 @@ By doing this, the user group becomes even small. So, on adding more **descripti
 Segment Type is the way in which a segment is treated throughout the operation's evaluation period.
 
 ![](assets/segment-type.png)
+
 *Figure: Fix the number of segments to operate on using Segment type option*
 
 The segment type option allows you to further refine your segment based on the evaluation period (or time).
@@ -158,6 +160,7 @@ When you save the operation, a message screen is displayed that informs you that
 In future you can select this saved segment when defining a segment for your analysis on the main reports page. Moreover, the saved segment is also listed when you create an operation the next time.
 
 ![](assets/saved-segment-operations-page.png)
+
 *Figure: Saved segments in segment selector on Create new operations page*
 
 >[!IMPORTANT]
