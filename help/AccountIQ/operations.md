@@ -45,15 +45,23 @@ On the Operations page, you can:
 
 ## View operation reports {#operation-reports}
 
-When you select an operation, its details are displayed along with the status.
+You can analyze the impacts of an operation by viewing its report. To view an operation's report:
 
+1. Select the operation name on main Operations page.
 
+   Report is displayed in the form of a stacked bar graph.
 
-There is also an option to view the impacts of these operations by using **Operation reports** option.
+   ![](assets/operation-impact-report.png)
 
+   *Figure: Operations report to view the impacts of the operations*
 
+   The x-axis plots the evaluation period and y-axis plots a variable to gauge the impact of operation.
 
-*Figure: Operations reports to view the impacts of the operations*
+   For example, in the above image the variable on the y-axis is number of accounts. Looking at the graph you can compare the number of accounts those are in the operations segment versus the number of accounts that are outside the operations segment at a particular time (such as week 2nd of the operations evaluation period). Therefore, you can analyze how over the evaluation period does number of accounts vary within the operation segment and outside the segment.
+
+   So, if your operation was to send out warning emails to suspecting accounts, and accounts in operations segment were those with sharing probability more than 90 and using more than 5 devices to stream content, then in the beginning of the evaluation period accounts in segment are more than 7 million. This number changes over the evaluation period as shown in the graph, thereby indicating the impact of operation. Based on the evaluation, you can take remedial measures on suspecting accounts, or continue with the operation, or adjust your strategy for better outcomes to curb credential sharing.
+
+2. To close the report and go back to the main Operations page, select **Operations** option under **Actions** in left navigation.
 
 <!--
 
