@@ -51,7 +51,7 @@ When you select an operation, its details are displayed along with the status.
 
 There is also an option to view the impacts of these operations by using **Operation reports** option.
 
-![](assets/operations-effects.png)
+
 
 *Figure: Operations reports to view the impacts of the operations*
 
