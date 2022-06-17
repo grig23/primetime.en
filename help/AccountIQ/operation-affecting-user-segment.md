@@ -1,21 +1,17 @@
 ---
 title: Create an operation on a user segment and track effect 
-description: How to create an operation that affects and tracks a defined segment of users.
+description: How to create an operation that effects and tracks the effect on a defined segment of users.
 ---
 
 # Create an operation on a user segment {#operation-to-track-segment}
 
-Each reports page on Account IQ has a **Create new operation** option to help you create workflows to automate (and simplify) various (bulk) actions on subscriber accounts; define rules to specify a sample, define actions, and record and analyze the effects of those actions. On the create operations page you can define the sample of user groups on which operations will be performed, and schedule their activation to a later date.
+Each reports page on Account IQ has a **Create new operation** option to help you create workflows to automate (and simplify) various (bulk) actions on subscriber accounts; define rules to specify a sample, define actions, and record and analyze the effects of those actions. On the page to create operations, you can define the sample of user groups on which operations will be performed, and schedule the operation to run on a future date.
 
 To create an operation:
 
-1. Define your segment (cohort) for analysis, following the steps in [Defining segments and timeframe](/help/AccountIQ/howto-select-segment-timeframe.md).
+1. Define your segment (cohort) for analysis on any of the reports or dashboards page, using the steps in [Defining segments and timeframe](/help/AccountIQ/howto-select-segment-timeframe.md).
 
-    <!--1. Select the desired MVPD(s).
-    2. Select the desired programmer Channel(s).
-    3. Specify a time period from the **Granularity and Timeframe** option.-->
-
-1. Select **Create new operation**. The **Create new operation** page is displayed.
+1. Select **Create new operation** option available on any of the reports or dashboards pages. The **Create new operation** page is displayed.
 
     ![Page to create a new operation](assets/create-new-operations.png)
     *Figure: Page to create new operation*
@@ -23,8 +19,8 @@ To create an operation:
 1. On the **Create new operation** page, fill in the details in the form fields for:
   
    * [Operation name](#operation-details) in Operation details
-   * [Target segment](#segment) and [Additional segmentation](#additional-segmentation)
-   * [Segment type](#segment-type)
+   * Segment to run the operation on under [Target segment](#segment) and refine the segment using[Additional segmentation](#additional-segmentation)
+   * [Segment type](#segment-type) under [Target segment](#segment)
    * [Action](#action)
    * [Schedule activation](#schedule)
 
@@ -32,41 +28,37 @@ To create an operation:
 
 ## Operation details {#operation-details}
 
-Name the new operation in **Operation name** field. For example, "Test the effect of multifactor authentication on MVPD X's subscribers" or "Limit the number of streams in Concurrency Monitoring" or "Limit MVPD 'D' subscribers viewing channel 'N' with 20 plus devices".
+Name the new operation in **Operation name** field under Operation details. For example, "*Test the effect of multifactor authentication on MVPD X's subscribers" or "Limit the number of streams in Concurrency Monitoring" or "Limit MVPD D's subscribers viewing channel 'N' from 20 plus devices*".
+
 
 ## Target segment {#segment}
 
-The **Segment** here defines the users who will be operated on by this operation; or the sample group for your operation. The default segment is the **segment** you selected in the step 1.
+The **Segment** here defines the users who will be operated on by this operation; or the sample group for your operation. The default segment is the **segment** you selected using [segment and timeframe panel](/help/AccountIQ/howto-select-segment-timeframe.md) on main reports or dashboards page in step 1 above.
 
-<!--* The first segment entry in the **Segment** section, by default, shows the **segment** you selected in the step 1. This segment defines the subscribers of the MVPDs and Channels that will be affected by the operation being created.
+<!--* The first segment entry in the **Segment** section, by default, shows the **segment** you selected in the step 1.
 
 * The **segment evaluation period** is the time period of analysis you selected in step 1 from **Granularity and Timeframe** option.
 ![](assets/operations-segment-selection.png)
 *Figure: Segment and timeframe selection on the main page*-->
 
-For an example, your (default) segment (selected on the main dashboard or reports page) includes all the subscriber accounts of MVPD named 'C' who view the channel 'N Sports'.
+This segment defines the subscribers of the MVPDs and Channels that will be impacted by the operation being created. For an example, your (default) segment includes *all the subscriber accounts of MVPD named 'C' who view the channel 'N Sports'*.
 
 ### Additional segmentation {#additional-segmentation}
 
 Additionally, you can refine your target segment by adding more metrics. For example, you can add Sharing Score that is above 90 as another metric. So, now the problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 90"*.
 
-<!--![](assets/addn-segments.png)
-*Figure: Refine the segment by adding more metrics*
+<!--![](assets/.png)-->
+(Add Image)
 
-![](assets/add-metric-condition.png)
-*Figure: Operators and Overall sharing score metric for additional segmentation*
-
-![](assets/add-metric-condition2.png)
-*Figure: Operators and Number of IPs metric for additional segmentation*
-
-![](assets/add-metric-condition3.png)
-*Figure: Operators and Usage Pattern metric for additional segmentation*-->
+*Figure: Additional segmentation*
 
 Further, if you refine the operation by adding another metric for number of devices. Then the updated problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 90 and are using more than 5 devices to view content during the evaluation period"*.
 
-![](assets/refine-segment-operations.png)
+<!--![](assets/)-->
 
 *Figure: Refined example segment with overall sharing score and number of devices metrics*
+
+<!--check: -->
 
 By doing this, the user group becomes even small. So, on adding more **description and tags**, you are additionally qualifying the segment to define your sample to operate on.
 
@@ -76,7 +68,7 @@ Segment Type is the way in which a segment is treated throughout the operation's
 
 ![](assets/segment-type.png)
 
-*Figure: Fix the number of segments to operate on using Segment type option*
+*Figure: Refine the number of segments to operate on using Segment type*
 
 The segment type option allows you to further refine your segment based on the evaluation period (or time).
 
@@ -88,7 +80,7 @@ By doing so, you are fixing the sample size for evaluation in terms of numbers. 
 
 **Variable number of accounts**
 
-When you select **Variable number of accounts** segment type, you do not limit the number of accounts in segment. The accounts which fall under the defined segment metrics are the part of the segment, and the no of accounts will change continuously during the course of operation.
+When you select **Variable number of accounts** segment type, you do not limit the number of accounts in segment. The accounts which fall under the defined segment metrics are the part of the segment, and the number of accounts will change continuously during the course of operation.
 
 >[!IMPORTANT]
 >
@@ -127,7 +119,7 @@ There are two types of actions you can take:
 
 * Actions using systems integrated with Account IQ; such as [Concurrency Monitoring](https://tve.helpdocsonline.com/concurrency-monitoring-introduction), or Adobe Target.
 
-* Actions to create and process workflows; that are external to Account IQ and not integrated with the Account IQ system. For example, an action for channel programmer 'N' to send bulk emails to all the users/subscribers/viewers of MVPD 'C'.
+* Actions to create and process workflows; that are external to Account IQ and not integrated with the Account IQ system. For example, an action for channel programmer 'N' to send bulk emails to all the subscribers of MVPD 'C'.
 
 >[!NOTE]
 >
@@ -139,11 +131,14 @@ You can schedule the activation for the operation by setting start and end dates
 
 >[!NOTE]
 >
->The start date and end date have a granularity same as the granularity you selected for the evaluation, in step 1.
+>The start date and end date have a granularity same as the granularity you selected for the evaluation when defining segment using **segment and timeframe panel**, in step 1.
 >
->So if you selected the granularity as Weekly then the start and end dates are in terms of week (for example Week 14); if you select granularity as Monthly, then the start and end dates are in terms of months.
+>So if you selected the granularity as Week then the start and end dates are in terms of week (for example Week 14); if you select granularity as Month, then the start and end dates are in terms of months.
 
-Also, the Start date must be later than the evaluation period and also later than the current date. Similarly, the end date should also be later than the Start date and the current date.
+
+>[!IMPORTANT]
+>
+>The Start date must be later than the evaluation period and also later than the current date. Similarly, the end date should also be later than the Start date and the current date.
 
 ### Save the operation {#save-operation}
 
@@ -151,28 +146,28 @@ When you save the operation, a message screen is displayed that informs you that
 
 ![](assets/save-operation.png)
 
-**Figure: Save operation and specify segment name**
+*Figure: Save operation and specify segment name*
 
 >[!NOTE]
 >
 >It is advised to name your operation based on the action you are taking in combination with the segment you will act on.
 
-In future you can select this saved segment when defining a segment for your analysis on the main reports page. Moreover, the saved segment is also listed when you create an operation the next time.
+<!--In future you can select this saved segment when defining a segment for your analysis on the main reports page. Moreover, the saved segment is also listed when you create an operation the next time.
 
 ![](assets/saved-segment-operations-page.png)
 
-*Figure: Saved segments in segment selector on Create new operations page*
+*Figure: Saved segments in segment selector on Create new operations page* 
 
 >[!IMPORTANT]
 >
 >When creating an operation, if you select a segment that was previously created then you cannot add new metrics to it and refine it.
 >
->Adding new metrics creates a new segment, but you cannot modify an existing segment.
+>Adding new metrics creates a new segment, but you cannot modify an existing segment.-->
 
-Once you have created an operation, it will run for the start dates and end dates that you have mentioned.
+Once you have created an operation, it will run from the start date till the end date that you have mentioned.
 
-The details of your saved operation can be seen on the [Operations](/help/AccountIQ/operations.md) page.
+The details of your saved operation can be seen on the main [Operations](/help/AccountIQ/operations.md) page.
 
 ![](assets/new-operation-created.png)
-<!--![](assets/saved-operation-on-pg.png)-->
-*Figure: Newly created operation*
+
+*Figure: Newly created operation gets listed on the main Operations page*
