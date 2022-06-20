@@ -19,7 +19,7 @@ To create an operation:
 1. On the **Create new operation** page, fill in the details in the form fields for:
   
    * [Operation name](#operation-details) in Operation details
-   * Segment to run the operation on under [Target segment](#segment) and refine the segment using[Additional segmentation](#additional-segmentation)
+   * Segment to run the operation on under [Target segment](#segment) and refine the segment using [Additional segmentation](#additional-segmentation)
    * [Segment type](#segment-type) under [Target segment](#segment)
    * [Action](#action)
    * [Schedule activation](#schedule)
@@ -45,22 +45,19 @@ This segment defines the subscribers of the MVPDs and Channels that will be impa
 
 ### Additional segmentation {#additional-segmentation}
 
-Additionally, you can refine your target segment by adding more metrics. For example, you can add Sharing Score that is above 90 as another metric. So, now the problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 90"*.
+Additionally, you can refine your target segment by adding more metrics. For example, you can add Sharing Probability that is greater than 90% as another metric. So, now the problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing probability greater 90%"*.
 
-<!--![](assets/.png)-->
-(Add Image)
+![](assets/additional-segment.gif)
 
 *Figure: Additional segmentation*
 
 Further, if you refine the operation by adding another metric for number of devices. Then the updated problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 90 and are using more than 5 devices to view content during the evaluation period"*.
 
-<!--![](assets/)-->
+![](assets/refined-segment.png)
 
 *Figure: Refined example segment with overall sharing score and number of devices metrics*
 
-<!--check: -->
-
-By doing this, the user group becomes even small. So, on adding more **description and tags**, you are additionally qualifying the segment to define your sample to operate on.
+By doing this, the user group becomes even small. So, by using Additional segmentation and adding more metric and condition, you are additionally qualifying the segment to define your sample to operate on.
 
 ### Segment type {#segment-type}
 

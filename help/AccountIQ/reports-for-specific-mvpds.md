@@ -29,7 +29,7 @@ To view reports in Account IQ, once you have successfully logged in to the appli
 
 1. Select a desired reports page from the left navigation-[General Usage](/help/AccountIQ/general-usage-reports.md), [Shared Accounts](/help/AccountIQ/shared-acc-reports.md), [Usage Patterns](/help/AccountIQ/usage-patterns.md), or even [Dashboard](/help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
 
-   ![report for specific MVPD](assets/report-forspecific-MVPD.png)
+   ![report for specific MVPD](assets/report-forspecific-mvpd.png)
 
 ## If you are logged in as an MVPD {#report-sp-programmer}
 

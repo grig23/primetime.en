@@ -26,7 +26,7 @@ Account IQ is compatible with the most recent versions of the following browsers
     1. Log in to [Adobe Admin Console](https://adminconsole.adobe.com/).
 
 
-        ![](assets/AdminConsoleAIQ.png)
+        ![](assets/admin-console.png)
 
     1. Select **Adobe Primetime** from **Products and services**.
 
