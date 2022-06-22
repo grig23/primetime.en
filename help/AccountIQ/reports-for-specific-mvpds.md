@@ -23,7 +23,12 @@ To view reports in Account IQ, once you have successfully logged in to the appli
 
   ![](assets/specific-mvpd-gen-usage.png)
 * [Shared Accounts](/help/AccountIQ/shared-acc-reports.md)
+
+  ![](assets/specific-mvpd-shared-acc.png)
 * [Usage Patterns](/help/AccountIQ/usage-patterns.md)
+
+  ![](assets/specific-mvpd-usage-pattern.png)
+
 * [Dashboard](/help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
 
   ![](assets/specific-mvpd-dashboard.png)
