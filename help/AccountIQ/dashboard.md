@@ -39,6 +39,12 @@ You can also see the Trend indicator, which depicts a dip or plunge in the usage
 
 ### Overall sharing score {#overall-sharing-score}
 
+Overall sharing score is the probability of credential sharing by the subscribers of MVPDs viewing specific programmer channels in a segment for a specific time period.
+
+This index takes into account sharing level and usage from shared accounts. Account IQ assigns sharing scores to each of the subscriber accounts, just like credit scores. But, higher the overall sharing score of a subscriber account, the bad is it for the business.
+
+It is a value that helps users understand the magnitude of password sharing on Programmer properties or by MVPD subscribers and provide them a sense of urgency to act upon it.
+
 ![](assets/overall-sharing-score.png)
 
 ### MVPDs in segment {#mvpd-in-segment}
