@@ -56,6 +56,7 @@ To view the list and reports for top ten MVPDs by sharing score for your channel
 Each of these pages will reflect the activity.
 
 ![](assets/top-ten-mvpds-usage.png)
+
 ## Top 10 MVPDs by accounts {#top-10mvpds-accounts}
 
 When you use the selection **top 10 MVPDs by accounts** to define your segment, then the Account IQ system identifies 10 MVPDs from across the industry to a list of at most ten MVPDs (along with their corresponding metrics) in the descending order of their [sharing level](/help/AccountIQ/product-concepts.md)
