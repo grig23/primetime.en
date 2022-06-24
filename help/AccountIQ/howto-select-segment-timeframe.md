@@ -50,6 +50,7 @@ To select the desired programmer channels from the **Channels in segment** optio
 
    ![](assets/programmer-channels.png)
 
+   *Figure: Programmers and channels listed in channels selector*
 
    >[!IMPORTANT]
    >
@@ -73,7 +74,11 @@ In addition to changing your selection in the **MVPDs in segment** and **Channel
 
 ![](assets/segment-panel-selection1.png)
 
+*Figure: Selected MVPDs and channels in segment and timeframe panel*
+
 ![](assets/segment-panel-selection.png)
+
+*Figure: Selected MVPDs and channels in segment and timeframe panel*
 
 ## Granularity and time frame selection {#granularity-timeframe}
 
@@ -84,6 +89,8 @@ To select a time period of evaluation:
 1. Select either **Week** or **Month** from **Aggregate By** option to set granularity for your evaluation.
 
     ![](assets/granularity-timeframe-weekwise.png)
+
+    *Figure: Date picker to select Granularity and time frame*
 
 1. Once you have selected granularity, you can use forward or backward arrows to move forward or backward in time.
 

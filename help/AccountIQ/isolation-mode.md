@@ -26,7 +26,9 @@ To view metrics in isolation mode:
 
 1. Select **isolation mode** from the **MVPDs in segment** drop-down option, and select **Apply Selection**.
 
-   ![](assets/xfinity-in-segment.png)
+   ![](assets/xfinity-in-segment.gif)
+
+   *Figure: MVPD selection in Isolation mode*
 
 1. Select the desired channels from the **Channels in segment** drop-down option, and select **Apply Selection**. Also, select a [time frame](/help/AccountIQ/product-concepts.md#granularity-def).
 
@@ -35,5 +37,7 @@ To view metrics in isolation mode:
    >Because account sharing is more relevant when measured for streaming across all Programmers’ applications, you will see lower Sharing Scores and some variation in the metrics when in Isolation Mode.
 
    ![](assets/aggregate-sharing-isolation.png)
+
+   *Figure: Sharing probability gauges in Isolation mode*
 
    Note that the above gauges show that only 6% of all the accounts are being shared; and only 8% of the content is being consumed by those 8%. So the channels can compare their scores in Isolation Mode with that across the other MVPDs. Therefore, the information obtained by using Isolation Mode should be interpreted differently from the other data.
