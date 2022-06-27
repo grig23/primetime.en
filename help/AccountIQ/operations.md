@@ -9,7 +9,7 @@ Once you have understood your subscribers' usage patterns and identified passwor
 
 The Operations functionality in Account IQ help you effectively tackle and manage credential sharing through focused procedures called operations. It gives you options to design an objective, tailor targeted actions (based on the objective) for a specific groups of subscriber accounts, and automate their execution for a future duration. Through Operations functionality, you can not only create and execute operations, but also gauge their impacts. So, by gauging the impacts you can adjust your strategy to optimize the effect, whether converting borrowers or mitigating credential sharing.
 
-To view **Operations** page select **Operations** option under **Actions** in left navigation of Account IQ application. The Operations page lists all the operations already existing on the Account IQ system along with their details.
+To view **Operations** page select **Operations** option under **Actions** in left navigation of Account IQ application. The Operations page lists all the operations already existing on Account IQ system along with their details.
 
 ![](assets/operations-page.png)
 
@@ -17,7 +17,7 @@ To view **Operations** page select **Operations** option under **Actions** in le
 
 On the Operations page, you can:
 
-* View a list of operations already existing in the Account IQ
+* View a list of operations already existing in Account IQ
 
 * View operation details, such as:
 

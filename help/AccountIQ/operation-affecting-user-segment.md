@@ -73,7 +73,7 @@ The segment type option allows you to further refine your segment based on the e
 
 When you select **Fixed number of accounts** segment type, then you need to specify an evaluation period as well.
 
-By doing so, you are fixing the sample size for evaluation in terms of numbers. You are making the Account IQ identify a specific set of users (that meet the criteria of defined evaluation period and segment metrics) to operate on. The analysis and graphs will be generated for this specific set of users only (identified initially) throughout the operation.
+By doing so, you are fixing the sample size for evaluation in terms of numbers. You are making Account IQ identify a specific set of users (that meet the criteria of defined evaluation period and segment metrics) to operate on. The analysis and graphs will be generated for this specific set of users only (identified initially) throughout the operation.
 
 **Variable number of accounts**
 
@@ -85,9 +85,9 @@ When you select **Variable number of accounts** segment type, you do not limit t
 
 <!--
 
-you tell the Account IQ in the beginning of the operation which number of accounts to operate on.
+you tell Account IQ in the beginning of the operation which number of accounts to operate on.
 
-The account IQ system only has a segment definition, and during the operation it looks into all the accounts that fit that segments.
+Account IQ system only has a segment definition, and during the operation it looks into all the accounts that fit that segments.
 
 the number of accounts in segment is not limited, the accounts that fall under defined segment metrics will be part of the segment, and the no of accounts will change continuously, as there are no specific limitations - like an evaluation period in the past.When the segment is defined (which in this example is, subscriber accounts of MVPD 'C' who are viewing the channel 'N Sports' that have a sharing score above 80 and are using 10 different IPs) and we also identified a time period to evaluate a segment. This identifies X number of accounts as sample (for example 5000). How many devices they are using?
 It identifies x-number of accounts (5000)...a very specific set of users that meet this criteria.
@@ -116,7 +116,7 @@ There are two types of actions you can take:
 
 * Actions using systems integrated with Account IQ; such as [Concurrency Monitoring](https://tve.helpdocsonline.com/concurrency-monitoring-introduction), or Adobe Target.
 
-* Actions to create and process workflows; that are external to Account IQ and not integrated with the Account IQ system. For example, an action for channel programmer 'N' to send bulk emails to all the subscribers of MVPD 'C'.
+* Actions to create and process workflows; that are external to Account IQ and not integrated with Account IQ system. For example, an action for channel programmer 'N' to send bulk emails to all the subscribers of MVPD 'C'.
 
 >[!NOTE]
 >

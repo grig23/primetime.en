@@ -1,6 +1,6 @@
 ---
 title: Account IQ Best Practices
-description: Read on to understand how to better use the Account IQ tool.
+description: Read on to understand how to better use Account IQ tool.
 ---
 
 # Best Practices {#aiq-best-practices}
@@ -9,7 +9,7 @@ Account IQ enables you to maximize your business ROI, and eventually grow your s
 
 ## Analyze and understand {#analyze-understand}
 
-Authorized access of streaming services generates vast sums of data representing user activity. Use the Account IQ analytics tools to explore the data and identify interesting cohorts or behavioral patterns that indicate sharing. Then, segments representing a particular opportunity or objective can be identified.
+Authorized access of streaming services generates vast sums of data representing user activity. Use Account IQ analytics tools to explore the data and identify interesting cohorts or behavioral patterns that indicate sharing. Then, segments representing a particular opportunity or objective can be identified.
 
 To understand nature and impact of sharing on your business:
 

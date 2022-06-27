@@ -1,6 +1,6 @@
 ---
 title: How to onboard and get started with Account IQ
-description: How to onboard, prerequisites, and getting started with the Account IQ. 
+description: How to onboard, prerequisites, and getting started with Account IQ. 
 ---
 
 # How to onboard and get started with Account IQ {#onboard}
@@ -12,12 +12,12 @@ Account IQ is a hosted web application. To begin using this analytics tool as a 
 Account IQ is compatible with the most recent versions of the following browsers:
 
 * Google Chrome
+* Safari
 * Mozilla Firefox
-* Safari version
 
 ## Steps to onboard {#steps-to-onboard}
 
-1. To get your organization registered in **Adobe Experience Cloud** organizations contact **Adobe** by sending an email at tve-support@adobe.com.
+1. To get your organization registered in **Adobe Experience Cloud** organizations contact **Adobe** by sending an email to tve-support@adobe.com.
 
 1. Assign organization users to **TVE Dashboard Read-Write** or **TVE Dashboard Read Only** profiles in [Adobe Admin Console](https://adminconsole.adobe.com/).
 
@@ -38,7 +38,7 @@ Account IQ is compatible with the most recent versions of the following browsers
        >
        >In near future, Primetime Account IQ will split from TVE Dashboard.
 
-    1. Here you can create user groups, or select existing groups to add users to.
+    1. From here you can create user groups, or select existing groups to add users to.
 
        ![](assets/add-users-2profile.png)
 
@@ -46,4 +46,4 @@ Account IQ is compatible with the most recent versions of the following browsers
 
 >[!IMPORTANT]
 >
->If your users are not able to access the Account IQ dashboard, contact Adobe (or Adobe Support) as there is a possibility that your organization's ID is not whitelisted in Account IQ.
+>If your users are not able to access Account IQ dashboard, contact Adobe support to make sure that your organization's ID is whitelisted in Account IQ.

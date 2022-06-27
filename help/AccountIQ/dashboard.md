@@ -13,17 +13,17 @@ The Dashboard summarizes and aggregates data in a collection of graphs and repor
 
 The Aggregated Sharing Score panel provides a top line readout summarizing the quantity and impact of sharing in terms of accounts and streaming volume.
 
-Also known as Aggregated Risk Index or Risk Index and Sharing Risk Index, it is a value that helps you understand the magnitude of password sharing by your subscribers, hence providing you a sense of urgency to act upon it.
+The values help you understand the magnitude of credential sharing by your subscribers, hence providing a measure of the need to act upon it.
 
 ![](assets/aggregate-sharing-score.png)
 
-The following three metrics contribute to the Aggregate Sharing Score.
+The following three metrics are components of the Aggregate Sharing Score.
 
 ### Sharing level {#sharing-level}
 
 The sharing level gauge shows the percentage of all your subscriber accounts (in the defined segment) that are shared, during the selected time frame.  
 
-A value calculated based on an average of the sharing probability computed for every account in the set of selected MVPDs that has streamed from a one of the selected Programmer Channels during the selected time frame.
+A value calculated based on an average of the sharing probability computed for every account in the set of selected MVPDs that has streamed from a one of the selected programmer channels during the selected time frame.
 
 ![](assets/sharing-level.png)
 
@@ -31,7 +31,7 @@ The Trend indicator shows the percentage change in the value of the metric in fr
 
 ### Usage from shared account {#usage-from-shared-accounts}
 
-This gauge informs that what percent of the usage of all the subscriber accounts is from the shared accounts, in the defined segment in a time period. The gauge marks the ranges of usage (from shared accounts) on the scale of 0 to 100%. These ranges—named Low, Medium, High, and Abnormal—are based on the industry average.
+This gauge indicates what percent of the usage of all the subscriber accounts is from the shared accounts for the defined segment and time period. The gauge marks the ranges of usage (from shared accounts) on the scale of 0 to 100%. These ranges—named Low, Medium, High, and Abnormal—are based on the industry average.
 
 You can also see the Trend indicator, which depicts a dip or plunge in the usage from shared accounts as compared to the previous time frame.
 
@@ -41,9 +41,7 @@ You can also see the Trend indicator, which depicts a dip or plunge in the usage
 
 Overall sharing score is the probability of credential sharing by the subscribers of MVPDs viewing specific programmer channels in a segment for a specific time period.
 
-This index takes into account sharing level and usage from shared accounts. Account IQ assigns sharing scores to each of the subscriber accounts, just like credit scores. But, higher the overall sharing score of a subscriber account, the bad is it for the business.
-
-It is a value that helps users understand the magnitude of password sharing on Programmer properties or by MVPD subscribers and provide them a sense of urgency to act upon it.
+It provides a value meant to reflect the relative impact of sharing when compared to the industry. It’s purpose is similar to that of a credit score, summarizing the situation with a single number. But in this case, the higher the number the greater the potential harm.
 
 ![](assets/overall-sharing-score.png)
 
@@ -53,7 +51,7 @@ It is a table of risk indices and accounts totals for the top MVPDs ranked by ov
 
 ![](assets/mvpds-in-segment.png)
 
-### Top MVPDs based on sharing scores {#top-mvpds}
+### Industrywide overall sharing scores for MVPDs {#top-mvpds}
 
 It is a table of risk indices and accounts totals for top MVPDs ranked by the overall usage or account sharing score.
 
@@ -61,7 +59,7 @@ It is a table of risk indices and accounts totals for top MVPDs ranked by the ov
 
 ### Sharing score by channels and MVPDs {#sharin-score-by-channels-and-mvpds}
 
-It is the table of overall sharing score of each channel in the segment for top MVPDs.
+This table provides a comparative view of sharing scores of the selected channels for the MVPDs in the current segment.
 
 ![](assets/sharing-scores-by-channels-mvpds.png)
 

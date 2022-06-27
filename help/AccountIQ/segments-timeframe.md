@@ -5,15 +5,16 @@ description: Define cohorts or select subscriber segments to gauge the account s
 
 # Cohorts and subscriber segments {#cohorts-segments}
 
-When you log in to the Account IQ, there is a panel at the top that lets you define the subscriber [segment](/help/AccountIQ/product-concepts.md#segment-segmet-def) (or Cohort) to filter your results for viewing reports for subscriber sharing behavior and patterns.
+When you log into Account IQ, there is a panel at the top that lets you define the subscriber [segment](/help/AccountIQ/product-concepts.md#segment-segmet-def) to filter your results for viewing reports for subscriber sharing behavior and patterns.
 
 ![](assets/filter-panel.png)
 
-There are the following drop-down options which help you define your cohorts to study subscription sharing behavior:
+The following dropdown options are used to define segments:
 
 * **MVPDs in segment**
 
   The **MVPDs in segment** selector lets you choose the [MVPDs](/help/AccountIQ/product-concepts.md#mvpd-def) (individuals or group) for whose subscriber you want to view the account sharing reports.
+
   In this selector, apart from selecting the individual MVPDs you can also select the following groups:
   * [Top 10 MVPDs by sharing score](/help/AccountIQ/product-concepts.md#top-mvpds-def)
   * [Top 10 MVPDs by usage](/help/AccountIQ/product-concepts.md#top-mvpds-def)
@@ -28,6 +29,6 @@ There are the following drop-down options which help you define your cohorts to 
 
 * **Granularity and time frame**
   
-  The **Granularity and time frame** selector lets you specify the duration or size of time for which you want to view the subscriber sharing behavior.
+  The **Granularity and time frame** selector lets you specify the dates and the duration, or size of time for which you want to view the subscriber sharing behavior.
   
-So, with these controls you can define your problem statement as "subscribers of the MVPD A that watched the channels X, Y, and Z in the past 2 weeks' time".
+So, with these controls you can define your problem statement as "subscribers of the MVPD A that watched the channels X, Y, and Z in the month of May".

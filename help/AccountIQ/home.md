@@ -5,9 +5,9 @@ description: Account IQ helps MVPDs and programmers understand the risks to thei
 
 # Account IQ overview {#account-iq-overview}
 
-Credential sharing by streaming service subscribers is a major and growing problem for the industry. To add to it, understanding, identifying, and acting on credential sharing is a complex process. There is complexity involved in understanding the subscriber usage behavior and in developing a holistic view of their activity—for example, distinguishing sharing among members within the same household and outside. Due to this challenge, streaming service providers have inhibitions in acting against credential sharing.
+Credential sharing by streaming service subscribers is a major and growing problem for the industry. To add to it, understanding, identifying, and acting on credential sharing is a complex process. There is complexity involved in understanding the subscriber usage behavior and in developing a holistic view of their activity—for example, distinguishing sharing among members within the same household and outside. Due to this challenge, streaming service providers may have inhibitions in acting against credential sharing.
 
-Generally, video streaming service providers understand the risk and cost of sharing to their business but have limited remedies, such as blocking the sharers. However, an informed and targeted approach is recommended – one that enables services to understand sharing accurately and to adopt strategies that reward good viewing behavior and simultaneously target business growth.
+Generally, video streaming service providers understand the risk and cost of sharing to their business but have limited remedies, such as blocking the sharers or making offers. However, an informed and targeted approach is recommended—one that enables services to understand sharing accurately and to adopt strategies that reward good viewing behavior and simultaneously target business growth.
 
 ![Account IQ flow diagram](assets/aiq-intro.png)
 
@@ -17,7 +17,7 @@ Adobe Primetime Account IQ enables video streaming services to understand the su
 
 Account IQ provides the tools and features to measure, manage, and monetize credential sharing. Reports, analytics, and dashboards enable exploration of the data to identify patterns. Direct action is supported through exports and integrations with Adobe and 3rd party systems such as campaign management, currency limiting or subscriber registration. And dedicated tracking tools measure the success of those actions so they can be updated or expanded.
 
-The Account IQ application tools and features are explained in the following sections:
+Account IQ application tools and features are explained in the following sections:
 
 * [Dashboard](/help/AccountIQ/dashboard.md)
 * [General Usage reports](/help/AccountIQ/general-usage-reports.md)
