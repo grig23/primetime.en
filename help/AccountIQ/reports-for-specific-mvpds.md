@@ -32,6 +32,9 @@ To view reports in Account IQ, once you have successfully logged in to the appli
 * [Dashboard](/help/AccountIQ/dashboard.md) (dashboard gives a glimpse of the selected graphs from different reports pages).
 
   ![](assets/specific-mvpd-dashboard.png)
+
+Each of these pages will reflect the activity.
+
 <!--## If you are logged in as an MVPD {#report-sp-programmer}
 
 To view reports in Account IQ, once you have successfully logged in to the application as an MVPD:
