@@ -30,4 +30,3 @@ To view subscriber account sharing statistics for multiple MVPDs:
 * [Usage Patterns](/help/AccountIQ/usage-patterns.md)
 
 Each of these pages will reflect the activity.
-
