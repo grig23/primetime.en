@@ -15,6 +15,7 @@ To view reports in Account IQ, once you have successfully logged in to the appli
    >
    >You can select one, two, or multiple MVPDs, or even default selection of top 10 MVPDs (by sharing score, usage, or accounts).
    >
+   >
    >However, you can select [at most 10 MVPDs](/help/AccountIQ/limitations.md) from the MVPD selector in the [segment and time frame panel](/help/AccountIQ/segments-timeframe.md).
 
 1. Select a desired reports page from the left navigation:

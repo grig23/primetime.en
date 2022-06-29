@@ -27,7 +27,7 @@ To export the account sharing information of subscribers:
 
 1. Select the **Export top 1000 accounts** option to export the account information for 1000 subscribers with highest sharing probability.
 
-When you use the export option, the statistics for 1000 accounts with the highest sharing probabilities (for a defined time frame) are downloaded to the local Download folder of your Windows machine.
+When you use the export option, the statistics for 1000 accounts with the highest sharing probabilities (for a defined time frame) are downloaded to the Downloads folder of your local machine.
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Specific account which we are talking about in a row.
 
 **Minimum # Devices**
 
-The absolute minimum number of devices that have streamed content for the period.
+The actual number of devices (that stream content) is almost certainly greater than the minimum number of devices, specified for a particular account.
 
 >[!NOTE]
 >
@@ -65,25 +65,25 @@ The absolute minimum number of people that were active streaming content using t
 
 >[!NOTE]
 >
->The actual number of persons (that stream content) is certainly greater than the Minimum # of persons, specified for a particular account.
+>The actual number of persons (that stream content) is almost certainly much greater than the Minimum # of persons, specified for a particular account.
 
 **# IPs**
 
-Number of IP address that the content has streamed for.
+Number of IP addresses from which content is streamed.
 
-**#Locations**
+**# Locations**
 
 Locations from which the streaming occurred based on the Zip code.
 
-**#Cities**
+**# Cities**
 
 Number of cities where the streaming has taken place.
 
-**#States**
+**# States**
 
 Number of states where the streaming has taken place.
 
-**#Clusters**
+**# Clusters**
 
 A cluster is a collection of locations and devices. The clusters are created by finding common locations between devices. The devices that have been seen in a common location will be considered to belong in the same [Cluster](/help/AccountIQ/product-concepts.md#cluster-def).
 

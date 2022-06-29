@@ -56,6 +56,7 @@ To select the desired programmer channels from the **Channels in segment** optio
    >
    >Outcomes of selecting individual channels under a programmer are not the same as those of selecting the programmer.
    >
+   >
    >When you select individual channels, activities of those channels are broken down individually in some reports. However, when you select the parent programmer of all those channels, all of the activity of those channels are included but are not broken down individually in reports.
 
 1. Click or tap **Apply selection** for your selection to take effect.

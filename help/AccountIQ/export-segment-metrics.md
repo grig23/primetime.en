@@ -30,7 +30,7 @@ To export metrics for MVPDs and channels in a selected segment, once you are log
 
     1. Select **Apply**.
 
-1. Go to either of the following panels:
+1. Go to one of the following panels:
 
     * Industry-level sharing scores for selected MVPDs
     ![](assets/ind-sharpanel-export-option.png)
