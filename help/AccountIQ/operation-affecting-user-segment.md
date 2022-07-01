@@ -41,7 +41,7 @@ The **Segment** here defines the users who will be operated on by this operation
 ![](assets/operations-segment-selection.png)
 *Figure: Segment and timeframe selection on the main page*-->
 
-This segment defines the subscribers of the MVPDs and Channels that will be impacted by the operation being created. For an example, your (default) segment includes *all the subscriber accounts of MVPD named 'C' who view the channel 'N Sports'*.
+This segment defines the subscribers of the MVPDs and Channels that will be impacted by the operation being created. For example, your (default) segment includes *all the subscriber accounts of MVPD named 'C' who view the channel 'N Sports'*.
 
 ### Additional segmentation {#additional-segmentation}
 
@@ -51,13 +51,13 @@ Additionally, you can refine your target segment by adding more metrics. For exa
 
 *Figure: Additional segmentation*
 
-Further, if you refine the operation by adding another metric for number of devices. Then the updated problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 90 and are using more than 5 devices to view content during the evaluation period"*.
+Further, if you refine the operation by adding another metric for number of devices, then the updated problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 90 and are using more than 5 devices to view content during the evaluation period"*.
 
 ![](assets/refined-segment.png)
 
 *Figure: Refined example segment with overall sharing score and number of devices metrics*
 
-By doing this, the user group becomes even small. So, by using Additional segmentation and adding more metric and condition, you are additionally qualifying the segment to define your sample to operate on.
+By doing this, the user group becomes more refined. So, by adding more metrics and conditions, you are further qualifying the segment to define the accounts to operate on.
 
 ### Segment type {#segment-type}
 
@@ -67,7 +67,7 @@ Segment Type is the way in which a segment is treated throughout the operation's
 
 *Figure: Refine the number of segments to operate on using Segment type*
 
-The segment type option allows you to further refine your segment based on the evaluation period (or time).
+<!--The segment type option allows you to further refine your segment based on the evaluation period (or time).
 
 **Fixed number of accounts** 
 
@@ -77,7 +77,7 @@ By doing so, you are fixing the sample size for evaluation in terms of numbers. 
 
 **Variable number of accounts**
 
-When you select **Variable number of accounts** segment type, you do not limit the number of accounts in segment. The accounts which fall under the defined segment metrics are the part of the segment, and the number of accounts will change continuously during the course of operation.
+When you select **Variable number of accounts** segment type, you do not limit the number of accounts in segment. The accounts which fall under the defined segment metrics are the part of the segment, and the number of accounts will change continuously during the course of operation.-->
 
 >[!IMPORTANT]
 >
@@ -108,19 +108,19 @@ the......will vary from period to period.
 
 if not fixed segment, then I won't initially evaluate or have initial set of 5000, instead at every period during an operation and the.-->
 
-## Action{#action}
+## Action {#action}
 
-The **Action** defines what operations you can perform on the defined segment.
+The **Action** defines what operation you will perform on the defined segment.
 
 There are two types of actions you can take:
 
-* Actions using systems integrated with Account IQ; such as [Concurrency Monitoring](https://tve.helpdocsonline.com/concurrency-monitoring-introduction), or Adobe Target.
+* Actions using systems integrated with Account IQ; such as [Concurrency Monitoring](https://tve.helpdocsonline.com/concurrency-monitoring-introduction)<!--, or Adobe Target-->.
 
-* Actions to create and process workflows; that are external to Account IQ and not integrated with Account IQ system. For example, an action for channel programmer 'N' to send bulk emails to all the subscribers of MVPD 'C'.
+* Actions to create and process workflows that are external to Account IQ and not integrated with Account IQ system. For example, an action for channel programmer 'N' to send bulk emails to all the subscribers of MVPD 'C'.
 
 >[!NOTE]
 >
->By creating operations, you not only create actions and define their scope, but also record them to track the effect of these operations.
+>By creating operations, you not only specify actions and define their scope, but also begin to record the effect of these operations.
 
 ## Schedule{#schedule}
 
@@ -130,12 +130,13 @@ You can schedule the activation for the operation by setting start and end dates
 >
 >The start date and end date have a granularity same as the granularity you selected for the evaluation when defining segment using **segment and timeframe panel**, in step 1.
 >
+>
 >So if you selected the granularity as Week then the start and end dates are in terms of week (for example Week 14); if you select granularity as Month, then the start and end dates are in terms of months.
 
 
 >[!IMPORTANT]
 >
->The Start date must be later than the evaluation period and also later than the current date. Similarly, the end date should also be later than the Start date and the current date.
+>The Start date must be later than the evaluation period and also later than the current date. Similarly, the end date must also be later than the Start date and the current date.
 
 ### Save the operation {#save-operation}
 
@@ -147,7 +148,7 @@ When you save the operation, a message screen is displayed that informs you that
 
 >[!NOTE]
 >
->It is advised to name your operation based on the action you are taking in combination with the segment you will act on.
+>It is a best practice to name your operation based on the action you are taking in combination with the segment you will act on.
 
 <!--In future you can select this saved segment when defining a segment for your analysis on the main reports page. Moreover, the saved segment is also listed when you create an operation the next time.
 
@@ -161,7 +162,7 @@ When you save the operation, a message screen is displayed that informs you that
 >
 >Adding new metrics creates a new segment, but you cannot modify an existing segment.-->
 
-Once you have created an operation, it will run from the start date till the end date that you have mentioned.
+Once you have created an operation, it will run from the start date till the end date that you have specified.
 
 The details of your saved operation can be seen on the main [Operations](/help/AccountIQ/operations.md) page.
 
