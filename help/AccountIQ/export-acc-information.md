@@ -123,7 +123,7 @@ The numbers in this column are identifiers that map to one of the 14 patterns th
 
 *Table: Usage pattern identifiers in exported CSV mapping with usage patterns*
 
- | ID | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9-11 | 12 | 13 | 14 |
+ | ID | 1 | 2 | 3 | 4 | 5 + 8 | 6 | 7 | 9 | 10 + 11 | 12 | 13 | 14 |
  |---|---|---|---|---|---|---|---|---|---|---|---|---|
  | Usage Patterns | Regular user | Traveler or commuter | Large family | Close family and friends | Social group sharing | Large group of friends | Concurrent streaming | Community sharing | Uncertain behavior | Small family | Second home | Abnormal Usage |
 

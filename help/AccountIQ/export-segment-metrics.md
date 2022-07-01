@@ -9,26 +9,7 @@ The Dashboard in Account IQ displays tables and graphs for credential sharing st
 
 To export metrics for MVPDs and channels in a selected segment, once you are logged in as an authorized programmer user:
 
-1. Select the MVPDs (from **MVPDs in segment** option) for which you want to export subscriber statistics and select **Apply selection**. For example, you selected five MVPDs.
-
-   * Either select **All**, or either of the **Top 10 MVPDs** (by sharing score, usage, or accounts), or select the individual MVPDs.
-   * If you want to select individual MVPDs, then deselect **All** and select the MVPDs one by one.
-
-1. Select the desired programmer channels (from **Channels in segment** option). For example, you selected a channel named LN.
-
-   >[!NOTE]
-   >
-   >The selected MVPDs and Channels are listed under the MVPD and channel selectors. Also there is an option to **Clear selection** next to the listed items.
-
-   ![](assets/segment-select-2-export.png)
-
-1. Select a timeframe for evaluation from **Granularity and time frame** option.
-
-    1. Use **Aggregated By** option to select the granularity of your evaluation as a Week or a Month.
-
-    1. After specifying the granularity select the desired timeframe, either a week or a month (based on the granuarity you selected).
-
-    1. Select **Apply**.
+1. Define a desired segment following the steps in [How to define segment and select timeframe](/help/AccountIQ/howto-select-segment-timeframe.md) for evaluation from [segment and timeframe](/help/AccountIQ/segments-timeframe.md) panel.
 
 1. Go to one of the following panels:
 

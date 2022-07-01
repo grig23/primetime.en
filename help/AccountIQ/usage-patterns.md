@@ -5,7 +5,7 @@ description: View account sharing behavior for different user typologies.
 
 # Usage Patterns {#usage-patterns}
 
-Account IQ classifies users of subscriber accounts into various categories in terms of their social behavior. The **Usage Patterns** page shows analytics and reports for these user typologies. For example, **Usage patterns distribution - Users in segment vs industry** report compares.
+Account IQ classifies users of subscriber accounts into various categories in terms of their social behavior. The **Usage Patterns** page shows analytics and reports for these user typologies. For example, **Usage patterns distribution - Users in segment vs industry** report compares the usage behavior of different user categories in a segment with the user categories in entire industry.
 
 Once you define a segment by selecting MVPDs, Channels, and time frame from the [segment panel](/help/AccountIQ/segments-timeframe.md), the reports are generated on this page for various user types based on their viewing behavior.
 
