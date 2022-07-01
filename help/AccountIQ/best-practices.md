@@ -6,6 +6,7 @@ description: Read on to understand how to better use Account IQ tool.
 # Best Practices {#aiq-best-practices}
 
 Account IQ enables you to identify credential sharing, measure its scope and impact, segment relevant cohorts, and track the effect of targeted actions. It offers a variety of tools, charts and reports used to understand and manage shared accounts that can be used in any number of ways. Each streaming service approaches this behavior and develops processes that match their unique goals, and the product is designed to flexibly meet those needs.  However, there are some rules of general practices that can be applied to a broad set of scenarios.
+
 ## Analyze and understand {#analyze-understand}
 
 Account IQ tools assist in understanding the nature and breadth of credential sharing on your business, from the highest-level charts that display the percentage of shared accounts to the lowest level exports that report the characteristics of individual accounts. Especially at the outset, use these tools to explore the data and identify unusual or interesting cohorts or behavioral patterns – indicating high levels of sharing for example. Then, segments representing a particular opportunity or objective can be identified.
