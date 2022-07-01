@@ -73,7 +73,7 @@ Number of IP addresses from which content is streamed.
 
 **# Locations**
 
-Locations from which the streaming occurred based on the Zip code.
+Number of locations (based on zip code) from which content is streamed.
 
 **# Cities**
 
@@ -85,11 +85,11 @@ Number of states where the streaming has taken place.
 
 **# Clusters**
 
-A cluster is a collection of locations and devices. The clusters are created by finding common locations between devices. The devices that have been seen in a common location will be considered to belong in the same [Cluster](/help/AccountIQ/product-concepts.md#cluster-def).
+The number of distinct [clusters](/help/AccountIQ/product-concepts.md#cluster-def) where streaming has taken place.
 
 **Geographic span (miles)**
 
-The maximum distance between the locations associated with the account.
+The maximum distance between the streaming locations associated with the account.
 
 **# AuthN OK**
 
@@ -101,7 +101,7 @@ Number of times an MVPD has authorized a stream, or granted access (to content),
 
 >[!NOTE]
 >
->The **# AuthZ OK** is related to the **# Play Requests**; it is smaller that the **# Play Requests** because Adobe caches the authorizations that come for MVPDs for 24 hours.
+>The **# AuthZ OK** is related to the **# Play Requests**; it is smaller than the **# Play Requests** because Adobe caches the authorizations that come for MVPDs typically for 24 hours.
 
 **# Play Requests**
 
