@@ -1,21 +1,50 @@
 ---
-title: PTAI 22.2.2 release notes
+title: PTAI 22.6.2 release notes
 description: The PTAI release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2022.
 exl-id: 58b254b8-18b9-48ba-bd4e-378785e56af5
 ---
-# Primetime Ad Insertion 22.2.2 Release Notes
+# Primetime Ad Insertion 22.6.2 Release Notes
 
 Primetime Ad Insertion 22.xx.x release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2022.
 
-## What's new in PTAI 22.4.4
+## What's new in PTAI 22.6.2
 
-When: Wednesday, April 20, 2022 3:00 AM to 6:00 AM Eastern Time
+When: Wednesday, June 29, 2022, 3:00 AM to 6:00 AM Eastern Time
+
+* Enhancement of ad performance logging with more details on avail loss.
+
+* Additional net-storage origins for CRS.
+
+## Enhancements and fixes in previous release versions
+
+### Version 22.6.1
+
+**When:** Tuesday, June 14, 2022, 3:00  AM to 6:00 AM Eastern Time
+
+**Changes**
+
+* Support for multi-period DASH VOD/FER
+* DASH Mime type fix for HLS
+* Integrated legacy consoles within Unified UI
+* New impression dimension values are being passed to the service
+
+### Version 22.5.2
+
+**When:** Wednesday, May 25, 2022, 3:00 AM to 6:00 AM Eastern Time
+
+**Changes**
+
+* Enhancements to functionality, usability, and reliability in legacy SSAI and CRS consoles.
+
+### Version 22.4.4
+
+**When:** Wednesday, April 20, 2022 3:00 AM to 6:00 AM Eastern Time
+
+**Changes**
 
 * An update to capture new ad performance events around ad calls.
 
 * An update to capture new impression dimensions to enrich reporting interface, internal billing, and ad performance initiatives.
-
-## Enhancements and fixes in previous release versions
 
 ### Version 22.3.2
 
