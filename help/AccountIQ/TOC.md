@@ -31,3 +31,4 @@ audience: end-user
 + [Frequently asked questions](/help/AccountIQ/faq.md)
 + [Best practices](/help/AccountIQ/Best-Practices.md)
 + [Glossary of product concepts](/help/AccountIQ/product-concepts.md)
++ [MVPD persona](/help/AccountIQ/MVPD-persona.md)
