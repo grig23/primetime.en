@@ -55,7 +55,7 @@ Further, if you refine the operation by adding another metric for number of devi
 
 ![](assets/refined-segment.png)
 
-<img src= assets/refined-segment.png width="700" height="175">
+<img src="assets/refined-segment.png" width="700" height="175">
 
 *Figure: Refined example segment with overall sharing score and number of devices metrics*
 
