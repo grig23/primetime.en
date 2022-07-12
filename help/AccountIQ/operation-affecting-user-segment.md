@@ -55,6 +55,8 @@ Further, if you refine the operation by adding another metric for number of devi
 
 ![](assets/refined-segment.png)
 
+<img src= assets/refined-segment.png width="700" height="175">
+
 *Figure: Refined example segment with overall sharing score and number of devices metrics*
 
 By doing this, the user group becomes more refined. So, by adding more metrics and conditions, you are further qualifying the segment to define the accounts to operate on.
