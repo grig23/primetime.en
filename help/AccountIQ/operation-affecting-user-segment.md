@@ -65,6 +65,9 @@ Segment Type is the way in which a segment is treated throughout the operation's
 
 ![](assets/segment-type.png)
 
+
+![](assets/segment-type-1.png)
+
 *Figure: Refine the number of segments to operate on using Segment type*
 
 <!--The segment type option allows you to further refine your segment based on the evaluation period (or time).
