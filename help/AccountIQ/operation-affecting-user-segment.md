@@ -53,9 +53,6 @@ Additionally, you can refine your target segment by adding more metrics. For exa
 
 Further, if you refine the operation by adding another metric for number of devices, then the updated problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 90 and are using more than 5 devices to view content during the evaluation period"*.
 
-<!--![](assets/refined-segment.png)
--->
-
 <img src="assets/refined-segment.png" width="700" height="175" />
 
 *Figure: Refined example segment with overall sharing score and number of devices metrics*
