@@ -53,7 +53,7 @@ Additionally, you can refine your target segment by adding more metrics. For exa
 
 Further, if you refine the operation by adding another metric for number of devices, then the updated problem statement reads *"create an operation for subscriber accounts of MVPD named 'C' who are viewing the channel 'N Sports' that have a sharing score above 90 and are using more than 5 devices to view content during the evaluation period"*.
 
-<img src="assets/refined-segment.png" width="350" height="75" />
+![](assets/refined-segment.png)
 
 *Figure: Refined example segment with overall sharing score and number of devices metrics*
 
@@ -64,9 +64,6 @@ By doing this, the user group becomes more refined. So, by adding more metrics a
 Segment Type is the way in which a segment is treated throughout the operation's evaluation period.
 
 ![](assets/segment-type.png)
-
-
-![](assets/segment-type-1.png)
 
 *Figure: Refine the number of segments to operate on using Segment type*
 
