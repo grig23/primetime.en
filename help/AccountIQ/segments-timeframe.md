@@ -25,7 +25,7 @@ The following dropdown options are used to define segments:
 
   The **Channels in segment** selector lets you further narrow down your filter to select channels corresponding to the selected MVPDs.
 
-  For example, you can define your segment as the "subscribers of the MVPD A that watched the channels X, Y, and Z".
+  <!--For example, you can define your segment as the "subscribers of the MVPD A that watched the channels X, Y, and Z".-->
 
 * **Granularity and time frame**
   
