@@ -1,7 +1,8 @@
 ---
-title: Account IQ Best Practices
+title: Best Practices
 description: Read on to understand how to better use Account IQ tool.
 ---
+
 
 # Best Practices {#aiq-best-practices}
 
