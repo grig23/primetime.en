@@ -7,7 +7,7 @@ audience: end-user
 + [Account IQ Overview](/help/AccountIQ/home.md)
 + [Get started with Account IQ](/help/AccountIQ/get-started.md)
 + Account IQ components {#account-iq-components}
-  + [Subscriber segments and time frame](/help/AccountIQ/segments-timeframe.md)
+  + [Segments and time frame](/help/AccountIQ/segments-timeframe.md)
   + [Dashboard](/help/AccountIQ/dashboard.md)
   + Reports {#reports-account-iq}
     + [General Usage reports](/help/AccountIQ/general-usage-reports.md)
@@ -23,10 +23,11 @@ audience: end-user
     + [Reports for top 10 MVPDs](/help/AccountIQ/top-10-mvpd-reports.md)
     + [Reports for multiple MVPDs](viewrep-multiple-mvpd-channel.md)
     + [Isolation Mode and sharing behavior](/help/AccountIQ/isolation-mode.md)
-  + [Export MVPD and channel reports](/help/AccountIQ/export-segment-metrics.md)
-  + [Export high sharing accounts](/help/AccountIQ/export-acc-information.md)
+  + [Export metrics for MVPDs and channels in a segment](/help/AccountIQ/export-segment-metrics.md)
+  + [Export account information of users with high sharing scores](/help/AccountIQ/export-acc-information.md)
   + [Create an operation on a user segment](/help/AccountIQ/operation-affecting-user-segment.md)
 + [Limitations](/help/AccountIQ/limitations.md)
 + [Troubleshoot](/help/AccountIQ/troubleshoot.md)
 + [Frequently asked questions](/help/AccountIQ/faq.md)
++ [Best practices](/help/AccountIQ/best-practices.md)
 + [Glossary of product concepts](/help/AccountIQ/product-concepts.md)
