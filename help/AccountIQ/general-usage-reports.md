@@ -139,9 +139,9 @@ Once you have defined a segment (by selecting MVPDs and channels) and set the th
 
 ## IPs per week (or month) per Account {#ip-week-account}
 
-Similar to [Devices per week (or month) per Account](#devices-week-account) and [Locations per week (or month) per Account](#locations-week-account), the **Number of IPs per week (or month) per account** metric lets you analyze password sharing more precisely and with more granularity.
+Similar to [Devices per week (or month) per Account](#devices-week-account) and [Locations per week (or month) per Account](#locations-week-account), the **Number of IPs per week per account** metric lets you analyze password sharing more precisely and with more granularity.
 
-The x-axis plots Number of Accounts, and y-axis plots Number of IPs. When you analyze how multiple IP addresses are used to consume content by the same subscriber, it adds more value to your subscribers' usage analysis.
+The x-axis plots Number of Accounts, and y-axis plots Number of IPs.
 
 ![](assets/graph-ip-week-acc.png)
 
@@ -157,7 +157,7 @@ Once you have defined a segment (by selecting MVPDs and channels) and set the th
 
 The Historical View bar graph helps you compare the usage metrics across different time frames. Also, it collectively plots the various usage metrics, such as [Devices per week (or month) per Account](#devices-week-account), [Locations per week (or month) per Account](#locations-week-account), and [IPs per week (or month) per Account](#ip-week-account).
 
-* The x-axis plots the time frame, and y- axis plots number of subscriber accounts.
+* The x-axis plots the time frame, and y- axis plots number of subscriber accounts, devices, locations and IP’s.
 
 * The orange colored bars signify segments in various time frames.
 

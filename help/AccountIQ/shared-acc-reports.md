@@ -5,7 +5,9 @@ description: Shared accounts reports
 
 # Shared Accounts Reports {#shared-accounts-reports}
 
-The Shared Accounts Reports break down the metrics such as number of devices and device types by the selected range of sharing probability, for example **Over Moderate Probability** and **Over Low Probability**. These ranges can then serve as user defined thresholds and the graphs are updated based on the selected thresholds.
+The Shared Accounts Reports break down the metrics such as number of devices and device types by the selected range of sharing probability, for example **Over Moderate Probability** and **Over Low Probability** for the current segment.
+
+These ranges can then serve as user defined thresholds and the graphs are updated based on the selected thresholds.
 
 Account IQ classifies all the subscriber accounts of the defined segment into the accounts with the following five categories based on their sharing probabilities:
 
@@ -14,8 +16,6 @@ Account IQ classifies all the subscriber accounts of the defined segment into th
 * Moderate (40%-60%)
 * Low (20%-40%)
 * Very low (0%-20%)
-
-Once you define a segment by selecting the desired MVPDs from **MVPDs in segment** option and the programmer channels from the **Channels in segment** option, the following charts are prepared based on the sharing probabilities of accounts.
 
 ## Accounts Sharing Probability {#accounts-sharing-probability}
 
@@ -61,11 +61,9 @@ When you move cursor on the donut chart, it also shows subscriber percentages an
 
 ## Segment-Average Number of Devices Per Account{#avg-devices-account}
 
-The bar chart shows number of subscribers in the current segment and number of subscribers not in current segment devices-wise
+The bar chart shows average number of devices of each device type in use by subscribers in the current segment and subscribers not in current segment.
 
 ![](assets/avg-devices-per-acc.png)
-
-From this metric you can deduce that how many subscribers in and outside the defined segment are using what all devices.
 
 ## Segment - Zip codes per Period per Account {#zip-codes-period-account}
 
@@ -79,7 +77,7 @@ You can zoom in to narrow down and view specifics of a bar in the graph that plo
 
 ## Segment - Geographical Span / Period / Account {#geo-span-period-account}
 
-This bar graph plots number of subscriber accounts with respect to different ranges of geographical ranges in miles. Based on the subscriber locations and their distances (in miles) from each other you can compare how many accounts are within a range of x miles of each other.  
+This bar graph plots number of subscriber accounts with respect to different ranges of geographical ranges in miles. The range is based on the maximum distance between the locations from which a subscriber has streamed during the time frame.
 
 <!--Total number of users ...
 
