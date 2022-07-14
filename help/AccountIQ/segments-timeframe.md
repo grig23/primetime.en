@@ -1,9 +1,9 @@
 ---
-title: Cohorts and subscriber segments
+title: Subscriber segments and time frame
 description: Define cohorts or select subscriber segments to gauge the account sharing possibilities and patterns of your channel viewers to use graphical tools and reports in Account IQ.
 ---
 
-# Cohorts and subscriber segments {#cohorts-segments}
+# Subscriber segments and time frame {#cohorts-segments}
 
 When you log into Account IQ, there is a panel at the top that lets you define the subscriber [segment](/help/AccountIQ/product-concepts.md#segment-segmet-def) to filter your results for viewing reports for subscriber sharing behavior and patterns.
 

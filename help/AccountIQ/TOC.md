@@ -7,7 +7,7 @@ audience: end-user
 + [Account IQ Overview](/help/AccountIQ/home.md)
 + [Get started with Account IQ](/help/AccountIQ/get-started.md)
 + Account IQ components {#account-iq-components}
-  + [Segments and time frame](/help/AccountIQ/segments-timeframe.md)
+  + [Subscriber segments and time frame](/help/AccountIQ/segments-timeframe.md)
   + [Dashboard](/help/AccountIQ/dashboard.md)
   + Reports {#reports-account-iq}
     + [General Usage reports](/help/AccountIQ/general-usage-reports.md)

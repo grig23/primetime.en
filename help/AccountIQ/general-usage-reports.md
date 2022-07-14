@@ -17,7 +17,9 @@ device filters
 segment and definition replicate to cohorts. Number of people and number of account that ......
 content consumption.....-->
 
-To view General Usage Reports:
+The reports are all based on the current segment selected using [Segments and time frame](/help/AccountIQ/howto-select-segment-timeframe.md panel. You can fine tune your selection and further narrow it down by specifying (number of devices, number of IPs, and number of zip codes) thresholds in [Snapshot Overview - Accounts above thresholds](#snapshot-overview) panel.
+
+<!--To view General Usage Reports:
 
 1. Select the desired MVPDs from the **MVPDs in Segment** option.
 
@@ -27,31 +29,31 @@ To view General Usage Reports:
 
    Using the above options you have defined segments for your analysis. Based on your segment selection, following graphs and reports are displayed.
 
-4. You can fine tune your selection and further narrow it down by specifying (number of devices, number of IPs, and number of zip codes) thresholds in [Snapshot Overview - Accounts above thresholds](#snapshot-overview) widget/panel.
+4. You can fine tune your selection and further narrow it down by specifying (number of devices, number of IPs, and number of zip codes) thresholds in [Snapshot Overview - Accounts above thresholds](#snapshot-overview) widget/panel.-->
 
 ## AuthN OK / AuthZ OK / Play Requests / Unique Subscribers {#authn-authz-playreq-uniquesubs}
 
-The line graph here gives you a view of the changes over time in values of AuthN OK, AuthZ OK, Play Requests, and Unique Subscribers in a selected time frame for a defined segment.
+The line graphs here gives you a view of the changes over time in values of AuthN OK, AuthZ OK, Play Requests, and Unique Subscribers in a selected time frame for the defined segment.
 
 ![](assets/line-graph-gu.png)
 
-The x-axis has time duration plotted on it and the y-axis has absolute numbers of subscribers, play requests, and authentication attempts plotted on it. The line graph lets you compare the following values for the subscribers of MVPDs you selected in the segment selection panel:
+The x-axis presents the units within the current time frame and the y-axis represents basic subscriber activity metrics during that period. The line graphs lets you compare the following values for the subscribers of MVPDs and channels you selected in the segment selection panel:
 
 * **AuthN OK**
 
-    AuthN OK is the number of successful authentications, or the users' identification that are confirmed by an MVPD and user is redirected to the programmer application or site.
+    AuthN OK is the number of successful authentications. For more information and definition see [Product concepts: AuthN OK](/help/AccountIQ/product-concepts.md#authn-ok-def).
 
 * **AuthZ OK**
   
-    AuthZ OK is the number of successful authorizations, or the streaming requests (to stream a user's requested content) made by programmers (through Adobe) that are approved by MVPDs. The MVPDs grant the request based on the content rights associated with the user's MVPD subscription — for examaple whether the channel associated with the content is in the user's subscription.
+    AuthZ OK is the number of successful authorizations. For more information and definition see [Product concepts: AuthZ OK](/help/AccountIQ/product-concepts.md#authz-ok-def).
 
 * **Play Requests**
 
-    Play requests are the requests made by a client application (or site) to Adobe to request a media token to record and secure a activities.
+    Play requests are the number of Play Requests. For more information and definition see [Product concepts: Play requests](/help/AccountIQ/product-concepts.md#play-requests-def)
 
 * **Unique Subscribers**
 
-    Unique subscribers are the number of unique accounts subscribed to an MVPD that have interacted with video service provider apps (or sites) for a given period. The interaction includes any activity on the programmer app (or site) resulting in a call to an Adobe service.
+    Unique subscribers are the number of successful unique subscribers. For more information and definition see [Product concepts: Unique subscribers](/help/AccountIQ/product-concepts.md#unique-subscriber-def)
 
     >[!NOTE]
     >
@@ -67,13 +69,13 @@ Fine tune your analytics and reports using this additional filter to set various
 
 * Number of Zip Codes Threshold
 
-When you update threshold values in [Accounts Segment - based on selected thresholds](#account-segments-basedon-segments) panel, then you can study the variations in:
+When you update threshold values in [Accounts Segment - based on selected thresholds](#account-segments-basedon-segments) panel, you can view the affect in:
 
-* [Devices per week per account](#devices-week-account)
+* [Devices per week (or month) per account](#devices-week-account)
 
-* [Locations per week per account](#locations-week-account)
+* [Locations per week (or month) per account](#locations-week-account)
 
-* [IPs per week per account](#ip-week-account)
+* [IPs per week (or month) per account](#ip-week-account)
 
 * [Historical view of accounts segment](#account-segment-historical-view)
 
@@ -95,21 +97,21 @@ The graph shows you the:
 
 ![](assets/select-thresholds.png)
 
-## Devices per Week per Account {#devices-week-account}
+## Devices per week (or month) per Account {#devices-week-account}
 
-The **bar graph** gives you a glimpse of usage behavior in terms of how are the subscribers of your MVPDs using their devices to access content from your channel.
+The **bar graph** provides insights into usage behavior in terms of how the subscribers of your MVPDs are using their devices to access content from your channel.
 
 The x-axis plots Number of Accounts, and y-axis plots Number of Devices. Based on the threshold you set for number of devices per account, it marks the absolute number of subscriber accounts consuming content from specific number of devices in a week's duration.  
 
 ![](assets/bar-gr-devices-w-acc.png)
 
-On selecting a bar (specific to number of devices), a label appears that gives information about the number of subscriber accounts (and the percentage out of total subscriber accounts in segment) that are streaming channel content using those many devices in a week.
+When hovering over a bar (specific to number of devices), a label appears that gives information about the number of subscriber accounts (and the percentage out of total subscriber accounts in segment) that are streaming channel content using those many devices in a week.
 
 The graph also marks the following:
 
 * A red line to mark the threshold you set.
 
-* A green line to mark the average of the number of different devices used by a subscriber account per week.
+* A green line to mark the average of the number of different devices used by a subscriber account per week (or month).
 
 You can compare the level of threshold with weekly average of number of different devices used by an account, to judge the level of sharing.
 
@@ -119,11 +121,11 @@ The donut chart helps you judge the magnitude of subscriber accounts consuming c
 
 ![](assets/donut-devices-w-acc.png)
 
-## Locations per Week per Account {#locations-week-account}
+## Locations per week (or month) per Account {#locations-week-account}
 
-Like [Devices per Week per Account](#devices-week-account), the Locations per Week per Account metric help you analyze the subscriber account usage from different locations, to more closely identify password sharing. The x-axis plots Number of Accounts, and y-axis plots Number of Locations.
+Like [Devices per week (or month) per Account](#devices-week-account), the Locations per week (or month) per Account metric help you analyze the subscriber account usage from different locations, to more closely identify password sharing. The x-axis plots Number of Accounts, and y-axis plots Number of Locations.
 
-Results from this metric combined with number of [Devices per Week per Account](#devices-week-account) and number of [IPs per Week per Account](#ip-week-account) help you more accurately judge the password sharing instances; such that authentic users are not counted in.
+Results from this metric combined with number of [Devices per week (or month) per Account](#devices-week-account) and number of [IPs per week (or month) per Account](#ip-week-account) help you more accurately judge the password sharing instances; such that authentic users are not counted in.
 
 ![](assets/graph-loc-week-acc.png)
 
@@ -135,9 +137,9 @@ Once you have defined a segment (by selecting MVPDs and channels) and set the th
 
 * Compare the weekly average (number of different locations for an account) with Threshold.
 
-## IPs per Week per Account {#ip-week-account}
+## IPs per week (or month) per Account {#ip-week-account}
 
-Similar to [Devices per Week per Account](#devices-week-account) and [Locations per Week per Account](#locations-week-account), the **Number of IPs per week per account** metric lets you analyze password sharing more precisely and with more granularity.
+Similar to [Devices per week (or month) per Account](#devices-week-account) and [Locations per week (or month) per Account](#locations-week-account), the **Number of IPs per week (or month) per account** metric lets you analyze password sharing more precisely and with more granularity.
 
 The x-axis plots Number of Accounts, and y-axis plots Number of IPs. When you analyze how multiple IP addresses are used to consume content by the same subscriber, it adds more value to your subscribers' usage analysis.
 
@@ -153,13 +155,13 @@ Once you have defined a segment (by selecting MVPDs and channels) and set the th
 
 ## Accounts Segment - Historical View {#account-segment-historical-view}
 
-The Historical View bar graph helps you compare the usage metrics across different time frames. Also, it collectively plots the various usage metrics, such as [Devices per Week per Account](#devices-week-account), [Locations per Week per Account](#locations-week-account), and [IPs per Week per Account](#ip-week-account).
+The Historical View bar graph helps you compare the usage metrics across different time frames. Also, it collectively plots the various usage metrics, such as [Devices per week (or month) per Account](#devices-week-account), [Locations per week (or month) per Account](#locations-week-account), and [IPs per week (or month) per Account](#ip-week-account).
 
 * The x-axis plots the time frame, and y- axis plots number of subscriber accounts.
 
 * The orange colored bars signify segments in various time frames.
 
-* The line graph plots the changes in [Devices per Week per Account](#devices-week-account), [Locations per Week per Account](#locations-week-account), and [IPs per Week per Account](#ip-week-account) values across the time frame based on the threshold.
+* The line graph plots the changes in [Devices per week (or month) per Account](#devices-week-account), [Locations per week (or month) per Account](#locations-week-account), and [IPs per week (or month) per Account](#ip-week-account) values across the time frame based on the threshold.
 
 ![](assets/historical-view.png)
 

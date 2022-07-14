@@ -29,31 +29,35 @@ A value calculated based on an average of the sharing probability computed for e
 
 The Trend indicator shows the percentage change in the value of the metric in from the previous time frame.
 
-### Usage from shared account {#usage-from-shared-accounts}
+### Usage from shared accounts {#usage-from-shared-accounts}
 
 This gauge indicates what percent of the usage of all the subscriber accounts is from the shared accounts for the defined segment and time period. The gauge marks the ranges of usage (from shared accounts) on the scale of 0 to 100%. These ranges—named Low, Medium, High, and Abnormal—are based on the industry average.
 
-You can also see the Trend indicator, which depicts a dip or plunge in the usage from shared accounts as compared to the previous time frame.
+You can also see the Trend indicator, which depicts a rise or fall in the usage from shared accounts as compared to the previous time frame.
 
 ![](assets/usage-4mshared-accounts.png)
 
 ### Overall sharing score {#overall-sharing-score}
 
-Overall sharing score is the probability of credential sharing by the subscribers of MVPDs viewing specific programmer channels in a segment for a specific time period.
+Overall sharing score is composite of sharing scores including “Sharing level” and “z Usage from shared accounts”.
 
 It provides a value meant to reflect the relative impact of sharing when compared to the industry. It’s purpose is similar to that of a credit score, summarizing the situation with a single number. But in this case, the higher the number the greater the potential harm.
 
 ![](assets/overall-sharing-score.png)
 
-### MVPDs in segment {#mvpd-in-segment}
+<!--### MVPDs in segment {#mvpd-in-segment}
 
 It is a table of risk indices and accounts totals for the top MVPDs ranked by overall usage or account sharing.
 
-![](assets/mvpds-in-segment.png)
+![](assets/mvpds-in-segment.png)-->
 
 ### Industrywide overall sharing scores for MVPDs {#top-mvpds}
 
-It is a table of risk indices and accounts totals for top MVPDs ranked by the overall usage or account sharing score.
+This table provides a comparative view of the different Aggregated Sharing Scores for the MVPDs in the segment.
+
+>[!NOTE]
+>
+>This table uses overall industry data for comparative purposes, not the data represented by those MVPDs in the segment.
 
 ![](assets/top-mvpds.png)
 
@@ -65,12 +69,17 @@ This table provides a comparative view of sharing scores of the selected channel
 
 ### Accounts sharing probability {#accounts-sharing-probability}
 
-It partitions accounts into ranges of sharing probability from very low to very high.
+This chart partitions accounts into ranges of sharing probability quintiles from very low (0-20%) to very high (80=100%).
+
+>[!NOTE]
+>
+>The bar graph uses a logarithmic scale.
+
 
 ![](assets/dashboard-ac-sharing-prob.png)
 
 ### Number of accounts and usage by sharing probability level {#number-of-accounts-usage-sharing-probability}
 
-Shows account totals, usage, and trends for accounts partitioned into ranges of sharing probability of very low to very high.
+This panel provides tabular view of  accounts partitioned into ranges of sharing probability quintiles from very low (0-20%) to very high (80=100%) with each quintile’s associated usage from shared accounts.
 
 ![](assets/no-acc-usage-prob-level.png)
