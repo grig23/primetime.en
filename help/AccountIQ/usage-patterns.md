@@ -38,4 +38,3 @@ For example, in the above image:
 The **Usage pattern distribution for MVPDs** table provides a comparison of usage pattern distribution for the MVPDs in the current segment.
 
 ![](assets/usage-patterns-mvpdwise.png)
-
