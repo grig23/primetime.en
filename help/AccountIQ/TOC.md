@@ -29,5 +29,4 @@ audience: end-user
 + [Limitations](/help/AccountIQ/limitations.md)
 + [Troubleshoot](/help/AccountIQ/troubleshoot.md)
 + [Frequently asked questions](/help/AccountIQ/faq.md)
-+ [Best practices](/help/AccountIQ/best-practices.md)
 + [Glossary of product concepts](/help/AccountIQ/product-concepts.md)
