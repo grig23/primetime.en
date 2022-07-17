@@ -1207,6 +1207,6 @@ This version of the  TVSDK  has been certified with the FairPlay Support for iOS
 
 ## Helpful resources {#helpful-resources}
 
-* [TVSDK 3.4 for iOS Programmer's Guide](https://experienceleague.adobe.com/docs/primetime/programming/tvsdk-3x-ios-prog/introduction/ios-3x-overview.html?lang=en)
+* [TVSDK 3.4 for iOS Programmer's Guide](/help/programming/tvsdk-3x-ios-prog/ios-3x-introduction/ios-3x-overview/ios-3x-overview.md)
 * [TVSDK iOS 3.4 API reference](https://help.adobe.com/en_US/primetime/api/psdk/appledoc_v34/index.html)
 * See complete help documentation at [Adobe Primetime Learn & Support](https://experienceleague.adobe.com/docs/primetime.html) page.

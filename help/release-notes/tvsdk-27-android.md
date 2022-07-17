@@ -421,10 +421,10 @@ This version of TVSDK has the following issues:
 
 ## Helpful resources {#helpful-resources}
 
-* [System Requirements](https://experienceleague.adobe.com/docs/primetime/programming/tvsdk-2-7-for-android/overview/c-psdk-android-2.7-requirements.html?lang=en)
-* [TVSDK 2.7 for Android™ Programmer's Guide](https://experienceleague.adobe.com/docs/primetime/programming/tvsdk-2-7-for-android/overview/c-psdk-android-2.7-overview-prod-audience-guide.html?lang=en)
+* [System Requirements](/help/programming/tvsdk-2.7-for-android/c-psdk-android-2.7-requirements.md)
+* [TVSDK 2.7 for Android™ Programmer's Guide](/help/programming/tvsdk-2.7-for-android/overview-prod-audience-guide/c-psdk-android-2.7-overview-prod-audience-guide.md)
 * [TVSDK Android™ Javadoc for API Reference](https://help.adobe.com/en_US/primetime/api/psdk/javadoc_2.7/index.html)
 * [TVSDK Android™ C++ API Document](https://help.adobe.com/en_US/primetime/api/psdk/cpp/namespaces.html) - Each Java™ class has a corresponding C++ class, and the C++ documentation contains more explanatory material than the Java™ docs, so refer the C++ documentation for a deeper understanding of the Java™ API.
-* [TVSDK 1.4 to 2.5 for Android™ (Java™) Migration Guide](https://experienceleague.adobe.com/docs/primetime/migration/tvsdk-14-25-android.html?lang=en)
+* [TVSDK 1.4 to 2.5 for Android™ (Java™) Migration Guide](/help/migration-guides/tvsdk-14-25-android.md)
 * For handling screen on/off scenarios, see the `Application_Changes_for_Screen_On_Off.pdf` file included in the build.
 * See complete help documentation at [Adobe Primetime Learn & Support](https://experienceleague.adobe.com/docs/primetime.html) page.

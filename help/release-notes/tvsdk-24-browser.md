@@ -1721,4 +1721,4 @@ The limitations and known issues in Browser TVSDK are mentioned below.
 
 ## Helpful resources {#helpful-resources}
 
-* See complete help documentation at [Adobe Primetime Learn & Support](https://helpx.adobe.com/support/primetime.html) page.
+* See complete help documentation at [Adobe Primetime Learn & Support](https://experienceleague.adobe.com/docs/primetime.html) page.
