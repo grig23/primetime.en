@@ -14,6 +14,8 @@ When:  Tuesday, November 9, 2021 from 1:30 AM to 04:30 AM Eastern Time
 
 * [!UICONTROL EXT-X-IMAGE-STREAM-INF] is now configurable per zone.
 
+* Roku Trick Play is fully supported.
+
 ## Enhancements and fixes in previous release versions
 
 ### Version 21.10.1

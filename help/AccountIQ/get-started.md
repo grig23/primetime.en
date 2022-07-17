@@ -47,3 +47,5 @@ Account IQ is compatible with the most recent versions of the following browsers
 >[!IMPORTANT]
 >
 >If your users are not able to access Account IQ dashboard, contact Adobe support to make sure that your organization's ID is whitelisted in Account IQ.
+
+

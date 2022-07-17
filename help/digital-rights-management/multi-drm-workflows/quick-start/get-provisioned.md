@@ -9,9 +9,9 @@ To get started with Primetime DRM Cloud, powered by ExpressPlay, you need to set
 
 1. Contact your Adobe representative and request the Adobe Cert and ExpressPlay accounts you will need for implementing Multi-DRM with TVSDK.
 
-       Provide your Adobe representative with the email address you will be using as your contact point. Adobe then creates two accounts for you:
+   Provide your Adobe representative with the email address you will be using as your contact point. Adobe then creates two accounts for you:
 
-    * ***Certificate Portal Account*** - ( ht<span></span>tps://certportal.primetime.adobe.com) : The *Adobe Access / Primetime DRM Certificate Enrollment Management Team* sends an email to the addresses you provided them. The email includes the URL for the Adobe cert portal, along with a link to Adobe's certificate enrollment documentation (latest docs are here: [Certificate Enrollment Guide](../../../digital-rights-management/certificate-enrollment-guide/about-certs.md)).
+    * ***Certificate Portal Account*** - ( https://certportal.primetime.adobe.com) : The *Adobe Access / Primetime DRM Certificate Enrollment Management Team* sends an email to the addresses you provided them. The email includes the URL for the Adobe cert portal, along with a link to Adobe's certificate enrollment documentation (latest docs are here: [Certificate Enrollment Guide](../../../digital-rights-management/certificate-enrollment-guide/about-certs.md)).
     
     * ***ExpressPlay Account*** - Adobe sends you an email that contains a link you use to register for your ExpressPlay Admin account.
 

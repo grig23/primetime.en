@@ -8,9 +8,9 @@ exl-id: 29087a3e-f16e-4510-8d3a-ed2229700899
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-## Enhancements and fixes in PTAI 21.11.1
+## Enhancements and fixes in PTAI 22.6.2
 
-The [!UICONTROL EXT-X-IMAGE-STREAM-INF] is now configurable per zone.
+This release focuses on enhancements to ad performance logging with more details on avail loss and additional net-storage origins for CRS.
 
 ## Fixes in TVSDK 3.15 Android
 
