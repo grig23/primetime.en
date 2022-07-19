@@ -1,8 +1,8 @@
 ---
 title: How to view reports for top 10 MVPDs by programmer persona.
 description: View reports for top 10 MVPDs.
+exl-id: 76fd1af8-dd96-426b-b9c8-a356b53b491d
 ---
-
 # How to view reports for top 10 MVPDs <!--and Programmers--> {#view-top-10-mvpd-reports}
 
 Account IQ has capabilities to help you view and analyze account sharing statistics for top 10 of your MVPDs (in a defined [segment](/help/AccountIQ/product-concepts.md#segmet-def)) having:

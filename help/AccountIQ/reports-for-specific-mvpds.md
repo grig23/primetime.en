@@ -1,8 +1,8 @@
 ---
 title: How to use Account IQ metrics for a specific MVPD
-description: How to use and make sense of Account IQ reports.  
+description: How to use and make sense of Account IQ reports.
+exl-id: ada9a80a-b31b-4bdc-838c-dcd94a0a6c59
 ---
-
 # View account sharing reports: for a specific MVPD <!--and programmer--> {#report-sp-mvpd}
 
 If you are logged in to Account IQ application as a channel [programmer](/help/AccountIQ/product-concepts.md#programmer-def), then you can view sharing reports of your channel viewers for the specific [MVPD](/help/AccountIQ/product-concepts.md#mvpd-def) they have subscribed to.

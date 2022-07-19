@@ -1,8 +1,8 @@
 ---
 title: Troubleshoot
 description: Unable to view or load a reports panel? Or not able to export a report? Understand how to solve the commonly encountered issues in the product.
+exl-id: 2c3f22c4-5534-424c-b321-b57045bcb7a6
 ---
-
 # Troubleshoot issues in Account IQ {#troubleshoot}
 
 Are you facing issues with data and charts taking too long to load, or reports not getting exported, or any other issues related to metrics and graphs? Read on to get quick help.

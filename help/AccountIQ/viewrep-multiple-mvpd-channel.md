@@ -1,8 +1,8 @@
 ---
 title: View reports for multiple MVPDs and channels
 description: How to view sharing reports for multiple MVPDs and multiple programmer channels.
+exl-id: c616e6e1-373c-471d-a2dc-c484b7cd5cf5
 ---
-
 # View reports for multiple MVPDs <!--and channel programmers--> {#viewreport-multiple-mvpd-channel}
 
 Account IQ being a robust and scalable analytics tool enables you to view, analyze, and compare subscriber accounts sharing statistics not only for one, two, or three but for more MVPDs at a given time.

@@ -1,6 +1,7 @@
 ---
 title: Account IQ glossary
-description: A glossary of product terminologies.  
+description: A glossary of product terminologies.
+exl-id: 2ee54442-9538-4c30-b999-265310b3935f
 ---
 # Product concepts and glossary {#glossary}
 

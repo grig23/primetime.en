@@ -1,8 +1,8 @@
 ---
 title: How to onboard and get started with Account IQ
-description: How to onboard, prerequisites, and getting started with Account IQ. 
+description: How to onboard, prerequisites, and getting started with Account IQ.
+exl-id: 840ab081-0073-492f-86b2-ba174ae93256
 ---
-
 # How to onboard and get started with Account IQ {#onboard}
 
 Account IQ is a hosted web application. To begin using this analytics tool as a D2C streaming provider, programmer, or distributor (MVPD) and mitigate credential sharing, you need to get your organization onboarded on Adobe Experience Cloud organizations and assign organization users to **Primetime Account IQ** profile on [Adobe Admin Console](https://adminconsole.adobe.com/). Read on to know the pre-requisites and details to onboard.
@@ -47,5 +47,3 @@ Account IQ is compatible with the most recent versions of the following browsers
 >[!IMPORTANT]
 >
 >If your users are not able to access Account IQ dashboard, contact Adobe support to make sure that your organization's ID is whitelisted in Account IQ.
-
-

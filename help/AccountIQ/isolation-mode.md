@@ -1,8 +1,8 @@
 ---
 title: View reports in isolation mode
-description: View reports in isolation mode for Xfinity. 
+description: View reports in isolation mode for Xfinity.
+exl-id: e7cf24c5-9bfa-48f6-b5c8-20443a976891
 ---
-
 # View sharing reports in isolation mode {#report-isolation-mode}
 
 In Isolation Mode, MVPDs (such as, Xfinity) consistently identify subscribers across devices, but identify their subscribers differently, based on the programmers they interact with. Whereas in the standard mode, MVPDs consistently identify subscribers across devices, irrespective of the programmers.
