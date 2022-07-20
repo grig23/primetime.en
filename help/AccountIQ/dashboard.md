@@ -7,7 +7,7 @@ description: The Dashboard helps to pinpoint the instances of password sharing b
 
 The Dashboard summarizes and aggregates data in a collection of graphs and reports designed to give a high level overview of the scope and impact of account sharing. It provides a single page containing the major reports and metrics from Account IQ.
 
-![dashboard of account IQ](assets/dashboard-capture.png)
+![dashboard of account IQ](assets/dashboard-capture.svg)
 
 ## Aggregated Sharing Score {#aggregated-sharing}
 
