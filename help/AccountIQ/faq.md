@@ -1,8 +1,8 @@
 ---
 title: Account IQ FAQs
 description: Answers to frequently asked customer questions.
+exl-id: d6e11fc9-0d14-46d8-9a85-f1006ac81fb1
 ---
-
 # Frequently asked questions {#faqs}
 
 1. Who is Account IQ designed for?

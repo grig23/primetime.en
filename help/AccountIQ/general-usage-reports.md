@@ -1,8 +1,8 @@
 ---
 title: General Usage reports
 description: General Usage reports
+exl-id: 1272073a-61fe-47ec-aced-2e8055b6b11e
 ---
-
 # General Usage reports {#general-usage-reports}
 
 Account IQ reports are basic analytic tools and reports that let you drill into your data to isolate [cohorts](/help/AccountIQ/product-concepts.md#segmet-def), identify anomalies, and build an understanding of your account characteristics.

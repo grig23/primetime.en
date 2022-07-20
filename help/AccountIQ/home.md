@@ -1,8 +1,8 @@
 ---
 title: Account IQ Overview
-description: Account IQ helps MVPDs and programmers understand the risks to their revenue and business operations, and determine the most effective actions to take to mitigate the impacts of credential fraud. 
+description: Account IQ helps MVPDs and programmers understand the risks to their revenue and business operations, and determine the most effective actions to take to mitigate the impacts of credential fraud.
+exl-id: c0d85fc8-b5ab-4284-802e-82f52eff401f
 ---
-
 # Account IQ overview {#account-iq-overview}
 
 Credential sharing by streaming service subscribers is a major and growing problem for the industry. To add to it, understanding, identifying, and acting on credential sharing is a complex process. There is complexity involved in understanding the subscriber usage behavior and in developing a holistic view of their activity—for example, distinguishing sharing among members within the same household and outside. Due to this challenge, streaming service providers may have inhibitions in acting against credential sharing.

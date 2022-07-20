@@ -1,6 +1,7 @@
 ---
 title: Define a segment and time frame
 description: Define a segment and time frame
+exl-id: 86fe010d-3202-4ce2-b803-ff44f5538d7e
 ---
 # Define a segment and time frame {#define-segment}
 

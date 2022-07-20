@@ -1,8 +1,8 @@
 ---
 title: Usage patterns
 description: View account sharing behavior for different user typologies.
+exl-id: 2faa7e75-b3a1-491b-bb7d-bd3a149cbe79
 ---
-
 # Usage Patterns {#usage-patterns}
 
 Account IQ classifies users of subscriber accounts into various categories in terms of their social behavior, such as Traveler or commuter, Large family and Community sharing. The **Usage Patterns** page shows several different analytics and reports for these user typologies. For example, **Usage patterns distribution - Users in segment vs industry** report compares the usage behavior for the current segment versus the entire industry.

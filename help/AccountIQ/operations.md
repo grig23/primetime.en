@@ -1,8 +1,8 @@
 ---
 title: Operations in account IQ
 description: Operations in Account IQ involves taking actions to perform automations and bulk operations on subscriber accounts and track their effects.
+exl-id: ba6bceca-221c-42db-b207-804e4b9f6d54
 ---
-
 # Operations {#operations-tab-next-steps}
 
 Once you have understood your subscribers' usage patterns and identified password sharing for selected segment (using reports and analytics in Account IQ), you can take targeted actions towards an objective to mitigate password sharing.

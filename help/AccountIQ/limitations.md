@@ -1,8 +1,8 @@
 ---
 title: Limitations and known issues
-description: Known issues in the product. 
+description: Known issues in the product.
+exl-id: 08d65716-8b6a-4300-acda-fec63e1e6815
 ---
-
 # Known issues and limitations {#known-issues}
 
 Adobe strives to offer robust functionality and seamless user experiences through its offerings. The current version (version 1.0) of Account IQ provides usage and subscription sharing analytics to streaming providers with high degree of confidence. However, following limitations will be addressed in upcoming release versions.

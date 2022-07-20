@@ -1,8 +1,8 @@
 ---
-title: Create an operation on a user segment and track effect 
+title: Create an operation on a user segment and track effect
 description: How to create an operation that effects and tracks the effect on a defined segment of users.
+exl-id: ab74f857-e178-4120-8f9c-655ec921d096
 ---
-
 # Create an operation on a user segment {#operation-to-track-segment}
 
 Each reports page on Account IQ has a **Create new operation** option to help you create workflows to automate (and simplify) various (bulk) actions on subscriber accounts; define rules to specify a sample, define actions, and record and analyze the effects of those actions. On the page to create operations, you can define the sample of user groups on which operations will be performed, and schedule the operation to run on a future date.
