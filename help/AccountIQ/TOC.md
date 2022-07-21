@@ -1,6 +1,7 @@
 ---
 product: adobe primetime
 audience: end-user
+user-guide-description: Primetime Account IQ help gives informtion about the Account IQ components and walks you through user journeys to use the various components. 
 ---
 # Account IQ Help {#aiq-help}
 
