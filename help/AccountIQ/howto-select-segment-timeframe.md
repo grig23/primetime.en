@@ -49,9 +49,8 @@ To select the desired programmer channels from the **Channels in segment** optio
 
    The top level list items in the **Channels in segment** are [programmer](/help/AccountIQ/product-concepts.md#programmer-def) companies and the list items under programmer names are their [channels](/help/AccountIQ/product-concepts.md#channel-def). You can either select individual channels under programmers, or select programmers and all the activities of the channels under that programmer are included in report and graph results.
 
-   ![](assets/programmer-channels.png)
-
-   *Figure: Programmers and channels listed in channels selector*
+   <!--![](assets/programmer-channels.png)
+   *Figure: Programmers and channels listed in channels selector*-->
 
    >[!IMPORTANT]
    >
@@ -90,9 +89,7 @@ To select a time period of evaluation:
 
 1. Select either **Week** or **Month** from **Aggregate By** option to set granularity for your evaluation.
 
-    ![](assets/granularity-timeframe-weekwise.png)
-
-    *Figure: Date picker to select Granularity and time frame*
+   <!--![](assets/granularity-timeframe-weekwise.png)   *Figure: Date picker to select Granularity and time frame*-->
 
 1. Once you have selected granularity, you can use forward or backward arrows to move forward or backward in time.
 
