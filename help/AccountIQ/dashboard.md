@@ -23,8 +23,6 @@ The values help you understand the magnitude of credential sharing by your subsc
 
 *Figure: Average sharing score panel - aggregated for the current segment*
 
-![](assets/aggregate-sharing-score.svg)
-
 The following three metrics are components of the Average Sharing Score.
 
 ### Sharing level {#sharing-level}
