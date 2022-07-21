@@ -9,6 +9,9 @@ The Dashboard summarizes and aggregates data in a collection of graphs and repor
 
 ![dashboard of account IQ](assets/dashboard-capture.png)
 
+
+*Figure: The dashboard*
+
 ## Average sharing score - aggregated for the current segment {#aggregated-sharing}
 
 The Aggregated Sharing Score panel provides a top line readout summarizing the quantity and impact of sharing in terms of accounts and streaming volume.
@@ -17,9 +20,12 @@ The values help you understand the magnitude of credential sharing by your subsc
 
 ![](assets/aggregate-sharing-score.png)
 
+
+*Figure: Average sharing score panel - aggregated for the current segment*
+
 ![](assets/aggregate-sharing-score.svg)
 
-The following three metrics are components of the Aggregate Sharing Score.
+The following three metrics are components of the Average Sharing Score.
 
 ### Sharing level {#sharing-level}
 
@@ -28,6 +34,9 @@ The sharing level gauge shows the percentage of all your subscriber accounts (in
 A value calculated based on an average of the sharing probability computed for every account in the set of selected MVPDs that has streamed from a one of the selected programmer channels during the selected time frame.
 
 ![](assets/sharing-level.png)
+
+
+*Figure: Sharing level*
 
 The Trend indicator shows the percentage change in the value of the metric in from the previous time frame.
 
@@ -39,6 +48,9 @@ You can also see the Trend indicator, which depicts a rise or fall in the usage 
 
 ![](assets/usage-4mshared-accounts.png)
 
+
+*Figure: Usage from shared accounts*
+
 ### Overall sharing score {#overall-sharing-score}
 
 Overall sharing score is composite of sharing scores including “Sharing level” and “z Usage from shared accounts”.
@@ -46,6 +58,9 @@ Overall sharing score is composite of sharing scores including “Sharing level�
 It provides a value meant to reflect the relative impact of sharing when compared to the industry. It’s purpose is similar to that of a credit score, summarizing the situation with a single number. But in this case, the higher the number the greater the potential harm.
 
 ![](assets/overall-sharing-score.png)
+
+
+*Figure: Overall sharing score*
 
 <!--### MVPDs in segment {#mvpd-in-segment}
 
@@ -63,11 +78,17 @@ This table provides a comparative view of the different Aggregated Sharing Score
 
 ![](assets/top-mvpds.png)
 
+
+*Figure: Top MVPDs in segment by overall score*
+
 ### Sharing score by channels and MVPDs {#sharin-score-by-channels-and-mvpds}
 
 This table provides a comparative view of sharing scores of the selected channels for the MVPDs in the current segment.
 
 ![](assets/sharing-scores-by-channels-mvpds.png)
+
+
+*Figure: Sharing scores by channels and MVPDs*
 
 ### Accounts sharing probability {#accounts-sharing-probability}
 
@@ -80,8 +101,15 @@ This chart partitions accounts into ranges of sharing probability quintiles from
 
 ![](assets/dashboard-ac-sharing-prob.png)
 
+
+*Figure: Numbers and percentages of subscriber accounts in different sharing probability ranges*
+
 ### Number of accounts and usage by sharing probability level {#number-of-accounts-usage-sharing-probability}
 
 This panel provides tabular view of  accounts partitioned into ranges of sharing probability quintiles from very low (0-20%) to very high (80=100%) with each quintile’s associated usage from shared accounts.
 
 ![](assets/no-acc-usage-prob-level.png)
+
+
+*Figure: Number of accounts, trends, and usages falling in various probability ranges*
+
