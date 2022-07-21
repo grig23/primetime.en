@@ -9,13 +9,15 @@ The Dashboard summarizes and aggregates data in a collection of graphs and repor
 
 ![dashboard of account IQ](assets/dashboard-capture.png)
 
-## Aggregated Sharing Score {#aggregated-sharing}
+## Average sharing score - aggregated for the current segment {#aggregated-sharing}
 
 The Aggregated Sharing Score panel provides a top line readout summarizing the quantity and impact of sharing in terms of accounts and streaming volume.
 
 The values help you understand the magnitude of credential sharing by your subscribers, hence providing a measure of the need to act upon it.
 
 ![](assets/aggregate-sharing-score.png)
+
+![](assets/aggregate-sharing-score.svg)
 
 The following three metrics are components of the Aggregate Sharing Score.
 
