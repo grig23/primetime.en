@@ -104,7 +104,7 @@ This chart partitions accounts into ranges of sharing probability quintiles from
 
 ### Number of accounts and usage by sharing probability level {#number-of-accounts-usage-sharing-probability}
 
-This panel provides tabular view of  accounts partitioned into ranges of sharing probability quintiles from very low (0-20%) to very high (80=100%) with each quintile’s associated usage from shared accounts.
+This panel provides tabular view of  accounts partitioned into ranges of sharing probability quintiles from very low (0-20%) to very high (80-100%) with each quintile’s associated usage from shared accounts.
 
 ![](assets/no-acc-usage-prob-level.png)
 
