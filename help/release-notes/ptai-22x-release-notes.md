@@ -1,21 +1,31 @@
 ---
-title: PTAI 22.6.2 release notes
+title: PTAI 22.7.1 release notes
 description: The PTAI release notes describe what is new or changed, the resolved and known issues in Primetime Ad Insertion in the year 2022.
 exl-id: 58b254b8-18b9-48ba-bd4e-378785e56af5
 ---
-# Primetime Ad Insertion 22.6.2 Release Notes
+# Primetime Ad Insertion 22.7.1 Release Notes
 
 Primetime Ad Insertion 22.xx.x release notes describe what is new or changed, issues resolved and known issues in Primetime Ad Insertion in the year 2022.
 
-## What's new in PTAI 22.6.2
+## What's new in PTAI 22.7.1
 
-When: Wednesday, June 29, 2022, 3:00 AM to 6:00 AM Eastern Time
+When: Wednesday, July 20, 2022, 3:00 AM to 6:00 AM Eastern Time
+
+* Enhancements towards ad performance logging, with introduction of avail related metrics for DASH workflows.
+
+* Database migration.
+
+## Enhancements and fixes in previous release versions
+
+### Version 22.6.2
+
+**When:** Wednesday, June 29, 2022, 3:00 AM to 6:00 AM Eastern Time
+
+**Changes**
 
 * Enhancement of ad performance logging with more details on avail loss.
 
 * Additional net-storage origins for CRS.
-
-## Enhancements and fixes in previous release versions
 
 ### Version 22.6.1
 
