@@ -9,7 +9,7 @@ user-guide-description:
 
 + [Primetime Authentication overview](home.md)
 + Primetime Authentication concepts {#authentication-concepts}
-  + [Technical paper]()
+  + [Technical paper](/help/authentication/technical-paper.md)
   + [Programmer overview]()
   + [MVPD overview]()
 + Kickstart guides {#kickstart-guides}
