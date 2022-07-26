@@ -10,12 +10,11 @@ user-guide-description:
 + [Primetime Authentication overview](home.md)
 + Primetime Authentication concepts {#authentication-concepts}
   + [Technical paper](/help/authentication/technical-paper.md)
-  + [Programmer overview]()
-  + [MVPD overview]()
+  + [Programmer overview](/help/authentication/programmer-overview.md)
+  + [MVPD overview](/help/authentication/mvpd-overview.md)
 + Kickstart guides {#kickstart-guides}
-  + [Kickstart introduction]()
-  + [Programmer kickstart guide]()
-  + [MVPD kickstart guide]()
+  + [Programmer kickstart guide](/help/authentication/programmer-kickstart-guide.md)
+  + [MVPD kickstart guide](/help/authentication/mvpd-kickstart-guide.md)
 + Programmer integration guide {#programmer-integration-guide}
   + [Programmer Integration Guide Overview]()
   + [Entitlement Flow]()

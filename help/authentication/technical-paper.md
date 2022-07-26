@@ -9,8 +9,6 @@ description:
 >
 >The content on this page is provided for information purposes only. Usage of this API requires a current license from Adobe. No unauthorized use is permitted.
 
------
-
 ## About TV Everywhere {#about-tve}
 
 Today's television viewers can go online at any time or place, and they
