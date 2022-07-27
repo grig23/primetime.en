@@ -96,72 +96,72 @@ user-guide-description:
  + [Identifying Protected Resources]()
 + Content Server Integration {#}
  + [Integrating the Media Token Verifier]()
-Token Verifier Service and CDN URL Signing Service - DEPRECATED]()
-Analytics
-Tracking Data In Adobe Primetime authentication
-Code Samples
-Introduction - Code Samples
-JS checkAuthentication() Sample
-JS getSelectedProvider() Sample
-JS getAuthentication() Sample
-JS checkAuthorization() Sample
-JS getAuthorization() Sample
-JS iFrame Close Button Sample
-JS displayProviderDialog()
-Appendices
-Registering Native Clients
-Adobe Pass Plugin For OSMF
-Debugging Tips
-Generating Digital Certificates
-MVPD Integration Guide
-Introduction
-Integration Features
-Authentication
-Authentication using the OAuth 2.0 Protocol
-Authorization
-Preflight Authorization
-Logout
-Content Metadata Exchange
-User Metadata Exchange
-ProxyMVPD Web Service
-ProxyMVPD SAML Integration
-Service Provider Scoping
-MVPD Allow IP Addresses
-Primetime Authentication Features
-Adobe Analytics Integration
-Integrating Primetime authentication server side data into Adobe Analytics
-Using Experience Cloud ID in Primetime Authentication
-Entitlement Service Monitoring
-ESM Overview
-ESM API
-Server-side Metrics
+ + [Token Verifier Service and CDN URL Signing Service - DEPRECATED]()
+ + [Analytics
+ + [Tracking Data In Adobe Primetime authentication
+ + [Code Samples
+ + [Introduction - Code Samples
+ + [JS checkAuthentication() Sample
+ + [JS getSelectedProvider() Sample
+ + [JS getAuthentication() Sample
+ + [JS checkAuthorization() Sample
+ + [JS getAuthorization() Sample
+ + [JS iFrame Close Button Sample
+ + [JS displayProviderDialog()
+ + [Appendices
+ + [Registering Native Clients
+ + [Adobe Pass Plugin For OSMF
+ + [Debugging Tips
+ + [Generating Digital Certificates
+ + [MVPD Integration Guide
+ + [Introduction
+ + [Integration Features
+ + [Authentication
+ + [Authentication using the OAuth 2.0 Protocol
+ + [Authorization
+ + [Preflight Authorization
+ + [Logout
+ + [Content Metadata Exchange
+ + [User Metadata Exchange
+ + [ProxyMVPD Web Service
+ + [ProxyMVPD SAML Integration
+ + [Service Provider Scoping
+ + [MVPD Allow IP Addresses
+ + [Primetime Authentication Features
+ + [Adobe Analytics Integration
+ + [Integrating Primetime authentication server side data into Adobe Analytics
+ + [Using Experience Cloud ID in Primetime Authentication
+ + [Entitlement Service Monitoring
+ + [ESM Overview
+ + [ESM API
+ + [Server-side Metrics
 7/1/22, 4:35 PM HBA status for MVPDs
 https://tve.helpdocsonline.com/hba-status-for-mvpds 4/11
-Temp Pass
-Temp Pass
-Promotional Temp Pass
-Single Sign-On
-Single Sign-On Support
-SSO via Passive Authentication
-Home Based Authentication
-Home Based Authentication for TV Everywhere
-HBA status for MVPDs
-User Metadata
-User Metadata
-Preflight Authorization
-Preflight Authorization
-Error Reporting
-Error Reporting
-Enhanced Error Codes
-Client Registration
-Dynamic Client Registration
-Dynamic Client Registration API
-Dynamic Client Registration Management
-Degradation Service
-Degradation API Overview
-Privacy readiness
-Privacy Support Overview
-How to make a privacy request
+ + [Temp Pass
+ + [Temp Pass
+ + [Promotional Temp Pass
+ + [Single Sign-On
+ + [Single Sign-On Support
+ + [SSO via Passive Authentication
+ + [Home Based Authentication
+ + [Home Based Authentication for TV Everywhere
+ + [HBA status for MVPDs
+ + [User Metadata
+ + [User Metadata
+ + [Preflight Authorization
+ + [Preflight Authorization
+ + [Error Reporting
+ + [Error Reporting
+ + [Enhanced Error Codes
+ + [Client Registration
+ + [Dynamic Client Registration
+ + [Dynamic Client Registration API
+ + [Dynamic Client Registration Management
+ + [Degradation Service
+ + [Degradation API Overview
+ + [Privacy readiness
+ + [Privacy Support Overview
+ + [How to make a privacy request
 Tips and Troubleshooting
 Allow MVPDs in the Selection Dialog
 Prevent MVPDs from appearing the Selection Dialog
