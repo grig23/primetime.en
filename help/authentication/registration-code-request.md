@@ -5,32 +5,31 @@ description:
 
  
 
+
+ 
+# REST API Endpoints {#clientless-endpoints}
+
 >[!NOTE] 
 > 
 >The content on this page is
 provided for information purposes only. Usage of this API requires a
 current license from Adobe. No unauthorized use is permitted.
- 
-# REST API Endpoints {#clientless-endpoints}
-
 
 <REGGIE_FQDN>:
 
-  - Production - [api.auth.adobe.com](http://api.auth.adobe.com/)
-  - Staging
-    - [api.auth-staging.adobe.com](http://api.auth-staging.adobe.com/)
+* Production - [api.auth.adobe.com](http://api.auth.adobe.com/)
+* Staging - [api.auth-staging.adobe.com](http://api.auth-staging.adobe.com/)
 
 <SP_FQDN>:
 
-  - Production - [api.auth.adobe.com](http://api.auth.adobe.com/)
-  - Staging
-    - [api.auth-staging.adobe.com](http://api.auth-staging.adobe.com/)
+* Production - [api.auth.adobe.com](http://api.auth.adobe.com/)
+* Staging - [api.auth-staging.adobe.com](http://api.auth-staging.adobe.com/)
+
+ </br>
 
  
 
- 
-
-### Description {#create-reg-code-svc}
+## Description {#create-reg-code-svc}
 
 Returns randomly generated registration Code and Login Page URI.
 
@@ -38,9 +37,9 @@ Returns randomly generated registration Code and Login Page URI.
 
 
 
- | Endpoint | Called  <br>By | Input   <br>Parameter | HTTP  <br>Method | Response | HTTP  <br>Response |
+ | Endpoint | Called  </br>By | Input   </br>Parameter | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
-| <REGGIE_FQDN>/reggie/v1/{requestor}/regcode<br><br>For example:<br><br>REGGIE_FQDN/reggie/v1/sampleRequestorId/regcode | Streaming App<br><br>or<br><br>Programmer Service | 1.  requestor  <br>    (Path component)<br>2.  deviceId (Hashed)   <br>    (Mandatory)<br>3.  device_info/X-Device-Info (Mandatory)<br>4.  mvpd (Optional)<br>5.  ttl (Optional)<br>6.  _deviceType_<br>7.  _deviceUser_ (Deprecated)<br>8.  _appId_ (Deprecated) | POST | XML or JSON containing a registration code and information or error details if unsuccessful. See schemas and samples below. | 201 |
+| <REGGIE_FQDN>/reggie/v1/{requestor}/regcode</br>For example:</br>REGGIE_FQDN/reggie/v1/sampleRequestorId/regcode | Streaming App</br>or</br>Programmer Service | 1.  requestor  </br>    (Path component)</br>2.  deviceId (Hashed)   </br>    (Mandatory)</br>3.  device_info/X-Device-Info (Mandatory)</br>4.  mvpd (Optional)</br>5.  ttl (Optional)</br>6.  _deviceType_</br>7.  _deviceUser_ (Deprecated)</br>8.  _appId_ (Deprecated) | POST | XML or JSON containing a registration code and information or error details if unsuccessful. See schemas and samples below. | 201 |
 
 
 
@@ -49,12 +48,12 @@ Returns randomly generated registration Code and Login Page URI.
 | --- | --- |
 | requestor | The Programmer requestorId for which this operation is valid. |
 | deviceId | The device id bytes. |
-| device_info/<br><br>X-Device-Info | Streaming Device information.<br><br>**Note**: This MAY be passed device_info as a URL paramater, but due to the potential size of this paramater and limitations on the length of a GET URL, it SHOULD be passed as X-Device-Info n the http header. <br><br>See the full details in [Passing Device and Connection Information](http://tve.helpdocsonline.com/passing-device-information). |
+| device_info/</br>X-Device-Info | Streaming Device information.</br>**Note**: This MAY be passed device_info as a URL paramater, but due to the potential size of this paramater and limitations on the length of a GET URL, it SHOULD be passed as X-Device-Info n the http header. </br>See the full details in [Passing Device and Connection Information](http://tve.helpdocsonline.com/passing-device-information). |
 | mvpd | The MVPD ID for which this operation is valid. |
-| ttl | How long this regcode should live in seconds.<br><br>**Note**: The maximum value allowed for ttl is 36000 seconds (10 hours). Higher values result in a 400 HTTP response (bad request). If `ttl` is left empty, Primetime authentication sets a default value of 30 minutes. |
-| _deviceType_ | The device type (e.g. Roku, PC).<br><br>If this parameter is set correctly, ESM offers metrics that are [broken down per device type](http://tve.helpdocsonline.com/esm-overview$clientless_device_type) when using Clientless, so that different types of analysis can be performed for e.g. Roku, AppleTV, Xbox etc.<br><br>http://tve.helpdocsonline.com/clientless-device-type-benefits-on-pass-metrics<br><br>**Note**: the device_info will replace this parameter. |
+| ttl | How long this regcode should live in seconds.</br>**Note**: The maximum value allowed for ttl is 36000 seconds (10 hours). Higher values result in a 400 HTTP response (bad request). If `ttl` is left empty, Primetime authentication sets a default value of 30 minutes. |
+| _deviceType_ | The device type (e.g. Roku, PC).</br>If this parameter is set correctly, ESM offers metrics that are [broken down per device type](http://tve.helpdocsonline.com/esm-overview$clientless_device_type) when using Clientless, so that different types of analysis can be performed for e.g. Roku, AppleTV, Xbox etc.</br>http://tve.helpdocsonline.com/clientless-device-type-benefits-on-pass-metrics</br>**Note**: the device_info will replace this parameter. |
 | _deviceUser_ | The device user identifier. |
-| _appId_ | The application id/name. <br><br>**Note**: the device_info replaces this parameter. |
+| _appId_ | The application id/name. </br>**Note**: the device_info replaces this parameter. |
 
 
 >[!CAUTION]
@@ -63,15 +62,19 @@ Returns randomly generated registration Code and Login Page URI.
 ></br>
 >For Client-to-Server implementations, the Streaming Device IP Address is implicitly sent with this call.  For Server-to-Server implementations, where the **regcode** call is made be the Programmer Service and not the Streaming Device, the following header is required to pass the Streaming Device IP Address:
 >
+>
 >```
 >X-Forwarded-For : <streaming_device_ip> 
 >```
+>
 >where `<streaming\_device\_ip>` is the Streaming Device public IP address. 
 ></br></br>
->Example :<br>
+>Example :</br>
+>
 >```
->POST /reggie/v1/{req_id}/regcode HTTP/1.1<br><br>X-Forwarded-For:203.45.101.20
+>POST /reggie/v1/{req_id}/regcode HTTP/1.1</br>X-Forwarded-For:203.45.101.20
 >```
+>
 </br>
 
 ### Response XML Schema {#xml-schema}
@@ -204,4 +207,4 @@ Returns randomly generated registration Code and Login Page URI.
 ```
  
 
-### [Back to REST](http://tve.helpdocsonline.com/rest-api-reference)[ ](http://tve.helpdocsonline.com/rest-api-reference)[API Reference](http://tve.helpdocsonline.com/rest-api-reference)
+[Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)
