@@ -29,7 +29,7 @@ description:
 
 Returns randomly generated registration Code and Login Page URI.
 
- | Endpoint | Called  </br>By | Input   </br>Parameter | HTTP  </br>Method | Response | HTTP  </br>Response |
+| Endpoint | Called  </br>By | Input   </br>Parameter | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
 | <REGGIE_FQDN>/reggie/v1/{requestor}/regcode</br>For example:</br>REGGIE_FQDN/reggie/v1/sampleRequestorId/regcode | Streaming App</br>or</br>Programmer Service | 1.  requestor  </br>    (Path component)</br>2.  deviceId (Hashed)   </br>    (Mandatory)</br>3.  device_info/X-Device-Info (Mandatory)</br>4.  mvpd (Optional)</br>5.  ttl (Optional)</br>6.  _deviceType_</br>7.  _deviceUser_ (Deprecated)</br>8.  _appId_ (Deprecated) | POST | XML or JSON containing a registration code and information or error details if unsuccessful. See schemas and samples below. | 201 |
 
