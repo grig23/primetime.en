@@ -10,7 +10,7 @@ description:
 # REST API Endpoints {#clientless-endpoints}
 
 >[!NOTE] 
-> 
+>
 >The content on this page is provided for information purposes only. Usage of this API requires a current license from Adobe. No unauthorized use is permitted.
 
 <REGGIE_FQDN>:
@@ -197,6 +197,5 @@ Returns randomly generated registration Code and Login Page URI.
     }
 
 ```
- 
 
-[Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)
+### [Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)

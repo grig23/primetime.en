@@ -40,24 +40,18 @@ Returns list of configured MVPDs for the requestor. 
 | requestor       | The Programmer requestorId for which this operation is valid. |
 | *deviceType*    | Device Type. |
 
-### Sample Response {sample-response}
+### Sample Response {#sample-response}
 
 Same as existing MVPD XML Response to /config servlet
 
  
 Note: All MVPDs configured to make use of Platform SSO will have the following extra properties within their corresponding node (JSON/XML):
 
-  - **enablePlatformServices (boolean):** flag indicating whether this
-    MVPD is integrated via Platform SSO
-  - **boardingStatus (string):** flag indicating the whether the MVPD
-    fully supports Platform SSO (SUPPORTED) or if the MVPD only appears
-    in the platform picker (PICKER)
-  - **displayInPlatformPicker (boolean):** should this MVPD appear in
-    the platform picker
-  - **platformMappingId (string):** the identifier of this MVPD as known
-    by the platform
-  - **requiredMetadataFields (string array):** the user metadata fields
-    expected to be available on a successful login
+- **enablePlatformServices (boolean):** flag indicating whether this MVPD is integrated via Platform SSO
+- **boardingStatus (string):** flag indicating the whether the MVPD fully supports Platform SSO (SUPPORTED) or if the MVPD only appears in the platform picker (PICKER)
+- **displayInPlatformPicker (boolean):** should this MVPD appear in the platform picker
+- **platformMappingId (string):** the identifier of this MVPD as known by the platform
+- **requiredMetadataFields (string array):** the user metadata fields expected to be available on a successful login
 
 
 ### [Back to Clientless API Reference](http://tve.helpdocsonline.com/clientless-api-reference)
