@@ -1,12 +1,12 @@
---- 
+---
+
 title:  Registration Page
+
 description: 
---- 
 
- 
+---
 
 
- 
 # REST API Endpoints {#clientless-endpoints}
 
 >[!NOTE] 
@@ -27,15 +27,9 @@ current license from Adobe. No unauthorized use is permitted.
 
  </br>
 
- 
-
 ## Description {#create-reg-code-svc}
 
 Returns randomly generated registration Code and Login Page URI.
-
-
-
-
 
  | Endpoint | Called  </br>By | Input   </br>Parameter | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
