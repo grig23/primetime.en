@@ -45,9 +45,7 @@ is reconciled when a successful response is received from the MVPD. 
 | domain_name | The originating domain. |
 | redirect_url | The Login Webapp redirect url after authentication completion. |
 
-###  
-
-<div>
+</br>
 
 **Important: Mandatory parameters -** Regardless of the client-side implementation, all the parameters above are mandatory.
 
@@ -68,9 +66,9 @@ The call may also contain optional parameters that enable other functionalities 
 
 * generic\_data - enables the use of [Promotional TempPass](https://tve.helpdocsonline.com/promotional-temp-pass)
 
-```
+```JSON
 Example:
-  generic_data=("emal":"email12@domain.com")
+  generic_data=("email":"email@domain.com")
 ```
 
 
@@ -78,7 +76,7 @@ Example:
 
 * The value of the `domain_name` parameter must be set to one of the domain names registered with Primetime authentication. For more details, refer to [Registration and Initialization](http://tve.helpdocsonline.com/new-programmer-overview$reg_and_init).
 
-* [Avoid using '&'reg\_code in /authenticate request (Tech Note)](#)
+* [Avoid using '&'reg\_code in /authenticate request (Tech Note)](https://tve.helpdocsonline.com/clientless:-avoid-using-'&'reg_code-in-/authenticate-request)
 
 * The `redirect_url` parameter must be the last one in order
 
