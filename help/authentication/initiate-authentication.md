@@ -32,9 +32,9 @@ is reconciled when a successful response is received from the MVPD. 
 
 
   
-| Endpoint | Called  <br>By | Input   <br>Params | HTTP  <br>Method | Response | HTTP  <br>Response |
+| Endpoint | Called  </br>By | Input   </br>Params | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
-| <SP_FQDN>/api/v1/authenticate | AuthN Module | 1.  requestor_id (Mandatory)<br>2.  mso_id (Mandatory)<br>3.  reg_code (Mandatory)<br>4.  domain_name (Mandatory)<br>5.  noflash=true -  <br>    (Mandatory, Residual parameter)<br>6.  no_iframe=true (Mandatory, Residual parameter)<br>7.  extra parameters (Optional)<br>8.  redirect_url (Mandatory) | GET | The Login Web App is redirected to the MVPD login page. | 302 for full redirect implementations |
+| <SP_FQDN>/api/v1/authenticate | AuthN Module | 1.  requestor_id (Mandatory)</br>2.  mso_id (Mandatory)</br>3.  reg_code (Mandatory)</br>4.  domain_name (Mandatory)</br>5.  noflash=true -  </br>    (Mandatory, Residual parameter)</br>6.  no_iframe=true (Mandatory, Residual parameter)</br>7.  extra parameters (Optional)</br>8.  redirect_url (Mandatory) | GET | The Login Web App is redirected to the MVPD login page. | 302 for full redirect implementations |
 
 
 | Input Parameter | Description |

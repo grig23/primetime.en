@@ -27,15 +27,10 @@ description:
 ## Description {#description}
 
 Retrieves authentication (AuthN) Token.  
-
- 
-
-<div>
-
-  
-| Endpoint | Called  <br>By | Input   <br>Params | HTTP  <br>Method | Response | HTTP  <br>Response |
+ 
+| Endpoint | Called  </br>By | Input   </br>Params | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
-| <SP_FQDN>/api/v1/tokens/authn<br><br>For example:<br><br><SP_FQDN>/api/v1/tokens/authn | Streaming App<br><br>or<br><br>Programmer Service | 1.  requestor (Mandatory)<br>2.  deviceId (Mandatory)<br>3.  device_info/X-Device-Info (Mandatory)<br>4.  _deviceType_ (Deprected)<br>5.  _deviceUser_ (Deprecated)<br>6.  _appId_ (Deprecated) | GET | XML or JSON containing authentication information or error details if unsuccessful. | 200 - Success.  <br>404 - Token Not Found  <br>410 - Token expired |
+| <SP_FQDN>/api/v1/tokens/authn</br></br>For example:</br></br><SP_FQDN>/api/v1/tokens/authn | Streaming App</br></br>or</br></br>Programmer Service | 1.  requestor (Mandatory)</br>2.  deviceId (Mandatory)</br>3.  device_info/X-Device-Info (Mandatory)</br>4.  _deviceType_ (Deprected)</br>5.  _deviceUser_ (Deprecated)</br>6.  _appId_ (Deprecated) | GET | XML or JSON containing authentication information or error details if unsuccessful. | 200 - Success.  </br>404 - Token Not Found  </br>410 - Token expired |
 
 
 
@@ -43,10 +38,10 @@ Retrieves authentication (AuthN) Token.  
 | --- | --- |
 | requestor | The Programmer requestorId for which this operation is valid. |
 | deviceId | The device id bytes. |
-| device_info/<br><br>X-Device-Info | Streaming Device information.<br><br>**Note**: This MAY be passed device_info as a URL paramater, but due to the potential size of this paramater and limitations on the length of a GET URL, it SHOULD be passed as X-Device-Info n the http header. <br><br>See the full details in [Passing Device and Connection Information](http://tve.helpdocsonline.com/passing-device-information). |
-| _deviceType_ | The device type (e.g. Roku, PC).<br><br>**Note**: the device_info replaces this parameter. |
-| _deviceUser_ | The device user identifier.<br><br>**Note**: If used, deviceUser should have the same values as in the [Create Registration Code](http://tve.helpdocsonline.com/registration-code-request) request. |
-| _appId_ | The application id/name. <br><br>**Note**: the device_info replaces this parameter. If used, `appId` should have the same values as in the [Create Registration Code](http://tve.helpdocsonline.com/registration-code-request) request. |
+| device_info/</br></br>X-Device-Info | Streaming Device information.</br></br>**Note**: This MAY be passed device_info as a URL paramater, but due to the potential size of this paramater and limitations on the length of a GET URL, it SHOULD be passed as X-Device-Info n the http header. </br></br>See the full details in [Passing Device and Connection Information](http://tve.helpdocsonline.com/passing-device-information). |
+| _deviceType_ | The device type (e.g. Roku, PC).</br></br>**Note**: the device_info replaces this parameter. |
+| _deviceUser_ | The device user identifier.</br></br>**Note**: If used, deviceUser should have the same values as in the [Create Registration Code](http://tve.helpdocsonline.com/registration-code-request) request. |
+| _appId_ | The application id/name. </br></br>**Note**: the device_info replaces this parameter. If used, `appId` should have the same values as in the [Create Registration Code](http://tve.helpdocsonline.com/registration-code-request) request. |
 
 </br>
 
