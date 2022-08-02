@@ -12,6 +12,7 @@ user-guide-description:
   + [Return Registration Record](/help/authentication/return-registration-record.md)
   + [Delete Registration Record](/help/authentication/delete-registration-record.md)
   + [Provide MVPD List](/help/authentication/provide-mvpd-list.md)
-
-
+  + [Initiate Authentication](/help/authentication/initiate-authentication.md)
+  + [Provide MVPD List](/help/authentication/provide-mvpd-list.md)
+  + [Provide MVPD List](/help/authentication/provide-mvpd-list.md)
 
