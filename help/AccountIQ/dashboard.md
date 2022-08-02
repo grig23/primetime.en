@@ -7,11 +7,9 @@ exl-id: 616da2a5-c9fe-40ea-90cf-f565bc13e764
 
 The Dashboard summarizes and aggregates data in a collection of graphs and reports designed to give a high level overview of the scope and impact of account sharing. It provides a single page containing the major reports and metrics from Account IQ.
 
-<table>
-  <tr>
-    <th>
+<table><tr><th>
 
-    +++Dashboard for programmers
++++Dashboard for programmers
 
 ![dashboard of account IQ](assets/dashboard-capture.png)
 
@@ -119,11 +117,10 @@ This panel provides tabular view of  accounts partitioned into ranges of sharing
 
 +++
 
-</th>
-    <th>
+</th><th>
 
-    +++Dashboard for MVPDs
-    The dashboard for MVPD users is slightly different from those of the programmer users.
++++Dashboard for MVPDs
+The dashboard for MVPD users is slightly different from those of the programmer users.
 
 ![](assets/dashboard-mvpd.png)
 
