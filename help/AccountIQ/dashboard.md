@@ -143,7 +143,7 @@ This panel provides tabular view of  accounts partitioned into ranges of sharing
   
 </table>
 
-
+<!--
 +++Dashboard for programmers
 
 ![dashboard of account IQ](assets/dashboard-capture.png)
@@ -203,7 +203,7 @@ It provides a value meant to reflect the relative impact of sharing when compare
 
 It is a table of risk indices and accounts totals for the top MVPDs ranked by overall usage or account sharing.
 
-![](assets/mvpds-in-segment.png)-->
+![](assets/mvpds-in-segment.png)
 
 ### Industrywide overall sharing scores for MVPDs {#top-mvpds}
 
@@ -286,4 +286,4 @@ The dashboard for MVPD users is slightly different from those of the programmer 
 
 *Figure: Panel showing top programmers in a segment*
 +++
-
+-->
