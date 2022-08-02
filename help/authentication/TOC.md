@@ -16,7 +16,7 @@ user-guide-description:
   + [Check Authentication Token](/help/authentication/check-authentication-token.md)
   + [Retrieve Authentication Token](/help/authentication/retrieve-authentication-token.md)
   + [Initiate Authorization](/help/authentication/initiate-authorization.md)
- <!-- > + Retrieve Authorization Token
+  + Retrieve Authorization Token
   + Obtain Short Media Token
   + Check Authentication Flow by Second Screen App
   + Retrieve List of Preauthorized Resources
@@ -25,5 +25,5 @@ user-guide-description:
   + User Metadata
   + Retrieve profile-request
   + Token exchange
-  + Free Preview for Temp Pass and Promotional Temp Pass -->
+  + Free Preview for Temp Pass and Promotional Temp Pass
 
