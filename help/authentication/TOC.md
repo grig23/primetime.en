@@ -13,6 +13,17 @@ user-guide-description:
   + [Delete Registration Record](/help/authentication/delete-registration-record.md)
   + [Provide MVPD List](/help/authentication/provide-mvpd-list.md)
   + [Initiate Authentication](/help/authentication/initiate-authentication.md)
-  + [Provide MVPD List](/help/authentication/provide-mvpd-list.md)
-  + [Provide MVPD List](/help/authentication/provide-mvpd-list.md)
+  + [Check Authentication Token](/help/authentication/check-authentication-token.md)
+  + Retrieve Authentication Token
+  + Initiate Authorization
+  + Retrieve Authorization Token
+  + Obtain Short Media Token
+  + Check Authentication Flow by Second Screen App
+  + Retrieve List of Preauthorized Resources
+  + Retrieve List of Preauthorized Resources by Second Screen Web App
+  + Logout
+  + User Metadata
+  + Retrieve profile-request
+  + Token exchange
+  + Free Preview for Temp Pass and Promotional Temp Pass
 
