@@ -6,6 +6,7 @@ description:
 
 ---
 
+# Delete Registration Record {#delete-registration-record}
 
 >[!NOTE] 
 >
@@ -30,8 +31,6 @@ description:
 
 Deletes the reg code record and releases the reg code for reuse. 
 
-
-  
 | Endpoint | Called  <br>By | Input   <br>Params | HTTP  <br>Method | Response | HTTP  <br>Response |
 | --- | --- | --- | --- | --- | --- |
 | <REGGIE_FQDN>/reggie/v1/{requestorId}/regcode/{registrationCode}<br><br>For example:<br><br><REGGIE_FQDN>/reggie/v1/regcode/ER45RTY | Streaming App<br><br>or<br><br>Programmer Service | 1.  Requestor ID  <br>    (Path component)<br>2.  Registration code  <br>    (Path component) | DELETE | None | 204 |
