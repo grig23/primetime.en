@@ -14,8 +14,8 @@ user-guide-description:
   + [Provide MVPD List](/help/authentication/provide-mvpd-list.md)
   + [Initiate Authentication](/help/authentication/initiate-authentication.md)
   + [Check Authentication Token](/help/authentication/check-authentication-token.md)
-  + Retrieve Authentication Token
-  + Initiate Authorization
+  + [Retrieve Authentication Token](/help/authentication/retrieve-authentication-token.md)
+ <!-- + Initiate Authorization
   + Retrieve Authorization Token
   + Obtain Short Media Token
   + Check Authentication Flow by Second Screen App
@@ -25,5 +25,5 @@ user-guide-description:
   + User Metadata
   + Retrieve profile-request
   + Token exchange
-  + Free Preview for Temp Pass and Promotional Temp Pass
+  + Free Preview for Temp Pass and Promotional Temp Pass -->
 
