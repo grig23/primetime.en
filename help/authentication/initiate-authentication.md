@@ -47,29 +47,34 @@ is reconciled when a successful response is received from the MVPD. 
 
 </br>
 
-**Important: Mandatory parameters -** Regardless of the client-side implementation, all the parameters above are mandatory.
+>[!IMPORTANT] 
+> 
+>**Important: Mandatory parameters -** Regardless of the client-side implementation, all the parameters above are mandatory. 
+>
+>
+>Example:     
+>
+>```
+>domain_name=loginwebapp.com
+>mso_id=sampleMvpdId
+>reg_code=RO0885W
+>requestor_id=sampleRequestorId
+>noflash=true
+>redirect_url=http://loginwebapp.com
+>```
 
-Example:     
-
-```
-domain_name=loginwebapp.com
-mso_id=sampleMvpdId
-reg_code=RO0885W
-requestor_id=sampleRequestorId
-noflash=true
-redirect_url=http://loginwebapp.com
-```
-
-**Important: Optional parameters**
-
-The call may also contain optional parameters that enable other functionalities like:
-
-* generic\_data - enables the use of [Promotional TempPass](https://tve.helpdocsonline.com/promotional-temp-pass)
-
-```JSON
-Example:
-  generic_data=("email":"email@domain.com")
-```
+>[!IMPORTANT] 
+> 
+>**Important: Optional parameters**
+>
+>The call may also contain optional parameters that enable other functionalities like:
+>
+> * generic\_data - enables the use of [Promotional TempPass](https://tve.helpdocsonline.com/promotional-temp-pass)
+>
+>```JSON
+>Example:
+>  generic_data=("email":"email@domain.com")
+>```
 
 
 ### **Notes** {#notes}
