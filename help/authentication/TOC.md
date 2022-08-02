@@ -15,8 +15,8 @@ user-guide-description:
   + [Initiate Authentication](/help/authentication/initiate-authentication.md)
   + [Check Authentication Token](/help/authentication/check-authentication-token.md)
   + [Retrieve Authentication Token](/help/authentication/retrieve-authentication-token.md)
- <!-- + Initiate Authorization
-  + Retrieve Authorization Token
+  + [Initiate Authorization](/help/authentication/initiate-authorization.md)
+ <!-- > + Retrieve Authorization Token
   + Obtain Short Media Token
   + Check Authentication Flow by Second Screen App
   + Retrieve List of Preauthorized Resources

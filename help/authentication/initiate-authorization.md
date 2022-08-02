@@ -96,7 +96,9 @@ Obtains authorization response. 
     }
     ```
 
-  When the response comes from a Proxy MVPD, it may include an additional element named `proxyMvpd`. 
+  >[!IMPORTANT]
+  >
+  >When the response comes from a Proxy MVPD, it may include an additional element named `proxyMvpd`. 
 
  
 
