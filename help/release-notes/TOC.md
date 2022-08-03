@@ -10,7 +10,7 @@ user-guide-description: Provides release-specific information, system requiremen
 + [Release Notes Overview](home.md)
 + Primetime Ad Insertion {#ptai}
 
-  + [PTAI 22.2.2 Release Notes](ptai-22x-release-notes.md)
+  + [PTAI 22.7.1 Release Notes](ptai-22x-release-notes.md)
   + [PTAI 21.11.1 Release Notes](ptai-21x-release-notes.md)
   + [PTAI 20.12.1 Release Notes](ptai-20x-release-notes.md)
   + [PTAI 19.11.1 Release Notes](ptai-19x-release-notes.md)

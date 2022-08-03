@@ -9,7 +9,7 @@ TVSDK has specific requirements for media content, manifest content, DRM, and so
 
 ## System and software requirements {#section_96E5B079900246E78682AE44D3F23068}
 
-To use TVSDK, ensure that your hardware, operating system, and application versions all meet the minimum requirements listed below. 
+To use TVSDK, ensure that your hardware, operating system, and application versions all meet the minimum requirements listed below.
 
 |  Operating system  | Android 4.0 or later (minimum API level 14)  |
 |---|---|

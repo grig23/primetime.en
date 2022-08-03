@@ -136,4 +136,4 @@ The following features are supported in TVSDK 2.1 for PlayStation 4:
 
 ## Helpful resources {#helpful-resources}
 
-* See complete help documentation at [Adobe Primetime Learn & Support](https://helpx.adobe.com/support/primetime.html) page.
+* See complete help documentation at [Adobe Primetime Learn & Support](https://experienceleague.adobe.com/docs/primetime.html) page.
