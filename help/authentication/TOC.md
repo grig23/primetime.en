@@ -16,3 +16,4 @@ user-guide-description:
   + [Check Authentication Token](/help/authentication/check-authentication-token.md)
   + [Retrieve Authentication Token](/help/authentication/retrieve-authentication-token.md)
   + [Initiate Authorization](/help/authentication/initiate-authorization.md)
+  + [Retrieve Authorization Token](/help/authentication/retrieve-authorization-token.md)
