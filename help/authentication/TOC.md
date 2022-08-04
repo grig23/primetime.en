@@ -17,3 +17,4 @@ user-guide-description:
   + [Retrieve Authentication Token](/help/authentication/retrieve-authentication-token.md)
   + [Initiate Authorization](/help/authentication/initiate-authorization.md)
   + [Retrieve Authorization Token](/help/authentication/retrieve-authorization-token.md)
+  + [Obtain Short Media Token](/help/authentication/obtain-short-media-token.md)
