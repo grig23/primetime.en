@@ -9,6 +9,8 @@ User Interface has managed roles for customers and for the enablement (Adobe) te
 
 APIs work behind the scenes to facilitate customers and administrators in communicating with the backend infrastructure.
 
+To explore the [!DNL Primetime Ad Insertion] APIs see [Ad Insertion API endpoints in swaggered user interface](https://adconfigservice-va6.cloud.adobe.io/swagger-ui/index.html#/).
+
 ## API endpoint {#report-api-endpoint}
 
 ### Production {#production}
