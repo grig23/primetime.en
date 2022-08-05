@@ -8,7 +8,7 @@ description:
 
 # Obtain Short Media Token {#obtain-short-media-token}
 
->[!NOTE] 
+>[!NOTE]
 >
 >The content on this page is provided for information purposes only. Usage of this API requires a current license from Adobe. No unauthorized use is permitted.
 
@@ -34,6 +34,8 @@ Obtains Short Media Token.  
 | --- | --- | --- | --- | --- | --- |
 | <SP_FQDN>/api/v1/mediatoken</br></br>  or</br></br><SP_FQDN>/api/v1/tokens/media</br></br>For example:</br></br><SP_FQDN>/api/v1/tokens/media | Streaming App</br></br>or</br></br>Programmer Service | 1.  requestor (Mandatory)</br>2.  deviceId (Mandatory)</br>3.  resource (Mandatory)</br>4.  device_info/X-Device-Info (Mandatory)</br>5.  _deviceType_</br>6.  _deviceUser_ (Deprecated)</br>7.  _appId_ (Deprecated) | GET | XML or JSON containing an Base64 encoded media token or error details if unsuccessful. | 200 - Success  </br>403 - No Success |
 
+{style="table-layout:auto"}
+
 <!--
 | Endpoint | Called  </br>By | Input   </br>Params | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
@@ -52,6 +54,7 @@ Obtains Short Media Token.  
 | _deviceUser_ | The device user identifier.</br></br>**Note**: If used, deviceUser should have the same values as in the [Create Registration Code](http://tve.helpdocsonline.com/registration-code-request) request. |
 | _appId_ | The application id/name. </br></br>**Note**: the device_info replaces this parameter. If used, `appId` should have the same values as in the [Create Registration Code](http://tve.helpdocsonline.com/create-registration-page-/-login-uri) request. |
 
+{style="table-layout:auto"}
 
 ### Sample Response {#response}
 
@@ -69,7 +72,7 @@ Obtains Short Media Token.  
     </play>
 ```
 
- 
+
 
 **JSON:**
 
@@ -92,4 +95,4 @@ The field `serializedToken` from the "Obtain Short Media Token" call is
 a Base64 encoded token that can be verified against the Adobe Media
 Verification Library.
 
-### [Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)
+[Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)

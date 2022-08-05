@@ -8,13 +8,11 @@ description:
 
 # Return Registration Record {#return-registration-record}
 
- 
-
->[!NOTE] 
+>[!NOTE]
 >
 >The content on this page is provided for information purposes only. Usage of this API requires a current license from Adobe. No unauthorized use is permitted.
 
- 
+
 ## REST API Endpoints {#clientless-endpoints}
 
 <REGGIE_FQDN>:
@@ -42,6 +40,10 @@ Returns registration code record containing registration code UUID, registration
 | Endpoint | Called  </br>By | Input   </br>Params | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
 | <REGGIE_FQDN>;/reggie/v1/{requestorId}/regcode/{registrationCode}</br></br>For example:</br></br><REGGIE_FQDN>/reggie/v1/sampleRequestorId/regcode/TJJCFK?format=xml | Streaming App</br></br>or</br></br>Programmer Service | 1.  requestor  </br>    (Path component)</br>2.  registration code  </br>    (Path component) | GET | XML or JSON containing a registration code and information. See schema and sample below. | 200 |
+
+{style="table-layout:auto"}
+
+</br>
 
 | Input Parameter   | Description |
 | --- | --- |
@@ -101,6 +103,8 @@ Returns registration code record containing registration code UUID, registration
 | appVersion | Application Version |
 | registrationURL | URL to the Login Web App to be displayed to the end user |
 
+{style="table-layout:auto"}
+
 ### Sample Response {#sample-response}
 
 ```XML
@@ -123,4 +127,4 @@ Returns registration code record containing registration code UUID, registration
     </ns2:regcode>
 ```
 
-### [Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)
+[Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)

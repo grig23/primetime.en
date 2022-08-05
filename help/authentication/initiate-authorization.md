@@ -34,9 +34,11 @@ Obtains authorization response. 
 | --- | --- | --- | --- | --- | --- |
 | <SP_FQDN>/api/v1/authorize | Streaming App</br></br>or</br></br>Programmer Service | 1.  requestor (Mandatory)</br>2.  deviceId (Mandatory)</br>3.  resource (Mandatory)</br>4.  device_info/X-Device-Info (Mandatory)</br>5.  _deviceType_</br>6.  _deviceUser_ (Deprecated)</br>7.  _appId_ (Deprecated)</br>8.  extra parameters (Optional) | GET | XML or JSON containing authorization details or error details if unsuccessful. See samples below. | 200 - Success  </br>403 - No Success |
 
+{style="table-layout:auto"}
+
 </br>
 
-  
+
 | Input Parameter | Description |
 | --- | --- |
 | requestor | The Programmer requestorId for which this operation is valid. |
@@ -47,6 +49,8 @@ Obtains authorization response. 
 | _deviceUser_ | The device user identifier. |
 | _appId_ | The application id/name. </br></br>**Note**: the device_info replaces this parameter. |
 | extra parameters | The call may also contain optional parameters that enable other functionalities like:</br></br>* generic_data - enables the use of [Promotional TempPass](https://tve.helpdocsonline.com/promotional-temp-pass)</br></br>Example: `generic_data=("email":"email@domain.com")` |
+
+{style="table-layout:auto"}
 
 >[!CAUTION]
 >
@@ -83,7 +87,7 @@ Obtains authorization response. 
     </authorization>
     ```
 
-   
+
 
   * **JSON:**
 
@@ -114,4 +118,4 @@ Obtains authorization response. 
   </error>
   ```
 
-### [Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)
+[Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)

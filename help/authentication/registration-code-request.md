@@ -33,9 +33,8 @@ Returns randomly generated registration Code and Login Page URI.
 | --- | --- | --- | --- | --- | --- |
 | <REGGIE_FQDN>/reggie/v1/{requestor}/regcode</br>For example:</br>REGGIE_FQDN/reggie/v1/sampleRequestorId/regcode | Streaming App</br>or</br>Programmer Service | 1.  requestor  </br>    (Path component)</br>2.  deviceId (Hashed)   </br>    (Mandatory)</br>3.  device_info/X-Device-Info (Mandatory)</br>4.  mvpd (Optional)</br>5.  ttl (Optional)</br>6.  _deviceType_</br>7.  _deviceUser_ (Deprecated)</br>8.  _appId_ (Deprecated) | POST | XML or JSON containing a registration code and information or error details if unsuccessful. See schemas and samples below. | 201 |
 
+{style="table-layout:auto"}
 
-
-   
 | Input Parameter | Description |
 | --- | --- |
 | requestor | The Programmer requestorId for which this operation is valid. |
@@ -46,6 +45,8 @@ Returns randomly generated registration Code and Login Page URI.
 | _deviceType_ | The device type (e.g. Roku, PC).</br>If this parameter is set correctly, ESM offers metrics that are [broken down per device type](http://tve.helpdocsonline.com/esm-overview$clientless_device_type) when using Clientless, so that different types of analysis can be performed for e.g. Roku, AppleTV, Xbox etc.</br>http://tve.helpdocsonline.com/clientless-device-type-benefits-on-pass-metrics</br>**Note**: the device_info will replace this parameter. |
 | _deviceUser_ | The device user identifier. |
 | _appId_ | The application id/name. </br>**Note**: the device_info replaces this parameter. |
+
+{style="table-layout:auto"}
 
 
 >[!CAUTION]
@@ -124,6 +125,7 @@ Returns randomly generated registration Code and Login Page URI.
 | appVersion      | Application Version                                                                  |
 | registrationURL | URL to the Login Web App to be displayed to the end user                             |
 
+{style="table-layout:auto"}
  </br>
 
  
@@ -198,4 +200,4 @@ Returns randomly generated registration Code and Login Page URI.
 
 ```
 
-### [Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)
+ [Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)

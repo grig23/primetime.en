@@ -8,7 +8,7 @@ description:
 
 # Retrieve Authorization Token {#retrieve-authorization-token}
 
->[!NOTE] 
+>[!NOTE]
 >
 >The content on this page is provided for information purposes only. Usage of this API requires a current license from Adobe. No unauthorized use is permitted.
 
@@ -30,7 +30,7 @@ description:
 
 Retrieves authorization (AuthZ) Token.  
 
-  
+
 | Endpoint | Called  </br>By | Input   </br>Params | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
 | <SP_FQDN>/api/v1/tokens/authz</br></br>For example:</br></br><SP_FQDN>/api/v1/tokens/authz | Streaming App</br></br>or</br></br>Programmer Service | 1.  requestor (Mandatory)</br>2.  deviceId (Mandatory)</br>3.  resource (Mandatory)</br>4.  device_info/X-Device-Info (Mandatory)</br>5.  _deviceType_</br>6.  _deviceUser_ (Deprecated)</br>7.  _appId_ (Deprecated) | GET | 1.  Success</br>2.  Authentication Token  </br>    not found or expired:   </br>    XML explaining reason  </br>    for authn token not found</br>3.  Authorization token  </br>    not found:  </br>    XML explanation</br>4.  Authorization token  </br>    expired:  </br>    XML explanation | 200 - Success  </br>412 - No AuthN</br></br>404 - No AuthZ</br></br>410 - AuthZ Expired |
@@ -49,6 +49,7 @@ Retrieves authorization (AuthZ) Token.  
 | _deviceUser_ | The device user identifier. |
 | _appId_ | The application id/name. </br></br>**Note**: the device_info replaces this parameter. |
 
+{style="table-layout:auto"}
 
 
 ### Sample Response {#response}
@@ -166,6 +167,4 @@ Retrieves authorization (AuthZ) Token.  
     }
 ```
 
- 
-
-### [Back to Clientless API Reference](http://tve.helpdocsonline.com/clientless-api-reference)
+[Back to Clientless API Reference](http://tve.helpdocsonline.com/clientless-api-reference)

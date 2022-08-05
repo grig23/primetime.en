@@ -5,7 +5,7 @@ description:
 
 # Retrieve Authentication Token {#retrieve-authentication-token}
 
->[!NOTE] 
+>[!NOTE]
 >
 >The content on this page is provided for information purposes only. Usage of this API requires a current license from Adobe. No unauthorized use is permitted.
 
@@ -23,7 +23,6 @@ description:
 
 </br>
 
-
 ## Description {#description}
 
 Retrieves authentication (AuthN) Token.  
@@ -34,6 +33,7 @@ Retrieves authentication (AuthN) Token.  
 
 {style="table-layout:auto"}
 
+
 | Input Parameter | Description |
 | --- | --- |
 | requestor | The Programmer requestorId for which this operation is valid. |
@@ -42,6 +42,8 @@ Retrieves authentication (AuthN) Token.  
 | _deviceType_ | The device type (e.g. Roku, PC).</br></br>**Note**: the device_info replaces this parameter. |
 | _deviceUser_ | The device user identifier.</br></br>**Note**: If used, deviceUser should have the same values as in the [Create Registration Code](http://tve.helpdocsonline.com/registration-code-request) request. |
 | _appId_ | The application id/name. </br></br>**Note**: the device_info replaces this parameter. If used, `appId` should have the same values as in the [Create Registration Code](http://tve.helpdocsonline.com/registration-code-request) request. |
+
+{style="table-layout:auto"}
 
 </br>
 
@@ -101,4 +103,4 @@ Retrieves authentication (AuthN) Token.  
     }
 ```
 
-### [Back to Clientless API Reference](http://tve.helpdocsonline.com/clientless-api-reference)
+[Back to Clientless API Reference](http://tve.helpdocsonline.com/clientless-api-reference)

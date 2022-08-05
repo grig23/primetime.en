@@ -35,12 +35,16 @@ Deletes the reg code record and releases the reg code for reuse. 
 | --- | --- | --- | --- | --- | --- |
 | <REGGIE_FQDN>/reggie/v1/{requestorId}/regcode/{registrationCode}</br></br>For example:</br></br><REGGIE_FQDN>/reggie/v1/regcode/ER45RTY | Streaming App</br></br>or</br></br>Programmer Service | 1.  Requestor ID  </br>    (Path component)</br>2.  Registration code  </br>    (Path component) | DELETE | None | 204 |
 
+{style="table-layout:auto"}
+
 </br>
 
 | Input Parameter | Description |
 | --- | --- |
 | requestor | The Programmer requestorId for which this operation is valid. |
 | registration code | The registration code value that would be displayed on the Streaming Device (to be entered into the authentication flow). |
+
+{style="table-layout:auto"}
 
 </br>
 
