@@ -31,6 +31,7 @@ Retrieves authentication (AuthN) Token.  
 | Endpoint | Called  </br>By | Input   </br>Params | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
 | <SP_FQDN>/api/v1/tokens/authn</br></br>For example:</br></br><SP_FQDN>/api/v1/tokens/authn | Streaming App</br></br>or</br></br>Programmer Service | 1.  requestor (Mandatory)</br>2.  deviceId (Mandatory)</br>3.  device_info/X-Device-Info (Mandatory)</br>4.  _deviceType_ (Deprected)</br>5.  _deviceUser_ (Deprecated)</br>6.  _appId_ (Deprecated) | GET | XML or JSON containing authentication information or error details if unsuccessful. | 200 - Success.  </br>404 - Token Not Found  </br>410 - Token expired |
+
 {style="table-layout:auto"}
 
 | Input Parameter | Description |
