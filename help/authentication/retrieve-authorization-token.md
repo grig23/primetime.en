@@ -34,6 +34,7 @@ Retrieves authorization (AuthZ) Token.  
 | Endpoint | Called  </br>By | Input   </br>Params | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
 | <SP_FQDN>/api/v1/tokens/authz</br></br>For example:</br></br><SP_FQDN>/api/v1/tokens/authz | Streaming App</br></br>or</br></br>Programmer Service | 1.  requestor (Mandatory)</br>2.  deviceId (Mandatory)</br>3.  resource (Mandatory)</br>4.  device_info/X-Device-Info (Mandatory)</br>5.  _deviceType_</br>6.  _deviceUser_ (Deprecated)</br>7.  _appId_ (Deprecated) | GET | 1.  Success</br>2.  Authentication Token  </br>    not found or expired:   </br>    XML explaining reason  </br>    for authn token not found</br>3.  Authorization token  </br>    not found:  </br>    XML explanation</br>4.  Authorization token  </br>    expired:  </br>    XML explanation | 200 - Success  </br>412 - No AuthN</br></br>404 - No AuthZ</br></br>410 - AuthZ Expired |
+
 {style="table-layout:auto"}
 
 </br>
