@@ -6,8 +6,9 @@ description:
 
 ---
 
+# Registration Page {#registration-page}
 
-# REST API Endpoints {#clientless-endpoints}
+## REST API Endpoints {#clientless-endpoints}
 
 >[!NOTE] 
 >
