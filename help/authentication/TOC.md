@@ -20,3 +20,4 @@ user-guide-description:
   + [Obtain Short Media Token](/help/authentication/obtain-short-media-token.md)
   + [Check Authentication Flow by Second Screen Web App](/help/authentication/check-authentication-flow-by-second-screen-web-app.md)
   + [Retrieve List of Preauthorized Resources](/help/authentication/retrieve-list-of-preauthorized-resources.md)
+  + [Logout](/help/authentication/logout.md)
