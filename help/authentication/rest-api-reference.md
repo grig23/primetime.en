@@ -63,6 +63,8 @@ The table below lists the available web services for the clientless approach. Cl
 | 18. | [<SP_FQDN>/api/v1/tokens/usermetadata](http://tve.helpdocsonline.com/user-metadata-call) | Gets user metadata after authentication flow completes | N/A | N/A | Smart Device |
 | 19. | [<SP_FQDN>/api/v1/authenticate/freepreview](http://tve.helpdocsonline.com/free-preview-for-temp-pass-and-promotional-temp-pass) | Create an authentication token for Temp Pass or Promotional Temp Pass | N/A | Primetime  </br>authentication  </br>Service | Smart Device |
 
+{style="table-layout:auto"}
+
 ## REST API Security {#security}
 
 All Primetime authentication clientless APIs must be called using the HTTPS protocol for secure communication. In addition, most of the APIs called should contain an access token provided by [Dynamic Client Registration](http://tve.helpdocsonline.com/dynamic-client-registration).
