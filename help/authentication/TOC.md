@@ -21,3 +21,7 @@ user-guide-description:
   + [Check Authentication Flow by Second Screen Web App](/help/authentication/check-authentication-flow-by-second-screen-web-app.md)
   + [Retrieve List of Preauthorized Resources](/help/authentication/retrieve-list-of-preauthorized-resources.md)
   + [Logout](/help/authentication/logout.md)
+  + [User Metadata](/help/authentication/user-metadata.md)
+  + [Retrieve profile-request](/help/authentication/retrieve-profilerequest.md)
+  + [Token Exchange](/help/authentication/token-exchange.md)
+  + [Free Preview for Temp Pass and Promotional Temp Pass](/help/authentication/free-preview-for-temp-pass-and-promotional-temp-pass.md)
