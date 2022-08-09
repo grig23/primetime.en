@@ -26,7 +26,7 @@ In a working Client-to-Server solution the following components are involved:
 | Type | Component | Description |
 | --- | --- | --- |
 | Streaming Device | Streaming App | The Programmer application that resides on the user's streaming device and plays authenticated video. |
-| | \[Optional\] AuthN Module | if Streaming Device has a User Agent (i.e. Web Browser), the AuthN Module is resposnible for authenticating the user on the MVPD IdP. |
+| | \[Optional\] AuthN Module | if Streaming Device has a User Agent (i.e. Web Browser), the AuthN Module is responsible for authenticating the user on the MVPD IdP. |
 | \[Optional\] AuthN Device | AuthN App | if the Streaming Device does not have a User Agent (i.e. Web Browser), the AuthN Application is a Programmer web application that is accessed from a separte user's device using a web browser. |
 | Adobe Infrastructure | Adobe Pass Service | A service that integrates with the MVPD IdP and AuthZ Service and provides authentication and authorization decisions. |
 |  MVPD Infrastructure | MVPD IdP | An MVPD endpoint that provides credential-based authentication service to validate their user's identity. | 
@@ -115,13 +115,13 @@ Adobe Pass uses DCR to secure client communications between a programmer applica
 
 ![](https://dzf8vqv24eqhg.cloudfront.net/userfiles/258/326/ckfinder/images/smart_dev_second_flow.png)
 
-1.  Get a list of MVPDs for this user. For example: [`<SP_FQDN>/api/v1/config/[requestorID]`](/clientless-api-reference$$mvpd_list)
+1.  Get a list of MVPDs for this user. For example: [`<SP_FQDN>/api/v1/config/[requestorID]`](/help/authentication/provide-mvpd-list.md)
 
-2.  Initiate the authentication flow.  For example: [`<SP_FQDN>/api/v1/authenticate [requestorID, MVPD ID, Redirect URL, Domain name, Registration Code, "noflash=true"]`](/clientless-api-reference$$init_authn)
+1.  Initiate the authentication flow.  For example: [`<SP_FQDN>/api/v1/authenticate [requestorID, MVPD ID, Redirect URL, Domain name, Registration Code, "noflash=true"]`](/help/authentication/initiate-authentication.md)
 
-3.  Check whether the authentication was successful.  For example: [`<SP_FQDN>/api/v1/checkauthn/[registration code][requestor ID]`](/clientless-api-reference$$check_authn_token)
+1.  Check whether the authentication was successful.  For example: [`<SP_FQDN>/api/v1/checkauthn/[registration code][requestor ID]`](/help/authentication/check-authentication-token.md)
 
-4.  Send the user back to your Smart Device app to complete the authorization flow.
+1.  Send the user back to your Smart Device app to complete the authorization flow.
 
  
 
