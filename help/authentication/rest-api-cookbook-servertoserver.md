@@ -23,7 +23,7 @@ In a working Server-to-Server solution the following components are involved:
  
 | Type | Component | Description |
 | --- | --- | --- |
-| Streaming Device | Streaming App | The Programmer application that resides on the user's streaming device and plays authenticated video.
+| Streaming Device | Streaming App | The Programmer application that resides on the user's streaming device and plays authenticated video. |
 | | \[Optional\] AuthN Module | if Streaming Device has a User Agent (i.e. Web Browser), the AuthN Module is resposnible for authenticating the user on the MVPD IdP. |
 | \[Optional\] AuthN Device | AuthN App | if the Streaming Device does not have a User Agent (i.e. Web Browser), the AuthN Application is a Programmer web application that is accessed from a separte user's device using a web browser. |
 | Programmer Infrastructure | Programmer Service | A service that links the Streaming Device with the  Adobe Pass Service to obtain authentication and authorization decisions. |
@@ -82,16 +82,13 @@ The following diagram illustrates the authorization flow:
 
 ### ![](https://dzf8vqv24eqhg.cloudfront.net/userfiles/258/326/ckfinder/images/image\(14\).png)
 
-###   
-Logout
+### Logout
 
 The logout flow allows a user to remove the identity currently
 associated with the application.
 
 1.  When the user requests to logout (i.e. remove from the device the current MVPD account associated with the application), the Streaming Device app calls the Programmer Service telling it to logout the device.
 2.  The Programmer Service should call the Adobe Pass **logout** API.
-
- 
 
 The following diagram illustrates the logout flow:
 
