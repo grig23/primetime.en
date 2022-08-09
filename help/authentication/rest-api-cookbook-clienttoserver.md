@@ -56,7 +56,7 @@ Adobe Pass uses DCR to secure client communications between a programmer applica
 
 2.  Obtain / generate a device ID.
 
-3.  Issue a Check-authentication call to see if the device is already authenticated.  For example: [`<SP_FQDN>/api/v1/checkauthn [device ID]`](/clientless-api-reference$$check_authn_token)
+3.  Issue a Check-authentication call to see if the device is already authenticated.  For example: [`<SP_FQDN>/api/v1/checkauthn [device ID]`](/help/authentication/check-authentication-token.md)
 
 4.  If the `checkauthn` call succeeds, proceed to the Authorization Flow from Step 2 onwards.  If it fails, start the Registration Flow.
 
@@ -66,7 +66,7 @@ Adobe Pass uses DCR to secure client communications between a programmer applica
 
 1.  Get a registration code and URL for your user to use to access your 2nd screen login app, and present these to the user:
     
-    a.  Send a POST request to the Adobe Registration Code Service, passing a hashed device ID and a "Registration URL".  For example: [`<REGGIE_FQDN>/reggie/v1/[requestorId]/regcode [device ID]`](/clientless-api-reference$$create_reg_code_svc)
+    a.  Send a POST request to the Adobe Registration Code Service, passing a hashed device ID and a "Registration URL".  For example: [`<REGGIE_FQDN>/reggie/v1/[requestorId]/regcode [device ID]`](/help/authentication/registration-code-request.md)
     
     b.  Present the returned registration code and URL to the user.
     
