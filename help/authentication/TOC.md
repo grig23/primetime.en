@@ -7,10 +7,10 @@ user-guide-description:
 
 # Primetime Authentication Help {#authentication}
 
-+ [REST API Overview](/help/authentication/rest-api-overview.md)
-+ [REST API Cookbook (Server-to-Server)](/help/authentication/rest-api-cookbook-servertoserver.md)
-+ [REST API Cookbook (Client-to-Server)](/help/authentication/rest-api-cookbook-clienttoserver.md)
-+ [REST API Reference](/help/authentication/rest-api-reference.md)
+  + [REST API Overview](/help/authentication/rest-api-overview.md)
+  + [REST API Cookbook (Server-to-Server)](/help/authentication/rest-api-cookbook-servertoserver.md)
+  + [REST API Cookbook (Client-to-Server)](/help/authentication/rest-api-cookbook-clienttoserver.md)
+  + [REST API Reference](/help/authentication/rest-api-reference.md)
   + [Registration Code Request](/help/authentication/registration-code-request.md)
   + [Registration Code Request](/help/authentication/registration-code-request.md)
   + [Return Registration Record](/help/authentication/return-registration-record.md)
