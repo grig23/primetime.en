@@ -18,3 +18,5 @@ user-guide-description:
   + [Initiate Authorization](/help/authentication/initiate-authorization.md)
   + [Retrieve Authorization Token](/help/authentication/retrieve-authorization-token.md)
   + [Obtain Short Media Token](/help/authentication/obtain-short-media-token.md)
+  + [Check Authentication Flow by Second Screen Web App](/help/authentication/check-authentication-flow-by-second-screen-web-app.md)
+  + [Retrieve List of Preauthorized Resources](/help/authentication/retrieve-list-of-preauthorized-resources.md)

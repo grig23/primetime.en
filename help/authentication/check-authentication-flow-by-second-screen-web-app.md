@@ -33,7 +33,7 @@ This API should be consumed by the second screen login web app to confirm that A
   
 | Endpoint | Called  </br>By | Input   </br>Params | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
-| &lt;SP_FQDN&gt;/api/v1/checkauthn/{registration code} | Login Web App | 1.  registration code  </br>    (Path component)</br>2.  requestor  </br>    (Mandatory) | GET | XML or JSON containing error details if unsuccessful. | 200 - Success   </br>403 - Forbidden |
+| SP_FQDN/api/v1/checkauthn/{registration code} | Login Web App | 1.  registration code  </br>    (Path component)</br>2.  requestor  </br>    (Mandatory) | GET | XML or JSON containing error details if unsuccessful. | 200 - Success   </br>403 - Forbidden |
 
 </br>
 
