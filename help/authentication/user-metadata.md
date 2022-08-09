@@ -78,9 +78,11 @@ After a successful call, the server will respond with a XML (default) or JSON ob
 
 At the root of the object there will be three nodes:
 
-  - *updated*: specifies an UNIX timestamp that represents the last time the metadata was updated. This property will be set initially by the server when generating the metadata during the authentication phase. Subsequent calls (after the metadata has been updated) will result in an incremented timestamp.
-  - *data*: contains the actual metadata values. 
-  - *encrypted*: an array listing the encrypted properties. To decrypt a specific metadata value, the Programmer must perform a Base64 decode on the metadata then apply a RSA decryption on the resulting value, using it’s own private key (Adobe encrypts the metadata on the server using the Programmer’s public certificate).
+* *updated*: specifies an UNIX timestamp that represents the last time the metadata was updated. This property will be set initially by the server when generating the metadata during the authentication phase. Subsequent calls (after the metadata has been updated) will result in an incremented timestamp.
+
+* *data*: contains the actual metadata values. 
+
+* *encrypted*: an array listing the encrypted properties. To decrypt a specific metadata value, the Programmer must perform a Base64 decode on the metadata then apply a RSA decryption on the resulting value, using it’s own private key (Adobe encrypts the metadata on the server using the Programmer’s public certificate).
 
 In case of an error, the server will return a XML or JSON object that specifies a detailed error message.
 
