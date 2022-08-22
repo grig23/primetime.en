@@ -30,10 +30,7 @@ description:
 
 Remove AuthN and AuthZ tokens from storage.
 
-
-<div>
-
-  
+ 
 | Endpoint | Called  </br>By | Input   </br>Params | HTTP  </br>Method | Response | HTTP  </br>Response |
 | --- | --- | --- | --- | --- | --- |
 | <SP_FQDN>/api/v1/logout | Streaming App</br></br>or</br></br>Programmer Service | 1.  requestor</br>2.  deviceId (Mandatory)</br>3.  device_info/X-Device-Info (Mandatory)</br>4.  _deviceType_</br>5.  _deviceUser_ (Deprecated)</br>6.  _appId_ (Deprecated) | DELETE | None | 204 |
@@ -52,4 +49,4 @@ Remove AuthN and AuthZ tokens from storage.
 > 
 >The logout call currently has the following limitation: it clears the AuthN and AuthZ tokens from storage (i.e., on the Programmer / Primetime authentication side), but *does not* call the MVPD logout endpoint. 
 
-### [Back to REST API Reference](http://tve.helpdocsonline.com/rest-api-reference)
+### [Back to REST API Reference](help/authentication/rest-api-reference.md)

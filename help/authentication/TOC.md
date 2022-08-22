@@ -7,6 +7,8 @@ user-guide-description:
 
 # Primetime Authentication Help {#authentication}
 
+REST API
+
 - [REST API Overview](/help/authentication/rest-api-overview.md)
 - [REST API Cookbook (Server-to-Server)](/help/authentication/rest-api-cookbook-servertoserver.md)
 - [REST API Cookbook (Client-to-Server)](/help/authentication/rest-api-cookbook-clienttoserver.md)
@@ -28,3 +30,7 @@ user-guide-description:
 - [Retrieve profile-request](/help/authentication/retrieve-profilerequest.md)
 - [Token Exchange](/help/authentication/token-exchange.md)
 - [Free Preview for Temp Pass and Promotional Temp Pass](/help/authentication/free-preview-for-temp-pass-and-promotional-temp-pass.md)
+
+iOS/tvOS SDK
+
+- [iOS/tvOS SDK Overview](/help/authentication/iostvos-sdk-overview.md)
