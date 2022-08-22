@@ -56,7 +56,7 @@ Adobe Pass uses DCR to secure client communications between a programmer applica
 
 2.  Obtain / generate a device ID.
 
-3.  Issue a Check-authentication call to see if the device is already authenticated.  For example: [`<SP_FQDN>/api/v1/checkauthn [device ID]`](/help/authentication/check-authentication-token.md)
+3.  Issue a Check-authentication call to see if the device is already authenticated.  For example: [`<SP_FQDN>/api/v1/checkauthn [device ID]`](help/authentication/check-authentication-token.md)
 
 4.  If the `checkauthn` call succeeds, proceed to the Authorization Flow from Step 2 onwards.  If it fails, start the Registration Flow.
 
