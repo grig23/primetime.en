@@ -143,4 +143,4 @@ For TempPass and Promotional TempPass implementations where the user is not requ
 
 ### Related Information {#related}
 
-- [REST API Reference](http://tve.helpdocsonline.com/registration-code-request)
+- [REST API Reference](/help/authentication/rest-api-reference.md)
