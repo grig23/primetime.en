@@ -2,7 +2,7 @@
 
 title:  Obtain Short Media Token
 
-description:
+description: Obtains Short Media Token.  
 
 ---
 

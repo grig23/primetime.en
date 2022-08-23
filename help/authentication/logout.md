@@ -2,7 +2,7 @@
 
 title:  Initiate Logout
 
-description:
+description: Remove AuthN and AuthZ tokens from storage.
 
 ---
 

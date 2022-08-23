@@ -2,7 +2,7 @@
 
 title:  Check Authentication Token
 
-description:
+description: Indicates whether the device has an unexpired authentication token.
 
 ---
 

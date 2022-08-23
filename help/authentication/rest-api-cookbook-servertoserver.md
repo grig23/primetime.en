@@ -1,6 +1,6 @@
 ---
 title:  REST API Cookbook (Server-to-Server)
-description:
+description: The purpose of this cookbook document is to detail best practices for implementing Adobe Primetime Authentication using the Server-to-Server architectures.
 ---
 
 # REST API Cookbook (Server-to-Server) {#rest-api-cookbook-server-to-server}

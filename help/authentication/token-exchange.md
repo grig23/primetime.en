@@ -2,7 +2,7 @@
 
 title:  Exchange a Platform SSO token for an Adobe token
 
-description:
+description: Allows a Platform SSO profile to be "exchanged" for an Adobe token.
 
 ---
 

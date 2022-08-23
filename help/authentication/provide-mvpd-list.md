@@ -2,7 +2,7 @@
 
 title:  Provide MVPD List
 
-description:
+description: Returns list of configured MVPDs for the requestor.
 
 ---
 

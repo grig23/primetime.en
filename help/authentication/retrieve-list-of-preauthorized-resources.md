@@ -2,7 +2,7 @@
 
 title:  Retrieve List of Preauthorized Resources
 
-description:
+description: A request to Adobe Primetime authentication to obtain the list of preauthorized resources.
 
 ---
 
@@ -28,7 +28,7 @@ description:
 
 ## Description {#description}
 
-A request to Adobe Primetime authentication to obtain the list of preauthorized resources.</span>
+A request to Adobe Primetime authentication to obtain the list of preauthorized resources.
 
 There are two sets of APIs: one set for the Streaming App or Programmer Service and one set for the Second Screen Web App. This page describes the API for the Streaming App or Programmer Service.
 

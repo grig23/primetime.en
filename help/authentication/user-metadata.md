@@ -2,7 +2,7 @@
 
 title:  User Metadata
 
-description:
+description: Retrieve metadata that MVPD shared about the authenticated user.
 
 ---
 

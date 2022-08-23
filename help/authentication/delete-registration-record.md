@@ -2,7 +2,7 @@
 
 title:  Delete Registration Record
 
-description:
+description: Deletes the reg code record and releases the reg code for reuse.
 
 ---
 

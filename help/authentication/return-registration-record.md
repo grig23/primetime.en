@@ -2,7 +2,7 @@
 
 title:  Return Registration Record
 
-description:
+description: Returns registration code record containing registration code UUID, registration code, and hashed device ID. 
 
 ---
 

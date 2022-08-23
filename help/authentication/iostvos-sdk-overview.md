@@ -2,7 +2,7 @@
 
 title:  iOS/tvOS SDK Overview
 
-description:
+description: iOS AccessEnabler is an Objective C iOS/tvOS library that enables mobile apps to use Adobe Primetime authentication for TV Everywhere's entitlement services. 
 
 ---
 

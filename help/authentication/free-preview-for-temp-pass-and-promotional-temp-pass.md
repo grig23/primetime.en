@@ -2,7 +2,7 @@
 
 title:  Free Preview for Temp Pass and Promotional Temp Pass
 
-description:
+description: Allows the creation of an authentication token for Temp Pass and Promotional Temp Pass without the need for a second screen.
 
 ---
 

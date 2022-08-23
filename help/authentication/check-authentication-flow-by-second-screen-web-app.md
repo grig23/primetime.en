@@ -2,7 +2,7 @@
 
 title:  Check Authentication Flow by Second Screen Web App
 
-description:
+description: This API should be consumed by the second screen login web app to confirm that Adobe Primetime authentication has acknowledged successful login from MVPD. We recommend calling this API before showing a success message to the end user that instructs him/her to proceed to the device console to continue with the workflows.
 
 ---
 

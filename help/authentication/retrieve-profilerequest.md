@@ -2,7 +2,7 @@
 
 title:  Retrieve Platform SSO profile-request
 
-description:
+description: This resource produces profile requests for a requestor ID and MVPD tuple.
 
 ---
 

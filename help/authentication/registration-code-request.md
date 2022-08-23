@@ -2,7 +2,7 @@
 
 title:  Registration Page
 
-description: 
+description: Returns randomly generated registration Code and Login Page URI.
 
 ---
 

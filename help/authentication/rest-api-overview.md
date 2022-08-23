@@ -1,6 +1,6 @@
 ---
 title:  REST API Overview
-description:
+description: The Adobe Primetime authentication REST API provides direct access to the TV Everywhere (TVE) authentication and authorization services. 
 ---
 
 # REST API Overview {#rest-api-overview}

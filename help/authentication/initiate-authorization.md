@@ -2,7 +2,7 @@
 
 title:  Initiate Authorization
 
-description:
+description: Obtains authorization response. 
 
 ---
 

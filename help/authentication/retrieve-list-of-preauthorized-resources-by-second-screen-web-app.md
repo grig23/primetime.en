@@ -2,7 +2,7 @@
 
 title:  Retrieve List of Preauthorized Resources by Second Screen Web App
 
-description:
+description: A request to Adobe Primetime authentication to obtain the list of preauthorized resources.
 
 ---
 

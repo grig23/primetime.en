@@ -2,7 +2,7 @@
 
 title:  Retrieve Authorization Token
 
-description:
+description: Retrieves authorization (AuthZ) Token.
 
 ---
 
