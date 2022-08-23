@@ -34,3 +34,4 @@ REST API
 iOS/tvOS SDK
 
 - [iOS/tvOS SDK Overview](/help/authentication/iostvos-sdk-overview.md)
+- [iOS/tvOS SDK Cookbook](/help/authentication/iostvos-sdk-cookbook.md)
