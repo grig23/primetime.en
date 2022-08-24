@@ -49,4 +49,4 @@ Remove AuthN and AuthZ tokens from storage.
 > 
 >The logout call currently has the following limitation: it clears the AuthN and AuthZ tokens from storage (i.e., on the Programmer / Primetime authentication side), but **does not** call the MVPD logout endpoint. 
 
-### [Back to REST API Reference](help/authentication/rest-api-reference.md)
+### [Back to REST API Reference](/help/authentication/rest-api-reference.md)
