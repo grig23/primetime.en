@@ -1,6 +1,6 @@
 ---
 title: Initiate Logout
-description: Initiate Logout
+description: Initiate logout
 ---
 
 # Initiate Logout {#initiate-logout}

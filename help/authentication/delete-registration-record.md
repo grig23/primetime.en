@@ -1,6 +1,6 @@
 ---
 title: Delete Registration Record
-description: Delete Registration Record
+description: Delete registration resord
 ---
 
 # Delete Registration Record {#delete-registration-record}
