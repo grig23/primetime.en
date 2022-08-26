@@ -1,6 +1,6 @@
 ---
 title: Return Registration Record
-description: Return Registration Record 
+description: Return Registration Record
 ---
 
 # Return Registration Record {#return-registration-record}

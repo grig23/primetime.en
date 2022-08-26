@@ -1,6 +1,6 @@
 ---
 title: REST API Overview
-description: REST API Overview
+description: Overview for Rest APIs
 ---
 
 # REST API Overview {#rest-api-overview}

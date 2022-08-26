@@ -1,6 +1,6 @@
 ---
 title: REST API Reference
-description: REST API Reference
+description: Rest api reference
 ---
 
 # REST API Reference {#rest-api-reference}

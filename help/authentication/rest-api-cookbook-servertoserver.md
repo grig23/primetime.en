@@ -1,6 +1,6 @@
 ---
 title: REST API Cookbook (Server-to-Server)
-description: REST API Cookbook (Server-to-Server)
+description: Rest API cookbook server to server.
 ---
 
 # REST API Cookbook (Server-to-Server) {#rest-api-cookbook-server-to-server}
