@@ -83,8 +83,8 @@ Associated documentation:
 
 | **API call: iOS AccessEnabler constructor** |
 | --- |
-| `- (id) init:` <br>
-`(NSString *)softwareStatement;` |
+| `- (id) init:` <br> |
+| `(NSString *)softwareStatement;` |
 
 
 **Availability:** v3.0+
