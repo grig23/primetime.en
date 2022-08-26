@@ -1,5 +1,5 @@
 ---
-title:  Check Authentication Flow by Second Screen Web App
+title: Check Authentication Flow by Second Screen Web App
 description: Check Authentication Flow by Second Screen Web App
 ---
 
