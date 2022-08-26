@@ -35,3 +35,8 @@ iOS/tvOS SDK {#iostvossdk}
 
 - [iOS/tvOS SDK Overview](/help/authentication/iostvos-sdk-overview.md)
 - [iOS/tvOS SDK Cookbook](/help/authentication/iostvos-sdk-cookbook.md)
+- [iOS/tvOS SDK API](/help/authentication/iostvos-sdk-api-reference.md)
+
+    Guidelines
+
+
