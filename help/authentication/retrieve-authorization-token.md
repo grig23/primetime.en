@@ -1,9 +1,6 @@
 ---
-
-title:  Retrieve Authorization Token
-
-description: Retrieves authorization (AuthZ) Token.
-
+title: Retrieve Authorization Token
+description: Retrieve Authorization Token
 ---
 
 # Retrieve Authorization Token {#retrieve-authorization-token}

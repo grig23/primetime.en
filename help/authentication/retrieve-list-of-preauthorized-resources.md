@@ -1,9 +1,6 @@
 ---
-
-title:  Retrieve List of Preauthorized Resources
-
-description: A request to Adobe Primetime authentication to obtain the list of preauthorized resources.
-
+title: Retrieve List of Preauthorized Resources
+description: Retrieve List of Preauthorized Resources
 ---
 
 # Retrieve List of Preauthorized Resources {#retrieve-list-of-preauthorized-resources}

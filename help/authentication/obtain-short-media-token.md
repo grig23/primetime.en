@@ -1,9 +1,6 @@
 ---
-
-title:  Obtain Short Media Token
-
-description: Obtains Short Media Token.  
-
+title: Obtain Short Media Token
+description: Obtain Short Media Token
 ---
 
 # Obtain Short Media Token {#obtain-short-media-token}

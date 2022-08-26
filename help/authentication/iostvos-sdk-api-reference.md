@@ -1,9 +1,6 @@
 ---
-
-title:  iOS/tvOS API Reference
-
-description: This page describes the methods and callback functions exposed by the iOS/tvOS native client for Adobe Primetime authentication.
-
+title: iOS/tvOS API Reference
+description: iOS/tvOS API Reference
 ---
 
 # iOS/tvOS SDK API Reference {#iostvos-sdk-api-reference}

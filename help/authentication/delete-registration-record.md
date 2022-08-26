@@ -1,9 +1,6 @@
 ---
-
-title:  Delete Registration Record
-
-description: Deletes the reg code record and releases the reg code for reuse.
-
+title: Delete Registration Record
+description: Delete Registration Record
 ---
 
 # Delete Registration Record {#delete-registration-record}

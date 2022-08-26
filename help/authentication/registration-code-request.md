@@ -1,9 +1,6 @@
 ---
-
-title:  Registration Page
-
-description: Returns randomly generated registration Code and Login Page URI.
-
+title: Registration Page
+description: Registration Page
 ---
 
 # Registration Page {#registration-page}

@@ -1,6 +1,6 @@
 ---
-title:  Initiate Authentication
-description: Initiates the authentication process
+title: Initiate Authentication
+description: Initiate Authentication
 ---
 
 # Initiate Authentication {#initiate-authentication}

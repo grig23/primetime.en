@@ -1,9 +1,6 @@
 ---
-
-title:  Initiate Authorization
-
-description: Obtains authorization response. 
-
+title: Initiate Authorization
+description: Initiate Authorization
 ---
 
 # Initiate Authorization {#initiate-authorization}

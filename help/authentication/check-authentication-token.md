@@ -1,9 +1,6 @@
 ---
-
-title:  Check Authentication Token
-
-description: Indicates whether the device has an unexpired authentication token.
-
+title: Check Authentication Token
+description: Check Authentication Token
 ---
 
 # Check Authentication Token {#check-authentication-token}

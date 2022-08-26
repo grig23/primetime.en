@@ -1,9 +1,6 @@
 ---
-
-title:  iOS/tvOS Cookbook
-
-description: This document describes the entitlement workflows that a Programmer's upper-level application can implement through the APIs exposed by the iOS/tvOS AccessEnabler library.
-
+title: iOS/tvOS Cookbook
+description: iOS/tvOS Cookbook
 ---
 
 # iOS/tvOS SDK Cookbook {#iostvos-sdk-cookbook}

@@ -1,9 +1,6 @@
 ---
-
-title:  Provide MVPD List
-
-description: Returns list of configured MVPDs for the requestor.
-
+title: Provide MVPD List
+description: Provide MVPD List
 ---
 
 # Provide MVPD List {#provide-mvpd-list}

@@ -1,6 +1,6 @@
 ---
-title:  Retrieve Authentication Token
-description: Retrieves authentication (AuthN) Token.
+title: Retrieve Authentication Token
+description: Retrieve Authentication Token
 ---
 
 # Retrieve Authentication Token {#retrieve-authentication-token}

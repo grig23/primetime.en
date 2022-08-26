@@ -1,9 +1,6 @@
 ---
-
-title:  Return Registration Record
-
-description: Returns registration code record containing registration code UUID, registration code, and hashed device ID. 
-
+title: Return Registration Record
+description: Return Registration Record 
 ---
 
 # Return Registration Record {#return-registration-record}

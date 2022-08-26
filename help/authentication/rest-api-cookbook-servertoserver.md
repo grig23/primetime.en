@@ -1,6 +1,6 @@
 ---
-title:  REST API Cookbook (Server-to-Server)
-description: The purpose of this cookbook document is to detail best practices for implementing Adobe Primetime Authentication using the Server-to-Server architectures.
+title: REST API Cookbook (Server-to-Server)
+description: REST API Cookbook (Server-to-Server)
 ---
 
 # REST API Cookbook (Server-to-Server) {#rest-api-cookbook-server-to-server}
@@ -57,7 +57,7 @@ to their MVPD to determine whether the user has a valid account. 
 7.  When the user requests to directly login (e.g. selects login button) or indirectly login (e.g. selects protected content when not already authenticated), the Streaming Device app makes a request to the Programmer Service to initiate user authentication. The Programmer Service requests and receives a unique registration code (regcode) by calling the Adobe Pass Service **regcode** API.
 8.  The Programmer Service also retrieves the list of current MVPDs and attributes by calling the Adobe Pass Service **config** API. Note: this API can also be called earlier in the flow and cached.
 9.  The Programmer Service returns the regcode to the Streaming Device app and the processed MVPD list requested in step \#7. Note: The processed MVPD list format is specified by the Programmer and can be filtered to explicitly allow or block specific MVPDs (i.e. allow- or block-lists).
-10. If the is different from the AuthN Device (i.e. “second screen”), either by choice or necessity (i.e. the Streaming Device does not support a User Agent), then the Streaming Device should display the regcode and a URI for the user to accesss the AuthN Application. The user types the URI into the User Agent on the AuthN Device to launch the AuthN Application, and then types the regcode into that application. If the Streaming Device is the same as the AuthN Device, then the regcode can be programmatically passed to the AuthN Module.
+10. If the is different from the AuthN Device (i.e. "second screen"), either by choice or necessity (i.e. the Streaming Device does not support a User Agent), then the Streaming Device should display the regcode and a URI for the user to accesss the AuthN Application. The user types the URI into the User Agent on the AuthN Device to launch the AuthN Application, and then types the regcode into that application. If the Streaming Device is the same as the AuthN Device, then the regcode can be programmatically passed to the AuthN Module.
 11. The AuthN Module initiates the user authentication with the MVPD by displaying an MVPD Picker. After the user selects the MVPD, the AuthN Module calls **authenticate** with the regcode, which redirects the User Agent to the MVPD IdP. When the user successfully authenticates with the MVPD, the User Agent is redirected back through the Adobe Pass Service, where the successful authentication is recorded with the regcode, and is then redirected back to the AuthN Module.
 12. If the Streaming Device is different from the AuthN Device, then the AuthN Device should display a successful authentication message to the user and steps to continue (e.g. "Success\! You can now return to your game console to continue \[...\]"). If the Streaming Device is the same as the AuthN Device, then the Streaming Device may programmatically detect the authentication completion.
 

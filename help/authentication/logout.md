@@ -1,9 +1,6 @@
 ---
-
-title:  Initiate Logout
-
-description: Remove AuthN and AuthZ tokens from storage.
-
+title: Initiate Logout
+description: Initiate Logout
 ---
 
 # Initiate Logout {#initiate-logout}

@@ -1,6 +1,6 @@
 ---
-title:  REST API Reference
-description: The table below lists the available web services for the clientless approach. 
+title: REST API Reference
+description: REST API Reference
 ---
 
 # REST API Reference {#rest-api-reference}

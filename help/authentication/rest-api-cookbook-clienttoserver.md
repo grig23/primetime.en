@@ -1,6 +1,6 @@
 ---
-title:  REST API Cookbook (Client-to-Server)
-description: This document provides step-by-step instructions for a Programmer's engineering team to integrate a "smart device" (game console, smart TV app, set top box, etc.) with Adobe Primetime authentication using REST API services. 
+title: REST API Cookbook (Client-to-Server)
+description: REST API Cookbook (Client-to-Server) 
 ---
 
 # REST API Cookbook (Client-to-Server) {#rest-api-cookbook-client-to-server}

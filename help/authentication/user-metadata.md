@@ -1,9 +1,6 @@
 ---
-
-title:  User Metadata
-
-description: Retrieve metadata that MVPD shared about the authenticated user.
-
+title: User Metadata
+description: User Metadata
 ---
 
 # User Metadata {#user-metadata}
@@ -69,7 +66,7 @@ After a successful call, the server will respond with a XML (default) or JSON ob
                   "URL": "http://exam.pl/e/manage/ratings"
               },
               householdID: "3456",
-              userID: “BgSdasfsdk23/dsaf3+saASesadgfsShggssd=”,
+              userID: "BgSdasfsdk23/dsaf3+saASesadgfsShggssd=",
               channelID: ["channel-1", "channel-2"]
     }
 ```
@@ -82,7 +79,7 @@ At the root of the object there will be three nodes:
 
 * *data*: contains the actual metadata values. 
 
-* *encrypted*: an array listing the encrypted properties. To decrypt a specific metadata value, the Programmer must perform a Base64 decode on the metadata then apply a RSA decryption on the resulting value, using it’s own private key (Adobe encrypts the metadata on the server using the Programmer’s public certificate).
+* *encrypted*: an array listing the encrypted properties. To decrypt a specific metadata value, the Programmer must perform a Base64 decode on the metadata then apply a RSA decryption on the resulting value, using it's own private key (Adobe encrypts the metadata on the server using the Programmer's public certificate).
 
 In case of an error, the server will return a XML or JSON object that specifies a detailed error message.
 
