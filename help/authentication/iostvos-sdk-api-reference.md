@@ -83,7 +83,7 @@ Associated documentation:
 
 | **API call: iOS AccessEnabler constructor** |
 | --- |
-| `- (id) init:`
+| `- (id) init:` <br>
 `(NSString *)softwareStatement;` |
 
 
@@ -91,7 +91,7 @@ Associated documentation:
 
 **Parameters:**
 
-  - softwareStatement: A string that identifies the application in Adobe's system. Check out how to obtain a Software Statement.
+- softwareStatement: A string that identifies the application in Adobe's system. Check out how to obtain a Software Statement.
 
 [Back to top...](#apis)
 
@@ -190,7 +190,7 @@ If a value is provided for the `urls` parameter, the resulting network call ta
 
 [Back to top...](#apis)
 
------
+</br>
 
 ### setRequestor:setSignedRequestorId:, setRequestor:setSignedRequestorId:serviceProviders: - [DEPRECATED] {#setReq}
 
@@ -561,8 +561,7 @@ Finally, the authentication status is communicated to the application via the [
 - *data*: A dictionary consisting of key-value pairs to be sent to the Pay-TV pass service. Adobe can use this data to enable future functionality without changing the SDK. 
 - filter: A list of MVPD ids that should appear in the Apple SSO Dialog. Any MVPD that does not support SSO will be ignored but the order will be respected.
 
-**Callbacks triggered:** `setAuthenticationStatus:errorCode:,
-presentTvProviderDialog, dismissTvProviderDialog`
+**Callbacks triggered:** `setAuthenticationStatus:errorCode:, presentTvProviderDialog, dismissTvProviderDialog`
 
   
 [Back to top...](#apis)
@@ -691,7 +690,7 @@ As the UIWebView/WKWebView` `controller goes through several redirects, your a
 
 **File:** AccessEnabler/headers/EntitlementDelegate.h
 
-**Description:** Callback triggered by the AccessEnabler instead of the `navigateToUrl:` callback in case your application previously enabled manual Safari View Controller (SVC) handling via the [setOptions(\["handleSVC":true"\])](#setOptions) call, and only in case of MVPDs requiring Safari View Controller (SVC). For all other MVPDs the `navigateToUrl:` callback will be called. Please see[SFSafariViewController support on iOS SDK 3.2+](#) for details on how Safari View Controller (SVC) should be managed.
+**Description:** Callback triggered by the AccessEnabler instead of the `navigateToUrl:` callback in case your application previously enabled manual Safari View Controller (SVC) handling via the [setOptions(\["handleSVC":true"\])](#setOptions) call, and only in case of MVPDs requiring Safari View Controller (SVC). For all other MVPDs the `navigateToUrl:` callback will be called. Please see[SFSafariViewController support on iOS SDK 3.2+](https://tve.helpdocsonline.com/sfsafariviewcontroller-support-on-ios-sdk-3.2) for details on how Safari View Controller (SVC) should be managed.
 
 Similar to the `navigateToUrl:` callback the `navigateToUrl:useSVC:` is triggered by the AccessEnabler to request your application to instantiate a `SFSafariViewController` controller and to load the URL provided in the callback's **`url`** parameter. The callback passes the **`url`** parameter which represents the URL of the authentication endpoint or the URL of the logout endpoint, and the **`useSVC`** parameter which specifies that the application must use a `SFSafariViewController`.
 
@@ -1062,7 +1061,7 @@ In case of the authentication flow the AccessEnabler completes the flow by retri
 **Additional callbacks triggered:**  
 This method can also trigger the following callbacks (if the authentication flow is also initiated): `setAuthenticationStatus:errorCode:`, `displayProviderDialog:`  
  
->{!NOTE] **NOTE: Please use checkAuthorization: / checkAuthorization:withData: instead of getAuthorization: / getAuthorization:withData: whenever possible. The getAuthorization: / getAuthorization:withData: method will start a full authentication flow (if the user is not authenticated) and this could lead to a complicated implementation on the Programmer's side.**
+**NOTE: Please use checkAuthorization: / checkAuthorization:withData: instead of getAuthorization: / getAuthorization:withData: whenever possible. The getAuthorization: / getAuthorization:withData: method will start a full authentication flow (if the user is not authenticated) and this could lead to a complicated implementation on the Programmer's side.**
 
 [Back to top...](#apis)
 
@@ -1459,11 +1458,9 @@ There are two types of metadata available to Programmers:
 **Properties**:
 
 - (NSString) ID - The MVPD Id.
-- (NSString) displayName - The MVPD name. \[This should be used to
-  display in the picker\]
+- (NSString) displayName - The MVPD name. [This should be used to display in the picker]
 - (NSString) logoURL - The MVPD logo address.
-- (BOOL) enablePlatformServices - If true, the MVPD supports SSO
-  services like [Apple SSO](https://tve.helpdocsonline.com/ios-tvos-sdk-api-reference#).
+- (BOOL) enablePlatformServices - If true, the MVPD supports SSO services like [Apple SSO](https://tve.helpdocsonline.com/ios-tvos-sdk-api-reference#).
 - (NSString) boardingStatus - Can have 3 values:
     - nil - The MVPD does not support Apple SSO.
     - PICKER - The MVPD can appear in Apple picker but the authentication flow is done by Adobe.
