@@ -1,8 +1,8 @@
 ---
 title: Free Preview for Temp Pass and Promotional Temp Pass
 description: Free Preview for Temp Pass and Promotional Temp Pass
+exl-id: 497699af-8da4-441f-92fb-50aa5d0c11dc
 ---
-
 # Free Preview for Temp Pass and Promotional Temp Pass {#free-preview-for-temp-pass-and-promotional-temp-pass}
 
 >[!NOTE]

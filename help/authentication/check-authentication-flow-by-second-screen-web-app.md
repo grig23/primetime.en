@@ -1,8 +1,8 @@
 ---
 title: Check Authentication Flow by Second Screen Web App
 description: Check Authentication Flow by Second Screen Web App
+exl-id: 05a48733-cbb1-4b37-8c1d-03e064e69a86
 ---
-
 # Check Authentication Flow by Second Screen Web App {#check-authentication-flow-by-second-screen-web-app}
 
 >[!NOTE]

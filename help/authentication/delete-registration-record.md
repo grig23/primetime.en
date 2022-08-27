@@ -1,8 +1,8 @@
 ---
 title: Delete Registration Record
 description: Delete registration resord
+exl-id: 29425410-eaa6-47ba-b4f8-11b1dbc74099
 ---
-
 # Delete Registration Record {#delete-registration-record}
 
 >[!NOTE] 

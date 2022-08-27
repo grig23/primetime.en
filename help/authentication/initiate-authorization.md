@@ -1,8 +1,8 @@
 ---
 title: Initiate Authorization
 description: Initiate Authorization
+exl-id: a61030f2-83da-4dfe-8fa0-c1b4f7dc265f
 ---
-
 # Initiate Authorization {#initiate-authorization}
 
 >[!NOTE] 

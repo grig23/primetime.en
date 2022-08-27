@@ -1,8 +1,8 @@
 ---
 title: Obtain Short Media Token
 description: obtain short media token
+exl-id: 05d4e54e-5275-4806-bc8c-817980b62949
 ---
-
 # Obtain Short Media Token {#obtain-short-media-token}
 
 >[!NOTE]

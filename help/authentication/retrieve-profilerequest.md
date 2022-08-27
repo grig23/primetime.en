@@ -1,8 +1,8 @@
 ---
 title: Retrieve Platform SSO profile-request
 description: Retrieve Platform SSO profile-request
+exl-id: 54aea19e-6a64-4930-88a7-bddcd5639a83
 ---
-
 # Retrieve Platform SSO profile-request {#retrieve-platform-sso-profile-request}
 
 >[!NOTE]

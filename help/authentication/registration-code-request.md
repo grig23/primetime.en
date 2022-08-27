@@ -1,8 +1,8 @@
 ---
 title: Registration Page
 description: Registration Page
+exl-id: 10a259ce-bce8-4c69-ac84-e36bbd10f7a8
 ---
-
 # Registration Page {#registration-page}
 
 ## REST API Endpoints {#clientless-endpoints}

@@ -1,8 +1,8 @@
 ---
 title: iOS/tvOS Cookbook
 description: iOS/tvOS Cookbook
+exl-id: 8c06b687-5673-4e80-a690-503cc0c3db41
 ---
-
 # iOS/tvOS SDK Cookbook {#iostvos-sdk-cookbook}
 
 - [Introduction](#intro)

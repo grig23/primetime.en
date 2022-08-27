@@ -1,8 +1,8 @@
 ---
 title: Return Registration Record
 description: Return Registration Record
+exl-id: c36d728c-ae7d-42e3-9750-a5bd9ef49ca0
 ---
-
 # Return Registration Record {#return-registration-record}
 
 >[!NOTE]

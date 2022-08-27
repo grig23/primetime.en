@@ -1,8 +1,8 @@
 ---
 title: Initiate Authentication
 description: Initiate authentication
+exl-id: b10b0ebd-33be-417c-af31-08b476394c5e
 ---
-
 # Initiate Authentication {#initiate-authentication}
 
 >[!NOTE] 

@@ -1,8 +1,8 @@
 ---
 title: Check Authentication Token
 description: Check Authentication Token
+exl-id: 39cf25f8-c426-47e2-bd00-83b9bd5708ce
 ---
-
 # Check Authentication Token {#check-authentication-token}
 
 >[!NOTE]

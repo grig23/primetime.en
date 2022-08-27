@@ -1,8 +1,8 @@
 ---
 title: Retrieve Authentication Token
 description: Retrieve Authentication Token
+exl-id: 6a13bbf1-eb72-41d8-915f-fb11f2464b98
 ---
-
 # Retrieve Authentication Token {#retrieve-authentication-token}
 
 >[!NOTE]

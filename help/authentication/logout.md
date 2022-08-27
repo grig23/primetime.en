@@ -1,8 +1,8 @@
 ---
 title: Initiate Logout
 description: Initiate logout
+exl-id: 98af016d-c4a2-4402-96eb-334b5f4548fa
 ---
-
 # Initiate Logout {#initiate-logout}
 
 >[!NOTE]

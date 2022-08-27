@@ -1,8 +1,8 @@
 ---
 title: Retrieve List of Preauthorized Resources
 description: Retrieve List of Preauthorized Resources
+exl-id: 4d7b6f6f-cd0d-4f66-a0c1-a2074a3ad704
 ---
-
 # Retrieve List of Preauthorized Resources {#retrieve-list-of-preauthorized-resources}
 
 >[!NOTE]

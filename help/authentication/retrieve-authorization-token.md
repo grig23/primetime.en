@@ -1,8 +1,8 @@
 ---
 title: Retrieve Authorization Token
 description: Retrieve Authorization Token
+exl-id: 797b0667-98ce-40bc-822c-cc3b9f6b2388
 ---
-
 # Retrieve Authorization Token {#retrieve-authorization-token}
 
 >[!NOTE]

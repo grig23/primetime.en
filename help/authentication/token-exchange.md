@@ -1,8 +1,8 @@
 ---
 title: Exchange a Platform SSO token for an Adobe token
 description: Exchange a Platform SSO token for an Adobe token
+exl-id: d6bd662a-ea26-43be-b152-4401dc9b0001
 ---
-
 # Exchange a Platform SSO token for an Adobe token {#exchange-a-platform-sso-token-for-an-adobe-token}
 
 >[!NOTE]

@@ -1,8 +1,8 @@
 ---
 title: Provide MVPD List
 description: Provide MVPD List
+exl-id: e010c543-ae06-4597-93bd-4fc4a94547a5
 ---
-
 # Provide MVPD List {#provide-mvpd-list}
 
 ## REST API Endpoints {#clientless-endpoints}
