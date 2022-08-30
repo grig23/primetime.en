@@ -49,7 +49,7 @@ You can analyze the impacts of an operation by viewing its report. To view an op
 
 1. Select the operation name on main Operations page.
 
-   The report is displayed in the form of a stacked bar graph.
+   The report is displayed in the form of a stacked column graph.
 
    ![](assets/operation-impact-report.png)
 
