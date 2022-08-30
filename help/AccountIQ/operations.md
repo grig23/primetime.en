@@ -49,19 +49,31 @@ You can analyze the impacts of an operation by viewing its report. To view an op
 
 1. Select the operation name on main Operations page.
 
-   Report is displayed in the form of a stacked bar graph.
+   The report is displayed in the form of a stacked bar graph.
 
    ![](assets/operation-impact-report.png)
 
    *Figure: Operations report to view the impacts of the operations*
 
-   The x-axis plots the evaluation period and y-axis plots a variable to gauge the impact of operation.
+   X-axis represents the evaluation period and y-axis depicts the impact of the operation (in terms of number of accounts in a segment during evaluation period). Each bar is divided into three parts.
 
-   For example, in the above image the variable on the y-axis is number of accounts. Looking at the graph you can compare the number of accounts those are in the operations segment versus the number of accounts that are outside the operations segment at a particular time (such as week 2nd of the operations evaluation period). Therefore, you can analyze how over the evaluation period does number of accounts vary within the operation segment and outside the segment.
+   * One part represents the number of accounts which still meet the operation segment's criteria.
 
-   So, if your operation was to send out warning emails to suspecting accounts, and accounts in operations segment were those with sharing probability more than 90 and using more than 5 devices to stream content, then in the beginning of the evaluation period accounts in segment are more than 7 million. This number changes over the evaluation period as shown in the graph, thereby indicating the impact of operation. Based on the evaluation, you can take remedial measures on suspecting accounts, or continue with the operation, or adjust your strategy for better outcomes to curb credential sharing.
+   * Another part represents the number of active accounts for that period which were originally in the segment, but no longer meet the operation segment's criteria.
 
-2. To close the report and go back to the main Operations page, select **Operations** option under **Actions** in left navigation.
+   * The third part represents the accounts that were not actve in that period.
+
+   >[!NOTE]
+   >
+   >The First bar represents the number of accounts which meet the operation segment's conditions in the beginning of the evaluation period.
+
+   Over time the graph shows effect of your action (through the operation) by indicating the number of accounts that have changed their behavior relative to the original criteria (for example, having sharing probability more than 90 and using more than 5 devices), or have become inactive.
+
+<!--For example, in the above image the variable on the y-axis is number of accounts. Looking at the graph you can compare the number of accounts that are in the operations' segment versus the number of accounts that are outside the operations segment at a particular time (such as week 2nd of the operations evaluation period). Therefore, you can analyze how over the evaluation period do number of accounts vary within the operation segment and outside the segment.
+
+So, if your operation was to send out warning emails to suspecting accounts, and accounts in operations segment were those with sharing probability more than 90 and using more than 5 devices to stream content, then in the beginning of the evaluation period accounts in segment are more than 17 thousand. This number changes over the evaluation period as shown in the graph, thereby indicating the impact of operation. Based on the evaluation, you can take remedial measures on suspecting accounts, or continue with the operation, or adjust your strategy for better outcomes to curb credential sharing.-->
+
+1. To close the report and go back to the main Operations page, select **Operations** option under **Actions** in left navigation.
 
 <!--
 
