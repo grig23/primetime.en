@@ -66,7 +66,7 @@ It is a table of risk indices and accounts totals for the top MVPDs ranked by ov
 
 ![](assets/mvpds-in-segment.png)-->
 
-### Industrywide overall sharing scores for MVPDs {#top-mvpds}
+## Industrywide overall sharing scores for MVPDs {#top-mvpds}
 
 This table provides a comparative view of the different Aggregated Sharing Scores for the MVPDs in the segment.
 
@@ -79,7 +79,7 @@ This table provides a comparative view of the different Aggregated Sharing Score
 
 *Figure: Top MVPDs in segment by overall score*
 
-### Sharing score by channels and MVPDs {#sharin-score-by-channels-and-mvpds}
+## Sharing score by channels and MVPDs {#sharin-score-by-channels-and-mvpds}
 
 This table provides a comparative view of sharing scores of the selected channels for the MVPDs in the current segment.
 
@@ -88,7 +88,7 @@ This table provides a comparative view of sharing scores of the selected channel
 
 *Figure: Sharing scores by channels and MVPDs*
 
-### Accounts sharing probability {#accounts-sharing-probability}
+## Accounts sharing probability {#accounts-sharing-probability}
 
 This chart partitions accounts into ranges of sharing probability quintiles from very low (0-20%) to very high (80=100%).
 
@@ -102,7 +102,7 @@ This chart partitions accounts into ranges of sharing probability quintiles from
 
 *Figure: Numbers and percentages of subscriber accounts in different sharing probability ranges*
 
-### Number of accounts and usage by sharing probability level {#number-of-accounts-usage-sharing-probability}
+## Number of accounts and usage by sharing probability level {#number-of-accounts-usage-sharing-probability}
 
 This panel provides tabular view of  accounts partitioned into ranges of sharing probability quintiles from very low (0-20%) to very high (80-100%) with each quintile’s associated usage from shared accounts.
 
