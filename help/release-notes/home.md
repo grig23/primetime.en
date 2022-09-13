@@ -8,15 +8,17 @@ exl-id: 29087a3e-f16e-4510-8d3a-ed2229700899
 
 Welcome to the Adobe Primetime Release Notes. The documents listed in the left navigation provide release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-## Enhancements and fixes in PTAI 22.7.1
+## Enhancements and fixes in PTAI 22.9.2
 
-This release focuses on enhancements to ad performance logging with introduction of avail related metrics for DASH workflows.
+This release focuses on enhancements to ad performance logging with respect to Ad call and Avail logging.
+
+For other fixes and details, see [Ad Insertion Release Notes](/help/release-notes/ptai-22x-release-notes.md).
 
 ## Fixes in TVSDK 3.15 Android
 
 This release provides fix to an issue where application crashes when creative tag is missing or when [!UICONTROL url CDATA] is empty in [!UICONTROL VAST] response.
 
-For other fixes and details, see [Ad Insertion Release Notes](/help/release-notes/ptai-21x-release-notes.md).
+For other fixes and details, see [TVSDK for Android Release Notes](/help/release-notes/tvsdk-3x-android.md)
 
 ## Enhancements and fixes in TVSDK 3.13 iOS
 
