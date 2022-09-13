@@ -11,7 +11,7 @@ Primetime Ad Insertion 22.xx.x release notes describe what is new or changed, is
 
 **When:** Wednesday, September 7, 2022, 3:00 AM to 6:00 AM Eastern Time
 
-* Enhancements to Ad performance logging (Ad call logging and Avail logging).
+* Enhancements to the Ad Performance telemetry data in Primetime Ad Insertion to include additional Ad Call and Avail logging data.
 
 ## Enhancements and fixes in previous release versions
 
@@ -21,9 +21,9 @@ Primetime Ad Insertion 22.xx.x release notes describe what is new or changed, is
 
 **Changes:**
 
-*   Enhancement to Auditude dashboard for managing CRS dependencies. 
+*   Enhancements to the Content Repackaging Service (CRS) backend authentication.
 
-*   Implemented Omega instrumentation for legacy consoles.
+*   Updates to the Content Repackaging Service (CRS) telemetry graphs in the Primetime Ad Insertion  user interface.
 
 ### Version 22.7.1
 
