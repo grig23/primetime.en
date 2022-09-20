@@ -9,7 +9,7 @@ user-guide-title: Primetime Ad Insertion Help
 + [Adobe Primetime Ad Insertion](home.md)
 + Primetime Ad Insertion Announcements{#announcements}
   + [Announcements](announcements/overview.md)
-  + [Release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/ptai/ptai-21x-release-notes.html)
+  + [Release notes](/help/release-notes/ptai-22x-release-notes.md)
 + Get started with Primetime Ad Insertion{#get-started}
   + [Overview](getting-started/get-started-overview.md)
   + [Prepare to use Primetime Ad Insertion](getting-started/setup-ptai.md)
